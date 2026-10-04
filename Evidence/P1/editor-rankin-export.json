@@ -1,0 +1,40 @@
+{
+  "RecordedAt": "2026-10-04T10:10:37.1454578-04:00",
+  "Source": "ReferenceGame/Maps/DM-Rankin.ut2",
+  "SourceSHA256": "A8F7993BDD14B5FB0B6F75CB56E62F1C3917A8339E378C18B1439808444DFF98",
+  "Tool": "Installed UnrealEd build 3369; loaded-map editor export",
+  "LoadCommand": "MAP LOAD FILE=\"..\\Maps\\DM-Rankin.ut2\"",
+  "ExportCommand": "MAP EXPORT FILE=\"..\\..\\Exports\\Rankin\\EditorRankin.obj\"",
+  "Export": "Exports/Rankin/EditorRankin.obj",
+  "ExportBytes": 35293142,
+  "ExportSHA256": "A6A342E67B700D95513767B2582787AE84F549FCB24836EBA5544D6CF9162275",
+  "Groups": 730,
+  "Vertices": 494152,
+  "TextureCoordinates": 494152,
+  "Faces": 163792,
+  "CompiledBSPGroup": true,
+  "StaticMeshActorGroups": 664,
+  "MoverGroups": 4,
+  "NormalRecords": 0,
+  "MaterialLibraryRecords": 0,
+  "SourceToOBJ": "(source X, source Z, source Y); no negation",
+  "AxisEvidence": "StaticMeshActor277 local (112,128,-0.813004), source location (1376,-2528,-416), source DrawScale3D.Y=1.25 gives source world (1488,-2368,-416.813004); OBJ records (1488,-416.812988,-2368).",
+  "PreliminaryFlakBoundsOBJ": {
+    "Max": [
+      1920,
+      1024,
+      -1376
+    ],
+    "Min": [
+      768,
+      -512,
+      -2720
+    ]
+  },
+  "Limits": [
+    "No texture pixels, mtllib, or original vertex normals",
+    "Material labels omit package paths",
+    "Collision and UE5 physical scale/import are unverified",
+    "Whole-map native export is reference evidence; bounded room proof remains pending"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Status": "Prepared fallback, not executed",
+  "Reason": "Copied UT2004.exe reaches Steam load error (0x02) before engine startup",
+  "Executable": "F:\\Program Files\\steamapps\\common\\Unreal Tournament 2004\\System\\UT2004.exe",
+  "WorkingDirectory": "C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\System",
+  "Arguments": [
+    "DM-Rankin?game=XGame.xDeathMatch?NumBots=0?MinPlayers=0?GameSpeed=1?Difficulty=4?TimeLimit=0?GoalScore=999",
+    "-windowed",
+    "ini=C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\System\\P0Runtime.ini",
+    "userini=C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\System\\P0User.ini",
+    "log=C:\\Users\\brian\\git-projects\\ut2k4-ue5\\Evidence\\P0\\reference-runtime.log"
+  ],
+  "ContentPaths": "Absolute ReferenceGame package/save/cache/music paths in P0Runtime.ini",
+  "RequiresVerification": "Native overrides must be confirmed from startup log and loaded package origins; original protected hashes rechecked afterwards",
+  "NoNewDependencies": true
+}

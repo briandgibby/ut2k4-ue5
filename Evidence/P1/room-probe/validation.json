@@ -1,0 +1,2711 @@
+{
+  "probe": "Fixed Flak atrium preliminary geometry handoff",
+  "source": "Exports\\Rankin\\EditorRankin.obj",
+  "source_sha256": "a6a342e67b700d95513767b2582787ae84f549fcb24836eba5544d6cf9162275",
+  "blender_version": "5.2.2 LTS",
+  "native_import_settings": {
+    "forward_axis": "Y",
+    "up_axis": "Z",
+    "global_scale": 1.0,
+    "clamp_size": 0.0,
+    "use_split_objects": false,
+    "use_split_groups": true,
+    "validate_meshes": true
+  },
+  "native_import_groups": 730,
+  "numeric_import_anchor_error": 0.0,
+  "obj_selection_bounds_min": [
+    768.0,
+    -512.0,
+    -2720.0
+  ],
+  "obj_selection_bounds_max": [
+    1920.0,
+    1024.0,
+    -1376.0
+  ],
+  "coordinate_conversion": "Swap mesh Y/Z to recover source XYZ; reverse polygon winding; preserve imported OBJ UVs without another V flip.",
+  "bsp_before_clipping": {
+    "vertices": 11218,
+    "faces": 2814
+  },
+  "bsp_after_clipping": {
+    "vertices": 1010,
+    "faces": 220,
+    "uv_corners": 858,
+    "bounds_min_source_units": [
+      768.0,
+      -2720.0,
+      -512.0
+    ],
+    "bounds_max_source_units": [
+      1920.0,
+      -1376.0,
+      1024.0
+    ],
+    "material_slots": [
+      "houreroxxor.two-sided",
+      "shaiBricks1b",
+      "hourewooood",
+      "bas02HAb",
+      "bas13HA",
+      "bdr02HA",
+      "skyline-skycap",
+      "flr02ar",
+      "flr03HA",
+      "bas20HA",
+      "flr04HA",
+      "bas43HA",
+      "bas06HAb",
+      "bas38HA",
+      "wal19HA",
+      "wal17HA",
+      "flr02HA",
+      "bas01HA",
+      "bas16go",
+      "DefaultTexture",
+      "hourepillarcorreced",
+      "bas04HA",
+      "bas13go",
+      "bas05bHA",
+      "bas02HA",
+      "houreroxxor",
+      "bas28HA",
+      "GeoWallA",
+      "bas27HA"
+    ],
+    "material_face_coverage": {
+      "houreroxxor": 12,
+      "bas13go": 33,
+      "bas02HAb": 44,
+      "shaiBricks1b": 36,
+      "hourewooood": 2,
+      "bas05bHA": 17,
+      "flr03HA": 9,
+      "bas20HA": 6,
+      "bas16go": 10,
+      "bas28HA": 13,
+      "bas06HAb": 6,
+      "flr02HA": 7,
+      "bas04HA": 13,
+      "wal17HA": 12
+    },
+    "uv_min": [
+      -5.3125,
+      -5.3125
+    ],
+    "uv_max": [
+      5.3125,
+      9.0
+    ]
+  },
+  "clip_policy": "Six native bmesh bisect planes, no cap fills; intersecting props/movers retained whole as context.",
+  "bsp_boundary_edges_after_clip": 858,
+  "whole_context_groups_crossing_box": [
+    "StaticMeshActor18",
+    "StaticMeshActor277",
+    "StaticMeshActor312",
+    "StaticMeshActor342",
+    "StaticMeshActor352",
+    "StaticMeshActor365",
+    "StaticMeshActor368",
+    "StaticMeshActor374",
+    "StaticMeshActor65",
+    "StaticMeshActor73",
+    "xWeaponBase2"
+  ],
+  "context_bounds_min_source_units": [
+    445.5229187011719,
+    -2776.062744140625,
+    -552.0
+  ],
+  "context_bounds_max_source_units": [
+    1962.4521484375,
+    -1375.4136962890625,
+    1024.0
+  ],
+  "surface_orientation_check": {
+    "passed": true,
+    "nonzero_area_faces_checked": 9194,
+    "minimum_reflected_normal_dot": 0.9999998735338522,
+    "position_uv_associations_preserved": true,
+    "source_zero_area_faces_retained": [
+      {
+        "object": "StaticMeshActor135",
+        "face": 574
+      },
+      {
+        "object": "StaticMeshActor135",
+        "face": 575
+      },
+      {
+        "object": "StaticMeshActor135",
+        "face": 586
+      },
+      {
+        "object": "StaticMeshActor135",
+        "face": 587
+      },
+      {
+        "object": "StaticMeshActor365",
+        "face": 574
+      },
+      {
+        "object": "StaticMeshActor365",
+        "face": 575
+      },
+      {
+        "object": "StaticMeshActor365",
+        "face": 586
+      },
+      {
+        "object": "StaticMeshActor365",
+        "face": 587
+      }
+    ]
+  },
+  "selected_objects": {
+    "BSP": {
+      "vertices": 1010,
+      "faces": 220,
+      "uv_corners": 858,
+      "bounds_min_source_units": [
+        768.0,
+        -2720.0,
+        -512.0
+      ],
+      "bounds_max_source_units": [
+        1920.0,
+        -1376.0,
+        1024.0
+      ],
+      "material_slots": [
+        "houreroxxor.two-sided",
+        "shaiBricks1b",
+        "hourewooood",
+        "bas02HAb",
+        "bas13HA",
+        "bdr02HA",
+        "skyline-skycap",
+        "flr02ar",
+        "flr03HA",
+        "bas20HA",
+        "flr04HA",
+        "bas43HA",
+        "bas06HAb",
+        "bas38HA",
+        "wal19HA",
+        "wal17HA",
+        "flr02HA",
+        "bas01HA",
+        "bas16go",
+        "DefaultTexture",
+        "hourepillarcorreced",
+        "bas04HA",
+        "bas13go",
+        "bas05bHA",
+        "bas02HA",
+        "houreroxxor",
+        "bas28HA",
+        "GeoWallA",
+        "bas27HA"
+      ],
+      "material_face_coverage": {
+        "houreroxxor": 12,
+        "bas13go": 33,
+        "bas02HAb": 44,
+        "shaiBricks1b": 36,
+        "hourewooood": 2,
+        "bas05bHA": 17,
+        "flr03HA": 9,
+        "bas20HA": 6,
+        "bas16go": 10,
+        "bas28HA": 13,
+        "bas06HAb": 6,
+        "flr02HA": 7,
+        "bas04HA": 13,
+        "wal17HA": 12
+      },
+      "uv_min": [
+        -5.3125,
+        -5.3125
+      ],
+      "uv_max": [
+        5.3125,
+        9.0
+      ]
+    },
+    "FlakAmmoPickup0": {
+      "vertices": 780,
+      "faces": 260,
+      "uv_corners": 780,
+      "bounds_min_source_units": [
+        991.0299682617188,
+        -2007.1883544921875,
+        -511.78204345703125
+      ],
+      "bounds_max_source_units": [
+        1026.9700927734375,
+        -1970.8116455078125,
+        -498.8179931640625
+      ],
+      "material_slots": [
+        "FlakAmmoTex"
+      ],
+      "material_face_coverage": {
+        "FlakAmmoTex": 260
+      },
+      "uv_min": [
+        0.018848000094294548,
+        -0.9898489713668823
+      ],
+      "uv_max": [
+        0.987733006477356,
+        -0.0048870001919567585
+      ]
+    },
+    "FlakAmmoPickup1": {
+      "vertices": 780,
+      "faces": 260,
+      "uv_corners": 780,
+      "bounds_min_source_units": [
+        1369.374755859375,
+        -1775.1680908203125,
+        -511.78204345703125
+      ],
+      "bounds_max_source_units": [
+        1406.625244140625,
+        -1740.8319091796875,
+        -498.8179931640625
+      ],
+      "material_slots": [
+        "FlakAmmoTex"
+      ],
+      "material_face_coverage": {
+        "FlakAmmoTex": 260
+      },
+      "uv_min": [
+        0.018848000094294548,
+        -0.9898489713668823
+      ],
+      "uv_max": [
+        0.987733006477356,
+        -0.0048870001919567585
+      ]
+    },
+    "MiniHealthPack1": {
+      "vertices": 282,
+      "faces": 94,
+      "uv_corners": 282,
+      "bounds_min_source_units": [
+        1533.0474853515625,
+        -2556.907958984375,
+        -136.060791015625
+      ],
+      "bounds_max_source_units": [
+        1538.9080810546875,
+        -2551.047607421875,
+        -109.20821380615234
+      ],
+      "material_slots": [
+        "MHPickup",
+        "MHInnerS"
+      ],
+      "material_face_coverage": {
+        "MHPickup": 38,
+        "MHInnerS": 56
+      },
+      "uv_min": [
+        0.01796800084412098,
+        -0.9876130223274231
+      ],
+      "uv_max": [
+        0.9887160062789917,
+        -0.003573999973013997
+      ]
+    },
+    "MiniHealthPack2": {
+      "vertices": 282,
+      "faces": 94,
+      "uv_corners": 282,
+      "bounds_min_source_units": [
+        1653.0474853515625,
+        -2558.907958984375,
+        -84.6322250366211
+      ],
+      "bounds_max_source_units": [
+        1658.9080810546875,
+        -2553.047607421875,
+        -57.77964782714844
+      ],
+      "material_slots": [
+        "MHPickup",
+        "MHInnerS"
+      ],
+      "material_face_coverage": {
+        "MHPickup": 38,
+        "MHInnerS": 56
+      },
+      "uv_min": [
+        0.01796800084412098,
+        -0.9876130223274231
+      ],
+      "uv_max": [
+        0.9887160062789917,
+        -0.003573999973013997
+      ]
+    },
+    "MiniHealthPack3": {
+      "vertices": 282,
+      "faces": 94,
+      "uv_corners": 282,
+      "bounds_min_source_units": [
+        1790.0474853515625,
+        -2560.907958984375,
+        -32.775108337402344
+      ],
+      "bounds_max_source_units": [
+        1795.9080810546875,
+        -2555.047607421875,
+        -5.92253303527832
+      ],
+      "material_slots": [
+        "MHPickup",
+        "MHInnerS"
+      ],
+      "material_face_coverage": {
+        "MHPickup": 38,
+        "MHInnerS": 56
+      },
+      "uv_min": [
+        0.01796800084412098,
+        -0.9876130223274231
+      ],
+      "uv_max": [
+        0.9887160062789917,
+        -0.003573999973013997
+      ]
+    },
+    "StaticMeshActor128": {
+      "vertices": 1008,
+      "faces": 336,
+      "uv_corners": 1008,
+      "bounds_min_source_units": [
+        960.0,
+        -2144.0,
+        959.9998779296875
+      ],
+      "bounds_max_source_units": [
+        1344.0,
+        -1856.0,
+        983.9998779296875
+      ],
+      "material_slots": [
+        "bas05bHA"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 336
+      },
+      "uv_min": [
+        0.0005000000237487257,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.9994999766349792,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor129": {
+      "vertices": 1008,
+      "faces": 336,
+      "uv_corners": 1008,
+      "bounds_min_source_units": [
+        960.0,
+        -1856.0,
+        959.9998779296875
+      ],
+      "bounds_max_source_units": [
+        1344.0,
+        -1568.0,
+        983.9998779296875
+      ],
+      "material_slots": [
+        "bas05bHA"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 336
+      },
+      "uv_min": [
+        0.0005000000237487257,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.9994999766349792,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor134": {
+      "vertices": 24,
+      "faces": 8,
+      "uv_corners": 24,
+      "bounds_min_source_units": [
+        1364.4852294921875,
+        -1835.5146484375,
+        971.9998779296875
+      ],
+      "bounds_max_source_units": [
+        1707.5147705078125,
+        -1588.4853515625,
+        972.0
+      ],
+      "material_slots": [
+        "ihatethisproblemthatitrytofufjffb.modulate.unlit",
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit",
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit"
+      ],
+      "material_face_coverage": {
+        "ihatethisproblemthatitrytofufjffb.modulate.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit": 1,
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit": 2,
+        "ihatethisproblemthatitrytofufjffb.translucent.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit": 1
+      },
+      "uv_min": [
+        -0.001500000013038516,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.5564000010490417,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor135": {
+      "vertices": 2022,
+      "faces": 674,
+      "uv_corners": 2022,
+      "bounds_min_source_units": [
+        1328.0,
+        -1536.0,
+        -487.47479248046875
+      ],
+      "bounds_max_source_units": [
+        1840.0009765625,
+        -1455.1707763671875,
+        -231.47479248046875
+      ],
+      "material_slots": [
+        "wal17HA",
+        "hourepillarcorreced",
+        "bas05bHA",
+        "bas43HA"
+      ],
+      "material_face_coverage": {
+        "wal17HA": 20,
+        "hourepillarcorreced": 22,
+        "bas05bHA": 310,
+        "bas43HA": 322
+      },
+      "uv_min": [
+        -0.2003999948501587,
+        -1.0621999502182007
+      ],
+      "uv_max": [
+        3.997999906539917,
+        0.006099999882280827
+      ]
+    },
+    "StaticMeshActor167": {
+      "vertices": 1008,
+      "faces": 336,
+      "uv_corners": 1008,
+      "bounds_min_source_units": [
+        1344.0,
+        -2144.0,
+        959.9998779296875
+      ],
+      "bounds_max_source_units": [
+        1728.0,
+        -1856.0,
+        983.9998779296875
+      ],
+      "material_slots": [
+        "bas05bHA"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 336
+      },
+      "uv_min": [
+        0.0005000000237487257,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.9994999766349792,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor168": {
+      "vertices": 1008,
+      "faces": 336,
+      "uv_corners": 1008,
+      "bounds_min_source_units": [
+        1344.0,
+        -1856.0,
+        959.9998779296875
+      ],
+      "bounds_max_source_units": [
+        1728.0,
+        -1568.0,
+        983.9998779296875
+      ],
+      "material_slots": [
+        "bas05bHA"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 336
+      },
+      "uv_min": [
+        0.0005000000237487257,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.9994999766349792,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor179": {
+      "vertices": 24,
+      "faces": 8,
+      "uv_corners": 24,
+      "bounds_min_source_units": [
+        980.4852294921875,
+        -1835.5146484375,
+        971.9998779296875
+      ],
+      "bounds_max_source_units": [
+        1323.5147705078125,
+        -1588.4853515625,
+        972.0
+      ],
+      "material_slots": [
+        "ihatethisproblemthatitrytofufjffb.modulate.unlit",
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit",
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit"
+      ],
+      "material_face_coverage": {
+        "ihatethisproblemthatitrytofufjffb.modulate.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit": 1,
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit": 2,
+        "ihatethisproblemthatitrytofufjffb.translucent.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit": 1
+      },
+      "uv_min": [
+        -0.001500000013038516,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.5564000010490417,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor18": {
+      "vertices": 24,
+      "faces": 8,
+      "uv_corners": 24,
+      "bounds_min_source_units": [
+        617.5012817382812,
+        -1854.4183349609375,
+        379.6012268066406
+      ],
+      "bounds_max_source_units": [
+        1155.9796142578125,
+        -1375.4136962890625,
+        734.3709716796875
+      ],
+      "material_slots": [
+        "gmothazijnespinneweb",
+        "gmothazijnespinneweb.special-lit",
+        "gmothazijnespinneweb.enviro.special-lit",
+        "gmothazijnespinneweb.enviro",
+        "gmothazijnespinneweb.mask.translucent.enviro",
+        "gmothazijnespinneweb.mask.modulate.enviro.unlit"
+      ],
+      "material_face_coverage": {
+        "gmothazijnespinneweb": 2,
+        "gmothazijnespinneweb.special-lit": 1,
+        "gmothazijnespinneweb.enviro.special-lit": 2,
+        "gmothazijnespinneweb.enviro": 1,
+        "gmothazijnespinneweb.mask.translucent.enviro": 1,
+        "gmothazijnespinneweb.mask.modulate.enviro.unlit": 1
+      },
+      "uv_min": [
+        0.0,
+        -1.0
+      ],
+      "uv_max": [
+        1.0,
+        0.0
+      ]
+    },
+    "StaticMeshActor183": {
+      "vertices": 1680,
+      "faces": 560,
+      "uv_corners": 1680,
+      "bounds_min_source_units": [
+        1336.0,
+        -1482.4295654296875,
+        204.29940795898438
+      ],
+      "bounds_max_source_units": [
+        1496.0,
+        -1383.5606689453125,
+        344.0013732910156
+      ],
+      "material_slots": [
+        "bas43HA",
+        "bas05bHA",
+        "bas15go"
+      ],
+      "material_face_coverage": {
+        "bas43HA": 32,
+        "bas05bHA": 16,
+        "bas15go": 512
+      },
+      "uv_min": [
+        0.0005000000237487257,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.9994999766349792,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor189": {
+      "vertices": 24,
+      "faces": 8,
+      "uv_corners": 24,
+      "bounds_min_source_units": [
+        980.4852294921875,
+        -2123.5146484375,
+        971.9998779296875
+      ],
+      "bounds_max_source_units": [
+        1323.5147705078125,
+        -1876.4853515625,
+        972.0
+      ],
+      "material_slots": [
+        "ihatethisproblemthatitrytofufjffb.modulate.unlit",
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit",
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit"
+      ],
+      "material_face_coverage": {
+        "ihatethisproblemthatitrytofufjffb.modulate.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit": 1,
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit": 2,
+        "ihatethisproblemthatitrytofufjffb.translucent.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit": 1
+      },
+      "uv_min": [
+        -0.001500000013038516,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.5564000010490417,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor251": {
+      "vertices": 678,
+      "faces": 226,
+      "uv_corners": 678,
+      "bounds_min_source_units": [
+        811.9021606445312,
+        -2348.097900390625,
+        -512.0
+      ],
+      "bounds_max_source_units": [
+        1051.7642822265625,
+        -2108.235595703125,
+        -224.0
+      ],
+      "material_slots": [
+        "bas05bHA",
+        "bas03HA",
+        "wal17HA",
+        "hourepillarcorreced"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 206,
+        "bas03HA": 4,
+        "wal17HA": 12,
+        "hourepillarcorreced": 4
+      },
+      "uv_min": [
+        0.0005000000237487257,
+        -0.9998000264167786
+      ],
+      "uv_max": [
+        1.9989999532699585,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor26": {
+      "vertices": 84,
+      "faces": 28,
+      "uv_corners": 84,
+      "bounds_min_source_units": [
+        1141.9312744140625,
+        -2314.892333984375,
+        -512.0
+      ],
+      "bounds_max_source_units": [
+        1430.6402587890625,
+        -2227.321044921875,
+        -508.0
+      ],
+      "material_slots": [
+        "hourewooood"
+      ],
+      "material_face_coverage": {
+        "hourewooood": 28
+      },
+      "uv_min": [
+        0.36910000443458557,
+        -3.1673998832702637
+      ],
+      "uv_max": [
+        0.6309000253677368,
+        2.1673998832702637
+      ]
+    },
+    "StaticMeshActor27": {
+      "vertices": 84,
+      "faces": 28,
+      "uv_corners": 84,
+      "bounds_min_source_units": [
+        1185.830322265625,
+        -2273.7216796875,
+        -512.0
+      ],
+      "bounds_max_source_units": [
+        1470.71826171875,
+        -2159.49755859375,
+        -508.0
+      ],
+      "material_slots": [
+        "hourewooood"
+      ],
+      "material_face_coverage": {
+        "hourewooood": 28
+      },
+      "uv_min": [
+        0.36910000443458557,
+        -3.1673998832702637
+      ],
+      "uv_max": [
+        0.6309000253677368,
+        2.1673998832702637
+      ]
+    },
+    "StaticMeshActor277": {
+      "vertices": 708,
+      "faces": 236,
+      "uv_corners": 708,
+      "bounds_min_source_units": [
+        1248.0,
+        -2688.0,
+        -552.0
+      ],
+      "bounds_max_source_units": [
+        1504.0,
+        -2368.0,
+        -208.81300354003906
+      ],
+      "material_slots": [
+        "bas13go"
+      ],
+      "material_face_coverage": {
+        "bas13go": 236
+      },
+      "uv_min": [
+        -0.5,
+        -1.15625
+      ],
+      "uv_max": [
+        1.34375,
+        0.34375
+      ]
+    },
+    "StaticMeshActor312": {
+      "vertices": 84,
+      "faces": 28,
+      "uv_corners": 84,
+      "bounds_min_source_units": [
+        664.8067626953125,
+        -1480.3388671875,
+        -195.44219970703125
+      ],
+      "bounds_max_source_units": [
+        1205.372802734375,
+        -1383.5810546875,
+        16.111434936523438
+      ],
+      "material_slots": [
+        "hourewooood"
+      ],
+      "material_face_coverage": {
+        "hourewooood": 28
+      },
+      "uv_min": [
+        0.36910000443458557,
+        -3.1673998832702637
+      ],
+      "uv_max": [
+        0.6309000253677368,
+        2.1673998832702637
+      ]
+    },
+    "StaticMeshActor324": {
+      "vertices": 396,
+      "faces": 132,
+      "uv_corners": 396,
+      "bounds_min_source_units": [
+        879.127685546875,
+        -2240.420166015625,
+        556.446533203125
+      ],
+      "bounds_max_source_units": [
+        1903.127685546875,
+        -2168.420166015625,
+        604.446533203125
+      ],
+      "material_slots": [
+        "bas05bHA",
+        "hourepillarcorreced"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 112,
+        "hourepillarcorreced": 20
+      },
+      "uv_min": [
+        -1.5,
+        -2.5
+      ],
+      "uv_max": [
+        2.5,
+        1.5
+      ]
+    },
+    "StaticMeshActor326": {
+      "vertices": 396,
+      "faces": 132,
+      "uv_corners": 396,
+      "bounds_min_source_units": [
+        879.127685546875,
+        -1904.420166015625,
+        556.446533203125
+      ],
+      "bounds_max_source_units": [
+        1903.127685546875,
+        -1832.420166015625,
+        604.446533203125
+      ],
+      "material_slots": [
+        "bas05bHA",
+        "hourepillarcorreced"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 112,
+        "hourepillarcorreced": 20
+      },
+      "uv_min": [
+        -1.5,
+        -2.5
+      ],
+      "uv_max": [
+        2.5,
+        1.5
+      ]
+    },
+    "StaticMeshActor327": {
+      "vertices": 396,
+      "faces": 132,
+      "uv_corners": 396,
+      "bounds_min_source_units": [
+        879.127685546875,
+        -1540.420166015625,
+        556.446533203125
+      ],
+      "bounds_max_source_units": [
+        1903.127685546875,
+        -1468.420166015625,
+        604.446533203125
+      ],
+      "material_slots": [
+        "bas05bHA",
+        "hourepillarcorreced"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 112,
+        "hourepillarcorreced": 20
+      },
+      "uv_min": [
+        -1.5,
+        -2.5
+      ],
+      "uv_max": [
+        2.5,
+        1.5
+      ]
+    },
+    "StaticMeshActor342": {
+      "vertices": 84,
+      "faces": 28,
+      "uv_corners": 84,
+      "bounds_min_source_units": [
+        676.8067626953125,
+        -1528.3388671875,
+        -193.44219970703125
+      ],
+      "bounds_max_source_units": [
+        1217.372802734375,
+        -1431.5810546875,
+        18.111434936523438
+      ],
+      "material_slots": [
+        "hourewooood"
+      ],
+      "material_face_coverage": {
+        "hourewooood": 28
+      },
+      "uv_min": [
+        0.36910000443458557,
+        -3.1673998832702637
+      ],
+      "uv_max": [
+        0.6309000253677368,
+        2.1673998832702637
+      ]
+    },
+    "StaticMeshActor352": {
+      "vertices": 84,
+      "faces": 28,
+      "uv_corners": 84,
+      "bounds_min_source_units": [
+        1688.84033203125,
+        -1641.1080322265625,
+        0.0014420000370591879
+      ],
+      "bounds_max_source_units": [
+        1962.4521484375,
+        -1471.8773193359375,
+        5.001441955566406
+      ],
+      "material_slots": [
+        "hourewooood"
+      ],
+      "material_face_coverage": {
+        "hourewooood": 28
+      },
+      "uv_min": [
+        0.36910000443458557,
+        -3.1673998832702637
+      ],
+      "uv_max": [
+        0.6309000253677368,
+        2.1673998832702637
+      ]
+    },
+    "StaticMeshActor364": {
+      "vertices": 678,
+      "faces": 226,
+      "uv_corners": 678,
+      "bounds_min_source_units": [
+        1056.0,
+        -2355.21630859375,
+        -512.0
+      ],
+      "bounds_max_source_units": [
+        1440.000732421875,
+        -2336.0,
+        -224.0
+      ],
+      "material_slots": [
+        "bas05bHA",
+        "bas03HA",
+        "wal17HA",
+        "hourepillarcorreced"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 206,
+        "bas03HA": 4,
+        "wal17HA": 12,
+        "hourepillarcorreced": 4
+      },
+      "uv_min": [
+        0.0005000000237487257,
+        -0.9998000264167786
+      ],
+      "uv_max": [
+        1.9989999532699585,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor365": {
+      "vertices": 2022,
+      "faces": 674,
+      "uv_corners": 2022,
+      "bounds_min_source_units": [
+        445.5229187011719,
+        -2776.062744140625,
+        -192.0
+      ],
+      "bounds_max_source_units": [
+        770.728515625,
+        -2583.08056640625,
+        320.0010070800781
+      ],
+      "material_slots": [
+        "wal17HA",
+        "hourepillarcorreced",
+        "bas05bHA",
+        "bas43HA"
+      ],
+      "material_face_coverage": {
+        "wal17HA": 20,
+        "hourepillarcorreced": 22,
+        "bas05bHA": 310,
+        "bas43HA": 322
+      },
+      "uv_min": [
+        -0.2003999948501587,
+        -1.0621999502182007
+      ],
+      "uv_max": [
+        3.997999906539917,
+        0.006099999882280827
+      ]
+    },
+    "StaticMeshActor368": {
+      "vertices": 678,
+      "faces": 226,
+      "uv_corners": 678,
+      "bounds_min_source_units": [
+        960.0,
+        -2739.21630859375,
+        -192.0
+      ],
+      "bounds_max_source_units": [
+        1472.0009765625,
+        -2720.0,
+        128.0
+      ],
+      "material_slots": [
+        "bas05bHA",
+        "bas03HA",
+        "wal17HA",
+        "hourepillarcorreced"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 206,
+        "bas03HA": 4,
+        "wal17HA": 12,
+        "hourepillarcorreced": 4
+      },
+      "uv_min": [
+        0.0005000000237487257,
+        -0.9998000264167786
+      ],
+      "uv_max": [
+        1.9989999532699585,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor372": {
+      "vertices": 1560,
+      "faces": 520,
+      "uv_corners": 1560,
+      "bounds_min_source_units": [
+        1033.9849853515625,
+        -2657.580078125,
+        275.5502014160156
+      ],
+      "bounds_max_source_units": [
+        1763.8802490234375,
+        -2577.580078125,
+        466.059814453125
+      ],
+      "material_slots": [
+        "bas13go"
+      ],
+      "material_face_coverage": {
+        "bas13go": 520
+      },
+      "uv_min": [
+        0.7354000210762024,
+        -0.8050000071525574
+      ],
+      "uv_max": [
+        3.2646000385284424,
+        -0.1550000011920929
+      ]
+    },
+    "StaticMeshActor374": {
+      "vertices": 36,
+      "faces": 12,
+      "uv_corners": 36,
+      "bounds_min_source_units": [
+        962.9047241210938,
+        -2332.68017578125,
+        -513.9095458984375
+      ],
+      "bounds_max_source_units": [
+        1174.093505859375,
+        -2116.0810546875,
+        -190.32167053222656
+      ],
+      "material_slots": [
+        "bas28HA",
+        "bas28HA.special-lit",
+        "bas28HA.enviro.special-lit",
+        "bas28HA.enviro",
+        "bas28HA.mask.translucent.enviro",
+        "bas28HA.mask.modulate.enviro.unlit",
+        "bas28HA.mask.modulate.translucent.enviro"
+      ],
+      "material_face_coverage": {
+        "bas28HA": 3,
+        "bas28HA.special-lit": 1,
+        "bas28HA.enviro.special-lit": 2,
+        "bas28HA.enviro": 3,
+        "bas28HA.mask.translucent.enviro": 1,
+        "bas28HA.mask.modulate.enviro.unlit": 1,
+        "bas28HA.mask.modulate.translucent.enviro": 1
+      },
+      "uv_min": [
+        -3.4999990463256836,
+        -0.9062510132789612
+      ],
+      "uv_max": [
+        1.7841670513153076,
+        9.774397850036621
+      ]
+    },
+    "StaticMeshActor376": {
+      "vertices": 24,
+      "faces": 8,
+      "uv_corners": 24,
+      "bounds_min_source_units": [
+        1034.2371826171875,
+        -1916.93408203125,
+        -510.0
+      ],
+      "bounds_max_source_units": [
+        1353.7628173828125,
+        -1615.06591796875,
+        -510.0
+      ],
+      "material_slots": [
+        "hourerwaterpudleshadered",
+        "hourerwaterpudleshadered.special-lit",
+        "hourerwaterpudleshadered.enviro.special-lit",
+        "hourerwaterpudleshadered.enviro",
+        "hourerwaterpudleshadered.mask.translucent.enviro",
+        "hourerwaterpudleshadered.mask.modulate.enviro.unlit"
+      ],
+      "material_face_coverage": {
+        "hourerwaterpudleshadered": 2,
+        "hourerwaterpudleshadered.special-lit": 1,
+        "hourerwaterpudleshadered.enviro.special-lit": 2,
+        "hourerwaterpudleshadered.enviro": 1,
+        "hourerwaterpudleshadered.mask.translucent.enviro": 1,
+        "hourerwaterpudleshadered.mask.modulate.enviro.unlit": 1
+      },
+      "uv_min": [
+        0.0,
+        -1.0
+      ],
+      "uv_max": [
+        1.0,
+        0.0
+      ]
+    },
+    "StaticMeshActor419": {
+      "vertices": 864,
+      "faces": 288,
+      "uv_corners": 864,
+      "bounds_min_source_units": [
+        814.9979248046875,
+        -2279.933837890625,
+        367.0220031738281
+      ],
+      "bounds_max_source_units": [
+        1903.0,
+        -2135.657470703125,
+        513.760009765625
+      ],
+      "material_slots": [
+        "bas05bHA"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 288
+      },
+      "uv_min": [
+        0.1621209979057312,
+        -1.1696670055389404
+      ],
+      "uv_max": [
+        0.8838009834289551,
+        0.7840039730072021
+      ]
+    },
+    "StaticMeshActor425": {
+      "vertices": 864,
+      "faces": 288,
+      "uv_corners": 864,
+      "bounds_min_source_units": [
+        814.9979248046875,
+        -1583.9337158203125,
+        367.0220031738281
+      ],
+      "bounds_max_source_units": [
+        1903.0,
+        -1439.657470703125,
+        513.760009765625
+      ],
+      "material_slots": [
+        "bas05bHA"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 288
+      },
+      "uv_min": [
+        0.1621209979057312,
+        -1.1696670055389404
+      ],
+      "uv_max": [
+        0.8838009834289551,
+        0.7840039730072021
+      ]
+    },
+    "StaticMeshActor426": {
+      "vertices": 864,
+      "faces": 288,
+      "uv_corners": 864,
+      "bounds_min_source_units": [
+        814.9979248046875,
+        -1935.9337158203125,
+        367.0220031738281
+      ],
+      "bounds_max_source_units": [
+        1903.0,
+        -1791.657470703125,
+        513.760009765625
+      ],
+      "material_slots": [
+        "bas05bHA"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 288
+      },
+      "uv_min": [
+        0.1621209979057312,
+        -1.1696670055389404
+      ],
+      "uv_max": [
+        0.8838009834289551,
+        0.7840039730072021
+      ]
+    },
+    "StaticMeshActor443": {
+      "vertices": 24,
+      "faces": 8,
+      "uv_corners": 24,
+      "bounds_min_source_units": [
+        1062.3057861328125,
+        -2318.82275390625,
+        -510.0
+      ],
+      "bounds_max_source_units": [
+        1701.6942138671875,
+        -1697.1773681640625,
+        -510.0
+      ],
+      "material_slots": [
+        "hourerwaterpudleshadered",
+        "hourerwaterpudleshadered.special-lit",
+        "hourerwaterpudleshadered.enviro.special-lit",
+        "hourerwaterpudleshadered.enviro",
+        "hourerwaterpudleshadered.mask.translucent.enviro",
+        "hourerwaterpudleshadered.mask.modulate.enviro.unlit"
+      ],
+      "material_face_coverage": {
+        "hourerwaterpudleshadered": 2,
+        "hourerwaterpudleshadered.special-lit": 1,
+        "hourerwaterpudleshadered.enviro.special-lit": 2,
+        "hourerwaterpudleshadered.enviro": 1,
+        "hourerwaterpudleshadered.mask.translucent.enviro": 1,
+        "hourerwaterpudleshadered.mask.modulate.enviro.unlit": 1
+      },
+      "uv_min": [
+        0.0,
+        -1.0
+      ],
+      "uv_max": [
+        1.0,
+        0.0
+      ]
+    },
+    "StaticMeshActor478": {
+      "vertices": 672,
+      "faces": 224,
+      "uv_corners": 672,
+      "bounds_min_source_units": [
+        1247.2357177734375,
+        -1871.1898193359375,
+        336.80999755859375
+      ],
+      "bounds_max_source_units": [
+        1481.4141845703125,
+        -1856.8099365234375,
+        380.4364929199219
+      ],
+      "material_slots": [
+        "bas13go",
+        "hourelightunlitterwurenzo"
+      ],
+      "material_face_coverage": {
+        "bas13go": 192,
+        "hourelightunlitterwurenzo": 32
+      },
+      "uv_min": [
+        -0.009100000374019146,
+        -0.9280999898910522
+      ],
+      "uv_max": [
+        4.991600036621094,
+        1.6308000087738037
+      ]
+    },
+    "StaticMeshActor538": {
+      "vertices": 534,
+      "faces": 178,
+      "uv_corners": 534,
+      "bounds_min_source_units": [
+        1064.000244140625,
+        -2552.0,
+        341.96630859375
+      ],
+      "bounds_max_source_units": [
+        1182.852783203125,
+        -2504.0,
+        351.2865905761719
+      ],
+      "material_slots": [
+        "bas43HA",
+        "hourelamp1yellowshader"
+      ],
+      "material_face_coverage": {
+        "bas43HA": 176,
+        "hourelamp1yellowshader": 2
+      },
+      "uv_min": [
+        -0.003100000089034438,
+        -1.0002000331878662
+      ],
+      "uv_max": [
+        1.9989999532699585,
+        0.9990000128746033
+      ]
+    },
+    "StaticMeshActor539": {
+      "vertices": 534,
+      "faces": 178,
+      "uv_corners": 534,
+      "bounds_min_source_units": [
+        1624.000244140625,
+        -2552.0,
+        341.96630859375
+      ],
+      "bounds_max_source_units": [
+        1742.852783203125,
+        -2504.0,
+        351.2865905761719
+      ],
+      "material_slots": [
+        "bas43HA",
+        "hourelamp1yellowshader"
+      ],
+      "material_face_coverage": {
+        "bas43HA": 176,
+        "hourelamp1yellowshader": 2
+      },
+      "uv_min": [
+        -0.003100000089034438,
+        -1.0002000331878662
+      ],
+      "uv_max": [
+        1.9989999532699585,
+        0.9990000128746033
+      ]
+    },
+    "StaticMeshActor553": {
+      "vertices": 1560,
+      "faces": 520,
+      "uv_corners": 1560,
+      "bounds_min_source_units": [
+        1033.9849853515625,
+        -2481.580078125,
+        275.5502014160156
+      ],
+      "bounds_max_source_units": [
+        1763.8802490234375,
+        -2401.580078125,
+        466.059814453125
+      ],
+      "material_slots": [
+        "bas13go"
+      ],
+      "material_face_coverage": {
+        "bas13go": 520
+      },
+      "uv_min": [
+        0.7354000210762024,
+        -0.8050000071525574
+      ],
+      "uv_max": [
+        3.2646000385284424,
+        -0.1550000011920929
+      ]
+    },
+    "StaticMeshActor603": {
+      "vertices": 84,
+      "faces": 28,
+      "uv_corners": 84,
+      "bounds_min_source_units": [
+        1181.595947265625,
+        -2327.443359375,
+        -508.0
+      ],
+      "bounds_max_source_units": [
+        1450.674072265625,
+        -2163.45947265625,
+        -504.0
+      ],
+      "material_slots": [
+        "hourewooood"
+      ],
+      "material_face_coverage": {
+        "hourewooood": 28
+      },
+      "uv_min": [
+        0.36910000443458557,
+        -3.1673998832702637
+      ],
+      "uv_max": [
+        0.6309000253677368,
+        2.1673998832702637
+      ]
+    },
+    "StaticMeshActor65": {
+      "vertices": 84,
+      "faces": 28,
+      "uv_corners": 84,
+      "bounds_min_source_units": [
+        1588.5850830078125,
+        -1792.671142578125,
+        0.0014420000370591879
+      ],
+      "bounds_max_source_units": [
+        1949.7554931640625,
+        -1490.068359375,
+        5.001441955566406
+      ],
+      "material_slots": [
+        "hourewooood"
+      ],
+      "material_face_coverage": {
+        "hourewooood": 28
+      },
+      "uv_min": [
+        0.36910000443458557,
+        -3.1673998832702637
+      ],
+      "uv_max": [
+        0.6309000253677368,
+        2.1673998832702637
+      ]
+    },
+    "StaticMeshActor73": {
+      "vertices": 846,
+      "faces": 282,
+      "uv_corners": 846,
+      "bounds_min_source_units": [
+        674.6661987304688,
+        -2041.0,
+        -512.0
+      ],
+      "bounds_max_source_units": [
+        781.3338012695312,
+        -1734.0020751953125,
+        -231.73818969726562
+      ],
+      "material_slots": [
+        "bas43HA"
+      ],
+      "material_face_coverage": {
+        "bas43HA": 282
+      },
+      "uv_min": [
+        0.0010000000474974513,
+        -0.9990000128746033
+      ],
+      "uv_max": [
+        1.9989999532699585,
+        0.9990000128746033
+      ]
+    },
+    "StaticMeshActor91": {
+      "vertices": 198,
+      "faces": 66,
+      "uv_corners": 198,
+      "bounds_min_source_units": [
+        1310.9786376953125,
+        -1390.0826416015625,
+        7.0
+      ],
+      "bounds_max_source_units": [
+        1520.9786376953125,
+        -1376.0826416015625,
+        217.0
+      ],
+      "material_slots": [
+        "bas05bHA",
+        "bas05bHA.special-lit",
+        "bas05bHA.enviro.special-lit",
+        "bas05bHA.enviro",
+        "bas05bHA.mask.translucent.enviro",
+        "bas05bHA.mask.modulate.enviro.unlit",
+        "bas05bHA.mask.modulate.translucent.enviro",
+        "bas05bHA.mask.translucent.special-lit",
+        "bas05bHA.mask.unlit.special-lit",
+        "bas05bHA.mask.modulate.translucent.enviro.unlit.special-lit",
+        "bas05bHA.translucent.special-lit",
+        "bas05bHA.mask.enviro.special-lit",
+        "bas05bHA.translucent.enviro.special-lit",
+        "bas05bHA.mask.translucent.enviro.special-lit",
+        "bas05bHA.mask.enviro",
+        "bas05bHA.translucent.enviro",
+        "bas05bHA.modulate.unlit.special-lit",
+        "bas05bHA.modulate.translucent.enviro"
+      ],
+      "material_face_coverage": {
+        "bas05bHA": 6,
+        "bas05bHA.special-lit": 2,
+        "bas05bHA.enviro.special-lit": 20,
+        "bas05bHA.enviro": 9,
+        "bas05bHA.mask.translucent.enviro": 1,
+        "bas05bHA.mask.modulate.enviro.unlit": 1,
+        "bas05bHA.mask.modulate.translucent.enviro": 1,
+        "bas05bHA.mask.translucent.special-lit": 4,
+        "bas05bHA.mask.unlit.special-lit": 2,
+        "bas05bHA.mask.modulate.translucent.enviro.unlit.special-lit": 1,
+        "bas05bHA.translucent.special-lit": 7,
+        "bas05bHA.mask.enviro.special-lit": 3,
+        "bas05bHA.translucent.enviro.special-lit": 2,
+        "bas05bHA.mask.translucent.enviro.special-lit": 1,
+        "bas05bHA.mask.enviro": 1,
+        "bas05bHA.translucent.enviro": 3,
+        "bas05bHA.modulate.unlit.special-lit": 1,
+        "bas05bHA.modulate.translucent.enviro": 1
+      },
+      "uv_min": [
+        0.0005000000237487257,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.9994999766349792,
+        -0.0005000000237487257
+      ]
+    },
+    "StaticMeshActor98": {
+      "vertices": 24,
+      "faces": 8,
+      "uv_corners": 24,
+      "bounds_min_source_units": [
+        1364.4852294921875,
+        -2123.5146484375,
+        971.9998779296875
+      ],
+      "bounds_max_source_units": [
+        1707.5147705078125,
+        -1876.4853515625,
+        972.0
+      ],
+      "material_slots": [
+        "ihatethisproblemthatitrytofufjffb.modulate.unlit",
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit",
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit",
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit"
+      ],
+      "material_face_coverage": {
+        "ihatethisproblemthatitrytofufjffb.modulate.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit": 1,
+        "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit": 2,
+        "ihatethisproblemthatitrytofufjffb.translucent.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit": 1,
+        "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit": 1
+      },
+      "uv_min": [
+        -0.001500000013038516,
+        -0.9994999766349792
+      ],
+      "uv_max": [
+        0.5564000010490417,
+        -0.0005000000237487257
+      ]
+    },
+    "xWeaponBase2": {
+      "vertices": 1566,
+      "faces": 522,
+      "uv_corners": 1566,
+      "bounds_min_source_units": [
+        1135.5625,
+        -1970.974365234375,
+        -513.2915649414062
+      ],
+      "bounds_max_source_units": [
+        1196.4375,
+        -1892.9979248046875,
+        -507.2988586425781
+      ],
+      "material_slots": [
+        "weaponBaseTEX"
+      ],
+      "material_face_coverage": {
+        "weaponBaseTEX": 522
+      },
+      "uv_min": [
+        0.0027000000700354576,
+        -0.9988999962806702
+      ],
+      "uv_max": [
+        1.0,
+        -0.00139999995008111
+      ]
+    }
+  },
+  "geometry_totals": {
+    "vertices": 27956,
+    "faces": 9202,
+    "uv_corners": 27804
+  },
+  "geometry_preview_camera_source_xyz": {
+    "location": [
+      1740.0,
+      -2460.0,
+      -420.0
+    ],
+    "target": [
+      1050.0,
+      -1730.0,
+      -160.0
+    ],
+    "lens_mm": 24.0
+  },
+  "export_settings": {
+    "global_scale": 1.0,
+    "apply_unit_scale": false,
+    "apply_scale_options": "FBX_SCALE_UNITS",
+    "axis_forward": "Y",
+    "axis_up": "Z",
+    "use_selection": true,
+    "object_types": [
+      "MESH"
+    ],
+    "use_mesh_modifiers": false,
+    "mesh_smooth_type": "FACE",
+    "bake_anim": false
+  },
+  "fbx_unit_metadata": "100 centimeters per Blender unit is transport metadata; source-to-UE5 physical scale remains pending.",
+  "float_serialization_tolerances": {
+    "position_source_units": 0.001,
+    "uv": 1e-06
+  },
+  "saved_blend_check": {
+    "passed": true,
+    "objects": 46,
+    "max_position_error_source_units": 0.0,
+    "max_uv_error": 0.0,
+    "material_slot_counts_match": true,
+    "polygon_material_indices_match": true,
+    "ambiguous_material_alias_collisions": {},
+    "material_labels_preserved": true,
+    "stock_material_label_changes": {}
+  },
+  "fbx_round_trip_check": {
+    "passed": true,
+    "objects": 46,
+    "max_position_error_source_units": 0.0,
+    "max_uv_error": 0.0,
+    "material_slot_counts_match": true,
+    "polygon_material_indices_match": true,
+    "ambiguous_material_alias_collisions": {},
+    "material_labels_preserved": false,
+    "stock_material_label_changes": {
+      "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit": "ihatethisproblemthatitrytofufjffb.modulate.translucent._b3cf7b6",
+      "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_a86e574",
+      "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_3d1701e",
+      "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit": "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.s_4c65697"
+    }
+  },
+  "fbx_material_slot_aliases": {
+    "BSP": [
+      {
+        "slot": 0,
+        "original_obj_label": "houreroxxor.two-sided",
+        "fbx_label": "houreroxxor.two-sided"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "shaiBricks1b",
+        "fbx_label": "shaiBricks1b"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "hourewooood",
+        "fbx_label": "hourewooood"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "bas02HAb",
+        "fbx_label": "bas02HAb"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "bas13HA",
+        "fbx_label": "bas13HA"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "bdr02HA",
+        "fbx_label": "bdr02HA"
+      },
+      {
+        "slot": 6,
+        "original_obj_label": "skyline-skycap",
+        "fbx_label": "skyline-skycap"
+      },
+      {
+        "slot": 7,
+        "original_obj_label": "flr02ar",
+        "fbx_label": "flr02ar"
+      },
+      {
+        "slot": 8,
+        "original_obj_label": "flr03HA",
+        "fbx_label": "flr03HA"
+      },
+      {
+        "slot": 9,
+        "original_obj_label": "bas20HA",
+        "fbx_label": "bas20HA"
+      },
+      {
+        "slot": 10,
+        "original_obj_label": "flr04HA",
+        "fbx_label": "flr04HA"
+      },
+      {
+        "slot": 11,
+        "original_obj_label": "bas43HA",
+        "fbx_label": "bas43HA"
+      },
+      {
+        "slot": 12,
+        "original_obj_label": "bas06HAb",
+        "fbx_label": "bas06HAb"
+      },
+      {
+        "slot": 13,
+        "original_obj_label": "bas38HA",
+        "fbx_label": "bas38HA"
+      },
+      {
+        "slot": 14,
+        "original_obj_label": "wal19HA",
+        "fbx_label": "wal19HA"
+      },
+      {
+        "slot": 15,
+        "original_obj_label": "wal17HA",
+        "fbx_label": "wal17HA"
+      },
+      {
+        "slot": 16,
+        "original_obj_label": "flr02HA",
+        "fbx_label": "flr02HA"
+      },
+      {
+        "slot": 17,
+        "original_obj_label": "bas01HA",
+        "fbx_label": "bas01HA"
+      },
+      {
+        "slot": 18,
+        "original_obj_label": "bas16go",
+        "fbx_label": "bas16go"
+      },
+      {
+        "slot": 19,
+        "original_obj_label": "DefaultTexture",
+        "fbx_label": "DefaultTexture"
+      },
+      {
+        "slot": 20,
+        "original_obj_label": "hourepillarcorreced",
+        "fbx_label": "hourepillarcorreced"
+      },
+      {
+        "slot": 21,
+        "original_obj_label": "bas04HA",
+        "fbx_label": "bas04HA"
+      },
+      {
+        "slot": 22,
+        "original_obj_label": "bas13go",
+        "fbx_label": "bas13go"
+      },
+      {
+        "slot": 23,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 24,
+        "original_obj_label": "bas02HA",
+        "fbx_label": "bas02HA"
+      },
+      {
+        "slot": 25,
+        "original_obj_label": "houreroxxor",
+        "fbx_label": "houreroxxor"
+      },
+      {
+        "slot": 26,
+        "original_obj_label": "bas28HA",
+        "fbx_label": "bas28HA"
+      },
+      {
+        "slot": 27,
+        "original_obj_label": "GeoWallA",
+        "fbx_label": "GeoWallA"
+      },
+      {
+        "slot": 28,
+        "original_obj_label": "bas27HA",
+        "fbx_label": "bas27HA"
+      }
+    ],
+    "FlakAmmoPickup0": [
+      {
+        "slot": 0,
+        "original_obj_label": "FlakAmmoTex",
+        "fbx_label": "FlakAmmoTex"
+      }
+    ],
+    "FlakAmmoPickup1": [
+      {
+        "slot": 0,
+        "original_obj_label": "FlakAmmoTex",
+        "fbx_label": "FlakAmmoTex"
+      }
+    ],
+    "MiniHealthPack1": [
+      {
+        "slot": 0,
+        "original_obj_label": "MHPickup",
+        "fbx_label": "MHPickup"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "MHInnerS",
+        "fbx_label": "MHInnerS"
+      }
+    ],
+    "MiniHealthPack2": [
+      {
+        "slot": 0,
+        "original_obj_label": "MHPickup",
+        "fbx_label": "MHPickup"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "MHInnerS",
+        "fbx_label": "MHInnerS"
+      }
+    ],
+    "MiniHealthPack3": [
+      {
+        "slot": 0,
+        "original_obj_label": "MHPickup",
+        "fbx_label": "MHPickup"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "MHInnerS",
+        "fbx_label": "MHInnerS"
+      }
+    ],
+    "StaticMeshActor128": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      }
+    ],
+    "StaticMeshActor129": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      }
+    ],
+    "StaticMeshActor134": [
+      {
+        "slot": 0,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.unlit"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent._b3cf7b6"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.translucent.unlit"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_a86e574"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_3d1701e"
+      },
+      {
+        "slot": 6,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.s_4c65697"
+      }
+    ],
+    "StaticMeshActor135": [
+      {
+        "slot": 0,
+        "original_obj_label": "wal17HA",
+        "fbx_label": "wal17HA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourepillarcorreced",
+        "fbx_label": "hourepillarcorreced"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "bas43HA",
+        "fbx_label": "bas43HA"
+      }
+    ],
+    "StaticMeshActor167": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      }
+    ],
+    "StaticMeshActor168": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      }
+    ],
+    "StaticMeshActor179": [
+      {
+        "slot": 0,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.unlit"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent._b3cf7b6"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.translucent.unlit"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_a86e574"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_3d1701e"
+      },
+      {
+        "slot": 6,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.s_4c65697"
+      }
+    ],
+    "StaticMeshActor18": [
+      {
+        "slot": 0,
+        "original_obj_label": "gmothazijnespinneweb",
+        "fbx_label": "gmothazijnespinneweb"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "gmothazijnespinneweb.special-lit",
+        "fbx_label": "gmothazijnespinneweb.special-lit"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "gmothazijnespinneweb.enviro.special-lit",
+        "fbx_label": "gmothazijnespinneweb.enviro.special-lit"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "gmothazijnespinneweb.enviro",
+        "fbx_label": "gmothazijnespinneweb.enviro"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "gmothazijnespinneweb.mask.translucent.enviro",
+        "fbx_label": "gmothazijnespinneweb.mask.translucent.enviro"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "gmothazijnespinneweb.mask.modulate.enviro.unlit",
+        "fbx_label": "gmothazijnespinneweb.mask.modulate.enviro.unlit"
+      }
+    ],
+    "StaticMeshActor183": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas43HA",
+        "fbx_label": "bas43HA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "bas15go",
+        "fbx_label": "bas15go"
+      }
+    ],
+    "StaticMeshActor189": [
+      {
+        "slot": 0,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.unlit"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent._b3cf7b6"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.translucent.unlit"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_a86e574"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_3d1701e"
+      },
+      {
+        "slot": 6,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.s_4c65697"
+      }
+    ],
+    "StaticMeshActor251": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "bas03HA",
+        "fbx_label": "bas03HA"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "wal17HA",
+        "fbx_label": "wal17HA"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "hourepillarcorreced",
+        "fbx_label": "hourepillarcorreced"
+      }
+    ],
+    "StaticMeshActor26": [
+      {
+        "slot": 0,
+        "original_obj_label": "hourewooood",
+        "fbx_label": "hourewooood"
+      }
+    ],
+    "StaticMeshActor27": [
+      {
+        "slot": 0,
+        "original_obj_label": "hourewooood",
+        "fbx_label": "hourewooood"
+      }
+    ],
+    "StaticMeshActor277": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas13go",
+        "fbx_label": "bas13go"
+      }
+    ],
+    "StaticMeshActor312": [
+      {
+        "slot": 0,
+        "original_obj_label": "hourewooood",
+        "fbx_label": "hourewooood"
+      }
+    ],
+    "StaticMeshActor324": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourepillarcorreced",
+        "fbx_label": "hourepillarcorreced"
+      }
+    ],
+    "StaticMeshActor326": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourepillarcorreced",
+        "fbx_label": "hourepillarcorreced"
+      }
+    ],
+    "StaticMeshActor327": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourepillarcorreced",
+        "fbx_label": "hourepillarcorreced"
+      }
+    ],
+    "StaticMeshActor342": [
+      {
+        "slot": 0,
+        "original_obj_label": "hourewooood",
+        "fbx_label": "hourewooood"
+      }
+    ],
+    "StaticMeshActor352": [
+      {
+        "slot": 0,
+        "original_obj_label": "hourewooood",
+        "fbx_label": "hourewooood"
+      }
+    ],
+    "StaticMeshActor364": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "bas03HA",
+        "fbx_label": "bas03HA"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "wal17HA",
+        "fbx_label": "wal17HA"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "hourepillarcorreced",
+        "fbx_label": "hourepillarcorreced"
+      }
+    ],
+    "StaticMeshActor365": [
+      {
+        "slot": 0,
+        "original_obj_label": "wal17HA",
+        "fbx_label": "wal17HA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourepillarcorreced",
+        "fbx_label": "hourepillarcorreced"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "bas43HA",
+        "fbx_label": "bas43HA"
+      }
+    ],
+    "StaticMeshActor368": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "bas03HA",
+        "fbx_label": "bas03HA"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "wal17HA",
+        "fbx_label": "wal17HA"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "hourepillarcorreced",
+        "fbx_label": "hourepillarcorreced"
+      }
+    ],
+    "StaticMeshActor372": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas13go",
+        "fbx_label": "bas13go"
+      }
+    ],
+    "StaticMeshActor374": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas28HA",
+        "fbx_label": "bas28HA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "bas28HA.special-lit",
+        "fbx_label": "bas28HA.special-lit"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "bas28HA.enviro.special-lit",
+        "fbx_label": "bas28HA.enviro.special-lit"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "bas28HA.enviro",
+        "fbx_label": "bas28HA.enviro"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "bas28HA.mask.translucent.enviro",
+        "fbx_label": "bas28HA.mask.translucent.enviro"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "bas28HA.mask.modulate.enviro.unlit",
+        "fbx_label": "bas28HA.mask.modulate.enviro.unlit"
+      },
+      {
+        "slot": 6,
+        "original_obj_label": "bas28HA.mask.modulate.translucent.enviro",
+        "fbx_label": "bas28HA.mask.modulate.translucent.enviro"
+      }
+    ],
+    "StaticMeshActor376": [
+      {
+        "slot": 0,
+        "original_obj_label": "hourerwaterpudleshadered",
+        "fbx_label": "hourerwaterpudleshadered"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourerwaterpudleshadered.special-lit",
+        "fbx_label": "hourerwaterpudleshadered.special-lit"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "hourerwaterpudleshadered.enviro.special-lit",
+        "fbx_label": "hourerwaterpudleshadered.enviro.special-lit"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "hourerwaterpudleshadered.enviro",
+        "fbx_label": "hourerwaterpudleshadered.enviro"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "hourerwaterpudleshadered.mask.translucent.enviro",
+        "fbx_label": "hourerwaterpudleshadered.mask.translucent.enviro"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "hourerwaterpudleshadered.mask.modulate.enviro.unlit",
+        "fbx_label": "hourerwaterpudleshadered.mask.modulate.enviro.unlit"
+      }
+    ],
+    "StaticMeshActor419": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      }
+    ],
+    "StaticMeshActor425": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      }
+    ],
+    "StaticMeshActor426": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      }
+    ],
+    "StaticMeshActor443": [
+      {
+        "slot": 0,
+        "original_obj_label": "hourerwaterpudleshadered",
+        "fbx_label": "hourerwaterpudleshadered"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourerwaterpudleshadered.special-lit",
+        "fbx_label": "hourerwaterpudleshadered.special-lit"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "hourerwaterpudleshadered.enviro.special-lit",
+        "fbx_label": "hourerwaterpudleshadered.enviro.special-lit"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "hourerwaterpudleshadered.enviro",
+        "fbx_label": "hourerwaterpudleshadered.enviro"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "hourerwaterpudleshadered.mask.translucent.enviro",
+        "fbx_label": "hourerwaterpudleshadered.mask.translucent.enviro"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "hourerwaterpudleshadered.mask.modulate.enviro.unlit",
+        "fbx_label": "hourerwaterpudleshadered.mask.modulate.enviro.unlit"
+      }
+    ],
+    "StaticMeshActor478": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas13go",
+        "fbx_label": "bas13go"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourelightunlitterwurenzo",
+        "fbx_label": "hourelightunlitterwurenzo"
+      }
+    ],
+    "StaticMeshActor538": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas43HA",
+        "fbx_label": "bas43HA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourelamp1yellowshader",
+        "fbx_label": "hourelamp1yellowshader"
+      }
+    ],
+    "StaticMeshActor539": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas43HA",
+        "fbx_label": "bas43HA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "hourelamp1yellowshader",
+        "fbx_label": "hourelamp1yellowshader"
+      }
+    ],
+    "StaticMeshActor553": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas13go",
+        "fbx_label": "bas13go"
+      }
+    ],
+    "StaticMeshActor603": [
+      {
+        "slot": 0,
+        "original_obj_label": "hourewooood",
+        "fbx_label": "hourewooood"
+      }
+    ],
+    "StaticMeshActor65": [
+      {
+        "slot": 0,
+        "original_obj_label": "hourewooood",
+        "fbx_label": "hourewooood"
+      }
+    ],
+    "StaticMeshActor73": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas43HA",
+        "fbx_label": "bas43HA"
+      }
+    ],
+    "StaticMeshActor91": [
+      {
+        "slot": 0,
+        "original_obj_label": "bas05bHA",
+        "fbx_label": "bas05bHA"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "bas05bHA.special-lit",
+        "fbx_label": "bas05bHA.special-lit"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "bas05bHA.enviro.special-lit",
+        "fbx_label": "bas05bHA.enviro.special-lit"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "bas05bHA.enviro",
+        "fbx_label": "bas05bHA.enviro"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "bas05bHA.mask.translucent.enviro",
+        "fbx_label": "bas05bHA.mask.translucent.enviro"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "bas05bHA.mask.modulate.enviro.unlit",
+        "fbx_label": "bas05bHA.mask.modulate.enviro.unlit"
+      },
+      {
+        "slot": 6,
+        "original_obj_label": "bas05bHA.mask.modulate.translucent.enviro",
+        "fbx_label": "bas05bHA.mask.modulate.translucent.enviro"
+      },
+      {
+        "slot": 7,
+        "original_obj_label": "bas05bHA.mask.translucent.special-lit",
+        "fbx_label": "bas05bHA.mask.translucent.special-lit"
+      },
+      {
+        "slot": 8,
+        "original_obj_label": "bas05bHA.mask.unlit.special-lit",
+        "fbx_label": "bas05bHA.mask.unlit.special-lit"
+      },
+      {
+        "slot": 9,
+        "original_obj_label": "bas05bHA.mask.modulate.translucent.enviro.unlit.special-lit",
+        "fbx_label": "bas05bHA.mask.modulate.translucent.enviro.unlit.special-lit"
+      },
+      {
+        "slot": 10,
+        "original_obj_label": "bas05bHA.translucent.special-lit",
+        "fbx_label": "bas05bHA.translucent.special-lit"
+      },
+      {
+        "slot": 11,
+        "original_obj_label": "bas05bHA.mask.enviro.special-lit",
+        "fbx_label": "bas05bHA.mask.enviro.special-lit"
+      },
+      {
+        "slot": 12,
+        "original_obj_label": "bas05bHA.translucent.enviro.special-lit",
+        "fbx_label": "bas05bHA.translucent.enviro.special-lit"
+      },
+      {
+        "slot": 13,
+        "original_obj_label": "bas05bHA.mask.translucent.enviro.special-lit",
+        "fbx_label": "bas05bHA.mask.translucent.enviro.special-lit"
+      },
+      {
+        "slot": 14,
+        "original_obj_label": "bas05bHA.mask.enviro",
+        "fbx_label": "bas05bHA.mask.enviro"
+      },
+      {
+        "slot": 15,
+        "original_obj_label": "bas05bHA.translucent.enviro",
+        "fbx_label": "bas05bHA.translucent.enviro"
+      },
+      {
+        "slot": 16,
+        "original_obj_label": "bas05bHA.modulate.unlit.special-lit",
+        "fbx_label": "bas05bHA.modulate.unlit.special-lit"
+      },
+      {
+        "slot": 17,
+        "original_obj_label": "bas05bHA.modulate.translucent.enviro",
+        "fbx_label": "bas05bHA.modulate.translucent.enviro"
+      }
+    ],
+    "StaticMeshActor98": [
+      {
+        "slot": 0,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.unlit"
+      },
+      {
+        "slot": 1,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit.special-lit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent._b3cf7b6"
+      },
+      {
+        "slot": 2,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.modulate.translucent.unlit"
+      },
+      {
+        "slot": 3,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.translucent.unlit"
+      },
+      {
+        "slot": 4,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_a86e574"
+      },
+      {
+        "slot": 5,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translucent.enviro.unlit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.translu_3d1701e"
+      },
+      {
+        "slot": 6,
+        "original_obj_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.special-lit",
+        "fbx_label": "ihatethisproblemthatitrytofufjffb.mask.modulate.unlit.s_4c65697"
+      }
+    ],
+    "xWeaponBase2": [
+      {
+        "slot": 0,
+        "original_obj_label": "weaponBaseTEX",
+        "fbx_label": "weaponBaseTEX"
+      }
+    ]
+  },
+  "passed": true,
+  "unverified": [
+    "UE5 import, physical scale, and collision",
+    "Original normals/smoothing, textures, and material appearance",
+    "Native short material label package identity; stock FBX exporter also abbreviates four long labels",
+    "UV alignment on generated BSP cut boundaries",
+    "Mover animation and gameplay"
+  ],
+  "geometry_preview_exists": true,
+  "artifacts": {
+    "FlakAtrium-geometry.blend": {
+      "bytes": 302491,
+      "sha256": "8798733eb4bac29a5caa3802f428bf2ac46bf18b6b8dd933b0f7214941b3c93a"
+    },
+    "FlakAtrium-geometry.fbx": {
+      "bytes": 568300,
+      "sha256": "1a079490ce83bc0f938a40f414b0f5b07ccfb57b0cd4aa1a9e23d209188a908d"
+    },
+    "FlakAtrium-geometry.png": {
+      "bytes": 1119658,
+      "sha256": "d44bbb3a2da8dc2b532601c13e52ebdbe9d3fdd3bff8851bba60c1f1a3923c8a"
+    }
+  }
+}

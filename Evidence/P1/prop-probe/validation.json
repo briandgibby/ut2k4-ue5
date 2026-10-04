@@ -1,0 +1,121 @@
+{
+  "probe": "Beams.Brace01HA native UCC triangulated T3D",
+  "source": "Exports\\Rankin\\MeshT3DProbe\\Beams.Brace01HA.t3d",
+  "source_sha256": "ef2be45b757c2ecf868033a4b3a38d0816916e564ace08780bb9ee0958a185ce",
+  "blender_version": "5.2.2 LTS",
+  "source_triangles": 288,
+  "source_corner_records": 864,
+  "source_material_coverage": {
+    "HumanoidArchitecture.Bases.bas05bHA": 288
+  },
+  "source_smoothing_masks": {
+    "1": 288
+  },
+  "coordinate_policy": "Unchanged source XYZ and UV values; no instance placement or physical scale calibration.",
+  "fbx_unit_metadata": "100 centimeters per Blender unit is transport metadata; source-to-UE5 physical scale remains pending.",
+  "export_settings": {
+    "global_scale": 1.0,
+    "apply_unit_scale": false,
+    "apply_scale_options": "FBX_SCALE_UNITS",
+    "axis_forward": "Y",
+    "axis_up": "Z",
+    "use_selection": true,
+    "object_types": [
+      "MESH"
+    ],
+    "use_mesh_modifiers": false,
+    "mesh_smooth_type": "FACE",
+    "bake_anim": false
+  },
+  "float_serialization_tolerances": {
+    "position_source_units": 0.0001,
+    "uv": 1e-06
+  },
+  "saved_blend": {
+    "passed": true,
+    "mesh_vertices": 864,
+    "triangles": 288,
+    "uv_corners": 864,
+    "bounds_min_source_units": [
+      -264.0009765625,
+      -72.97799682617188,
+      -57.874000549316406
+    ],
+    "bounds_max_source_units": [
+      248.0,
+      73.75999450683594,
+      57.547000885009766
+    ],
+    "dimensions_source_units": [
+      512.0009765625,
+      146.7379913330078,
+      115.42100143432617
+    ],
+    "uv_min": [
+      0.1621209979057312,
+      -0.7840039730072021
+    ],
+    "uv_max": [
+      0.8838009834289551,
+      1.1696670055389404
+    ],
+    "material_coverage": {
+      "HumanoidArchitecture.Bases.bas05bHA": 288
+    },
+    "smooth_faces": 288,
+    "max_position_error_source_units": 4.980468730764187e-07,
+    "max_uv_error": 5.925750734547819e-08
+  },
+  "fbx_round_trip": {
+    "passed": true,
+    "mesh_vertices": 864,
+    "triangles": 288,
+    "uv_corners": 864,
+    "bounds_min_source_units": [
+      -264.0009765625,
+      -72.97799682617188,
+      -57.874000549316406
+    ],
+    "bounds_max_source_units": [
+      248.0,
+      73.75999450683594,
+      57.547000885009766
+    ],
+    "dimensions_source_units": [
+      512.0009765625,
+      146.7379913330078,
+      115.42100143432617
+    ],
+    "uv_min": [
+      0.1621209979057312,
+      -0.7840039730072021
+    ],
+    "uv_max": [
+      0.8838009834289551,
+      1.1696670055389404
+    ],
+    "material_coverage": {
+      "HumanoidArchitecture.Bases.bas05bHA": 288
+    },
+    "smooth_faces": 288,
+    "max_position_error_source_units": 4.980468730764187e-07,
+    "max_uv_error": 5.925750734547819e-08
+  },
+  "passed": true,
+  "unverified": [
+    "UE5 import, pivot/axis mapping, and physical scale calibration",
+    "Original vertex normals and shading fidelity; Blender derives normals from independent triangle vertices",
+    "Original collision; no collision has been reconstructed",
+    "Texture pixels and material appearance; only the exported material object name is retained"
+  ],
+  "artifacts": {
+    "Brace01HA.blend": {
+      "bytes": 98007,
+      "sha256": "6704a32ed89d2373708d6ec3097b2ab73a4661b27f640c716d6a6a12e6f0f822"
+    },
+    "Brace01HA.fbx": {
+      "bytes": 29564,
+      "sha256": "fff40410d70d6c914c9b03a636ae8f6aa24fa44c206758d12a7bbc18d3b6da62"
+    }
+  }
+}

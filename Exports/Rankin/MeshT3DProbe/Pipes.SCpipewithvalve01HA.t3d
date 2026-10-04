@@ -1,0 +1,1235 @@
+Begin StaticMesh Name=SCpipewithvalve01HA
+    Version=2.000000 BoundingBox.Min.X=-47.729706 BoundingBox.Min.Y=-32.526917 BoundingBox.Min.Z=-59.500000 BoundingBox.Max.X=17.324127 BoundingBox.Max.Y=31.819763 BoundingBox.Max.Z=4.500000
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -22.273895 9.192322 -51.500000 0.325985 0.571815
+        Vertex 1 -22.273895 -12.020813 -51.500000 0.325985 0.406087
+        Vertex 2 -14.495697 16.970520 -51.500000 0.386752 0.632582
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -25.102264 -0.707092 -51.500000 0.303889 0.494476
+        Vertex 1 -22.273895 -12.020813 -51.500000 0.325985 0.406087
+        Vertex 2 -22.273895 9.192322 -51.500000 0.325985 0.571815
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -22.273895 -12.020813 -51.500000 0.325985 0.406087
+        Vertex 1 -3.889069 20.506042 -51.500000 0.469617 0.660203
+        Vertex 2 -14.495697 16.970520 -51.500000 0.386752 0.632582
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -22.273895 -12.020813 -51.500000 0.325985 0.406087
+        Vertex 1 6.717499 16.970520 -51.500000 0.552480 0.632582
+        Vertex 2 -3.889069 20.506042 -51.500000 0.469617 0.660203
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 14.495697 9.192322 -51.500000 0.613248 0.571815
+        Vertex 1 6.717499 16.970520 -51.500000 0.552480 0.632582
+        Vertex 2 -22.273895 -12.020813 -51.500000 0.325985 0.406087
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 17.324127 -0.707092 -51.500000 0.635345 0.494476
+        Vertex 1 14.495697 9.192322 -51.500000 0.613248 0.571815
+        Vertex 2 -22.273895 -12.020813 -51.500000 0.325985 0.406087
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -14.495697 -19.799011 -51.500000 0.386752 0.345320
+        Vertex 1 17.324127 -0.707092 -51.500000 0.635345 0.494476
+        Vertex 2 -22.273895 -12.020813 -51.500000 0.325985 0.406087
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 14.495697 -12.020813 -51.500000 0.613248 0.406087
+        Vertex 1 17.324127 -0.707092 -51.500000 0.635345 0.494476
+        Vertex 2 -14.495697 -19.799011 -51.500000 0.386752 0.345320
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 6.717499 -19.799011 -51.500000 0.552480 0.345320
+        Vertex 1 14.495697 -12.020813 -51.500000 0.613248 0.406087
+        Vertex 2 -14.495697 -19.799011 -51.500000 0.386752 0.345320
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -3.889069 -21.920349 -51.500000 0.469617 0.328747
+        Vertex 1 6.717499 -19.799011 -51.500000 0.552480 0.345320
+        Vertex 2 -14.495697 -19.799011 -51.500000 0.386752 0.345320
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -3.889069 20.506042 -51.500000 0.469617 0.902344
+        Vertex 1 -3.889069 20.506042 -11.500000 0.469617 0.589844
+        Vertex 2 -14.495697 16.970520 -51.500000 0.386752 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -3.889069 20.506042 -11.500000 0.469617 0.589844
+        Vertex 1 -14.495697 16.970520 -11.500000 0.386752 0.589844
+        Vertex 2 -14.495697 16.970520 -51.500000 0.386752 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -14.495697 16.970520 -11.500000 0.367418 0.589844
+        Vertex 1 -22.273895 9.192322 -51.500000 0.428185 0.902344
+        Vertex 2 -14.495697 16.970520 -51.500000 0.367418 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -14.495697 16.970520 -11.500000 0.367418 0.589844
+        Vertex 1 -22.273895 9.192322 -11.500000 0.428185 0.589844
+        Vertex 2 -22.273895 9.192322 -51.500000 0.428185 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -22.273895 9.192322 -11.500000 0.428185 0.589844
+        Vertex 1 -25.102264 -0.707092 -51.500000 0.505524 0.902344
+        Vertex 2 -22.273895 9.192322 -51.500000 0.428185 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -22.273895 9.192322 -11.500000 0.428185 0.589844
+        Vertex 1 -25.102264 -0.707092 -11.500000 0.505524 0.589844
+        Vertex 2 -25.102264 -0.707092 -51.500000 0.505524 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -22.273895 -12.020813 -11.500000 0.593913 0.589844
+        Vertex 1 -22.273895 -12.020813 -51.500000 0.593913 0.902344
+        Vertex 2 -25.102264 -0.707092 -51.500000 0.505524 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -25.102264 -0.707092 -11.500000 0.505524 0.589844
+        Vertex 1 -22.273895 -12.020813 -11.500000 0.593913 0.589844
+        Vertex 2 -25.102264 -0.707092 -51.500000 0.505524 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -14.495697 -19.799011 -11.500000 0.654680 0.589844
+        Vertex 1 -14.495697 -19.799011 -51.500000 0.654680 0.902344
+        Vertex 2 -22.273895 -12.020813 -51.500000 0.593913 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -22.273895 -12.020813 -11.500000 0.593913 0.589844
+        Vertex 1 -14.495697 -19.799011 -11.500000 0.654680 0.589844
+        Vertex 2 -22.273895 -12.020813 -51.500000 0.593913 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -3.889069 -21.920349 -11.500000 0.469617 0.589844
+        Vertex 1 -3.889069 -21.920349 -51.500000 0.469617 0.902344
+        Vertex 2 -14.495697 -19.799011 -51.500000 0.386752 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -14.495697 -19.799011 -11.500000 0.386752 0.589844
+        Vertex 1 -3.889069 -21.920349 -11.500000 0.469617 0.589844
+        Vertex 2 -14.495697 -19.799011 -51.500000 0.386752 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 6.717499 -19.799011 -11.500000 0.552480 0.589844
+        Vertex 1 6.717499 -19.799011 -51.500000 0.552480 0.902344
+        Vertex 2 -3.889069 -21.920349 -51.500000 0.469617 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -3.889069 -21.920349 -11.500000 0.469617 0.589844
+        Vertex 1 6.717499 -19.799011 -11.500000 0.552480 0.589844
+        Vertex 2 -3.889069 -21.920349 -51.500000 0.469617 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 6.717499 -19.799011 -51.500000 0.654680 0.902344
+        Vertex 1 14.495697 -12.020813 -11.500000 0.593913 0.589844
+        Vertex 2 14.495697 -12.020813 -51.500000 0.593913 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 6.717499 -19.799011 -11.500000 0.654680 0.589844
+        Vertex 1 14.495697 -12.020813 -11.500000 0.593913 0.589844
+        Vertex 2 6.717499 -19.799011 -51.500000 0.654680 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 14.495697 -12.020813 -51.500000 0.593913 0.902344
+        Vertex 1 17.324127 -0.707092 -11.500000 0.505524 0.589844
+        Vertex 2 17.324127 -0.707092 -51.500000 0.505524 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 14.495697 -12.020813 -11.500000 0.593913 0.589844
+        Vertex 1 17.324127 -0.707092 -11.500000 0.505524 0.589844
+        Vertex 2 14.495697 -12.020813 -51.500000 0.593913 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 17.324127 -0.707092 -51.500000 0.505524 0.902344
+        Vertex 1 17.324127 -0.707092 -11.500000 0.505524 0.589844
+        Vertex 2 14.495697 9.192322 -51.500000 0.428185 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 17.324127 -0.707092 -11.500000 0.505524 0.589844
+        Vertex 1 14.495697 9.192322 -11.500000 0.428185 0.589844
+        Vertex 2 14.495697 9.192322 -51.500000 0.428185 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 14.495697 9.192322 -51.500000 0.428185 0.902344
+        Vertex 1 14.495697 9.192322 -11.500000 0.428185 0.589844
+        Vertex 2 6.717499 16.970520 -51.500000 0.367418 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 14.495697 9.192322 -11.500000 0.428185 0.589844
+        Vertex 1 6.717499 16.970520 -11.500000 0.367418 0.589844
+        Vertex 2 6.717499 16.970520 -51.500000 0.367418 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 6.717499 16.970520 -51.500000 0.552480 0.902344
+        Vertex 1 6.717499 16.970520 -11.500000 0.552480 0.589844
+        Vertex 2 -3.889069 20.506042 -51.500000 0.469617 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 6.717499 16.970520 -11.500000 0.552480 0.589844
+        Vertex 1 -3.889069 20.506042 -11.500000 0.469617 0.589844
+        Vertex 2 -3.889069 20.506042 -51.500000 0.469617 0.902344
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -22.273895 -12.020813 -11.500000 0.325985 0.406087
+        Vertex 1 -25.102264 -0.707092 -11.500000 0.303889 0.494476
+        Vertex 2 -22.273895 9.192322 -11.500000 0.325985 0.571815
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -22.273895 -12.020813 -11.500000 0.325985 0.406087
+        Vertex 1 -22.273895 9.192322 -11.500000 0.325985 0.571815
+        Vertex 2 -14.495697 16.970520 -11.500000 0.386752 0.632582
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 -3.889069 20.506042 -11.500000 0.469617 0.660203
+        Vertex 1 -22.273895 -12.020813 -11.500000 0.325985 0.406087
+        Vertex 2 -14.495697 16.970520 -11.500000 0.386752 0.632582
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 6.717499 16.970520 -11.500000 0.552480 0.632582
+        Vertex 1 -22.273895 -12.020813 -11.500000 0.325985 0.406087
+        Vertex 2 -3.889069 20.506042 -11.500000 0.469617 0.660203
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 6.717499 16.970520 -11.500000 0.552480 0.632582
+        Vertex 1 14.495697 9.192322 -11.500000 0.613248 0.571815
+        Vertex 2 -22.273895 -12.020813 -11.500000 0.325985 0.406087
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 14.495697 9.192322 -11.500000 0.613248 0.571815
+        Vertex 1 17.324127 -0.707092 -11.500000 0.635345 0.494476
+        Vertex 2 -22.273895 -12.020813 -11.500000 0.325985 0.406087
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 17.324127 -0.707092 -11.500000 0.635345 0.494476
+        Vertex 1 -14.495697 -19.799011 -11.500000 0.386752 0.345320
+        Vertex 2 -22.273895 -12.020813 -11.500000 0.325985 0.406087
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 17.324127 -0.707092 -11.500000 0.635345 0.494476
+        Vertex 1 14.495697 -12.020813 -11.500000 0.613248 0.406087
+        Vertex 2 -14.495697 -19.799011 -11.500000 0.386752 0.345320
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 14.495697 -12.020813 -11.500000 0.613248 0.406087
+        Vertex 1 6.717499 -19.799011 -11.500000 0.552480 0.345320
+        Vertex 2 -14.495697 -19.799011 -11.500000 0.386752 0.345320
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas13HA
+        SmoothingMask 2
+        Vertex 0 6.717499 -19.799011 -11.500000 0.552480 0.345320
+        Vertex 1 -3.889069 -21.920349 -11.500000 0.469617 0.328747
+        Vertex 2 -14.495697 -19.799011 -11.500000 0.386752 0.345320
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 2.121277 -2.500000 0.483428 0.519531
+        Vertex 1 -47.729706 -3.535583 -2.500000 0.527622 0.519531
+        Vertex 2 -42.072845 2.121277 -25.500000 0.483428 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -3.535583 -2.500000 0.527622 0.519531
+        Vertex 1 -47.729706 -21.920349 -6.500000 0.671253 0.550781
+        Vertex 2 -47.729706 -17.677673 -10.500000 0.638107 0.582031
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -3.535583 -2.500000 0.527622 0.519531
+        Vertex 1 -47.729706 -0.707092 2.500000 0.505524 0.480469
+        Vertex 2 -47.729706 -21.920349 -6.500000 0.671253 0.550781
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -0.707092 2.500000 0.505524 0.480469
+        Vertex 1 -47.729706 -3.535583 -2.500000 0.527622 0.519531
+        Vertex 2 -47.729706 2.121277 -2.500000 0.483428 0.519531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -0.707092 2.500000 0.505524 0.480469
+        Vertex 1 -47.729706 2.121277 -2.500000 0.483428 0.519531
+        Vertex 2 -47.729706 20.506042 -6.500000 0.339797 0.550781
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 20.506042 -6.500000 0.339797 0.550781
+        Vertex 1 -47.729706 2.121277 -2.500000 0.483428 0.519531
+        Vertex 2 -47.729706 16.263367 -10.500000 0.372942 0.582031
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 20.506042 -6.500000 0.339797 0.550781
+        Vertex 1 -47.729706 16.263367 -10.500000 0.372942 0.582031
+        Vertex 2 -47.729706 24.748718 -25.500000 0.306651 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.022614 -25.455872 -30.500000 0.698874 0.738281
+        Vertex 1 -47.729706 -30.405579 -27.500000 0.737544 0.714844
+        Vertex 2 -47.729706 -21.920349 -48.500000 0.671253 0.878906
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -17.677673 -44.500000 0.638107 0.847656
+        Vertex 1 -47.022614 -25.455872 -30.500000 0.698874 0.738281
+        Vertex 2 -47.729706 -21.920349 -48.500000 0.671253 0.878906
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -17.677673 -44.500000 0.638107 0.847656
+        Vertex 1 -47.729706 -21.920349 -48.500000 0.671253 0.878906
+        Vertex 2 -47.729706 -3.535583 -52.500000 0.527622 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -3.535583 -52.500000 0.527622 0.910156
+        Vertex 1 -47.729706 -21.920349 -48.500000 0.671253 0.878906
+        Vertex 2 -47.729706 -0.707092 -57.500000 0.505524 0.949219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 2.121277 -52.500000 0.483428 0.910156
+        Vertex 1 -47.729706 -3.535583 -52.500000 0.527622 0.910156
+        Vertex 2 -47.729706 -0.707092 -57.500000 0.505524 0.949219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 20.506042 -48.500000 0.339797 0.878906
+        Vertex 1 -47.729706 2.121277 -52.500000 0.483428 0.910156
+        Vertex 2 -47.729706 -0.707092 -57.500000 0.505524 0.949219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 20.506042 -48.500000 0.339797 0.878906
+        Vertex 1 -47.729706 16.263367 -44.500000 0.372942 0.847656
+        Vertex 2 -47.729706 2.121277 -52.500000 0.483428 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 28.991394 -27.500000 0.273505 0.714844
+        Vertex 1 -47.729706 16.263367 -44.500000 0.372942 0.847656
+        Vertex 2 -47.729706 20.506042 -48.500000 0.339797 0.878906
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 20.506042 -6.500000 0.339797 0.550781
+        Vertex 1 -47.729706 24.748718 -25.500000 0.306651 0.699219
+        Vertex 2 -47.729706 28.991394 -27.500000 0.273505 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 28.991394 -27.500000 0.273505 0.714844
+        Vertex 1 -47.729706 24.748718 -30.500000 0.306651 0.738281
+        Vertex 2 -47.729706 16.263367 -44.500000 0.372942 0.847656
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 28.991394 -27.500000 0.273505 0.714844
+        Vertex 1 -47.729706 24.748718 -25.500000 0.306651 0.699219
+        Vertex 2 -47.729706 24.748718 -30.500000 0.306651 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 -3.535583 -25.500000 0.527622 0.699219
+        Vertex 1 -32.173370 2.121277 -25.500000 0.483428 0.699219
+        Vertex 2 -32.173370 -3.535583 -30.500000 0.527622 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 2.121277 -30.500000 0.483428 0.738281
+        Vertex 1 -37.123138 24.041565 -25.500000 0.312175 0.699219
+        Vertex 2 -37.123138 24.041565 -30.500000 0.312175 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 2.121277 -25.500000 0.483428 0.699219
+        Vertex 1 -37.123138 24.041565 -25.500000 0.312175 0.699219
+        Vertex 2 -32.173370 2.121277 -30.500000 0.483428 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 -3.535583 -30.500000 0.527622 0.738281
+        Vertex 1 -32.173370 2.121277 -25.500000 0.483428 0.699219
+        Vertex 2 -32.173370 2.121277 -30.500000 0.483428 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -25.455872 -30.500000 0.698874 0.738281
+        Vertex 1 -32.173370 -3.535583 -25.500000 0.527622 0.699219
+        Vertex 2 -32.173370 -3.535583 -30.500000 0.527622 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -25.455872 -25.500000 0.698874 0.699219
+        Vertex 1 -32.173370 -3.535583 -25.500000 0.527622 0.699219
+        Vertex 2 -37.123138 -25.455872 -30.500000 0.698874 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -30.405579 -27.500000 0.737544 0.714844
+        Vertex 1 -37.123138 -25.455872 -25.500000 0.698874 0.699219
+        Vertex 2 -37.123138 -25.455872 -30.500000 0.698874 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 -3.535583 -25.500000 0.527622 0.699219
+        Vertex 1 -37.830231 2.121277 -2.500000 0.483428 0.519531
+        Vertex 2 -32.173370 2.121277 -25.500000 0.483428 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -2.828430 -2.500000 0.522097 0.519531
+        Vertex 1 -37.830231 2.121277 -2.500000 0.483428 0.519531
+        Vertex 2 -32.173370 -3.535583 -25.500000 0.527622 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 -3.535583 -30.500000 0.527622 0.738281
+        Vertex 1 -32.173370 2.121277 -30.500000 0.483428 0.738281
+        Vertex 2 -37.830231 2.121277 -52.500000 0.483428 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -2.828430 -52.500000 0.522097 0.910156
+        Vertex 1 -32.173370 -3.535583 -30.500000 0.527622 0.738281
+        Vertex 2 -37.830231 2.121277 -52.500000 0.483428 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -21.920349 -6.500000 0.671253 0.550781
+        Vertex 1 -37.123138 -25.455872 -25.500000 0.698874 0.699219
+        Vertex 2 -37.830231 -30.405579 -27.500000 0.737544 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -21.920349 -6.500000 0.671253 0.550781
+        Vertex 1 -37.830231 -17.677673 -10.500000 0.638107 0.582031
+        Vertex 2 -37.123138 -25.455872 -25.500000 0.698874 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -21.920349 -6.500000 0.671253 0.550781
+        Vertex 1 -37.123138 -2.828430 -2.500000 0.522097 0.519531
+        Vertex 2 -37.830231 -17.677673 -10.500000 0.638107 0.582031
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -0.707092 2.500000 0.505524 0.480469
+        Vertex 1 -37.123138 -2.828430 -2.500000 0.522097 0.519531
+        Vertex 2 -37.830231 -21.920349 -6.500000 0.671253 0.550781
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -2.828430 -2.500000 0.522097 0.519531
+        Vertex 1 -37.830231 -0.707092 2.500000 0.505524 0.480469
+        Vertex 2 -37.830231 2.121277 -2.500000 0.483428 0.519531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 2.121277 -2.500000 0.483428 0.519531
+        Vertex 1 -37.830231 -0.707092 2.500000 0.505524 0.480469
+        Vertex 2 -37.830231 20.506042 -6.500000 0.339797 0.550781
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 2.121277 -2.500000 0.483428 0.519531
+        Vertex 1 -37.830231 20.506042 -6.500000 0.339797 0.550781
+        Vertex 2 -37.830231 16.263367 -10.500000 0.372942 0.582031
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 16.263367 -10.500000 0.372942 0.582031
+        Vertex 1 -37.830231 20.506042 -6.500000 0.339797 0.550781
+        Vertex 2 -37.123138 24.041565 -25.500000 0.312175 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -30.405579 -27.500000 0.737544 0.714844
+        Vertex 1 -37.123138 -25.455872 -30.500000 0.698874 0.738281
+        Vertex 2 -37.830231 -21.920349 -48.500000 0.671253 0.878906
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -25.455872 -30.500000 0.698874 0.738281
+        Vertex 1 -37.830231 -17.677673 -44.500000 0.638107 0.847656
+        Vertex 2 -37.830231 -21.920349 -48.500000 0.671253 0.878906
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -21.920349 -48.500000 0.671253 0.878906
+        Vertex 1 -37.830231 -17.677673 -44.500000 0.638107 0.847656
+        Vertex 2 -37.123138 -2.828430 -52.500000 0.522097 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -21.920349 -48.500000 0.671253 0.878906
+        Vertex 1 -37.123138 -2.828430 -52.500000 0.522097 0.910156
+        Vertex 2 -37.830231 -0.707092 -57.500000 0.505524 0.949219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -2.828430 -52.500000 0.522097 0.910156
+        Vertex 1 -37.830231 2.121277 -52.500000 0.483428 0.910156
+        Vertex 2 -37.830231 -0.707092 -57.500000 0.505524 0.949219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 2.121277 -52.500000 0.483428 0.910156
+        Vertex 1 -37.830231 20.506042 -48.500000 0.339797 0.878906
+        Vertex 2 -37.830231 -0.707092 -57.500000 0.505524 0.949219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.022614 -25.455872 -25.500000 0.698874 0.699219
+        Vertex 1 -47.729706 -21.920349 -6.500000 0.671253 0.550781
+        Vertex 2 -47.729706 -30.405579 -27.500000 0.737544 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -17.677673 -10.500000 0.638107 0.582031
+        Vertex 1 -47.729706 -21.920349 -6.500000 0.671253 0.550781
+        Vertex 2 -47.022614 -25.455872 -25.500000 0.698874 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 24.041565 -25.500000 0.312175 0.699219
+        Vertex 1 -37.830231 20.506042 -6.500000 0.339797 0.550781
+        Vertex 2 -37.123138 29.698425 -27.500000 0.267981 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 24.041565 -25.500000 0.312175 0.699219
+        Vertex 1 -37.123138 29.698425 -27.500000 0.267981 0.714844
+        Vertex 2 -37.123138 24.041565 -30.500000 0.312175 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 24.041565 -30.500000 0.312175 0.738281
+        Vertex 1 -37.123138 29.698425 -27.500000 0.267981 0.714844
+        Vertex 2 -37.830231 16.263367 -44.500000 0.372942 0.847656
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -25.455872 -25.500000 0.209975 0.301126
+        Vertex 1 -47.022614 -25.455872 -25.500000 0.132636 0.301126
+        Vertex 2 -42.779938 -2.828430 -25.500000 0.165782 0.477903
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 -3.535583 -25.500000 0.248646 0.472378
+        Vertex 1 -37.123138 -25.455872 -25.500000 0.209975 0.301126
+        Vertex 2 -42.779938 -2.828430 -25.500000 0.165782 0.477903
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -17.677673 -10.500000 0.204451 0.582031
+        Vertex 1 -47.729706 -17.677673 -10.500000 0.127112 0.582031
+        Vertex 2 -37.123138 -25.455872 -25.500000 0.209975 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -25.455872 -25.500000 0.209975 0.699219
+        Vertex 1 -47.729706 -17.677673 -10.500000 0.127112 0.582031
+        Vertex 2 -47.022614 -25.455872 -25.500000 0.132636 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -2.828430 -2.500000 0.209975 0.519531
+        Vertex 1 -32.173370 -3.535583 -25.500000 0.248646 0.699219
+        Vertex 2 -42.779938 -2.828430 -25.500000 0.165782 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -3.535583 -2.500000 0.127112 0.519531
+        Vertex 1 -37.123138 -2.828430 -2.500000 0.209975 0.519531
+        Vertex 2 -42.779938 -2.828430 -25.500000 0.165782 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -2.828430 -2.500000 0.209975 0.477903
+        Vertex 1 -47.729706 -3.535583 -2.500000 0.127112 0.472378
+        Vertex 2 -37.830231 -17.677673 -10.500000 0.204451 0.361893
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -17.677673 -10.500000 0.204451 0.361893
+        Vertex 1 -47.729706 -3.535583 -2.500000 0.127112 0.472378
+        Vertex 2 -47.729706 -17.677673 -10.500000 0.127112 0.361893
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 2.121277 -25.500000 0.248646 0.516572
+        Vertex 1 -42.072845 2.121277 -25.500000 0.171306 0.516572
+        Vertex 2 -37.123138 24.041565 -25.500000 0.209975 0.687825
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 24.041565 -25.500000 0.209975 0.687825
+        Vertex 1 -42.072845 2.121277 -25.500000 0.171306 0.516572
+        Vertex 2 -47.729706 24.748718 -25.500000 0.127112 0.693349
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 16.263367 -10.500000 0.127112 0.582031
+        Vertex 1 -37.123138 24.041565 -25.500000 0.209975 0.699219
+        Vertex 2 -47.729706 24.748718 -25.500000 0.127112 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 16.263367 -10.500000 0.127112 0.582031
+        Vertex 1 -37.830231 16.263367 -10.500000 0.204451 0.582031
+        Vertex 2 -37.123138 24.041565 -25.500000 0.209975 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 2.121277 -2.500000 0.204451 0.519531
+        Vertex 1 -47.729706 2.121277 -2.500000 0.127112 0.519531
+        Vertex 2 -42.072845 2.121277 -25.500000 0.171306 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 2.121277 -25.500000 0.248646 0.699219
+        Vertex 1 -37.830231 2.121277 -2.500000 0.204451 0.519531
+        Vertex 2 -42.072845 2.121277 -25.500000 0.171306 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 2.121277 -2.500000 0.204451 0.516572
+        Vertex 1 -37.830231 16.263367 -10.500000 0.204451 0.627058
+        Vertex 2 -47.729706 16.263367 -10.500000 0.127112 0.627058
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 2.121277 -2.500000 0.127112 0.516572
+        Vertex 1 -37.830231 2.121277 -2.500000 0.204451 0.516572
+        Vertex 2 -47.729706 16.263367 -10.500000 0.127112 0.627058
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -25.455872 -30.500000 0.209975 0.301126
+        Vertex 1 -32.173370 -3.535583 -30.500000 0.248646 0.472378
+        Vertex 2 -42.779938 -2.828430 -30.500000 0.165782 0.477903
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.022614 -25.455872 -30.500000 0.132636 0.301126
+        Vertex 1 -37.123138 -25.455872 -30.500000 0.209975 0.301126
+        Vertex 2 -42.779938 -2.828430 -30.500000 0.165782 0.477903
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -25.455872 -30.500000 0.209975 0.738281
+        Vertex 1 -47.022614 -25.455872 -30.500000 0.132636 0.738281
+        Vertex 2 -47.729706 -17.677673 -44.500000 0.127112 0.847656
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -17.677673 -44.500000 0.204451 0.847656
+        Vertex 1 -37.123138 -25.455872 -30.500000 0.209975 0.738281
+        Vertex 2 -47.729706 -17.677673 -44.500000 0.127112 0.847656
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.779938 -2.828430 -30.500000 0.165782 0.738281
+        Vertex 1 -37.123138 -2.828430 -52.500000 0.209975 0.910156
+        Vertex 2 -47.729706 -3.535583 -52.500000 0.127112 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.779938 -2.828430 -30.500000 0.165782 0.738281
+        Vertex 1 -32.173370 -3.535583 -30.500000 0.248646 0.738281
+        Vertex 2 -37.123138 -2.828430 -52.500000 0.209975 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -17.677673 -44.500000 0.204451 0.361893
+        Vertex 1 -47.729706 -17.677673 -44.500000 0.127112 0.361893
+        Vertex 2 -47.729706 -3.535583 -52.500000 0.127112 0.472378
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 -2.828430 -52.500000 0.209975 0.477903
+        Vertex 1 -37.830231 -17.677673 -44.500000 0.204451 0.361893
+        Vertex 2 -47.729706 -3.535583 -52.500000 0.127112 0.472378
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 2.121277 -30.500000 0.171306 0.516572
+        Vertex 1 -37.123138 24.041565 -30.500000 0.209975 0.687825
+        Vertex 2 -47.729706 24.748718 -30.500000 0.127112 0.693349
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 2.121277 -30.500000 0.171306 0.516572
+        Vertex 1 -32.173370 2.121277 -30.500000 0.248646 0.516572
+        Vertex 2 -37.123138 24.041565 -30.500000 0.209975 0.687825
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 24.748718 -30.500000 0.127112 0.738281
+        Vertex 1 -37.830231 16.263367 -44.500000 0.204451 0.847656
+        Vertex 2 -47.729706 16.263367 -44.500000 0.127112 0.847656
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 24.748718 -30.500000 0.127112 0.738281
+        Vertex 1 -37.123138 24.041565 -30.500000 0.209975 0.738281
+        Vertex 2 -37.830231 16.263367 -44.500000 0.204451 0.847656
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 2.121277 -30.500000 0.248646 0.738281
+        Vertex 1 -42.072845 2.121277 -30.500000 0.171306 0.738281
+        Vertex 2 -37.830231 2.121277 -52.500000 0.204451 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 2.121277 -52.500000 0.204451 0.910156
+        Vertex 1 -42.072845 2.121277 -30.500000 0.171306 0.738281
+        Vertex 2 -47.729706 2.121277 -52.500000 0.127112 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 16.263367 -44.500000 0.127112 0.627058
+        Vertex 1 -37.830231 2.121277 -52.500000 0.204451 0.516572
+        Vertex 2 -47.729706 2.121277 -52.500000 0.127112 0.516572
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 16.263367 -44.500000 0.127112 0.627058
+        Vertex 1 -37.830231 16.263367 -44.500000 0.204451 0.627058
+        Vertex 2 -37.830231 2.121277 -52.500000 0.204451 0.516572
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -24.395172 1.414124 -25.500000 0.309413 0.511048
+        Vertex 1 -24.395172 -2.828430 -25.500000 0.309413 0.477903
+        Vertex 2 -32.173370 -3.535583 -25.500000 0.248646 0.472378
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -24.395172 1.414124 -25.500000 0.309413 0.511048
+        Vertex 1 -32.173370 -3.535583 -25.500000 0.248646 0.472378
+        Vertex 2 -32.173370 2.121277 -25.500000 0.248646 0.516572
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -24.395172 1.414124 -30.500000 0.309413 0.738281
+        Vertex 1 -32.173370 2.121277 -25.500000 0.248646 0.699219
+        Vertex 2 -32.173370 2.121277 -30.500000 0.248646 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -24.395172 1.414124 -25.500000 0.309413 0.699219
+        Vertex 1 -32.173370 2.121277 -25.500000 0.248646 0.699219
+        Vertex 2 -24.395172 1.414124 -30.500000 0.309413 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 -3.535583 -30.500000 0.248646 0.472378
+        Vertex 1 -24.395172 1.414124 -30.500000 0.309413 0.511048
+        Vertex 2 -32.173370 2.121277 -30.500000 0.248646 0.516572
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -24.395172 -2.828430 -30.500000 0.309413 0.477903
+        Vertex 1 -24.395172 1.414124 -30.500000 0.309413 0.511048
+        Vertex 2 -32.173370 -3.535583 -30.500000 0.248646 0.472378
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 -3.535583 -25.500000 0.248646 0.699219
+        Vertex 1 -24.395172 -2.828430 -30.500000 0.309413 0.738281
+        Vertex 2 -32.173370 -3.535583 -30.500000 0.248646 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -32.173370 -3.535583 -25.500000 0.248646 0.699219
+        Vertex 1 -24.395172 -2.828430 -25.500000 0.309413 0.699219
+        Vertex 2 -24.395172 -2.828430 -30.500000 0.309413 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 2.121277 -30.500000 0.483428 0.738281
+        Vertex 1 -47.729706 -3.535583 -52.500000 0.527622 0.910156
+        Vertex 2 -47.729706 2.121277 -52.500000 0.483428 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -3.535583 -2.500000 0.527622 0.519531
+        Vertex 1 -42.779938 -2.828430 -25.500000 0.522097 0.699219
+        Vertex 2 -42.072845 2.121277 -25.500000 0.483428 0.699219
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 2.121277 -30.500000 0.483428 0.738281
+        Vertex 1 -42.779938 -2.828430 -30.500000 0.522097 0.738281
+        Vertex 2 -47.729706 -3.535583 -52.500000 0.527622 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 2.121277 -25.500000 0.483428 0.699219
+        Vertex 1 -42.779938 -2.828430 -30.500000 0.522097 0.738281
+        Vertex 2 -42.072845 2.121277 -30.500000 0.483428 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 2.121277 -25.500000 0.483428 0.699219
+        Vertex 1 -42.072845 2.121277 -30.500000 0.483428 0.738281
+        Vertex 2 -47.729706 24.748718 -30.500000 0.306651 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 24.748718 -25.500000 0.306651 0.699219
+        Vertex 1 -42.072845 2.121277 -25.500000 0.483428 0.699219
+        Vertex 2 -47.729706 24.748718 -30.500000 0.306651 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.022614 -25.455872 -25.500000 0.698874 0.699219
+        Vertex 1 -47.729706 -30.405579 -27.500000 0.737544 0.714844
+        Vertex 2 -47.022614 -25.455872 -30.500000 0.698874 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.022614 -25.455872 -25.500000 0.698874 0.699219
+        Vertex 1 -47.022614 -25.455872 -30.500000 0.698874 0.738281
+        Vertex 2 -42.779938 -2.828430 -30.500000 0.522097 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.779938 -2.828430 -25.500000 0.522097 0.699219
+        Vertex 1 -47.022614 -25.455872 -25.500000 0.698874 0.699219
+        Vertex 2 -42.779938 -2.828430 -30.500000 0.522097 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 2.121277 -25.500000 0.483428 0.699219
+        Vertex 1 -42.779938 -2.828430 -25.500000 0.522097 0.699219
+        Vertex 2 -42.779938 -2.828430 -30.500000 0.522097 0.738281
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -0.707092 2.500000 0.204451 0.494476
+        Vertex 1 -42.072845 -0.707092 4.500000 0.171306 0.494476
+        Vertex 2 -37.830231 20.506042 -6.500000 0.204451 0.660203
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 -0.707092 4.500000 0.171306 0.494476
+        Vertex 1 -42.072845 21.920227 -4.500000 0.171306 0.671252
+        Vertex 2 -37.830231 20.506042 -6.500000 0.204451 0.660203
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 20.506042 -6.500000 0.204451 0.550781
+        Vertex 1 -42.072845 21.920227 -4.500000 0.171306 0.535156
+        Vertex 2 -37.123138 29.698425 -27.500000 0.209975 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 21.920227 -4.500000 0.171306 0.535156
+        Vertex 1 -42.072845 31.819763 -27.500000 0.171306 0.714844
+        Vertex 2 -37.123138 29.698425 -27.500000 0.209975 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 20.506042 -48.500000 0.204451 0.878906
+        Vertex 1 -37.123138 29.698425 -27.500000 0.209975 0.714844
+        Vertex 2 -42.072845 21.920227 -50.500000 0.171306 0.894531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.123138 29.698425 -27.500000 0.209975 0.714844
+        Vertex 1 -42.072845 31.819763 -27.500000 0.171306 0.714844
+        Vertex 2 -42.072845 21.920227 -50.500000 0.171306 0.894531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -0.707092 -57.500000 0.204451 0.494476
+        Vertex 1 -37.830231 20.506042 -48.500000 0.204451 0.660203
+        Vertex 2 -42.072845 -0.707092 -59.500000 0.171306 0.494476
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 20.506042 -48.500000 0.204451 0.660203
+        Vertex 1 -42.072845 21.920227 -50.500000 0.171306 0.671252
+        Vertex 2 -42.072845 -0.707092 -59.500000 0.171306 0.494476
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 -23.334534 -50.500000 0.171306 0.317699
+        Vertex 1 -37.830231 -21.920349 -48.500000 0.204451 0.328747
+        Vertex 2 -42.072845 -0.707092 -59.500000 0.171306 0.494476
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -21.920349 -48.500000 0.204451 0.328747
+        Vertex 1 -37.830231 -0.707092 -57.500000 0.204451 0.494476
+        Vertex 2 -42.072845 -0.707092 -59.500000 0.171306 0.494476
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.779938 -32.526917 -27.500000 0.165782 0.714844
+        Vertex 1 -37.830231 -30.405579 -27.500000 0.204451 0.714844
+        Vertex 2 -42.072845 -23.334534 -50.500000 0.171306 0.894531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 -30.405579 -27.500000 0.204451 0.714844
+        Vertex 1 -37.830231 -21.920349 -48.500000 0.204451 0.878906
+        Vertex 2 -42.072845 -23.334534 -50.500000 0.171306 0.894531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 -23.334534 -4.500000 0.171306 0.535156
+        Vertex 1 -37.830231 -21.920349 -6.500000 0.204451 0.550781
+        Vertex 2 -37.830231 -30.405579 -27.500000 0.204451 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.779938 -32.526917 -27.500000 0.165782 0.714844
+        Vertex 1 -42.072845 -23.334534 -4.500000 0.171306 0.535156
+        Vertex 2 -37.830231 -30.405579 -27.500000 0.204451 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 -0.707092 4.500000 0.171306 0.494476
+        Vertex 1 -37.830231 -0.707092 2.500000 0.204451 0.494476
+        Vertex 2 -37.830231 -21.920349 -6.500000 0.204451 0.328747
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 -23.334534 -4.500000 0.171306 0.317699
+        Vertex 1 -42.072845 -0.707092 4.500000 0.171306 0.494476
+        Vertex 2 -37.830231 -21.920349 -6.500000 0.204451 0.328747
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 21.920227 -4.500000 0.171306 0.671252
+        Vertex 1 -42.072845 -0.707092 4.500000 0.171306 0.494476
+        Vertex 2 -47.729706 20.506042 -6.500000 0.127112 0.660203
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 -0.707092 4.500000 0.171306 0.494476
+        Vertex 1 -47.729706 -0.707092 2.500000 0.127112 0.494476
+        Vertex 2 -47.729706 20.506042 -6.500000 0.127112 0.660203
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 31.819763 -27.500000 0.171306 0.714844
+        Vertex 1 -42.072845 21.920227 -4.500000 0.171306 0.535156
+        Vertex 2 -47.729706 28.991394 -27.500000 0.127112 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 21.920227 -4.500000 0.171306 0.535156
+        Vertex 1 -47.729706 20.506042 -6.500000 0.127112 0.550781
+        Vertex 2 -47.729706 28.991394 -27.500000 0.127112 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 31.819763 -27.500000 0.171306 0.714844
+        Vertex 1 -47.729706 28.991394 -27.500000 0.127112 0.714844
+        Vertex 2 -42.072845 21.920227 -50.500000 0.171306 0.894531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 28.991394 -27.500000 0.127112 0.714844
+        Vertex 1 -47.729706 20.506042 -48.500000 0.127112 0.878906
+        Vertex 2 -42.072845 21.920227 -50.500000 0.171306 0.894531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 21.920227 -50.500000 0.171306 0.671252
+        Vertex 1 -47.729706 20.506042 -48.500000 0.127112 0.660203
+        Vertex 2 -42.072845 -0.707092 -59.500000 0.171306 0.494476
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 20.506042 -48.500000 0.127112 0.660203
+        Vertex 1 -47.729706 -0.707092 -57.500000 0.127112 0.494476
+        Vertex 2 -42.072845 -0.707092 -59.500000 0.171306 0.494476
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -21.920349 -48.500000 0.127112 0.328747
+        Vertex 1 -42.072845 -23.334534 -50.500000 0.171306 0.317699
+        Vertex 2 -42.072845 -0.707092 -59.500000 0.171306 0.494476
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -0.707092 -57.500000 0.127112 0.494476
+        Vertex 1 -47.729706 -21.920349 -48.500000 0.127112 0.328747
+        Vertex 2 -42.072845 -0.707092 -59.500000 0.171306 0.494476
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -30.405579 -27.500000 0.127112 0.714844
+        Vertex 1 -42.779938 -32.526917 -27.500000 0.165782 0.714844
+        Vertex 2 -42.072845 -23.334534 -50.500000 0.171306 0.894531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -21.920349 -48.500000 0.127112 0.878906
+        Vertex 1 -47.729706 -30.405579 -27.500000 0.127112 0.714844
+        Vertex 2 -42.072845 -23.334534 -50.500000 0.171306 0.894531
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -21.920349 -6.500000 0.127112 0.550781
+        Vertex 1 -42.072845 -23.334534 -4.500000 0.171306 0.535156
+        Vertex 2 -47.729706 -30.405579 -27.500000 0.127112 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 -23.334534 -4.500000 0.171306 0.535156
+        Vertex 1 -42.779938 -32.526917 -27.500000 0.165782 0.714844
+        Vertex 2 -47.729706 -30.405579 -27.500000 0.127112 0.714844
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -47.729706 -0.707092 2.500000 0.127112 0.494476
+        Vertex 1 -42.072845 -0.707092 4.500000 0.171306 0.494476
+        Vertex 2 -47.729706 -21.920349 -6.500000 0.127112 0.328747
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -42.072845 -0.707092 4.500000 0.171306 0.494476
+        Vertex 1 -42.072845 -23.334534 -4.500000 0.171306 0.317699
+        Vertex 2 -47.729706 -21.920349 -6.500000 0.127112 0.328747
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 16.263367 -44.500000 0.372942 0.847656
+        Vertex 1 -37.830231 20.506042 -48.500000 0.339797 0.878906
+        Vertex 2 -37.830231 2.121277 -52.500000 0.483428 0.910156
+    End Triangle
+    Begin Triangle
+        Texture UCGeneric.SolidColours.Red
+        SmoothingMask 8
+        Vertex 0 -37.830231 16.263367 -44.500000 0.372942 0.847656
+        Vertex 1 -37.123138 29.698425 -27.500000 0.267981 0.714844
+        Vertex 2 -37.830231 20.506042 -48.500000 0.339797 0.878906
+    End Triangle
+End StaticMesh

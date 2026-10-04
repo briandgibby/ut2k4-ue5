@@ -1,0 +1,1585 @@
+Begin StaticMesh Name=hourewallpanel1
+    Version=2.000000 BoundingBox.Min.X=-128.000504 BoundingBox.Min.Y=-32.000000 BoundingBox.Min.Z=0.000000 BoundingBox.Max.X=128.000000 BoundingBox.Max.Y=-12.783800 BoundingBox.Max.Z=256.000000
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 127.999496 -25.859200 24.613501 0.000500 0.903500
+        Vertex 1 0.000000 -25.859200 24.613501 0.497200 0.903500
+        Vertex 2 0.000000 -25.859200 27.345699 0.497200 0.892800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 0.000000 -25.859200 47.987499 0.497200 0.812200
+        Vertex 1 127.999496 -25.859200 47.987499 0.000500 0.812200
+        Vertex 2 127.999496 -25.859200 44.803101 0.000500 0.824700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 0.000000 -25.859200 24.613501 0.497200 0.903500
+        Vertex 1 -128.000504 -25.859200 24.613501 0.993900 0.903500
+        Vertex 2 -128.000504 -25.859200 27.345699 0.993900 0.892800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -128.000504 -25.859200 47.987499 0.993900 0.812200
+        Vertex 1 0.000000 -25.859200 47.987499 0.497200 0.812200
+        Vertex 2 0.000000 -25.859200 44.803101 0.497200 0.824700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas03HA
+        SmoothingMask 8
+        Vertex 0 128.000000 -12.783800 51.137402 0.000500 0.799900
+        Vertex 1 0.000000 -12.783800 51.137402 0.497200 0.799900
+        Vertex 2 0.000000 -12.783800 80.421997 0.497200 0.685700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas03HA
+        SmoothingMask 8
+        Vertex 0 0.000000 -12.783800 80.421997 0.497200 0.685700
+        Vertex 1 127.999496 -12.783800 80.421997 0.000500 0.685700
+        Vertex 2 128.000000 -12.783800 51.137402 0.000500 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas03HA
+        SmoothingMask 8
+        Vertex 0 0.000000 -12.783800 51.137402 0.497200 0.799900
+        Vertex 1 -128.000000 -12.783800 51.137402 0.993900 0.799900
+        Vertex 2 -128.000504 -12.783800 80.421997 0.993900 0.685700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas03HA
+        SmoothingMask 8
+        Vertex 0 -128.000504 -12.783800 80.421997 0.993900 0.685700
+        Vertex 1 0.000000 -12.783800 80.421997 0.497200 0.685700
+        Vertex 2 0.000000 -12.783800 51.137402 0.497200 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask 8
+        Vertex 0 127.999496 -25.054501 84.359398 0.000500 0.973800
+        Vertex 1 0.000000 -25.054501 84.359398 0.500000 0.973800
+        Vertex 2 0.000000 -25.054501 229.663101 0.500000 0.026200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask 8
+        Vertex 0 0.000000 -25.054501 229.663101 0.500000 0.026200
+        Vertex 1 127.999496 -25.054501 229.663101 0.000500 0.026200
+        Vertex 2 127.999496 -25.054501 84.359398 0.000500 0.973800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask 8
+        Vertex 0 0.000000 -25.054501 84.359398 0.500000 0.973800
+        Vertex 1 -128.000504 -25.054501 84.359398 0.999500 0.973800
+        Vertex 2 -128.000504 -25.054501 229.663101 0.999500 0.026200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask 8
+        Vertex 0 -128.000504 -25.054501 229.663101 0.999500 0.026200
+        Vertex 1 0.000000 -25.054501 229.663101 0.500000 0.026200
+        Vertex 2 0.000000 -25.054501 84.359398 0.500000 0.973800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 128.000000 -32.000000 0.000000 0.000500 0.999500
+        Vertex 1 0.000000 -32.000000 0.000000 0.497200 0.999500
+        Vertex 2 0.000000 -17.967199 21.463600 0.497200 0.915700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -17.967199 21.463600 0.497200 0.915700
+        Vertex 1 128.000000 -17.967199 21.463600 0.000500 0.915700
+        Vertex 2 128.000000 -32.000000 0.000000 0.000500 0.999500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -32.000000 0.000000 0.497200 0.999500
+        Vertex 1 -128.000000 -32.000000 0.000000 0.993900 0.999500
+        Vertex 2 -128.000000 -17.967199 21.463600 0.993900 0.915700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000000 -17.967199 21.463600 0.993900 0.915700
+        Vertex 1 0.000000 -17.967199 21.463600 0.497200 0.915700
+        Vertex 2 0.000000 -32.000000 0.000000 0.497200 0.999500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -32.000000 256.000000 0.497200 0.000500
+        Vertex 1 128.000000 -32.000000 256.000000 0.000500 0.000500
+        Vertex 2 128.000000 -17.967199 233.600494 0.000500 0.087900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 128.000000 -17.967199 233.600494 0.000500 0.087900
+        Vertex 1 0.000000 -17.967199 233.600494 0.497200 0.087900
+        Vertex 2 0.000000 -32.000000 256.000000 0.497200 0.000500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000000 -32.000000 256.000000 0.993900 0.000500
+        Vertex 1 0.000000 -32.000000 256.000000 0.497200 0.000500
+        Vertex 2 0.000000 -17.967199 233.600494 0.497200 0.087900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -17.967199 233.600494 0.497200 0.087900
+        Vertex 1 -128.000000 -17.967199 233.600494 0.993900 0.087900
+        Vertex 2 -128.000000 -32.000000 256.000000 0.993900 0.000500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask -2147483648
+        Vertex 0 127.999496 -17.967199 80.421997 0.000500 0.999500
+        Vertex 1 0.000000 -17.967199 80.421997 0.500000 0.999500
+        Vertex 2 0.000000 -25.054501 84.359398 0.500000 0.973800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -25.054501 84.359398 0.500000 0.973800
+        Vertex 1 127.999496 -25.054501 84.359398 0.000500 0.973800
+        Vertex 2 127.999496 -17.967199 80.421997 0.000500 0.999500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -17.967199 80.421997 0.500000 0.999500
+        Vertex 1 -128.000504 -17.967199 80.421997 0.999500 0.999500
+        Vertex 2 -128.000504 -25.054501 84.359398 0.999500 0.973800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000504 -25.054501 84.359398 0.999500 0.973800
+        Vertex 1 0.000000 -25.054501 84.359398 0.500000 0.973800
+        Vertex 2 0.000000 -17.967199 80.421997 0.500000 0.999500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -17.967199 233.600494 0.500000 0.000500
+        Vertex 1 128.000000 -17.967199 233.600494 0.000500 0.000500
+        Vertex 2 127.999496 -25.054501 229.663101 0.000500 0.026200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask -2147483648
+        Vertex 0 127.999496 -25.054501 229.663101 0.000500 0.026200
+        Vertex 1 0.000000 -25.054501 229.663101 0.500000 0.026200
+        Vertex 2 0.000000 -17.967199 233.600494 0.500000 0.000500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000000 -17.967199 233.600494 0.999500 0.000500
+        Vertex 1 0.000000 -17.967199 233.600494 0.500000 0.000500
+        Vertex 2 0.000000 -25.054501 229.663101 0.500000 0.026200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Walls.wal17HA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -25.054501 229.663101 0.500000 0.026200
+        Vertex 1 -128.000504 -25.054501 229.663101 0.999500 0.026200
+        Vertex 2 -128.000000 -17.967199 233.600494 0.999500 0.000500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 128.000000 -17.967199 21.463600 0.000500 0.915700
+        Vertex 1 0.000000 -17.967199 21.463600 0.497200 0.915700
+        Vertex 2 0.000000 -23.479500 24.613501 0.497200 0.903500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -23.479500 24.613501 0.497200 0.903500
+        Vertex 1 127.999496 -23.479500 24.613501 0.000500 0.903500
+        Vertex 2 128.000000 -17.967199 21.463600 0.000500 0.915700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -17.967199 51.137402 0.497200 0.799900
+        Vertex 1 127.999496 -17.967199 51.137402 0.000500 0.799900
+        Vertex 2 127.999496 -23.479500 47.987499 0.000500 0.812200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 127.999496 -23.479500 47.987499 0.000500 0.812200
+        Vertex 1 0.000000 -23.479500 47.987499 0.497200 0.812200
+        Vertex 2 0.000000 -17.967199 51.137402 0.497200 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -17.967199 21.463600 0.497200 0.915700
+        Vertex 1 -128.000000 -17.967199 21.463600 0.993900 0.915700
+        Vertex 2 -128.000504 -23.479500 24.613501 0.993900 0.903500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000504 -23.479500 24.613501 0.993900 0.903500
+        Vertex 1 0.000000 -23.479500 24.613501 0.497200 0.903500
+        Vertex 2 0.000000 -17.967199 21.463600 0.497200 0.915700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000000 -17.967199 51.137402 0.993900 0.799900
+        Vertex 1 0.000000 -17.967199 51.137402 0.497200 0.799900
+        Vertex 2 0.000000 -23.479500 47.987499 0.497200 0.812200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -23.479500 47.987499 0.497200 0.812200
+        Vertex 1 -128.000504 -23.479500 47.987499 0.993900 0.812200
+        Vertex 2 -128.000000 -17.967199 51.137402 0.993900 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 127.999496 -17.967199 51.137402 0.000500 0.500800
+        Vertex 1 0.000000 -17.967199 51.137402 0.497200 0.500800
+        Vertex 2 0.000000 -12.783800 51.137402 0.497200 0.316600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -12.783800 51.137402 0.497200 0.316600
+        Vertex 1 128.000000 -12.783800 51.137402 0.000500 0.316600
+        Vertex 2 127.999496 -17.967199 51.137402 0.000500 0.500800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -17.967199 80.421997 0.502800 0.500800
+        Vertex 1 127.999496 -17.967199 80.421997 0.999500 0.500800
+        Vertex 2 127.999496 -12.783800 80.421997 0.999500 0.316600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 127.999496 -12.783800 80.421997 0.999500 0.316600
+        Vertex 1 0.000000 -12.783800 80.421997 0.502800 0.316600
+        Vertex 2 0.000000 -17.967199 80.421997 0.502800 0.500800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -17.967199 51.137402 0.497200 0.500800
+        Vertex 1 -128.000000 -17.967199 51.137402 0.993900 0.500800
+        Vertex 2 -128.000000 -12.783800 51.137402 0.993900 0.316600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000000 -12.783800 51.137402 0.993900 0.316600
+        Vertex 1 0.000000 -12.783800 51.137402 0.497200 0.316600
+        Vertex 2 0.000000 -17.967199 51.137402 0.497200 0.500800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000504 -17.967199 80.421997 0.006100 0.500800
+        Vertex 1 0.000000 -17.967199 80.421997 0.502800 0.500800
+        Vertex 2 0.000000 -12.783800 80.421997 0.502800 0.316600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -12.783800 80.421997 0.502800 0.316600
+        Vertex 1 -128.000504 -12.783800 80.421997 0.006100 0.316600
+        Vertex 2 -128.000504 -17.967199 80.421997 0.006100 0.500800
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourepillarcorreced
+        SmoothingMask 8
+        Vertex 0 0.000000 -23.479500 27.345699 1.000000 0.999800
+        Vertex 1 -128.000504 -23.479500 44.803101 1.999000 0.500200
+        Vertex 2 0.000000 -23.479500 44.803101 1.000000 0.500200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 0.000000 -25.859200 44.803101 0.497200 0.824700
+        Vertex 1 -128.000504 -25.859200 44.803101 0.993900 0.824700
+        Vertex 2 -128.000504 -25.859200 47.987499 0.993900 0.812200
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourepillarcorreced
+        SmoothingMask 8
+        Vertex 0 127.999496 -23.479500 27.345699 0.001000 0.999800
+        Vertex 1 0.000000 -23.479500 44.803101 1.000000 0.500200
+        Vertex 2 127.999496 -23.479500 44.803101 0.001000 0.500200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 127.999496 -25.859200 44.803101 0.000500 0.824700
+        Vertex 1 0.000000 -25.859200 44.803101 0.497200 0.824700
+        Vertex 2 0.000000 -25.859200 47.987499 0.497200 0.812200
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourepillarcorreced
+        SmoothingMask 8
+        Vertex 0 0.000000 -23.479500 27.345699 1.000000 0.999800
+        Vertex 1 0.000000 -23.479500 44.803101 1.000000 0.500200
+        Vertex 2 127.999496 -23.479500 27.345699 0.001000 0.999800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 127.999496 -25.859200 24.613501 0.000500 0.903500
+        Vertex 1 0.000000 -25.859200 27.345699 0.497200 0.892800
+        Vertex 2 127.999496 -25.859200 27.345699 0.000500 0.892800
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourepillarcorreced
+        SmoothingMask 8
+        Vertex 0 -128.000504 -23.479500 27.345699 1.999000 0.999800
+        Vertex 1 -128.000504 -23.479500 44.803101 1.999000 0.500200
+        Vertex 2 0.000000 -23.479500 27.345699 1.000000 0.999800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 0.000000 -25.859200 24.613501 0.497200 0.903500
+        Vertex 1 -128.000504 -25.859200 27.345699 0.993900 0.892800
+        Vertex 2 0.000000 -25.859200 27.345699 0.497200 0.892800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 127.999496 -23.479500 24.613501 0.999500 0.696700
+        Vertex 1 0.000000 -23.479500 24.613501 0.502800 0.696700
+        Vertex 2 0.000000 -25.859200 24.613501 0.502800 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -25.859200 24.613501 0.502800 0.781300
+        Vertex 1 127.999496 -25.859200 24.613501 0.999500 0.781300
+        Vertex 2 127.999496 -23.479500 24.613501 0.999500 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -23.479500 47.987499 0.497200 0.696700
+        Vertex 1 127.999496 -23.479500 47.987499 0.000500 0.696700
+        Vertex 2 127.999496 -25.859200 47.987499 0.000500 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 127.999496 -25.859200 47.987499 0.000500 0.781300
+        Vertex 1 0.000000 -25.859200 47.987499 0.497200 0.781300
+        Vertex 2 0.000000 -23.479500 47.987499 0.497200 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -23.479500 24.613501 0.502800 0.696700
+        Vertex 1 -128.000504 -23.479500 24.613501 0.006100 0.696700
+        Vertex 2 -128.000504 -25.859200 24.613501 0.006100 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000504 -25.859200 24.613501 0.006100 0.781300
+        Vertex 1 0.000000 -25.859200 24.613501 0.502800 0.781300
+        Vertex 2 0.000000 -23.479500 24.613501 0.502800 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000504 -23.479500 47.987499 0.993900 0.696700
+        Vertex 1 0.000000 -23.479500 47.987499 0.497200 0.696700
+        Vertex 2 0.000000 -25.859200 47.987499 0.497200 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -25.859200 47.987499 0.497200 0.781300
+        Vertex 1 -128.000504 -25.859200 47.987499 0.993900 0.781300
+        Vertex 2 -128.000504 -23.479500 47.987499 0.993900 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -23.479500 44.803101 0.502800 0.696700
+        Vertex 1 -128.000504 -23.479500 44.803101 0.006100 0.696700
+        Vertex 2 -128.000504 -25.859200 44.803101 0.006100 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000504 -25.859200 44.803101 0.006100 0.781300
+        Vertex 1 0.000000 -25.859200 44.803101 0.502800 0.781300
+        Vertex 2 0.000000 -23.479500 44.803101 0.502800 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 127.999496 -23.479500 44.803101 0.999500 0.696700
+        Vertex 1 0.000000 -23.479500 44.803101 0.502800 0.696700
+        Vertex 2 0.000000 -25.859200 44.803101 0.502800 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -25.859200 44.803101 0.502800 0.781300
+        Vertex 1 127.999496 -25.859200 44.803101 0.999500 0.781300
+        Vertex 2 127.999496 -23.479500 44.803101 0.999500 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -23.479500 27.345699 0.497200 0.696700
+        Vertex 1 127.999496 -23.479500 27.345699 0.000500 0.696700
+        Vertex 2 127.999496 -25.859200 27.345699 0.000500 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 127.999496 -25.859200 27.345699 0.000500 0.781300
+        Vertex 1 0.000000 -25.859200 27.345699 0.497200 0.781300
+        Vertex 2 0.000000 -23.479500 27.345699 0.497200 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 -128.000504 -23.479500 27.345699 0.993900 0.696700
+        Vertex 1 0.000000 -23.479500 27.345699 0.497200 0.696700
+        Vertex 2 0.000000 -25.859200 27.345699 0.497200 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask -2147483648
+        Vertex 0 0.000000 -25.859200 27.345699 0.497200 0.781300
+        Vertex 1 -128.000504 -25.859200 27.345699 0.993900 0.781300
+        Vertex 2 -128.000504 -23.479500 27.345699 0.993900 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 127.999496 -17.967199 51.137402 0.000500 0.799900
+        Vertex 1 124.661003 -17.967199 51.137402 0.013500 0.799900
+        Vertex 2 124.661003 -17.967199 65.353401 0.013500 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 124.661003 -17.967199 65.353401 0.013500 0.744500
+        Vertex 1 127.999496 -17.967199 65.353401 0.000500 0.744500
+        Vertex 2 127.999496 -17.967199 51.137402 0.000500 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 127.999496 -17.967199 65.353401 0.000500 0.744500
+        Vertex 1 124.661003 -17.967199 65.353401 0.013500 0.744500
+        Vertex 2 124.661003 -17.967199 80.421997 0.013500 0.685700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 124.661003 -17.967199 80.421997 0.013500 0.685700
+        Vertex 1 127.999496 -17.967199 80.421997 0.000500 0.685700
+        Vertex 2 127.999496 -17.967199 65.353401 0.000500 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 124.661003 -17.967199 51.137402 0.499200 0.799900
+        Vertex 1 124.661499 -12.783800 51.137402 0.683400 0.799900
+        Vertex 2 124.661499 -12.783800 65.353401 0.683400 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 124.661499 -12.783800 65.353401 0.683400 0.744500
+        Vertex 1 124.661003 -17.967199 65.353401 0.499200 0.744500
+        Vertex 2 124.661003 -17.967199 51.137402 0.499200 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 124.661003 -17.967199 65.353401 0.499200 0.744500
+        Vertex 1 124.661499 -12.783800 65.353401 0.683400 0.744500
+        Vertex 2 124.661499 -12.783800 80.421997 0.683400 0.685700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 124.661499 -12.783800 80.421997 0.683400 0.685700
+        Vertex 1 124.661003 -17.967199 80.421997 0.499200 0.685700
+        Vertex 2 124.661003 -17.967199 65.353401 0.499200 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 128.000000 -12.783800 51.137402 0.316600 0.799900
+        Vertex 1 127.999496 -17.967199 51.137402 0.500800 0.799900
+        Vertex 2 127.999496 -17.967199 65.353401 0.500800 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 127.999496 -17.967199 65.353401 0.500800 0.744500
+        Vertex 1 128.000000 -12.783800 65.353401 0.316600 0.744500
+        Vertex 2 128.000000 -12.783800 51.137402 0.316600 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 128.000000 -12.783800 65.353401 0.316600 0.744500
+        Vertex 1 127.999496 -17.967199 65.353401 0.500800 0.744500
+        Vertex 2 127.999496 -17.967199 80.421997 0.500800 0.685700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 127.999496 -17.967199 80.421997 0.500800 0.685700
+        Vertex 1 128.000000 -12.783800 80.421997 0.316600 0.685700
+        Vertex 2 128.000000 -12.783800 65.353401 0.316600 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -124.661499 -17.967199 51.137402 0.981000 0.799900
+        Vertex 1 -128.000000 -17.967199 51.137402 0.993900 0.799900
+        Vertex 2 -128.000000 -17.967199 65.353401 0.993900 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -128.000000 -17.967199 65.353401 0.993900 0.744500
+        Vertex 1 -124.661499 -17.967199 65.353401 0.981000 0.744500
+        Vertex 2 -124.661499 -17.967199 51.137402 0.981000 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -124.661499 -17.967199 65.353401 0.981000 0.744500
+        Vertex 1 -128.000000 -17.967199 65.353401 0.993900 0.744500
+        Vertex 2 -128.000000 -17.967199 80.421997 0.993900 0.685700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -128.000000 -17.967199 80.421997 0.993900 0.685700
+        Vertex 1 -124.661499 -17.967199 80.421997 0.981000 0.685700
+        Vertex 2 -124.661499 -17.967199 65.353401 0.981000 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 -128.000000 -17.967199 51.137402 0.499200 0.799900
+        Vertex 1 -127.999496 -12.783800 51.137402 0.683400 0.799900
+        Vertex 2 -127.999496 -12.783800 65.353401 0.683400 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 -127.999496 -12.783800 65.353401 0.683400 0.744500
+        Vertex 1 -128.000000 -17.967199 65.353401 0.499200 0.744500
+        Vertex 2 -128.000000 -17.967199 51.137402 0.499200 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 -128.000000 -17.967199 65.353401 0.499200 0.744500
+        Vertex 1 -127.999496 -12.783800 65.353401 0.683400 0.744500
+        Vertex 2 -127.999496 -12.783800 80.421997 0.683400 0.685700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 -127.999496 -12.783800 80.421997 0.683400 0.685700
+        Vertex 1 -128.000000 -17.967199 80.421997 0.499200 0.685700
+        Vertex 2 -128.000000 -17.967199 65.353401 0.499200 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 -124.661003 -12.783800 51.137402 0.316600 0.799900
+        Vertex 1 -124.661499 -17.967199 51.137402 0.500800 0.799900
+        Vertex 2 -124.661499 -17.967199 65.353401 0.500800 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 -124.661499 -17.967199 65.353401 0.500800 0.744500
+        Vertex 1 -124.661003 -12.783800 65.353401 0.316600 0.744500
+        Vertex 2 -124.661003 -12.783800 51.137402 0.316600 0.799900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 -124.661003 -12.783800 65.353401 0.316600 0.744500
+        Vertex 1 -124.661499 -17.967199 65.353401 0.500800 0.744500
+        Vertex 2 -124.661499 -17.967199 80.421997 0.500800 0.685700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 -124.661499 -17.967199 80.421997 0.500800 0.685700
+        Vertex 1 -124.661003 -12.783800 80.421997 0.316600 0.685700
+        Vertex 2 -124.661003 -12.783800 65.353401 0.316600 0.744500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 4
+        Vertex 0 0.000000 -25.859200 27.436300 0.497200 0.892400
+        Vertex 1 -18.000000 -25.859200 27.436300 0.567100 0.892400
+        Vertex 2 -18.000000 -25.859200 44.803101 0.567100 0.824700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 4
+        Vertex 0 -18.000000 -25.859200 44.803101 0.567100 0.824700
+        Vertex 1 0.000000 -25.859200 44.803101 0.497200 0.824700
+        Vertex 2 0.000000 -25.859200 27.436300 0.497200 0.892400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 18.000000 -23.479601 27.345699 0.572600 0.696700
+        Vertex 1 -18.000000 -23.479601 27.345699 0.432900 0.696700
+        Vertex 2 -18.000000 -25.859200 27.436300 0.432900 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -18.000000 -25.859200 27.436300 0.432900 0.781300
+        Vertex 1 0.000000 -25.859200 27.436300 0.502800 0.781300
+        Vertex 2 18.000000 -23.479601 27.345699 0.572600 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 -18.000000 -23.479601 27.345699 0.303300 0.892800
+        Vertex 1 -18.000000 -23.479601 44.712502 0.303300 0.825000
+        Vertex 2 -18.000000 -25.859200 44.803101 0.218700 0.824700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 16
+        Vertex 0 -18.000000 -25.859200 44.803101 0.218700 0.824700
+        Vertex 1 -18.000000 -25.859200 27.436300 0.218700 0.892400
+        Vertex 2 -18.000000 -23.479601 27.345699 0.303300 0.892800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 32
+        Vertex 0 -18.000000 -23.479601 44.712502 0.567100 0.696700
+        Vertex 1 18.000000 -23.479601 44.712502 0.427400 0.696700
+        Vertex 2 18.000000 -25.859200 44.803101 0.427400 0.781300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 32
+        Vertex 0 0.000000 -25.859200 44.803101 0.497200 0.781300
+        Vertex 1 -18.000000 -25.859200 44.803101 0.567100 0.781300
+        Vertex 2 -18.000000 -23.479601 44.712502 0.567100 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 18.000000 -23.479601 44.712502 0.696700 0.825000
+        Vertex 1 18.000000 -23.479601 27.345699 0.696700 0.892800
+        Vertex 2 18.000000 -25.859200 27.436300 0.781300 0.892400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 64
+        Vertex 0 18.000000 -25.859200 27.436300 0.781300 0.892400
+        Vertex 1 18.000000 -25.859200 44.803101 0.781300 0.824700
+        Vertex 2 18.000000 -23.479601 44.712502 0.696700 0.825000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 4
+        Vertex 0 0.000000 -25.859200 44.803101 0.497200 0.824700
+        Vertex 1 18.000000 -25.859200 44.803101 0.427400 0.824700
+        Vertex 2 18.000000 -25.859200 27.436300 0.427400 0.892400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 32
+        Vertex 0 18.000000 -25.859200 44.803101 0.427400 0.781300
+        Vertex 1 0.000000 -25.859200 44.803101 0.497200 0.781300
+        Vertex 2 -18.000000 -23.479601 44.712502 0.567100 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 4
+        Vertex 0 18.000000 -25.859200 27.436300 0.427400 0.892400
+        Vertex 1 0.000000 -25.859200 27.436300 0.497200 0.892400
+        Vertex 2 0.000000 -25.859200 44.803101 0.497200 0.824700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 0.000000 -25.859200 27.436300 0.502800 0.781300
+        Vertex 1 18.000000 -25.859200 27.436300 0.572600 0.781300
+        Vertex 2 18.000000 -23.479601 27.345699 0.572600 0.696700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -16.771400 -25.859200 32.072300 0.562300 0.781300
+        Vertex 1 -14.030600 -27.810801 34.291801 0.551700 0.850600
+        Vertex 2 -16.771400 -27.810801 32.072300 0.562300 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -16.771400 -25.859200 32.072300 0.562300 0.781300
+        Vertex 1 -14.030600 -25.859200 34.291801 0.551700 0.781300
+        Vertex 2 -14.030600 -27.810801 34.291801 0.551700 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -14.030600 -25.859200 34.291801 0.551700 0.781300
+        Vertex 1 -11.072900 -27.810801 32.370998 0.540200 0.850600
+        Vertex 2 -14.030600 -27.810801 34.291801 0.551700 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -14.030600 -25.859200 34.291801 0.551700 0.781300
+        Vertex 1 -11.072900 -25.859200 32.370998 0.540200 0.781300
+        Vertex 2 -11.072900 -27.810801 32.370998 0.540200 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -11.072900 -25.859200 32.370998 0.781300 0.873200
+        Vertex 1 -11.985600 -27.810801 28.964500 0.850600 0.886500
+        Vertex 2 -11.072900 -27.810801 32.370998 0.850600 0.873200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -11.072900 -25.859200 32.370998 0.781300 0.873200
+        Vertex 1 -11.985600 -25.859200 28.964500 0.781300 0.886500
+        Vertex 2 -11.985600 -27.810801 28.964500 0.850600 0.886500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -11.985600 -25.859200 28.964500 0.456300 0.781300
+        Vertex 1 -15.507500 -27.810801 28.779900 0.442600 0.850600
+        Vertex 2 -11.985600 -27.810801 28.964500 0.456300 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -11.985600 -25.859200 28.964500 0.456300 0.781300
+        Vertex 1 -15.507500 -25.859200 28.779900 0.442600 0.781300
+        Vertex 2 -15.507500 -27.810801 28.779900 0.442600 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -15.507500 -25.859200 28.779900 0.218700 0.887200
+        Vertex 1 -16.771400 -27.810801 32.072300 0.149400 0.874300
+        Vertex 2 -15.507500 -27.810801 28.779900 0.149400 0.887200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -15.507500 -25.859200 28.779900 0.218700 0.887200
+        Vertex 1 -16.771400 -25.859200 32.072300 0.218700 0.874300
+        Vertex 2 -16.771400 -27.810801 32.072300 0.149400 0.874300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 31.295900 0.551100 0.877400
+        Vertex 1 -16.771400 -27.810801 32.072300 0.562300 0.874300
+        Vertex 2 -14.030600 -27.810801 34.291801 0.551700 0.865700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 31.295900 0.551100 0.877400
+        Vertex 1 -14.030600 -27.810801 34.291801 0.551700 0.865700
+        Vertex 2 -11.072900 -27.810801 32.370998 0.540200 0.873200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 31.295900 0.551100 0.877400
+        Vertex 1 -11.072900 -27.810801 32.370998 0.540200 0.873200
+        Vertex 2 -11.985600 -27.810801 28.964500 0.543700 0.886500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 31.295900 0.551100 0.877400
+        Vertex 1 -11.985600 -27.810801 28.964500 0.543700 0.886500
+        Vertex 2 -15.507500 -27.810801 28.779900 0.557400 0.887200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 31.295900 0.551100 0.877400
+        Vertex 1 -15.507500 -27.810801 28.779900 0.557400 0.887200
+        Vertex 2 -16.771400 -27.810801 32.072300 0.562300 0.874300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -10.301900 -25.859200 31.262400 0.218700 0.877500
+        Vertex 1 -8.228900 -27.810801 34.115601 0.149400 0.866400
+        Vertex 2 -10.301900 -27.810801 31.262400 0.149400 0.877500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -10.301900 -25.859200 31.262400 0.218700 0.877500
+        Vertex 1 -8.228900 -25.859200 34.115601 0.218700 0.866400
+        Vertex 2 -8.228900 -27.810801 34.115601 0.149400 0.866400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -8.228900 -25.859200 34.115601 0.529200 0.781300
+        Vertex 1 -4.874800 -27.810801 33.025799 0.516100 0.850600
+        Vertex 2 -8.228900 -27.810801 34.115601 0.529200 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -8.228900 -25.859200 34.115601 0.529200 0.781300
+        Vertex 1 -4.874800 -25.859200 33.025799 0.516100 0.781300
+        Vertex 2 -4.874800 -27.810801 33.025799 0.516100 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -4.874800 -25.859200 33.025799 0.781300 0.870600
+        Vertex 1 -4.874800 -27.810801 29.499100 0.850600 0.884400
+        Vertex 2 -4.874800 -27.810801 33.025799 0.850600 0.870600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -4.874800 -25.859200 33.025799 0.781300 0.870600
+        Vertex 1 -4.874800 -25.859200 29.499100 0.781300 0.884400
+        Vertex 2 -4.874800 -27.810801 29.499100 0.850600 0.884400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -4.874800 -25.859200 29.499100 0.483900 0.781300
+        Vertex 1 -8.228900 -27.810801 28.409300 0.470800 0.850600
+        Vertex 2 -4.874800 -27.810801 29.499100 0.483900 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -4.874800 -25.859200 29.499100 0.483900 0.781300
+        Vertex 1 -8.228900 -25.859200 28.409300 0.470800 0.781300
+        Vertex 2 -8.228900 -27.810801 28.409300 0.470800 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -8.228900 -25.859200 28.409300 0.218700 0.888600
+        Vertex 1 -10.301900 -27.810801 31.262400 0.149400 0.877500
+        Vertex 2 -8.228900 -27.810801 28.409300 0.149400 0.888600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -8.228900 -25.859200 28.409300 0.218700 0.888600
+        Vertex 1 -10.301900 -25.859200 31.262400 0.218700 0.877500
+        Vertex 2 -10.301900 -27.810801 31.262400 0.149400 0.877500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 31.262400 0.525600 0.877500
+        Vertex 1 -10.301900 -27.810801 31.262400 0.537200 0.877500
+        Vertex 2 -8.228900 -27.810801 34.115601 0.529200 0.866400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 31.262400 0.525600 0.877500
+        Vertex 1 -8.228900 -27.810801 34.115601 0.529200 0.866400
+        Vertex 2 -4.874800 -27.810801 33.025799 0.516100 0.870600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 31.262400 0.525600 0.877500
+        Vertex 1 -4.874800 -27.810801 33.025799 0.516100 0.870600
+        Vertex 2 -4.874800 -27.810801 29.499100 0.516100 0.884400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 31.262400 0.525600 0.877500
+        Vertex 1 -4.874800 -27.810801 29.499100 0.516100 0.884400
+        Vertex 2 -8.228900 -27.810801 28.409300 0.529200 0.888600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 31.262400 0.525600 0.877500
+        Vertex 1 -8.228900 -27.810801 28.409300 0.529200 0.888600
+        Vertex 2 -10.301900 -27.810801 31.262400 0.537200 0.877500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -9.022600 -25.859200 37.277599 0.218700 0.854000
+        Vertex 1 -10.170800 -27.810801 40.612202 0.149400 0.841000
+        Vertex 2 -9.022600 -27.810801 37.277599 0.149400 0.854000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -9.022600 -25.859200 37.277599 0.218700 0.854000
+        Vertex 1 -10.170800 -25.859200 40.612202 0.218700 0.841000
+        Vertex 2 -10.170800 -27.810801 40.612202 0.149400 0.841000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -10.170800 -25.859200 40.612202 0.536700 0.781300
+        Vertex 1 -7.354200 -27.810801 42.734600 0.525800 0.850600
+        Vertex 2 -10.170800 -27.810801 40.612202 0.536700 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -10.170800 -25.859200 40.612202 0.536700 0.781300
+        Vertex 1 -7.354200 -25.859200 42.734600 0.525800 0.781300
+        Vertex 2 -7.354200 -27.810801 42.734600 0.525800 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -7.354200 -25.859200 42.734600 0.525800 0.781300
+        Vertex 1 -4.465300 -27.810801 40.711800 0.514500 0.850600
+        Vertex 2 -7.354200 -27.810801 42.734600 0.525800 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -7.354200 -25.859200 42.734600 0.525800 0.781300
+        Vertex 1 -4.465300 -25.859200 40.711800 0.514500 0.781300
+        Vertex 2 -4.465300 -27.810801 40.711800 0.514500 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -4.465300 -25.859200 40.711800 0.781300 0.840600
+        Vertex 1 -5.496400 -27.810801 37.339199 0.850600 0.853800
+        Vertex 2 -4.465300 -27.810801 40.711800 0.850600 0.840600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -4.465300 -25.859200 40.711800 0.781300 0.840600
+        Vertex 1 -5.496400 -25.859200 37.339199 0.781300 0.853800
+        Vertex 2 -5.496400 -27.810801 37.339199 0.850600 0.853800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -5.496400 -25.859200 37.339199 0.481400 0.781300
+        Vertex 1 -9.022600 -27.810801 37.277599 0.467800 0.850600
+        Vertex 2 -5.496400 -27.810801 37.339199 0.481400 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -5.496400 -25.859200 37.339199 0.481400 0.781300
+        Vertex 1 -9.022600 -25.859200 37.277599 0.467800 0.781300
+        Vertex 2 -9.022600 -27.810801 37.277599 0.467800 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 39.735100 0.525600 0.844400
+        Vertex 1 -9.022600 -27.810801 37.277599 0.532200 0.854000
+        Vertex 2 -10.170800 -27.810801 40.612202 0.536700 0.841000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 39.735100 0.525600 0.844400
+        Vertex 1 -10.170800 -27.810801 40.612202 0.536700 0.841000
+        Vertex 2 -7.354200 -27.810801 42.734600 0.525800 0.832700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 39.735100 0.525600 0.844400
+        Vertex 1 -7.354200 -27.810801 42.734600 0.525800 0.832700
+        Vertex 2 -4.465300 -27.810801 40.711800 0.514500 0.840600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 39.735100 0.525600 0.844400
+        Vertex 1 -4.465300 -27.810801 40.711800 0.514500 0.840600
+        Vertex 2 -5.496400 -27.810801 37.339199 0.518600 0.853800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -7.301900 -27.810801 39.735100 0.525600 0.844400
+        Vertex 1 -5.496400 -27.810801 37.339199 0.518600 0.853800
+        Vertex 2 -9.022600 -27.810801 37.277599 0.532200 0.854000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -16.862200 -25.859200 39.473598 0.218700 0.845500
+        Vertex 1 -15.045800 -27.810801 42.496601 0.149400 0.833700
+        Vertex 2 -16.862200 -27.810801 39.473598 0.149400 0.845500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -16.862200 -25.859200 39.473598 0.218700 0.845500
+        Vertex 1 -15.045800 -25.859200 42.496601 0.218700 0.833700
+        Vertex 2 -15.045800 -27.810801 42.496601 0.149400 0.833700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -15.045800 -25.859200 42.496601 0.555600 0.781300
+        Vertex 1 -11.609500 -27.810801 41.703300 0.542300 0.850600
+        Vertex 2 -15.045800 -27.810801 42.496601 0.555600 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -15.045800 -25.859200 42.496601 0.555600 0.781300
+        Vertex 1 -11.609500 -25.859200 41.703300 0.542300 0.781300
+        Vertex 2 -11.609500 -27.810801 41.703300 0.542300 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -11.609500 -25.859200 41.703300 0.781300 0.836800
+        Vertex 1 -11.302100 -27.810801 38.189999 0.850600 0.850500
+        Vertex 2 -11.609500 -27.810801 41.703300 0.850600 0.836800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -11.609500 -25.859200 41.703300 0.781300 0.836800
+        Vertex 1 -11.302100 -25.859200 38.189999 0.781300 0.850500
+        Vertex 2 -11.302100 -27.810801 38.189999 0.850600 0.850500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -11.302100 -25.859200 38.189999 0.458900 0.781300
+        Vertex 1 -14.548400 -27.810801 36.812000 0.446300 0.850600
+        Vertex 2 -11.302100 -27.810801 38.189999 0.458900 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -11.302100 -25.859200 38.189999 0.458900 0.781300
+        Vertex 1 -14.548400 -25.859200 36.812000 0.446300 0.781300
+        Vertex 2 -14.548400 -27.810801 36.812000 0.446300 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -14.548400 -25.859200 36.812000 0.218700 0.855800
+        Vertex 1 -16.862200 -27.810801 39.473598 0.149400 0.845500
+        Vertex 2 -14.548400 -27.810801 36.812000 0.149400 0.855800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 -14.548400 -25.859200 36.812000 0.218700 0.855800
+        Vertex 1 -16.862200 -25.859200 39.473598 0.218700 0.845500
+        Vertex 2 -16.862200 -27.810801 39.473598 0.149400 0.845500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 39.735100 0.551100 0.844400
+        Vertex 1 -16.862200 -27.810801 39.473598 0.562700 0.845500
+        Vertex 2 -15.045800 -27.810801 42.496601 0.555600 0.833700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 39.735100 0.551100 0.844400
+        Vertex 1 -15.045800 -27.810801 42.496601 0.555600 0.833700
+        Vertex 2 -11.609500 -27.810801 41.703300 0.542300 0.836800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 39.735100 0.551100 0.844400
+        Vertex 1 -11.609500 -27.810801 41.703300 0.542300 0.836800
+        Vertex 2 -11.302100 -27.810801 38.189999 0.541100 0.850500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 39.735100 0.551100 0.844400
+        Vertex 1 -11.302100 -27.810801 38.189999 0.541100 0.850500
+        Vertex 2 -14.548400 -27.810801 36.812000 0.553700 0.855800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 -13.873600 -27.810801 39.735100 0.551100 0.844400
+        Vertex 1 -14.548400 -27.810801 36.812000 0.553700 0.855800
+        Vertex 2 -16.862200 -27.810801 39.473598 0.562700 0.845500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 12.054700 -25.859200 37.277599 0.218700 0.854000
+        Vertex 1 10.906500 -27.810801 40.612202 0.149400 0.841000
+        Vertex 2 12.054700 -27.810801 37.277599 0.149400 0.854000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 12.054700 -25.859200 37.277599 0.218700 0.854000
+        Vertex 1 10.906500 -25.859200 40.612202 0.218700 0.841000
+        Vertex 2 10.906500 -27.810801 40.612202 0.149400 0.841000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 10.906500 -25.859200 40.612202 0.454900 0.781300
+        Vertex 1 13.723000 -27.810801 42.734600 0.444000 0.850600
+        Vertex 2 10.906500 -27.810801 40.612202 0.454900 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 10.906500 -25.859200 40.612202 0.454900 0.781300
+        Vertex 1 13.723000 -25.859200 42.734600 0.444000 0.781300
+        Vertex 2 13.723000 -27.810801 42.734600 0.444000 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 13.723000 -25.859200 42.734600 0.444000 0.781300
+        Vertex 1 16.612000 -27.810801 40.711800 0.432800 0.850600
+        Vertex 2 13.723000 -27.810801 42.734600 0.444000 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 13.723000 -25.859200 42.734600 0.444000 0.781300
+        Vertex 1 16.612000 -25.859200 40.711800 0.432800 0.781300
+        Vertex 2 16.612000 -27.810801 40.711800 0.432800 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 16.612000 -25.859200 40.711800 0.781300 0.840600
+        Vertex 1 15.580800 -27.810801 37.339199 0.850600 0.853800
+        Vertex 2 16.612000 -27.810801 40.711800 0.850600 0.840600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 16.612000 -25.859200 40.711800 0.781300 0.840600
+        Vertex 1 15.580800 -25.859200 37.339199 0.781300 0.853800
+        Vertex 2 15.580800 -27.810801 37.339199 0.850600 0.853800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 15.580800 -25.859200 37.339199 0.563200 0.781300
+        Vertex 1 12.054700 -27.810801 37.277599 0.549600 0.850600
+        Vertex 2 15.580800 -27.810801 37.339199 0.563200 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 15.580800 -25.859200 37.339199 0.563200 0.781300
+        Vertex 1 12.054700 -25.859200 37.277599 0.549600 0.781300
+        Vertex 2 12.054700 -27.810801 37.277599 0.549600 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 39.735100 0.443800 0.844400
+        Vertex 1 12.054700 -27.810801 37.277599 0.450400 0.854000
+        Vertex 2 10.906500 -27.810801 40.612202 0.454900 0.841000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 39.735100 0.443800 0.844400
+        Vertex 1 10.906500 -27.810801 40.612202 0.454900 0.841000
+        Vertex 2 13.723000 -27.810801 42.734600 0.444000 0.832700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 39.735100 0.443800 0.844400
+        Vertex 1 13.723000 -27.810801 42.734600 0.444000 0.832700
+        Vertex 2 16.612000 -27.810801 40.711800 0.432800 0.840600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 39.735100 0.443800 0.844400
+        Vertex 1 16.612000 -27.810801 40.711800 0.432800 0.840600
+        Vertex 2 15.580800 -27.810801 37.339199 0.436800 0.853800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 39.735100 0.443800 0.844400
+        Vertex 1 15.580800 -27.810801 37.339199 0.436800 0.853800
+        Vertex 2 12.054700 -27.810801 37.277599 0.450400 0.854000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 4.305900 -25.859200 32.072300 0.480500 0.781300
+        Vertex 1 7.046700 -27.810801 34.291801 0.469900 0.850600
+        Vertex 2 4.305900 -27.810801 32.072300 0.480500 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 4.305900 -25.859200 32.072300 0.480500 0.781300
+        Vertex 1 7.046700 -25.859200 34.291801 0.469900 0.781300
+        Vertex 2 7.046700 -27.810801 34.291801 0.469900 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 7.046700 -25.859200 34.291801 0.469900 0.781300
+        Vertex 1 10.004400 -27.810801 32.370998 0.458400 0.850600
+        Vertex 2 7.046700 -27.810801 34.291801 0.469900 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 7.046700 -25.859200 34.291801 0.469900 0.781300
+        Vertex 1 10.004400 -25.859200 32.370998 0.458400 0.781300
+        Vertex 2 10.004400 -27.810801 32.370998 0.458400 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 10.004400 -25.859200 32.370998 0.781300 0.873200
+        Vertex 1 9.091600 -27.810801 28.964500 0.850600 0.886500
+        Vertex 2 10.004400 -27.810801 32.370998 0.850600 0.873200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 10.004400 -25.859200 32.370998 0.781300 0.873200
+        Vertex 1 9.091600 -25.859200 28.964500 0.781300 0.886500
+        Vertex 2 9.091600 -27.810801 28.964500 0.850600 0.886500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 9.091600 -25.859200 28.964500 0.538100 0.781300
+        Vertex 1 5.569800 -27.810801 28.779900 0.524400 0.850600
+        Vertex 2 9.091600 -27.810801 28.964500 0.538100 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 9.091600 -25.859200 28.964500 0.538100 0.781300
+        Vertex 1 5.569800 -25.859200 28.779900 0.524400 0.781300
+        Vertex 2 5.569800 -27.810801 28.779900 0.524400 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 5.569800 -25.859200 28.779900 0.218700 0.887200
+        Vertex 1 4.305900 -27.810801 32.072300 0.149400 0.874300
+        Vertex 2 5.569800 -27.810801 28.779900 0.149400 0.887200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 5.569800 -25.859200 28.779900 0.218700 0.887200
+        Vertex 1 4.305900 -25.859200 32.072300 0.218700 0.874300
+        Vertex 2 4.305900 -27.810801 32.072300 0.149400 0.874300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 31.295900 0.469300 0.877400
+        Vertex 1 4.305900 -27.810801 32.072300 0.480500 0.874300
+        Vertex 2 7.046700 -27.810801 34.291801 0.469900 0.865700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 31.295900 0.469300 0.877400
+        Vertex 1 7.046700 -27.810801 34.291801 0.469900 0.865700
+        Vertex 2 10.004400 -27.810801 32.370998 0.458400 0.873200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 31.295900 0.469300 0.877400
+        Vertex 1 10.004400 -27.810801 32.370998 0.458400 0.873200
+        Vertex 2 9.091600 -27.810801 28.964500 0.461900 0.886500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 31.295900 0.469300 0.877400
+        Vertex 1 9.091600 -27.810801 28.964500 0.461900 0.886500
+        Vertex 2 5.569800 -27.810801 28.779900 0.475600 0.887200
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 31.295900 0.469300 0.877400
+        Vertex 1 5.569800 -27.810801 28.779900 0.475600 0.887200
+        Vertex 2 4.305900 -27.810801 32.072300 0.480500 0.874300
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 4.215100 -25.859200 39.473598 0.218700 0.845500
+        Vertex 1 6.031500 -27.810801 42.496601 0.149400 0.833700
+        Vertex 2 4.215100 -27.810801 39.473598 0.149400 0.845500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 4.215100 -25.859200 39.473598 0.218700 0.845500
+        Vertex 1 6.031500 -25.859200 42.496601 0.218700 0.833700
+        Vertex 2 6.031500 -27.810801 42.496601 0.149400 0.833700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 6.031500 -25.859200 42.496601 0.473800 0.781300
+        Vertex 1 9.467800 -27.810801 41.703300 0.460500 0.850600
+        Vertex 2 6.031500 -27.810801 42.496601 0.473800 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 6.031500 -25.859200 42.496601 0.473800 0.781300
+        Vertex 1 9.467800 -25.859200 41.703300 0.460500 0.781300
+        Vertex 2 9.467800 -27.810801 41.703300 0.460500 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 9.467800 -25.859200 41.703300 0.781300 0.836800
+        Vertex 1 9.775200 -27.810801 38.189999 0.850600 0.850500
+        Vertex 2 9.467800 -27.810801 41.703300 0.850600 0.836800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 9.467800 -25.859200 41.703300 0.781300 0.836800
+        Vertex 1 9.775200 -25.859200 38.189999 0.781300 0.850500
+        Vertex 2 9.775200 -27.810801 38.189999 0.850600 0.850500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 9.775200 -25.859200 38.189999 0.540700 0.781300
+        Vertex 1 6.528800 -27.810801 36.812000 0.528100 0.850600
+        Vertex 2 9.775200 -27.810801 38.189999 0.540700 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 9.775200 -25.859200 38.189999 0.540700 0.781300
+        Vertex 1 6.528800 -25.859200 36.812000 0.528100 0.781300
+        Vertex 2 6.528800 -27.810801 36.812000 0.528100 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 6.528800 -25.859200 36.812000 0.218700 0.855800
+        Vertex 1 4.215100 -27.810801 39.473598 0.149400 0.845500
+        Vertex 2 6.528800 -27.810801 36.812000 0.149400 0.855800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 6.528800 -25.859200 36.812000 0.218700 0.855800
+        Vertex 1 4.215100 -25.859200 39.473598 0.218700 0.845500
+        Vertex 2 4.215100 -27.810801 39.473598 0.149400 0.845500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 39.735100 0.469300 0.844400
+        Vertex 1 4.215100 -27.810801 39.473598 0.480900 0.845500
+        Vertex 2 6.031500 -27.810801 42.496601 0.473800 0.833700
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 39.735100 0.469300 0.844400
+        Vertex 1 6.031500 -27.810801 42.496601 0.473800 0.833700
+        Vertex 2 9.467800 -27.810801 41.703300 0.460500 0.836800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 39.735100 0.469300 0.844400
+        Vertex 1 9.467800 -27.810801 41.703300 0.460500 0.836800
+        Vertex 2 9.775200 -27.810801 38.189999 0.459300 0.850500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 39.735100 0.469300 0.844400
+        Vertex 1 9.775200 -27.810801 38.189999 0.459300 0.850500
+        Vertex 2 6.528800 -27.810801 36.812000 0.471900 0.855800
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 7.203700 -27.810801 39.735100 0.469300 0.844400
+        Vertex 1 6.528800 -27.810801 36.812000 0.471900 0.855800
+        Vertex 2 4.215100 -27.810801 39.473598 0.480900 0.845500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 10.775400 -25.859200 31.262400 0.218700 0.877500
+        Vertex 1 12.848300 -27.810801 34.115601 0.149400 0.866400
+        Vertex 2 10.775400 -27.810801 31.262400 0.149400 0.877500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 10.775400 -25.859200 31.262400 0.218700 0.877500
+        Vertex 1 12.848300 -25.859200 34.115601 0.218700 0.866400
+        Vertex 2 12.848300 -27.810801 34.115601 0.149400 0.866400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 12.848300 -25.859200 34.115601 0.447400 0.781300
+        Vertex 1 16.202400 -27.810801 33.025799 0.434300 0.850600
+        Vertex 2 12.848300 -27.810801 34.115601 0.447400 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 12.848300 -25.859200 34.115601 0.447400 0.781300
+        Vertex 1 16.202400 -25.859200 33.025799 0.434300 0.781300
+        Vertex 2 16.202400 -27.810801 33.025799 0.434300 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 16.202400 -25.859200 33.025799 0.781300 0.870600
+        Vertex 1 16.202400 -27.810801 29.499100 0.850600 0.884400
+        Vertex 2 16.202400 -27.810801 33.025799 0.850600 0.870600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 16.202400 -25.859200 33.025799 0.781300 0.870600
+        Vertex 1 16.202400 -25.859200 29.499100 0.781300 0.884400
+        Vertex 2 16.202400 -27.810801 29.499100 0.850600 0.884400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 16.202400 -25.859200 29.499100 0.565700 0.781300
+        Vertex 1 12.848300 -27.810801 28.409300 0.552600 0.850600
+        Vertex 2 16.202400 -27.810801 29.499100 0.565700 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 16.202400 -25.859200 29.499100 0.565700 0.781300
+        Vertex 1 12.848300 -25.859200 28.409300 0.552600 0.781300
+        Vertex 2 12.848300 -27.810801 28.409300 0.552600 0.850600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 12.848300 -25.859200 28.409300 0.218700 0.888600
+        Vertex 1 10.775400 -27.810801 31.262400 0.149400 0.877500
+        Vertex 2 12.848300 -27.810801 28.409300 0.149400 0.888600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 8
+        Vertex 0 12.848300 -25.859200 28.409300 0.218700 0.888600
+        Vertex 1 10.775400 -25.859200 31.262400 0.218700 0.877500
+        Vertex 2 10.775400 -27.810801 31.262400 0.149400 0.877500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 31.262400 0.443800 0.877500
+        Vertex 1 10.775400 -27.810801 31.262400 0.455400 0.877500
+        Vertex 2 12.848300 -27.810801 34.115601 0.447400 0.866400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 31.262400 0.443800 0.877500
+        Vertex 1 12.848300 -27.810801 34.115601 0.447400 0.866400
+        Vertex 2 16.202400 -27.810801 33.025799 0.434300 0.870600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 31.262400 0.443800 0.877500
+        Vertex 1 16.202400 -27.810801 33.025799 0.434300 0.870600
+        Vertex 2 16.202400 -27.810801 29.499100 0.434300 0.884400
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 31.262400 0.443800 0.877500
+        Vertex 1 16.202400 -27.810801 29.499100 0.434300 0.884400
+        Vertex 2 12.848300 -27.810801 28.409300 0.447400 0.888600
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Bases.bas05bHA
+        SmoothingMask 1
+        Vertex 0 13.775400 -27.810801 31.262400 0.443800 0.877500
+        Vertex 1 12.848300 -27.810801 28.409300 0.447400 0.888600
+        Vertex 2 10.775400 -27.810801 31.262400 0.455400 0.877500
+    End Triangle
+End StaticMesh

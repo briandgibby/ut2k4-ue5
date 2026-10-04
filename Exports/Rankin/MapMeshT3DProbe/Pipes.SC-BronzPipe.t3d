@@ -1,0 +1,1851 @@
+Begin StaticMesh Name=SC-BronzPipe
+    Version=2.000000 BoundingBox.Min.X=-36.315430 BoundingBox.Min.Y=-16.124512 BoundingBox.Min.Z=-816.649048 BoundingBox.Max.X=123.998047 BoundingBox.Max.Y=16.124512 BoundingBox.Max.Z=207.360489
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 91.720703 0.000000 207.360489 0.750002 -8.934201
+        Vertex 1 93.924805 -8.134766 207.360489 0.665607 -8.934208
+        Vertex 2 93.900391 -8.134766 87.390106 0.665707 -7.059708
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.900391 -8.134766 87.390106 0.665701 -7.059701
+        Vertex 1 91.693359 0.000000 87.394714 0.750010 -7.059710
+        Vertex 2 91.720703 0.000000 207.360489 0.750008 -8.934206
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.924805 -8.134766 207.360489 0.665597 -8.934200
+        Vertex 1 99.710938 -13.921387 207.360489 0.583707 -8.934207
+        Vertex 2 99.697266 -13.921387 87.377808 0.583903 -7.059507
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 99.697266 -13.921387 87.377808 0.583897 -7.059500
+        Vertex 1 93.900391 -8.134766 87.390106 0.665702 -7.059700
+        Vertex 2 93.924805 -8.134766 207.360489 0.665596 -8.934199
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 99.710938 -13.921387 207.360489 0.583697 -8.934197
+        Vertex 1 107.845703 -16.124512 207.360489 0.499506 -8.934207
+        Vertex 2 107.845703 -16.124512 87.360596 0.499504 -7.059205
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 107.845703 -16.124512 87.360596 0.499500 -7.059201
+        Vertex 1 99.697266 -13.921387 87.377808 0.583897 -7.059502
+        Vertex 2 99.710938 -13.921387 207.360489 0.583699 -8.934200
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 107.845703 -16.124512 207.360489 0.499501 -8.934199
+        Vertex 1 115.980469 -13.921387 207.360489 0.415410 -8.934207
+        Vertex 2 115.994141 -13.921387 87.343292 0.415310 -7.058906
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.994141 -13.921387 87.343292 0.415304 -7.058900
+        Vertex 1 107.845703 -16.124512 87.360596 0.499509 -7.059207
+        Vertex 2 107.845703 -16.124512 207.360489 0.499507 -8.934205
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.980469 -13.921387 207.360489 0.415402 -8.934199
+        Vertex 1 121.766602 -8.134766 207.360489 0.333912 -8.934207
+        Vertex 2 121.791016 -8.134766 87.331085 0.333806 -7.058706
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 121.791016 -8.134766 87.331085 0.333799 -7.058698
+        Vertex 1 115.994141 -13.921387 87.343292 0.415303 -7.058897
+        Vertex 2 115.980469 -13.921387 207.360489 0.415401 -8.934196
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 121.766602 -8.134766 207.360489 0.333901 -8.934196
+        Vertex 1 123.970703 0.000000 207.360489 0.250007 -8.934204
+        Vertex 2 123.998047 0.000000 87.326385 0.250005 -7.058703
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 123.998047 0.000000 87.326385 0.249999 -7.058701
+        Vertex 1 121.791016 -8.134766 87.331085 0.333807 -7.058709
+        Vertex 2 121.766602 -8.134766 207.360489 0.333908 -8.934208
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 123.970703 0.000000 207.360489 0.250001 -8.934200
+        Vertex 1 121.766602 8.134766 207.360489 0.166107 -8.934208
+        Vertex 2 121.791016 8.134766 87.331085 0.166207 -7.058708
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 121.791016 8.134766 87.331085 0.166201 -7.058699
+        Vertex 1 123.998047 0.000000 87.326385 0.250009 -7.058707
+        Vertex 2 123.970703 0.000000 207.360489 0.250007 -8.934205
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 121.766602 8.134766 207.360489 0.166098 -8.934198
+        Vertex 1 115.980469 13.921387 207.360489 0.084608 -8.934206
+        Vertex 2 115.994141 13.921387 87.343292 0.084705 -7.058905
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.994141 13.921387 87.343292 0.084699 -7.058900
+        Vertex 1 121.791016 8.134766 87.331085 0.166202 -7.058700
+        Vertex 2 121.766602 8.134766 207.360489 0.166098 -8.934199
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.980469 13.921387 207.360489 0.084599 -8.934200
+        Vertex 1 107.845703 16.124512 207.360489 0.000508 -8.934210
+        Vertex 2 107.845703 16.124512 87.360596 0.000506 -7.059207
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 107.845703 16.124512 87.360596 0.000500 -7.059199
+        Vertex 1 115.994141 13.921387 87.343292 0.084698 -7.058899
+        Vertex 2 115.980469 13.921387 207.360489 0.084600 -8.934198
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 107.845703 16.124512 207.360489 0.000499 -8.934199
+        Vertex 1 99.710938 13.921387 207.360489 -0.083692 -8.934207
+        Vertex 2 99.697266 13.921387 87.377808 -0.083892 -7.059506
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 99.697266 13.921387 87.377808 -0.083899 -7.059501
+        Vertex 1 107.845703 16.124512 87.360596 0.000507 -7.059209
+        Vertex 2 107.845703 16.124512 207.360489 0.000505 -8.934207
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 99.710938 13.921387 207.360489 0.916302 -8.934200
+        Vertex 1 93.924805 8.134766 207.360489 0.834412 -8.934208
+        Vertex 2 93.900391 8.134766 87.390106 0.834306 -7.059707
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.900391 8.134766 87.390106 0.834300 -7.059701
+        Vertex 1 99.697266 13.921387 87.377808 0.916104 -7.059502
+        Vertex 2 99.710938 13.921387 207.360489 0.916302 -8.934200
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.924805 8.134766 207.360489 0.834401 -8.934200
+        Vertex 1 91.720703 0.000000 207.360489 0.750007 -8.934208
+        Vertex 2 91.693359 0.000000 87.394714 0.750005 -7.059706
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 91.693359 0.000000 87.394714 0.749999 -7.059701
+        Vertex 1 93.900391 8.134766 87.390106 0.834308 -7.059709
+        Vertex 2 93.924805 8.134766 207.360489 0.834407 -8.934205
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 91.693359 0.000000 87.394714 0.750000 -7.059698
+        Vertex 1 93.900391 -8.134766 87.390106 0.665709 -7.059707
+        Vertex 2 93.072266 -8.134766 80.980408 0.666706 -6.905405
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.072266 -8.134766 80.980408 0.666701 -6.905398
+        Vertex 1 90.914063 0.000000 81.501495 0.750010 -6.905206
+        Vertex 2 91.693359 0.000000 87.394714 0.750007 -7.059704
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.900391 -8.134766 87.390106 0.665702 -7.059700
+        Vertex 1 99.697266 -13.921387 87.377808 0.583898 -7.059502
+        Vertex 2 98.740234 -13.921387 79.611877 0.585299 -6.906100
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 98.740234 -13.921387 79.611877 0.585298 -6.906100
+        Vertex 1 93.072266 -8.134766 80.980408 0.666701 -6.905401
+        Vertex 2 93.900391 -8.134766 87.390106 0.665701 -7.059700
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 99.697266 -13.921387 87.377808 0.583900 -7.059501
+        Vertex 1 107.845703 -16.124512 87.360596 0.499502 -7.059199
+        Vertex 2 106.708008 -16.124512 77.687988 0.500704 -6.907000
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 106.708008 -16.124512 77.687988 0.500701 -6.906999
+        Vertex 1 98.740234 -13.921387 79.611877 0.585299 -6.906099
+        Vertex 2 99.697266 -13.921387 87.377808 0.583897 -7.059502
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 107.845703 -16.124512 87.360596 0.499500 -7.059198
+        Vertex 1 115.994141 -13.921387 87.343292 0.415303 -7.058899
+        Vertex 2 114.675781 -13.921387 75.764099 0.415901 -6.907999
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 114.675781 -13.921387 75.764099 0.415903 -6.907999
+        Vertex 1 106.708008 -16.124512 77.687988 0.500702 -6.907000
+        Vertex 2 107.845703 -16.124512 87.360596 0.499501 -7.059201
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.994141 -13.921387 87.343292 0.415303 -7.058900
+        Vertex 1 121.791016 -8.134766 87.331085 0.333799 -7.058702
+        Vertex 2 120.343750 -8.134766 74.395508 0.334000 -6.908701
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 120.343750 -8.134766 74.395508 0.333999 -6.908700
+        Vertex 1 114.675781 -13.921387 75.764099 0.415901 -6.907999
+        Vertex 2 115.994141 -13.921387 87.343292 0.415303 -7.058899
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 121.791016 -8.134766 87.331085 0.333799 -7.058700
+        Vertex 1 123.998047 0.000000 87.326385 0.250007 -7.058709
+        Vertex 2 122.501953 0.000000 73.874512 0.250005 -6.908906
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 122.501953 0.000000 73.874512 0.250000 -6.908900
+        Vertex 1 120.343750 -8.134766 74.395508 0.333999 -6.908700
+        Vertex 2 121.791016 -8.134766 87.331085 0.333799 -7.058699
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 123.998047 0.000000 87.326385 0.250001 -7.058701
+        Vertex 1 121.791016 8.134766 87.331085 0.166209 -7.058709
+        Vertex 2 120.343750 8.134766 74.395508 0.166007 -6.908707
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 120.343750 8.134766 74.395508 0.166001 -6.908700
+        Vertex 1 122.501953 0.000000 73.874512 0.250009 -6.908908
+        Vertex 2 123.998047 0.000000 87.326385 0.250007 -7.058707
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 121.791016 8.134766 87.331085 0.166202 -7.058701
+        Vertex 1 115.994141 13.921387 87.343292 0.084697 -7.058901
+        Vertex 2 114.675781 13.921387 75.764099 0.084099 -6.908001
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 114.675781 13.921387 75.764099 0.084097 -6.908000
+        Vertex 1 120.343750 8.134766 74.395508 0.166000 -6.908700
+        Vertex 2 121.791016 8.134766 87.331085 0.166201 -7.058700
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.994141 13.921387 87.343292 0.084700 -7.058900
+        Vertex 1 107.845703 16.124512 87.360596 0.000502 -7.059199
+        Vertex 2 106.708008 16.124512 77.687988 -0.000699 -6.907000
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 106.708008 16.124512 77.687988 -0.000701 -6.907000
+        Vertex 1 114.675781 13.921387 75.764099 0.084099 -6.908000
+        Vertex 2 115.994141 13.921387 87.343292 0.084698 -7.058898
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 107.845703 16.124512 87.360596 0.000501 -7.059198
+        Vertex 1 99.697266 13.921387 87.377808 -0.083897 -7.059500
+        Vertex 2 98.740234 13.921387 79.611877 -0.085298 -6.906099
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 98.740234 13.921387 79.611877 -0.085301 -6.906101
+        Vertex 1 106.708008 16.124512 77.687988 -0.000703 -6.907000
+        Vertex 2 107.845703 16.124512 87.360596 0.000498 -7.059200
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 99.697266 13.921387 87.377808 0.916102 -7.059501
+        Vertex 1 93.900391 8.134766 87.390106 0.834297 -7.059700
+        Vertex 2 93.072266 8.134766 80.980408 0.833299 -6.905400
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.072266 8.134766 80.980408 0.833300 -6.905398
+        Vertex 1 98.740234 13.921387 79.611877 0.914703 -6.906100
+        Vertex 2 99.697266 13.921387 87.377808 0.916103 -7.059501
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.900391 8.134766 87.390106 0.834300 -7.059700
+        Vertex 1 91.693359 0.000000 87.394714 0.750008 -7.059709
+        Vertex 2 90.914063 0.000000 81.501495 0.750006 -6.905206
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.914063 0.000000 81.501495 0.749999 -6.905199
+        Vertex 1 93.072266 8.134766 80.980408 0.833300 -6.905399
+        Vertex 2 93.900391 8.134766 87.390106 0.834299 -7.059699
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.914063 0.000000 81.501495 0.750001 -6.905198
+        Vertex 1 93.072266 -8.134766 80.980408 0.666701 -6.905400
+        Vertex 2 90.481445 -8.134766 74.170898 0.666499 -6.742004
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.481445 -8.134766 74.170898 0.666499 -6.742002
+        Vertex 1 88.515625 0.000000 75.199280 0.750008 -6.742408
+        Vertex 2 90.914063 0.000000 81.501495 0.750007 -6.905202
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.072266 -8.134766 80.980408 0.666701 -6.905399
+        Vertex 1 98.740234 -13.921387 79.611877 0.585298 -6.906099
+        Vertex 2 95.643555 -13.921387 71.470001 0.584895 -6.741002
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.643555 -13.921387 71.470001 0.584896 -6.741006
+        Vertex 1 90.481445 -8.134766 74.170898 0.666498 -6.742003
+        Vertex 2 93.072266 -8.134766 80.980408 0.666701 -6.905399
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 98.740234 -13.921387 79.611877 0.585300 -6.906099
+        Vertex 1 106.708008 -16.124512 77.687988 0.500703 -6.907000
+        Vertex 2 102.900391 -16.124512 67.672974 0.500397 -6.739601
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 102.900391 -16.124512 67.672974 0.500395 -6.739604
+        Vertex 1 95.643555 -13.921387 71.470001 0.584895 -6.741004
+        Vertex 2 98.740234 -13.921387 79.611877 0.585299 -6.906099
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 106.708008 -16.124512 77.687988 0.500704 -6.906999
+        Vertex 1 114.675781 -13.921387 75.764099 0.415904 -6.908000
+        Vertex 2 110.156250 -13.921387 63.875977 0.415707 -6.738198
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 110.156250 -13.921387 63.875977 0.415705 -6.738197
+        Vertex 1 102.900391 -16.124512 67.672974 0.500397 -6.739603
+        Vertex 2 106.708008 -16.124512 77.687988 0.500703 -6.906999
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 114.675781 -13.921387 75.764099 0.415901 -6.908000
+        Vertex 1 120.343750 -8.134766 74.395508 0.333999 -6.908701
+        Vertex 2 115.318359 -8.134766 61.175110 0.333901 -6.737299
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.318359 -8.134766 61.175110 0.333901 -6.737298
+        Vertex 1 110.156250 -13.921387 63.875977 0.415703 -6.738197
+        Vertex 2 114.675781 -13.921387 75.764099 0.415901 -6.907999
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 120.343750 -8.134766 74.395508 0.333999 -6.908700
+        Vertex 1 122.501953 0.000000 73.874512 0.250007 -6.908910
+        Vertex 2 117.284180 0.000000 60.146698 0.250006 -6.736907
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 117.284180 0.000000 60.146698 0.250000 -6.736900
+        Vertex 1 115.318359 -8.134766 61.175110 0.333900 -6.737299
+        Vertex 2 120.343750 -8.134766 74.395508 0.333999 -6.908700
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 122.501953 0.000000 73.874512 0.250001 -6.908902
+        Vertex 1 120.343750 8.134766 74.395508 0.166001 -6.908701
+        Vertex 2 115.318359 8.134766 61.175110 0.166100 -6.737299
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.318359 8.134766 61.175110 0.166100 -6.737298
+        Vertex 1 117.284180 0.000000 60.146698 0.250009 -6.736908
+        Vertex 2 122.501953 0.000000 73.874512 0.250007 -6.908907
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 120.343750 8.134766 74.395508 0.166000 -6.908699
+        Vertex 1 114.675781 13.921387 75.764099 0.084099 -6.907999
+        Vertex 2 110.156250 13.921387 63.875977 0.084297 -6.738197
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 110.156250 13.921387 63.875977 0.084297 -6.738199
+        Vertex 1 115.318359 8.134766 61.175110 0.166098 -6.737299
+        Vertex 2 120.343750 8.134766 74.395508 0.166001 -6.908701
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 114.675781 13.921387 75.764099 0.084098 -6.907999
+        Vertex 1 106.708008 16.124512 77.687988 -0.000702 -6.906999
+        Vertex 2 102.900391 16.124512 67.672974 -0.000397 -6.739601
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 102.900391 16.124512 67.672974 -0.000396 -6.739602
+        Vertex 1 110.156250 13.921387 63.875977 0.084295 -6.738197
+        Vertex 2 114.675781 13.921387 75.764099 0.084098 -6.907998
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 106.708008 16.124512 77.687988 0.999299 -6.907000
+        Vertex 1 98.740234 13.921387 79.611877 0.914701 -6.906101
+        Vertex 2 95.643555 13.921387 71.470001 0.915104 -6.741002
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.643555 13.921387 71.470001 0.915105 -6.741004
+        Vertex 1 102.900391 16.124512 67.672974 0.999605 -6.739604
+        Vertex 2 106.708008 16.124512 77.687988 0.999299 -6.907000
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 98.740234 13.921387 79.611877 0.914701 -6.906101
+        Vertex 1 93.072266 8.134766 80.980408 0.833299 -6.905400
+        Vertex 2 90.481445 8.134766 74.170898 0.833502 -6.742003
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.481445 8.134766 74.170898 0.833501 -6.742004
+        Vertex 1 95.643555 13.921387 71.470001 0.915103 -6.741004
+        Vertex 2 98.740234 13.921387 79.611877 0.914701 -6.906101
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.072266 8.134766 80.980408 0.833300 -6.905398
+        Vertex 1 90.914063 0.000000 81.501495 0.750007 -6.905203
+        Vertex 2 88.515625 0.000000 75.199280 0.750006 -6.742404
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 88.515625 0.000000 75.199280 0.750000 -6.742400
+        Vertex 1 90.481445 8.134766 74.170898 0.833500 -6.742003
+        Vertex 2 93.072266 8.134766 80.980408 0.833299 -6.905400
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 88.515625 0.000000 75.199280 0.750000 -6.742398
+        Vertex 1 90.481445 -8.134766 74.170898 0.666507 -6.742011
+        Vertex 2 85.097656 -8.134766 66.217590 0.666507 -6.542400
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 85.097656 -8.134766 66.217590 0.666501 -6.542395
+        Vertex 1 83.399414 0.000000 67.636993 0.750009 -6.542305
+        Vertex 2 88.515625 0.000000 75.199280 0.750006 -6.742405
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.481445 -8.134766 74.170898 0.666499 -6.742004
+        Vertex 1 95.643555 -13.921387 71.470001 0.584897 -6.741005
+        Vertex 2 89.558594 -13.921387 62.489807 0.585097 -6.542605
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 89.558594 -13.921387 62.489807 0.585096 -6.542606
+        Vertex 1 85.097656 -8.134766 66.217590 0.666510 -6.542404
+        Vertex 2 90.481445 -8.134766 74.170898 0.666504 -6.742011
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.643555 -13.921387 71.470001 0.584897 -6.741003
+        Vertex 1 102.900391 -16.124512 67.672974 0.500397 -6.739603
+        Vertex 2 95.828125 -16.124512 57.249207 0.500704 -6.542798
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.828125 -16.124512 57.249207 0.500702 -6.542796
+        Vertex 1 89.558594 -13.921387 62.489807 0.585096 -6.542604
+        Vertex 2 95.643555 -13.921387 71.470001 0.584896 -6.741005
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 102.900391 -16.124512 67.672974 0.500396 -6.739604
+        Vertex 1 110.156250 -13.921387 63.875977 0.415703 -6.738198
+        Vertex 2 102.098633 -13.921387 52.008606 0.416100 -6.543101
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 102.098633 -13.921387 52.008606 0.416100 -6.543100
+        Vertex 1 95.828125 -16.124512 57.249207 0.500702 -6.542796
+        Vertex 2 102.900391 -16.124512 67.672974 0.500395 -6.739604
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 110.156250 -13.921387 63.875977 0.415703 -6.738197
+        Vertex 1 115.318359 -8.134766 61.175110 0.333901 -6.737297
+        Vertex 2 106.558594 -8.134766 48.280792 0.334200 -6.543199
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 106.558594 -8.134766 48.280792 0.334201 -6.543200
+        Vertex 1 102.098633 -13.921387 52.008606 0.416102 -6.543101
+        Vertex 2 110.156250 -13.921387 63.875977 0.415705 -6.738197
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.318359 -8.134766 61.175110 0.333901 -6.737298
+        Vertex 1 117.284180 0.000000 60.146698 0.250008 -6.736908
+        Vertex 2 108.256836 0.000000 46.861389 0.250007 -6.543305
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 108.256836 0.000000 46.861389 0.250000 -6.543299
+        Vertex 1 106.558594 -8.134766 48.280792 0.334200 -6.543200
+        Vertex 2 115.318359 -8.134766 61.175110 0.333900 -6.737298
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 117.284180 0.000000 60.146698 0.250000 -6.736900
+        Vertex 1 115.318359 8.134766 61.175110 0.166099 -6.737298
+        Vertex 2 106.558594 8.134766 48.280792 0.165800 -6.543199
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 106.558594 8.134766 48.280792 0.165800 -6.543199
+        Vertex 1 108.256836 0.000000 46.861389 0.250008 -6.543307
+        Vertex 2 117.284180 0.000000 60.146698 0.250006 -6.736907
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 115.318359 8.134766 61.175110 0.166098 -6.737298
+        Vertex 1 110.156250 13.921387 63.875977 0.084297 -6.738197
+        Vertex 2 102.098633 13.921387 52.008606 0.083899 -6.543101
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 102.098633 13.921387 52.008606 0.083899 -6.543100
+        Vertex 1 106.558594 8.134766 48.280792 0.165799 -6.543199
+        Vertex 2 115.318359 8.134766 61.175110 0.166098 -6.737297
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 110.156250 13.921387 63.875977 0.084299 -6.738198
+        Vertex 1 102.900391 16.124512 67.672974 -0.000394 -6.739605
+        Vertex 2 95.828125 16.124512 57.249207 -0.000700 -6.542799
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.828125 16.124512 57.249207 -0.000703 -6.542798
+        Vertex 1 102.098633 13.921387 52.008606 0.083900 -6.543100
+        Vertex 2 110.156250 13.921387 63.875977 0.084297 -6.738196
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 102.900391 16.124512 67.672974 0.999604 -6.739604
+        Vertex 1 95.643555 13.921387 71.470001 0.915104 -6.741003
+        Vertex 2 89.558594 13.921387 62.489807 0.914903 -6.542603
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 89.558594 13.921387 62.489807 0.914903 -6.542603
+        Vertex 1 95.828125 16.124512 57.249207 0.999297 -6.542797
+        Vertex 2 102.900391 16.124512 67.672974 0.999604 -6.739604
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.643555 13.921387 71.470001 0.915103 -6.741004
+        Vertex 1 90.481445 8.134766 74.170898 0.833510 -6.742012
+        Vertex 2 85.097656 8.134766 66.217590 0.833504 -6.542402
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 85.097656 8.134766 66.217590 0.833499 -6.542397
+        Vertex 1 89.558594 13.921387 62.489807 0.914904 -6.542605
+        Vertex 2 95.643555 13.921387 71.470001 0.915105 -6.741006
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.481445 8.134766 74.170898 0.833500 -6.742004
+        Vertex 1 88.515625 0.000000 75.199280 0.750008 -6.742408
+        Vertex 2 83.399414 0.000000 67.636993 0.750005 -6.542302
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 83.399414 0.000000 67.636993 0.749999 -6.542295
+        Vertex 1 85.097656 8.134766 66.217590 0.833507 -6.542404
+        Vertex 2 90.481445 8.134766 74.170898 0.833507 -6.742010
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 83.399414 0.000000 67.636993 0.750001 -6.542295
+        Vertex 1 85.097656 -8.134766 66.217590 0.666501 -6.542394
+        Vertex 2 76.039063 -8.134766 57.117401 0.665100 -6.303802
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 76.039063 -8.134766 57.117401 0.665100 -6.303802
+        Vertex 1 74.636719 0.000000 58.821503 0.750008 -6.304112
+        Vertex 2 83.399414 0.000000 67.636993 0.750007 -6.542301
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 85.097656 -8.134766 66.217590 0.666502 -6.542395
+        Vertex 1 89.558594 -13.921387 62.489807 0.585097 -6.542603
+        Vertex 2 79.722656 -13.921387 52.641907 0.582798 -6.302904
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 79.722656 -13.921387 52.641907 0.582797 -6.302906
+        Vertex 1 76.039063 -8.134766 57.117401 0.665099 -6.303804
+        Vertex 2 85.097656 -8.134766 66.217590 0.666502 -6.542396
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 89.558594 -13.921387 62.489807 0.585097 -6.542604
+        Vertex 1 95.828125 -16.124512 57.249207 0.500702 -6.542797
+        Vertex 2 84.900391 -16.124512 46.350189 0.498201 -6.301699
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 84.900391 -16.124512 46.350189 0.498202 -6.301700
+        Vertex 1 79.722656 -13.921387 52.641907 0.582799 -6.302907
+        Vertex 2 89.558594 -13.921387 62.489807 0.585098 -6.542607
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.828125 -16.124512 57.249207 0.500702 -6.542799
+        Vertex 1 102.098633 -13.921387 52.008606 0.416100 -6.543101
+        Vertex 2 90.079102 -13.921387 40.058411 0.414200 -6.300504
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.079102 -13.921387 40.058411 0.414200 -6.300502
+        Vertex 1 84.900391 -16.124512 46.350189 0.498201 -6.301697
+        Vertex 2 95.828125 -16.124512 57.249207 0.500702 -6.542796
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 102.098633 -13.921387 52.008606 0.416101 -6.543100
+        Vertex 1 106.558594 -8.134766 48.280792 0.334200 -6.543200
+        Vertex 2 93.762695 -8.134766 35.583008 0.333199 -6.299603
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.762695 -8.134766 35.583008 0.333199 -6.299604
+        Vertex 1 90.079102 -13.921387 40.058411 0.414201 -6.300503
+        Vertex 2 102.098633 -13.921387 52.008606 0.416101 -6.543101
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 106.558594 -8.134766 48.280792 0.334199 -6.543200
+        Vertex 1 108.256836 0.000000 46.861389 0.250008 -6.543307
+        Vertex 2 95.165039 0.000000 33.878906 0.250005 -6.299307
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.165039 0.000000 33.878906 0.250000 -6.299303
+        Vertex 1 93.762695 -8.134766 35.583008 0.333199 -6.299603
+        Vertex 2 106.558594 -8.134766 48.280792 0.334200 -6.543200
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 108.256836 0.000000 46.861389 0.249999 -6.543299
+        Vertex 1 106.558594 8.134766 48.280792 0.165800 -6.543199
+        Vertex 2 93.762695 8.134766 35.583008 0.166801 -6.299603
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.762695 8.134766 35.583008 0.166801 -6.299604
+        Vertex 1 95.165039 0.000000 33.878906 0.250009 -6.299311
+        Vertex 2 108.256836 0.000000 46.861389 0.250006 -6.543305
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 106.558594 8.134766 48.280792 0.165800 -6.543198
+        Vertex 1 102.098633 13.921387 52.008606 0.083900 -6.543100
+        Vertex 2 90.079102 13.921387 40.058411 0.085801 -6.300502
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.079102 13.921387 40.058411 0.085800 -6.300503
+        Vertex 1 93.762695 8.134766 35.583008 0.166802 -6.299603
+        Vertex 2 106.558594 8.134766 48.280792 0.165799 -6.543200
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 102.098633 13.921387 52.008606 0.083899 -6.543099
+        Vertex 1 95.828125 16.124512 57.249207 -0.000703 -6.542796
+        Vertex 2 84.900391 16.124512 46.350189 0.001798 -6.301698
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 84.900391 16.124512 46.350189 0.001800 -6.301700
+        Vertex 1 90.079102 13.921387 40.058411 0.085802 -6.300504
+        Vertex 2 102.098633 13.921387 52.008606 0.083901 -6.543101
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.828125 16.124512 57.249207 0.999298 -6.542797
+        Vertex 1 89.558594 13.921387 62.489807 0.914903 -6.542604
+        Vertex 2 79.722656 13.921387 52.641907 0.917203 -6.302905
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 79.722656 13.921387 52.641907 -0.082798 -6.302905
+        Vertex 1 84.900391 16.124512 46.350189 0.001798 -6.301698
+        Vertex 2 95.828125 16.124512 57.249207 -0.000703 -6.542798
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 89.558594 13.921387 62.489807 0.914902 -6.542603
+        Vertex 1 85.097656 8.134766 66.217590 0.833498 -6.542393
+        Vertex 2 76.039063 8.134766 57.117401 0.834901 -6.303801
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 76.039063 8.134766 57.117401 0.834901 -6.303803
+        Vertex 1 79.722656 13.921387 52.641907 0.917202 -6.302905
+        Vertex 2 89.558594 13.921387 62.489807 0.914902 -6.542605
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 85.097656 8.134766 66.217590 0.833499 -6.542396
+        Vertex 1 83.399414 0.000000 67.636993 0.750008 -6.542303
+        Vertex 2 74.636719 0.000000 58.821503 0.750007 -6.304113
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 74.636719 0.000000 58.821503 0.750001 -6.304106
+        Vertex 1 76.039063 8.134766 57.117401 0.834900 -6.303803
+        Vertex 2 85.097656 8.134766 66.217590 0.833499 -6.542395
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 74.636719 0.000000 58.821503 0.750000 -6.304105
+        Vertex 1 76.039063 -8.134766 57.117401 0.665100 -6.303803
+        Vertex 2 1.359375 -8.134766 -1.734192 0.665800 -4.814601
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 1.359375 -8.134766 -1.734192 0.665800 -4.814601
+        Vertex 1 0.000000 0.000000 0.000000 0.750008 -4.815807
+        Vertex 2 74.636719 0.000000 58.821503 0.750005 -6.304111
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 76.039063 -8.134766 57.117401 0.665099 -6.303803
+        Vertex 1 79.722656 -13.921387 52.641907 0.582797 -6.302904
+        Vertex 2 4.929688 -13.921387 -6.288696 0.584097 -4.811604
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 4.929688 -13.921387 -6.288696 0.584098 -4.811607
+        Vertex 1 1.359375 -8.134766 -1.734192 0.665800 -4.814606
+        Vertex 2 76.039063 -8.134766 57.117401 0.665099 -6.303806
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 79.722656 -13.921387 52.641907 0.582798 -6.302902
+        Vertex 1 84.900391 -16.124512 46.350189 0.498202 -6.301696
+        Vertex 2 9.948242 -16.124512 -12.691498 0.499902 -4.807395
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 9.948242 -16.124512 -12.691498 0.499901 -4.807397
+        Vertex 1 4.929688 -13.921387 -6.288696 0.584097 -4.811603
+        Vertex 2 79.722656 -13.921387 52.641907 0.582797 -6.302904
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 84.900391 -16.124512 46.350189 0.498201 -6.301699
+        Vertex 1 90.079102 -13.921387 40.058411 0.414200 -6.300503
+        Vertex 2 14.967773 -13.921387 -19.094299 0.415800 -4.803103
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 14.967773 -13.921387 -19.094299 0.415801 -4.803103
+        Vertex 1 9.948242 -16.124512 -12.691498 0.499903 -4.807398
+        Vertex 2 84.900391 -16.124512 46.350189 0.498203 -6.301699
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.079102 -13.921387 40.058411 0.414200 -6.300502
+        Vertex 1 93.762695 -8.134766 35.583008 0.333198 -6.299604
+        Vertex 2 18.538086 -8.134766 -23.648804 0.334098 -4.800104
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 18.538086 -8.134766 -23.648804 0.334098 -4.800103
+        Vertex 1 14.967773 -13.921387 -19.094299 0.415801 -4.803102
+        Vertex 2 90.079102 -13.921387 40.058411 0.414201 -6.300503
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.762695 -8.134766 35.583008 0.333199 -6.299602
+        Vertex 1 95.165039 0.000000 33.878906 0.250008 -6.299309
+        Vertex 2 19.897461 0.000000 -25.382996 0.250006 -4.799008
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 19.897461 0.000000 -25.382996 0.250000 -4.799003
+        Vertex 1 18.538086 -8.134766 -23.648804 0.334099 -4.800105
+        Vertex 2 93.762695 -8.134766 35.583008 0.333199 -6.299605
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 95.165039 0.000000 33.878906 0.250000 -6.299301
+        Vertex 1 93.762695 8.134766 35.583008 0.166801 -6.299603
+        Vertex 2 18.538086 8.134766 -23.648804 0.165901 -4.800103
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 18.538086 8.134766 -23.648804 0.165901 -4.800103
+        Vertex 1 19.897461 0.000000 -25.382996 0.250009 -4.799010
+        Vertex 2 95.165039 0.000000 33.878906 0.250007 -6.299307
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 93.762695 8.134766 35.583008 0.166803 -6.299606
+        Vertex 1 90.079102 13.921387 40.058411 0.085801 -6.300503
+        Vertex 2 14.967773 13.921387 -19.094299 0.084202 -4.803103
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 14.967773 13.921387 -19.094299 0.084199 -4.803103
+        Vertex 1 18.538086 8.134766 -23.648804 0.165901 -4.800105
+        Vertex 2 93.762695 8.134766 35.583008 0.166800 -6.299604
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 90.079102 13.921387 40.058411 0.085801 -6.300502
+        Vertex 1 84.900391 16.124512 46.350189 0.001799 -6.301699
+        Vertex 2 9.948242 16.124512 -12.691498 0.000099 -4.807398
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 9.948242 16.124512 -12.691498 0.000099 -4.807398
+        Vertex 1 14.967773 13.921387 -19.094299 0.084201 -4.803102
+        Vertex 2 90.079102 13.921387 40.058411 0.085802 -6.300503
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 84.900391 16.124512 46.350189 0.001798 -6.301697
+        Vertex 1 79.722656 13.921387 52.641907 -0.082799 -6.302904
+        Vertex 2 4.929688 13.921387 -6.288696 -0.084099 -4.811603
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 4.929688 13.921387 -6.288696 -0.084098 -4.811604
+        Vertex 1 9.948242 16.124512 -12.691498 0.000099 -4.807398
+        Vertex 2 84.900391 16.124512 46.350189 0.001799 -6.301699
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 79.722656 13.921387 52.641907 0.917202 -6.302905
+        Vertex 1 76.039063 8.134766 57.117401 0.834901 -6.303804
+        Vertex 2 1.359375 8.134766 -1.734192 0.834200 -4.814603
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 1.359375 8.134766 -1.734192 0.834200 -4.814600
+        Vertex 1 4.929688 13.921387 -6.288696 0.915901 -4.811602
+        Vertex 2 79.722656 13.921387 52.641907 0.917202 -6.302903
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 76.039063 8.134766 57.117401 0.834900 -6.303802
+        Vertex 1 74.636719 0.000000 58.821503 0.750009 -6.304112
+        Vertex 2 0.000000 0.000000 0.000000 0.750006 -4.815805
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 0.000000 0.000000 0.000000 0.750000 -4.815803
+        Vertex 1 1.359375 8.134766 -1.734192 0.834200 -4.814604
+        Vertex 2 76.039063 8.134766 57.117401 0.834900 -6.303804
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 0.000000 0.000000 0.000000 0.750000 -4.815802
+        Vertex 1 1.359375 -8.134766 -1.734192 0.665801 -4.814601
+        Vertex 2 -13.539063 -8.134766 -14.126221 0.666201 -4.519399
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -13.539063 -8.134766 -14.126221 0.666200 -4.519398
+        Vertex 1 -15.038086 0.000000 -12.504608 0.750008 -4.519009
+        Vertex 2 0.000000 0.000000 0.000000 0.750006 -4.815807
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 1.359375 -8.134766 -1.734192 0.665799 -4.814601
+        Vertex 1 4.929688 -13.921387 -6.288696 0.584099 -4.811603
+        Vertex 2 -9.601563 -13.921387 -18.385315 0.584798 -4.520602
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -9.601563 -13.921387 -18.385315 0.584797 -4.520602
+        Vertex 1 -13.539063 -8.134766 -14.126221 0.666200 -4.519399
+        Vertex 2 1.359375 -8.134766 -1.734192 0.665800 -4.814601
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 4.929688 -13.921387 -6.288696 0.584097 -4.811607
+        Vertex 1 9.948242 -16.124512 -12.691498 0.499901 -4.807401
+        Vertex 2 -4.066406 -16.124512 -24.372803 0.500497 -4.522307
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -4.066406 -16.124512 -24.372803 0.500499 -4.522304
+        Vertex 1 -9.601563 -13.921387 -18.385315 0.584799 -4.520602
+        Vertex 2 4.929688 -13.921387 -6.288696 0.584099 -4.811604
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 9.948242 -16.124512 -12.691498 0.499901 -4.807399
+        Vertex 1 14.967773 -13.921387 -19.094299 0.415799 -4.803104
+        Vertex 2 1.468750 -13.921387 -30.360413 0.416098 -4.524007
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 1.468750 -13.921387 -30.360413 0.416099 -4.524005
+        Vertex 1 -4.066406 -16.124512 -24.372803 0.500499 -4.522304
+        Vertex 2 9.948242 -16.124512 -12.691498 0.499902 -4.807398
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 14.967773 -13.921387 -19.094299 0.415801 -4.803102
+        Vertex 1 18.538086 -8.134766 -23.648804 0.334099 -4.800104
+        Vertex 2 5.405273 -8.134766 -34.619507 0.334301 -4.525097
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 5.405273 -8.134766 -34.619507 0.334300 -4.525098
+        Vertex 1 1.468750 -13.921387 -30.360413 0.416099 -4.524005
+        Vertex 2 14.967773 -13.921387 -19.094299 0.415800 -4.803103
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 18.538086 -8.134766 -23.648804 0.334099 -4.800102
+        Vertex 1 19.897461 0.000000 -25.382996 0.250008 -4.799011
+        Vertex 2 6.904297 0.000000 -36.241089 0.250007 -4.525601
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 6.904297 0.000000 -36.241089 0.250000 -4.525597
+        Vertex 1 5.405273 -8.134766 -34.619507 0.334300 -4.525097
+        Vertex 2 18.538086 -8.134766 -23.648804 0.334099 -4.800102
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 19.897461 0.000000 -25.382996 0.250000 -4.799004
+        Vertex 1 18.538086 8.134766 -23.648804 0.165901 -4.800105
+        Vertex 2 5.405273 8.134766 -34.619507 0.165700 -4.525097
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 5.405273 8.134766 -34.619507 0.165700 -4.525096
+        Vertex 1 6.904297 0.000000 -36.241089 0.250008 -4.525604
+        Vertex 2 19.897461 0.000000 -25.382996 0.250007 -4.799007
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 18.538086 8.134766 -23.648804 0.165901 -4.800103
+        Vertex 1 14.967773 13.921387 -19.094299 0.084199 -4.803102
+        Vertex 2 1.468750 13.921387 -30.360413 0.083900 -4.524004
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 1.468750 13.921387 -30.360413 0.083902 -4.524004
+        Vertex 1 5.405273 8.134766 -34.619507 0.165699 -4.525095
+        Vertex 2 18.538086 8.134766 -23.648804 0.165902 -4.800102
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 14.967773 13.921387 -19.094299 0.084201 -4.803103
+        Vertex 1 9.948242 16.124512 -12.691498 0.000098 -4.807399
+        Vertex 2 -4.066406 16.124512 -24.372803 -0.000498 -4.522305
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -4.066406 16.124512 -24.372803 -0.000497 -4.522305
+        Vertex 1 1.468750 13.921387 -30.360413 0.083904 -4.524004
+        Vertex 2 14.967773 13.921387 -19.094299 0.084202 -4.803102
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 9.948242 16.124512 -12.691498 0.000099 -4.807398
+        Vertex 1 4.929688 13.921387 -6.288696 -0.084097 -4.811604
+        Vertex 2 -9.601563 13.921387 -18.385315 -0.084797 -4.520603
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -9.601563 13.921387 -18.385315 -0.084797 -4.520603
+        Vertex 1 -4.066406 16.124512 -24.372803 -0.000497 -4.522305
+        Vertex 2 9.948242 16.124512 -12.691498 0.000099 -4.807398
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 4.929688 13.921387 -6.288696 0.915903 -4.811604
+        Vertex 1 1.359375 8.134766 -1.734192 0.834202 -4.814602
+        Vertex 2 -13.539063 8.134766 -14.126221 0.833801 -4.519399
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -13.539063 8.134766 -14.126221 0.833799 -4.519398
+        Vertex 1 -9.601563 13.921387 -18.385315 0.915201 -4.520601
+        Vertex 2 4.929688 13.921387 -6.288696 0.915901 -4.811602
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 1.359375 8.134766 -1.734192 0.834200 -4.814601
+        Vertex 1 0.000000 0.000000 0.000000 0.750008 -4.815810
+        Vertex 2 -15.038086 0.000000 -12.504608 0.750006 -4.519007
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -15.038086 0.000000 -12.504608 0.750000 -4.519001
+        Vertex 1 -13.539063 8.134766 -14.126221 0.833799 -4.519399
+        Vertex 2 1.359375 8.134766 -1.734192 0.834200 -4.814601
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -15.038086 0.000000 -12.504608 0.750000 -4.519002
+        Vertex 1 -13.539063 -8.134766 -14.126221 0.666201 -4.519400
+        Vertex 2 -24.794922 -8.134766 -26.407806 0.665901 -4.304897
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -24.794922 -8.134766 -26.407806 0.665901 -4.304897
+        Vertex 1 -26.602539 0.000000 -25.113312 0.750008 -4.304709
+        Vertex 2 -15.038086 0.000000 -12.504608 0.750006 -4.519007
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -13.539063 -8.134766 -14.126221 0.666202 -4.519400
+        Vertex 1 -9.601563 -13.921387 -18.385315 0.584798 -4.520603
+        Vertex 2 -20.045898 -13.921387 -29.807800 0.583900 -4.305502
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.045898 -13.921387 -29.807800 0.583898 -4.305500
+        Vertex 1 -24.794922 -8.134766 -26.407806 0.665901 -4.304896
+        Vertex 2 -13.539063 -8.134766 -14.126221 0.666200 -4.519398
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -9.601563 -13.921387 -18.385315 0.584798 -4.520604
+        Vertex 1 -4.066406 -16.124512 -24.372803 0.500497 -4.522305
+        Vertex 2 -13.370117 -16.124512 -34.587524 0.498899 -4.306402
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -13.370117 -16.124512 -34.587524 0.498899 -4.306401
+        Vertex 1 -20.045898 -13.921387 -29.807800 0.583898 -4.305502
+        Vertex 2 -9.601563 -13.921387 -18.385315 0.584797 -4.520603
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -4.066406 -16.124512 -24.372803 0.500497 -4.522304
+        Vertex 1 1.468750 -13.921387 -30.360413 0.416097 -4.524005
+        Vertex 2 -6.694336 -13.921387 -39.367310 0.414299 -4.307302
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.694336 -13.921387 -39.367310 0.414298 -4.307304
+        Vertex 1 -13.370117 -16.124512 -34.587524 0.498899 -4.306403
+        Vertex 2 -4.066406 -16.124512 -24.372803 0.500497 -4.522305
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 1.468750 -13.921387 -30.360413 0.416099 -4.524007
+        Vertex 1 5.405273 -8.134766 -34.619507 0.334301 -4.525098
+        Vertex 2 -1.946289 -8.134766 -42.767212 0.333001 -4.307896
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -1.946289 -8.134766 -42.767212 0.333002 -4.307897
+        Vertex 1 -6.694336 -13.921387 -39.367310 0.414300 -4.307302
+        Vertex 2 1.468750 -13.921387 -30.360413 0.416099 -4.524006
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 5.405273 -8.134766 -34.619507 0.334300 -4.525098
+        Vertex 1 6.904297 0.000000 -36.241089 0.250008 -4.525604
+        Vertex 2 -0.137695 0.000000 -44.061798 0.250005 -4.308209
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -0.137695 0.000000 -44.061798 0.250000 -4.308201
+        Vertex 1 -1.946289 -8.134766 -42.767212 0.333000 -4.307894
+        Vertex 2 5.405273 -8.134766 -34.619507 0.334300 -4.525097
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 6.904297 0.000000 -36.241089 0.250000 -4.525596
+        Vertex 1 5.405273 8.134766 -34.619507 0.165700 -4.525098
+        Vertex 2 -1.946289 8.134766 -42.767212 0.167000 -4.307895
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -1.946289 8.134766 -42.767212 0.166999 -4.307895
+        Vertex 1 -0.137695 0.000000 -44.061798 0.250008 -4.308210
+        Vertex 2 6.904297 0.000000 -36.241089 0.250006 -4.525603
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 5.405273 8.134766 -34.619507 0.165699 -4.525097
+        Vertex 1 1.468750 13.921387 -30.360413 0.083901 -4.524006
+        Vertex 2 -6.694336 13.921387 -39.367310 0.085700 -4.307303
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.694336 13.921387 -39.367310 0.085700 -4.307302
+        Vertex 1 -1.946289 8.134766 -42.767212 0.166998 -4.307895
+        Vertex 2 5.405273 8.134766 -34.619507 0.165699 -4.525097
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 1.468750 13.921387 -30.360413 0.083903 -4.524003
+        Vertex 1 -4.066406 16.124512 -24.372803 -0.000497 -4.522302
+        Vertex 2 -13.370117 16.124512 -34.587524 0.001101 -4.306398
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -13.370117 16.124512 -34.587524 0.001100 -4.306401
+        Vertex 1 -6.694336 13.921387 -39.367310 0.085701 -4.307302
+        Vertex 2 1.468750 13.921387 -30.360413 0.083903 -4.524005
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -4.066406 16.124512 -24.372803 0.999502 -4.522302
+        Vertex 1 -9.601563 13.921387 -18.385315 0.915201 -4.520601
+        Vertex 2 -20.045898 13.921387 -29.807800 0.916101 -4.305501
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.045898 13.921387 -29.807800 -0.083899 -4.305502
+        Vertex 1 -13.370117 16.124512 -34.587524 0.001101 -4.306401
+        Vertex 2 -4.066406 16.124512 -24.372803 -0.000497 -4.522304
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -9.601563 13.921387 -18.385315 0.915203 -4.520602
+        Vertex 1 -13.539063 8.134766 -14.126221 0.833800 -4.519400
+        Vertex 2 -24.794922 8.134766 -26.407806 0.834099 -4.304897
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -24.794922 8.134766 -26.407806 0.834097 -4.304897
+        Vertex 1 -20.045898 13.921387 -29.807800 0.916100 -4.305501
+        Vertex 2 -9.601563 13.921387 -18.385315 0.915201 -4.520601
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -13.539063 8.134766 -14.126221 0.833800 -4.519400
+        Vertex 1 -15.038086 0.000000 -12.504608 0.750009 -4.519009
+        Vertex 2 -26.602539 0.000000 -25.113312 0.750007 -4.304708
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -26.602539 0.000000 -25.113312 0.750000 -4.304700
+        Vertex 1 -24.794922 8.134766 -26.407806 0.834099 -4.304897
+        Vertex 2 -13.539063 8.134766 -14.126221 0.833799 -4.519399
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -26.602539 0.000000 -25.113312 0.749999 -4.304701
+        Vertex 1 -24.794922 -8.134766 -26.407806 0.665901 -4.304899
+        Vertex 2 -32.036133 -8.134766 -40.708801 0.667001 -4.130998
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -32.036133 -8.134766 -40.708801 0.667001 -4.130998
+        Vertex 1 -34.171875 0.000000 -40.054810 0.750008 -4.131607
+        Vertex 2 -26.602539 0.000000 -25.113312 0.750005 -4.304708
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -24.794922 -8.134766 -26.407806 0.665902 -4.304898
+        Vertex 1 -20.045898 -13.921387 -29.807800 0.583899 -4.305502
+        Vertex 2 -26.425781 -13.921387 -42.426514 0.585497 -4.129303
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -26.425781 -13.921387 -42.426514 0.585497 -4.129301
+        Vertex 1 -32.036133 -8.134766 -40.708801 0.667002 -4.130998
+        Vertex 2 -24.794922 -8.134766 -26.407806 0.665902 -4.304899
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.045898 -13.921387 -29.807800 0.583898 -4.305501
+        Vertex 1 -13.370117 -16.124512 -34.587524 0.498899 -4.306399
+        Vertex 2 -18.540039 -16.124512 -44.841187 0.500400 -4.126998
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -18.540039 -16.124512 -44.841187 0.500400 -4.127000
+        Vertex 1 -26.425781 -13.921387 -42.426514 0.585497 -4.129301
+        Vertex 2 -20.045898 -13.921387 -29.807800 0.583898 -4.305501
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -13.370117 -16.124512 -34.587524 0.498899 -4.306402
+        Vertex 1 -6.694336 -13.921387 -39.367310 0.414298 -4.307303
+        Vertex 2 -10.654297 -13.921387 -47.255920 0.415202 -4.124697
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -10.654297 -13.921387 -47.255920 0.415202 -4.124699
+        Vertex 1 -18.540039 -16.124512 -44.841187 0.500400 -4.127000
+        Vertex 2 -13.370117 -16.124512 -34.587524 0.498899 -4.306400
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.694336 -13.921387 -39.367310 0.414301 -4.307302
+        Vertex 1 -1.946289 -8.134766 -42.767212 0.333003 -4.307894
+        Vertex 2 -5.043945 -8.134766 -48.973511 0.333398 -4.123105
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -5.043945 -8.134766 -48.973511 0.333398 -4.123104
+        Vertex 1 -10.654297 -13.921387 -47.255920 0.415204 -4.124699
+        Vertex 2 -6.694336 -13.921387 -39.367310 0.414300 -4.307302
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -1.946289 -8.134766 -42.767212 0.333001 -4.307896
+        Vertex 1 -0.137695 0.000000 -44.061798 0.250009 -4.308209
+        Vertex 2 -2.908203 0.000000 -49.627502 0.250006 -4.122410
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -2.908203 0.000000 -49.627502 0.250000 -4.122404
+        Vertex 1 -5.043945 -8.134766 -48.973511 0.333399 -4.123106
+        Vertex 2 -1.946289 -8.134766 -42.767212 0.333001 -4.307896
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -0.137695 0.000000 -44.061798 0.250000 -4.308202
+        Vertex 1 -1.946289 8.134766 -42.767212 0.166999 -4.307896
+        Vertex 2 -5.043945 8.134766 -48.973511 0.166601 -4.123104
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -5.043945 8.134766 -48.973511 0.166601 -4.123106
+        Vertex 1 -2.908203 0.000000 -49.627502 0.250009 -4.122413
+        Vertex 2 -0.137695 0.000000 -44.061798 0.250007 -4.308207
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -1.946289 8.134766 -42.767212 0.166997 -4.307897
+        Vertex 1 -6.694336 13.921387 -39.367310 0.085700 -4.307302
+        Vertex 2 -10.654297 13.921387 -47.255920 0.084797 -4.124697
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -10.654297 13.921387 -47.255920 0.084798 -4.124698
+        Vertex 1 -5.043945 8.134766 -48.973511 0.166603 -4.123106
+        Vertex 2 -1.946289 8.134766 -42.767212 0.166998 -4.307898
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.694336 13.921387 -39.367310 0.085704 -4.307302
+        Vertex 1 -13.370117 16.124512 -34.587524 0.001103 -4.306400
+        Vertex 2 -18.540039 16.124512 -44.841187 -0.000398 -4.126999
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -18.540039 16.124512 -44.841187 -0.000402 -4.126999
+        Vertex 1 -10.654297 13.921387 -47.255920 0.084796 -4.124698
+        Vertex 2 -6.694336 13.921387 -39.367310 0.085701 -4.307301
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -13.370117 16.124512 -34.587524 0.001100 -4.306399
+        Vertex 1 -20.045898 13.921387 -29.807800 -0.083899 -4.305499
+        Vertex 2 -26.425781 13.921387 -42.426514 -0.085497 -4.129301
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -26.425781 13.921387 -42.426514 -0.085498 -4.129301
+        Vertex 1 -18.540039 16.124512 -44.841187 -0.000402 -4.127000
+        Vertex 2 -13.370117 16.124512 -34.587524 0.001100 -4.306400
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.045898 13.921387 -29.807800 0.916101 -4.305500
+        Vertex 1 -24.794922 8.134766 -26.407806 0.834097 -4.304897
+        Vertex 2 -32.036133 8.134766 -40.708801 0.832996 -4.130997
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -32.036133 8.134766 -40.708801 0.832997 -4.130998
+        Vertex 1 -26.425781 13.921387 -42.426514 0.914502 -4.129302
+        Vertex 2 -20.045898 13.921387 -29.807800 0.916101 -4.305500
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -24.794922 8.134766 -26.407806 0.834099 -4.304899
+        Vertex 1 -26.602539 0.000000 -25.113312 0.750009 -4.304709
+        Vertex 2 -34.171875 0.000000 -40.054810 0.750006 -4.131605
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -34.171875 0.000000 -40.054810 0.749999 -4.131599
+        Vertex 1 -32.036133 8.134766 -40.708801 0.832998 -4.130998
+        Vertex 2 -24.794922 8.134766 -26.407806 0.834099 -4.304899
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -34.171875 0.000000 -40.054810 0.750000 -4.131599
+        Vertex 1 -32.036133 -8.134766 -40.708801 0.667001 -4.131000
+        Vertex 2 -34.107422 -8.134766 -56.574097 0.666001 -3.942000
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -34.107422 -8.134766 -56.574097 0.666001 -3.942000
+        Vertex 1 -36.315430 0.000000 -56.563812 0.750008 -3.942108
+        Vertex 2 -34.171875 0.000000 -40.054810 0.750007 -4.131606
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -32.036133 -8.134766 -40.708801 0.667003 -4.130998
+        Vertex 1 -26.425781 -13.921387 -42.426514 0.585497 -4.129300
+        Vertex 2 -28.307617 -13.921387 -56.601318 0.584299 -3.941499
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -28.307617 -13.921387 -56.601318 0.584300 -3.941501
+        Vertex 1 -34.107422 -8.134766 -56.574097 0.666002 -3.942001
+        Vertex 2 -32.036133 -8.134766 -40.708801 0.667004 -4.131001
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -26.425781 -13.921387 -42.426514 0.585498 -4.129301
+        Vertex 1 -18.540039 -16.124512 -44.841187 0.500402 -4.127001
+        Vertex 2 -20.154297 -16.124512 -56.639404 0.500001 -3.940900
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.154297 -16.124512 -56.639404 0.500000 -3.940900
+        Vertex 1 -28.307617 -13.921387 -56.601318 0.584300 -3.941500
+        Vertex 2 -26.425781 -13.921387 -42.426514 0.585497 -4.129299
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -18.540039 -16.124512 -44.841187 0.500401 -4.127001
+        Vertex 1 -10.654297 -13.921387 -47.255920 0.415204 -4.124699
+        Vertex 2 -12.000977 -13.921387 -56.677490 0.415601 -3.940401
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -12.000977 -13.921387 -56.677490 0.415600 -3.940400
+        Vertex 1 -20.154297 -16.124512 -56.639404 0.499999 -3.940900
+        Vertex 2 -18.540039 -16.124512 -44.841187 0.500400 -4.127000
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -10.654297 -13.921387 -47.255920 0.415204 -4.124699
+        Vertex 1 -5.043945 -8.134766 -48.973511 0.333397 -4.123102
+        Vertex 2 -6.201172 -8.134766 -56.704712 0.333998 -3.939902
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.201172 -8.134766 -56.704712 0.333998 -3.939902
+        Vertex 1 -12.000977 -13.921387 -56.677490 0.415602 -3.940403
+        Vertex 2 -10.654297 -13.921387 -47.255920 0.415204 -4.124701
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -5.043945 -8.134766 -48.973511 0.333398 -4.123100
+        Vertex 1 -2.908203 0.000000 -49.627502 0.250007 -4.122408
+        Vertex 2 -3.993164 0.000000 -56.714996 0.250005 -3.939806
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -3.993164 0.000000 -56.714996 0.250000 -3.939799
+        Vertex 1 -6.201172 -8.134766 -56.704712 0.333999 -3.939899
+        Vertex 2 -5.043945 -8.134766 -48.973511 0.333398 -4.123100
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -2.908203 0.000000 -49.627502 0.250001 -4.122401
+        Vertex 1 -5.043945 8.134766 -48.973511 0.166602 -4.123101
+        Vertex 2 -6.201172 8.134766 -56.704712 0.166001 -3.939901
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.201172 8.134766 -56.704712 0.166001 -3.939899
+        Vertex 1 -3.993164 0.000000 -56.714996 0.250008 -3.939807
+        Vertex 2 -2.908203 0.000000 -49.627502 0.250007 -4.122405
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -5.043945 8.134766 -48.973511 0.166604 -4.123103
+        Vertex 1 -10.654297 13.921387 -47.255920 0.084798 -4.124699
+        Vertex 2 -12.000977 13.921387 -56.677490 0.084400 -3.940400
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -12.000977 13.921387 -56.677490 0.084399 -3.940399
+        Vertex 1 -6.201172 8.134766 -56.704712 0.166002 -3.939899
+        Vertex 2 -5.043945 8.134766 -48.973511 0.166604 -4.123100
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -10.654297 13.921387 -47.255920 0.084796 -4.124699
+        Vertex 1 -18.540039 16.124512 -44.841187 -0.000401 -4.127000
+        Vertex 2 -20.154297 16.124512 -56.639404 -0.000000 -3.940900
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.154297 16.124512 -56.639404 -0.000000 -3.940900
+        Vertex 1 -12.000977 13.921387 -56.677490 0.084400 -3.940399
+        Vertex 2 -10.654297 13.921387 -47.255920 0.084797 -4.124699
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -18.540039 16.124512 -44.841187 0.999600 -4.127000
+        Vertex 1 -26.425781 13.921387 -42.426514 0.914503 -4.129301
+        Vertex 2 -28.307617 13.921387 -56.601318 0.915700 -3.941500
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -28.307617 13.921387 -56.601318 -0.084301 -3.941500
+        Vertex 1 -20.154297 16.124512 -56.639404 -0.000001 -3.940900
+        Vertex 2 -18.540039 16.124512 -44.841187 -0.000402 -4.127001
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -26.425781 13.921387 -42.426514 0.914502 -4.129299
+        Vertex 1 -32.036133 8.134766 -40.708801 0.832996 -4.130997
+        Vertex 2 -34.107422 8.134766 -56.574097 0.833998 -3.941998
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -34.107422 8.134766 -56.574097 0.833999 -3.941999
+        Vertex 1 -28.307617 13.921387 -56.601318 0.915701 -3.941499
+        Vertex 2 -26.425781 13.921387 -42.426514 0.914503 -4.129299
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -32.036133 8.134766 -40.708801 0.832999 -4.131000
+        Vertex 1 -34.171875 0.000000 -40.054810 0.750007 -4.131608
+        Vertex 2 -36.315430 0.000000 -56.563812 0.750006 -3.942107
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -36.315430 0.000000 -56.563812 0.750000 -3.942099
+        Vertex 1 -34.107422 8.134766 -56.574097 0.833999 -3.941999
+        Vertex 2 -32.036133 8.134766 -40.708801 0.832999 -4.130999
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -12.000977 -13.921387 -56.677490 0.415599 -3.940398
+        Vertex 1 -6.201172 -8.134766 -56.704712 0.333996 -3.939898
+        Vertex 2 -6.233398 -8.134766 -816.647705 0.334101 7.934204
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.201172 -8.134766 -56.704712 0.333999 -3.939900
+        Vertex 1 -3.993164 0.000000 -56.714996 0.250008 -3.939809
+        Vertex 2 -4.029297 0.000000 -816.649048 0.250005 7.934191
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -4.029297 0.000000 -816.649048 0.249999 7.934203
+        Vertex 1 -6.233398 -8.134766 -816.647705 0.334109 7.934195
+        Vertex 2 -6.201172 -8.134766 -56.704712 0.334005 -3.939902
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.201172 8.134766 -56.704712 0.166002 -3.939900
+        Vertex 1 -4.029297 0.000000 -816.649048 0.250010 7.934195
+        Vertex 2 -3.993164 0.000000 -56.714996 0.250007 -3.939806
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -4.029297 0.000000 -816.649048 0.250001 7.934204
+        Vertex 1 -6.201172 8.134766 -56.704712 0.166009 -3.939904
+        Vertex 2 -6.233398 8.134766 -816.647705 0.165905 7.934197
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -12.000977 13.921387 -56.677490 0.084400 -3.940398
+        Vertex 1 -6.233398 8.134766 -816.647705 0.165898 7.934204
+        Vertex 2 -6.201172 8.134766 -56.704712 0.166003 -3.939899
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -36.315430 0.000000 -56.563812 0.750000 -3.942101
+        Vertex 1 -34.107422 -8.134766 -56.574097 0.666001 -3.942001
+        Vertex 2 -34.075195 -8.134766 -816.630615 0.665799 7.933897
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -34.075195 -8.134766 -816.630615 0.665799 7.933898
+        Vertex 1 -36.279297 0.000000 -816.629395 0.750009 7.933893
+        Vertex 2 -36.315430 0.000000 -56.563812 0.750006 -3.942104
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -34.107422 -8.134766 -56.574097 0.666004 -3.942000
+        Vertex 1 -28.307617 -13.921387 -56.601318 0.584301 -3.941500
+        Vertex 2 -28.289063 -13.921387 -816.634277 0.584100 7.934000
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -28.289063 -13.921387 -816.634277 0.584100 7.934003
+        Vertex 1 -34.075195 -8.134766 -816.630615 0.665798 7.933901
+        Vertex 2 -34.107422 -8.134766 -56.574097 0.666003 -3.941997
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -28.307617 -13.921387 -56.601318 0.584301 -3.941500
+        Vertex 1 -20.154297 -16.124512 -56.639404 0.500010 -3.940909
+        Vertex 2 -20.154297 -16.124512 -816.639160 0.500008 7.933990
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.154297 -16.124512 -816.639160 0.500000 7.933999
+        Vertex 1 -28.289063 -13.921387 -816.634277 0.584108 7.933992
+        Vertex 2 -28.307617 -13.921387 -56.601318 0.584306 -3.941509
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.154297 -16.124512 -56.639404 0.500000 -3.940900
+        Vertex 1 -12.000977 -13.921387 -56.677490 0.415601 -3.940400
+        Vertex 2 -12.019531 -13.921387 -816.644165 0.415801 7.934103
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -12.019531 -13.921387 -816.644165 0.415801 7.934099
+        Vertex 1 -20.154297 -16.124512 -816.639160 0.500008 7.933990
+        Vertex 2 -20.154297 -16.124512 -56.639404 0.500006 -3.940908
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.233398 -8.134766 -816.647705 0.334104 7.934198
+        Vertex 1 -12.019531 -13.921387 -816.644165 0.415802 7.934098
+        Vertex 2 -12.000977 -13.921387 -56.677490 0.415602 -3.940398
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -6.233398 8.134766 -816.647705 0.165898 7.934201
+        Vertex 1 -12.000977 13.921387 -56.677490 0.084400 -3.940398
+        Vertex 2 -12.019531 13.921387 -816.644165 0.084199 7.934101
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -12.000977 13.921387 -56.677490 0.084400 -3.940397
+        Vertex 1 -20.154297 16.124512 -56.639404 0.000009 -3.940905
+        Vertex 2 -20.154297 16.124512 -816.639160 0.000007 7.933995
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.154297 16.124512 -816.639160 0.000001 7.934003
+        Vertex 1 -12.019531 13.921387 -816.644165 0.084200 7.934104
+        Vertex 2 -12.000977 13.921387 -56.677490 0.084401 -3.940396
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -20.154297 16.124512 -56.639404 0.000000 -3.940899
+        Vertex 1 -28.307617 13.921387 -56.601318 -0.084300 -3.941499
+        Vertex 2 -28.289063 13.921387 -816.634277 -0.084099 7.934000
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -28.289063 13.921387 -816.634277 -0.084098 7.934003
+        Vertex 1 -20.154297 16.124512 -816.639160 0.000009 7.933993
+        Vertex 2 -20.154297 16.124512 -56.639404 0.000007 -3.940906
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -28.307617 13.921387 -56.601318 0.915701 -3.941499
+        Vertex 1 -34.107422 8.134766 -56.574097 0.833998 -3.941998
+        Vertex 2 -34.075195 8.134766 -816.630615 0.834203 7.933901
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -34.075195 8.134766 -816.630615 0.834202 7.933901
+        Vertex 1 -28.289063 13.921387 -816.634277 0.915901 7.934003
+        Vertex 2 -28.307617 13.921387 -56.601318 0.915700 -3.941498
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -34.107422 8.134766 -56.574097 0.833999 -3.942000
+        Vertex 1 -36.315430 0.000000 -56.563812 0.750008 -3.942109
+        Vertex 2 -36.279297 0.000000 -816.629395 0.750005 7.933896
+    End Triangle
+    Begin Triangle
+        Texture X_MechStandard.Base.SC-Bronz2_Shiny
+        SmoothingMask 1
+        Vertex 0 -36.279297 0.000000 -816.629395 0.749999 7.933901
+        Vertex 1 -34.075195 8.134766 -816.630615 0.834209 7.933891
+        Vertex 2 -34.107422 8.134766 -56.574097 0.834005 -3.942005
+    End Triangle
+End StaticMesh

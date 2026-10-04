@@ -1,0 +1,59 @@
+Begin StaticMesh Name=hourewatersheet
+    Version=2.000000 BoundingBox.Min.X=-128.000000 BoundingBox.Min.Y=-128.000000 BoundingBox.Min.Z=0.000000 BoundingBox.Max.X=128.000000 BoundingBox.Max.Y=128.000000 BoundingBox.Max.Z=0.000000
+    Begin Triangle
+        Texture DM-Rankin.hourerwaterpudleshadered
+        SmoothingMask 1
+        Vertex 0 128.000000 0.000000 0.000000 0.000000 0.500000
+        Vertex 1 128.000000 -128.000000 0.000000 0.000000 1.000000
+        Vertex 2 0.000000 0.000000 0.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourerwaterpudleshadered
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.000000 0.000000 0.500000 1.000000
+        Vertex 1 0.000000 0.000000 0.000000 0.500000 0.500000
+        Vertex 2 128.000000 -128.000000 0.000000 0.000000 1.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourerwaterpudleshadered
+        SmoothingMask 1
+        Vertex 0 0.000000 0.000000 0.000000 0.500000 0.500000
+        Vertex 1 0.000000 -128.000000 0.000000 0.500000 1.000000
+        Vertex 2 -128.000000 0.000000 0.000000 1.000000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourerwaterpudleshadered
+        SmoothingMask 1
+        Vertex 0 -128.000000 -128.000000 0.000000 1.000000 1.000000
+        Vertex 1 -128.000000 0.000000 0.000000 1.000000 0.500000
+        Vertex 2 0.000000 -128.000000 0.000000 0.500000 1.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourerwaterpudleshadered
+        SmoothingMask 1
+        Vertex 0 128.000000 128.000000 0.000000 0.000000 0.000000
+        Vertex 1 128.000000 0.000000 0.000000 0.000000 0.500000
+        Vertex 2 0.000000 128.000000 0.000000 0.500000 0.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourerwaterpudleshadered
+        SmoothingMask 1
+        Vertex 0 0.000000 0.000000 0.000000 0.500000 0.500000
+        Vertex 1 0.000000 128.000000 0.000000 0.500000 0.000000
+        Vertex 2 128.000000 0.000000 0.000000 0.000000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourerwaterpudleshadered
+        SmoothingMask 1
+        Vertex 0 0.000000 128.000000 0.000000 0.500000 0.000000
+        Vertex 1 0.000000 0.000000 0.000000 0.500000 0.500000
+        Vertex 2 -128.000000 128.000000 0.000000 1.000000 0.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourerwaterpudleshadered
+        SmoothingMask 1
+        Vertex 0 -128.000000 0.000000 0.000000 1.000000 0.500000
+        Vertex 1 -128.000000 128.000000 0.000000 1.000000 0.000000
+        Vertex 2 0.000000 0.000000 0.000000 0.500000 0.500000
+    End Triangle
+End StaticMesh

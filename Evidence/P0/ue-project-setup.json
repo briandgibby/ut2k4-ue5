@@ -1,0 +1,41 @@
+{
+  "RecordedAt": "2026-10-04T15:21:39.3123844-04:00",
+  "EnginePath": "F:\\Program Files\\Epic Games\\UE_5.8",
+  "EngineVersion": "5.8.3",
+  "Changelist": 58210709,
+  "ProjectPath": "Prototype/UT2004UE5.uproject",
+  "CreationMethod": "Native UE5 project browser; Blueprint First Person, Variant None, Desktop, Maximum",
+  "NativeTemplate": "Templates/TP_FirstPersonBP",
+  "EnabledForInspection": "Built-in PythonScriptPlugin, Editor target only",
+  "RuntimeSmoke": {
+    "Limits": "Qualitative template smoke only; no UT fidelity, trajectory, packaged execution or performance acceptance",
+    "Mode": "Play in Editor",
+    "MouseLookObserved": true,
+    "ReturnToEditorObserved": true,
+    "JumpCameraResponseObserved": true,
+    "SpawnObserved": true,
+    "Level": "/Game/FirstPerson/Lvl_FirstPerson"
+  },
+  "ProtectedTemplateFiles": [
+    {
+      "Path": "Content/FirstPerson/Lvl_FirstPerson.umap",
+      "Bytes": 14257,
+      "SHA256": "3D476154BF4CAC39A59EC91B88F5ED6889AF113A1ECF9690A01C89D8BC32D258"
+    },
+    {
+      "Path": "Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+      "Bytes": 138384,
+      "SHA256": "32D47177B176A430ADB28897153E9BF5D2A3807BFCA232815AA60AD58B6AE6A3"
+    },
+    {
+      "Path": "Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+      "Bytes": 16060,
+      "SHA256": "B23709651A847A05A85C9E258D60D98F6A9BAD15BCAD798CD7C0B02C1729696E"
+    },
+    {
+      "Path": "Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+      "Bytes": 83021,
+      "SHA256": "0AD6C2154837E1AAFBBD6DA30C9F49697C031D8AE2221D481956F08E827EDC14"
+    }
+  ]
+}

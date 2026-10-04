@@ -1,0 +1,661 @@
+Begin StaticMesh Name=panlightA
+    Version=2.000000 BoundingBox.Min.X=-31.000000 BoundingBox.Min.Y=-4.000000 BoundingBox.Min.Z=-93.000000 BoundingBox.Max.X=31.000000 BoundingBox.Max.Y=8.000000 BoundingBox.Max.Z=93.000000
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 5.000000 -2.000000 60.000000 0.079462 0.003820
+        Vertex 1 -5.000000 -2.000000 60.000000 0.017244 0.003820
+        Vertex 2 -5.000000 -2.000000 -93.000000 0.017244 0.997709
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 31.000000 -4.000000 60.000000 0.818785 0.501490
+        Vertex 1 31.000000 -4.000000 92.000000 0.818785 0.994747
+        Vertex 2 31.000000 1.000000 60.000000 0.906574 0.501490
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 31.000000 -4.000000 60.000000 0.208903 0.991820
+        Vertex 1 31.000000 1.000000 60.000000 0.118937 0.991820
+        Vertex 2 -31.000000 1.000000 60.000000 0.118937 0.006543
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -31.000000 -4.000000 60.000000 0.208903 0.006543
+        Vertex 1 31.000000 -4.000000 60.000000 0.208903 0.991820
+        Vertex 2 -31.000000 1.000000 60.000000 0.118937 0.006543
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -31.000000 1.000000 92.000000 0.906004 0.499999
+        Vertex 1 -31.000000 -4.000000 92.000000 0.818215 0.499999
+        Vertex 2 -31.000000 1.000000 60.000000 0.906004 0.006742
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -31.000000 -4.000000 92.000000 0.818215 0.499999
+        Vertex 1 -31.000000 -4.000000 60.000000 0.818215 0.006742
+        Vertex 2 -31.000000 1.000000 60.000000 0.906004 0.006742
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 31.000000 1.000000 92.000000 0.720650 0.991836
+        Vertex 1 31.000000 -4.000000 92.000000 0.810617 0.991836
+        Vertex 2 -31.000000 1.000000 92.000000 0.720650 0.006559
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 31.000000 -4.000000 92.000000 0.810617 0.991836
+        Vertex 1 -31.000000 -4.000000 92.000000 0.810617 0.006559
+        Vertex 2 -31.000000 1.000000 92.000000 0.720650 0.006559
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 27.000000 5.000000 88.000000 0.657367 0.928253
+        Vertex 1 31.000000 1.000000 92.000000 0.720554 0.991820
+        Vertex 2 -27.000000 5.000000 88.000000 0.657367 0.070109
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 31.000000 1.000000 92.000000 0.720554 0.991820
+        Vertex 1 -31.000000 1.000000 92.000000 0.720554 0.006543
+        Vertex 2 -27.000000 5.000000 88.000000 0.657367 0.070109
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 27.000000 5.000000 88.000000 0.657367 0.928253
+        Vertex 1 27.000000 5.000000 64.000000 0.278248 0.928253
+        Vertex 2 31.000000 1.000000 60.000000 0.215062 0.991820
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 31.000000 1.000000 92.000000 0.720554 0.991820
+        Vertex 1 27.000000 5.000000 88.000000 0.657367 0.928253
+        Vertex 2 31.000000 1.000000 60.000000 0.215062 0.991820
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 27.000000 5.000000 64.000000 0.278248 0.928253
+        Vertex 1 -27.000000 5.000000 64.000000 0.278248 0.070109
+        Vertex 2 31.000000 1.000000 60.000000 0.215062 0.991820
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 31.000000 1.000000 60.000000 0.215062 0.991820
+        Vertex 1 -27.000000 5.000000 64.000000 0.278248 0.070109
+        Vertex 2 -31.000000 1.000000 60.000000 0.215062 0.006543
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -27.000000 5.000000 88.000000 0.657367 0.070109
+        Vertex 1 -31.000000 1.000000 92.000000 0.720554 0.006543
+        Vertex 2 -27.000000 5.000000 64.000000 0.278248 0.070109
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -27.000000 5.000000 64.000000 0.278248 0.070109
+        Vertex 1 -31.000000 1.000000 92.000000 0.720554 0.006543
+        Vertex 2 -31.000000 1.000000 60.000000 0.215062 0.006543
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -22.000000 1.000000 60.000000 0.954878 0.187794
+        Vertex 1 -22.000000 -4.000000 60.000000 0.954878 0.137806
+        Vertex 2 -20.000000 -4.000000 59.000000 0.974268 0.137806
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -22.000000 1.000000 60.000000 0.954878 0.187794
+        Vertex 1 -20.000000 -4.000000 59.000000 0.974268 0.137806
+        Vertex 2 -20.000000 2.000000 59.000000 0.974268 0.197792
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -18.000000 -4.000000 60.000000 0.993657 0.137806
+        Vertex 1 -18.000000 1.000000 60.000000 0.993657 0.187794
+        Vertex 2 -20.000000 -4.000000 59.000000 0.974268 0.137806
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -20.000000 -4.000000 59.000000 0.974268 0.137806
+        Vertex 1 -18.000000 1.000000 60.000000 0.993657 0.187794
+        Vertex 2 -20.000000 2.000000 59.000000 0.974268 0.197792
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -5.000000 -2.000000 60.000000 0.081784 0.003820
+        Vertex 1 -5.000000 -4.000000 60.000000 0.092569 0.003820
+        Vertex 2 -5.000000 -4.000000 -93.000000 0.092569 0.997709
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -5.000000 -2.000000 60.000000 0.081784 0.003820
+        Vertex 1 -5.000000 -4.000000 -93.000000 0.092569 0.997709
+        Vertex 2 -5.000000 -2.000000 -93.000000 0.081784 0.997709
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 5.000000 -4.000000 60.000000 0.105510 0.003820
+        Vertex 1 5.000000 -2.000000 60.000000 0.094725 0.003820
+        Vertex 2 5.000000 -4.000000 -93.000000 0.105510 0.997709
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 5.000000 -4.000000 -93.000000 0.105510 0.997709
+        Vertex 1 5.000000 -2.000000 60.000000 0.094725 0.003820
+        Vertex 2 5.000000 -2.000000 -93.000000 0.094725 0.997709
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -25.000000 3.000000 86.000000 0.612581 0.128397
+        Vertex 1 -27.000000 5.000000 88.000000 0.641969 0.098739
+        Vertex 2 -25.000000 3.000000 66.000000 0.318707 0.128397
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -25.000000 3.000000 66.000000 0.318707 0.128397
+        Vertex 1 -27.000000 5.000000 88.000000 0.641969 0.098739
+        Vertex 2 -27.000000 5.000000 64.000000 0.289319 0.098739
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 25.000000 3.000000 66.000000 0.318707 0.869836
+        Vertex 1 -25.000000 3.000000 66.000000 0.318707 0.128397
+        Vertex 2 -27.000000 5.000000 64.000000 0.289319 0.098739
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 27.000000 5.000000 64.000000 0.289319 0.899494
+        Vertex 1 25.000000 3.000000 66.000000 0.318707 0.869836
+        Vertex 2 -27.000000 5.000000 64.000000 0.289319 0.098739
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -20.000000 2.000000 93.000000 0.932038 0.134873
+        Vertex 1 -20.000000 -4.000000 93.000000 0.932038 0.074887
+        Vertex 2 -22.000000 1.000000 92.000000 0.912648 0.124875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -20.000000 -4.000000 93.000000 0.932038 0.074887
+        Vertex 1 -22.000000 -4.000000 92.000000 0.912648 0.074887
+        Vertex 2 -22.000000 1.000000 92.000000 0.912648 0.124875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -18.000000 -4.000000 92.000000 0.951427 0.074887
+        Vertex 1 -20.000000 -4.000000 93.000000 0.932038 0.074887
+        Vertex 2 -18.000000 1.000000 92.000000 0.951427 0.124875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -20.000000 -4.000000 93.000000 0.932038 0.074887
+        Vertex 1 -20.000000 2.000000 93.000000 0.932038 0.134873
+        Vertex 2 -18.000000 1.000000 92.000000 0.951427 0.124875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -2.000000 1.000000 60.000000 0.912221 0.187794
+        Vertex 1 -2.000000 -4.000000 60.000000 0.912221 0.137806
+        Vertex 2 0.000000 -4.000000 59.000000 0.931611 0.137806
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 27.000000 5.000000 88.000000 0.641969 0.899494
+        Vertex 1 25.000000 3.000000 86.000000 0.612581 0.869836
+        Vertex 2 27.000000 5.000000 64.000000 0.289319 0.899494
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 25.000000 3.000000 86.000000 0.612581 0.869836
+        Vertex 1 -27.000000 5.000000 88.000000 0.641969 0.098739
+        Vertex 2 -25.000000 3.000000 86.000000 0.612581 0.128397
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 25.000000 3.000000 86.000000 0.612581 0.869836
+        Vertex 1 25.000000 3.000000 66.000000 0.318707 0.869836
+        Vertex 2 27.000000 5.000000 64.000000 0.289319 0.899494
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 18.000000 -4.000000 60.000000 0.955305 0.074887
+        Vertex 1 22.000000 -4.000000 60.000000 0.994083 0.074887
+        Vertex 2 22.000000 1.000000 60.000000 0.994083 0.124875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 18.000000 -4.000000 60.000000 0.955305 0.074887
+        Vertex 1 22.000000 1.000000 60.000000 0.994083 0.124875
+        Vertex 2 18.000000 1.000000 60.000000 0.955305 0.124875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 18.000000 1.000000 60.000000 0.955305 0.124875
+        Vertex 1 18.000000 -4.000000 60.000000 0.955305 0.074887
+        Vertex 2 20.000000 -4.000000 59.000000 0.974694 0.074887
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 18.000000 1.000000 60.000000 0.955305 0.124875
+        Vertex 1 20.000000 -4.000000 59.000000 0.974694 0.074887
+        Vertex 2 20.000000 2.000000 59.000000 0.974694 0.134873
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 22.000000 -4.000000 60.000000 0.994083 0.074887
+        Vertex 1 22.000000 1.000000 60.000000 0.994083 0.124875
+        Vertex 2 20.000000 -4.000000 59.000000 0.974694 0.074887
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 20.000000 -4.000000 59.000000 0.974694 0.074887
+        Vertex 1 22.000000 1.000000 60.000000 0.994083 0.124875
+        Vertex 2 20.000000 2.000000 59.000000 0.974694 0.134873
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 0.000000 -4.000000 59.000000 0.931611 0.137806
+        Vertex 1 2.000000 1.000000 60.000000 0.951000 0.187794
+        Vertex 2 0.000000 2.000000 59.000000 0.931611 0.197792
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 27.000000 5.000000 88.000000 0.641969 0.899494
+        Vertex 1 -27.000000 5.000000 88.000000 0.641969 0.098739
+        Vertex 2 25.000000 3.000000 86.000000 0.612581 0.869836
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 25.000000 3.000000 66.000000 0.318707 0.869836
+        Vertex 1 -25.000000 3.000000 86.000000 0.612581 0.128397
+        Vertex 2 -25.000000 3.000000 66.000000 0.318707 0.128397
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 -2.000000 1.000000 60.000000 0.912221 0.187794
+        Vertex 1 0.000000 -4.000000 59.000000 0.931611 0.137806
+        Vertex 2 0.000000 2.000000 59.000000 0.931611 0.197792
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 5.000000 -2.000000 -93.000000 0.079462 0.997709
+        Vertex 1 5.000000 -2.000000 60.000000 0.079462 0.003820
+        Vertex 2 -5.000000 -2.000000 -93.000000 0.017244 0.997709
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 31.000000 -4.000000 92.000000 0.818785 0.994747
+        Vertex 1 31.000000 1.000000 92.000000 0.906574 0.994747
+        Vertex 2 31.000000 1.000000 60.000000 0.906574 0.501490
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 2.000000 -4.000000 60.000000 0.951000 0.137806
+        Vertex 1 2.000000 1.000000 60.000000 0.951000 0.187794
+        Vertex 2 0.000000 -4.000000 59.000000 0.931611 0.137806
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 25.000000 3.000000 86.000000 0.612581 0.869836
+        Vertex 1 -25.000000 3.000000 86.000000 0.612581 0.128397
+        Vertex 2 25.000000 3.000000 66.000000 0.318707 0.869836
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 20.000000 2.000000 93.000000 0.974694 0.070888
+        Vertex 1 20.000000 -4.000000 93.000000 0.974694 0.010902
+        Vertex 2 18.000000 1.000000 92.000000 0.955305 0.060891
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 20.000000 -4.000000 93.000000 0.974694 0.010902
+        Vertex 1 18.000000 -4.000000 92.000000 0.955305 0.010902
+        Vertex 2 18.000000 1.000000 92.000000 0.955305 0.060891
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 22.000000 -4.000000 92.000000 0.994083 0.010902
+        Vertex 1 20.000000 -4.000000 93.000000 0.974694 0.010902
+        Vertex 2 22.000000 1.000000 92.000000 0.994083 0.060891
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 20.000000 -4.000000 93.000000 0.974694 0.010902
+        Vertex 1 20.000000 2.000000 93.000000 0.974694 0.070888
+        Vertex 2 22.000000 1.000000 92.000000 0.994083 0.060891
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 0.000000 -4.000000 93.000000 0.932038 0.010902
+        Vertex 1 -2.000000 -4.000000 92.000000 0.912648 0.010902
+        Vertex 2 -2.000000 1.000000 92.000000 0.912648 0.060891
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 0.000000 2.000000 93.000000 0.932038 0.070888
+        Vertex 1 0.000000 -4.000000 93.000000 0.932038 0.010902
+        Vertex 2 -2.000000 1.000000 92.000000 0.912648 0.060891
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 2.000000 -4.000000 92.000000 0.951427 0.010902
+        Vertex 1 0.000000 -4.000000 93.000000 0.932038 0.010902
+        Vertex 2 2.000000 1.000000 92.000000 0.951427 0.060891
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.PanLightAUnlit
+        SmoothingMask 4
+        Vertex 0 0.000000 -4.000000 93.000000 0.932038 0.010902
+        Vertex 1 0.000000 2.000000 93.000000 0.932038 0.070888
+        Vertex 2 2.000000 1.000000 92.000000 0.951427 0.060891
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -20.000000 2.000000 93.000000 0.931924 0.633303
+        Vertex 1 -22.000000 1.000000 92.000000 0.912535 0.643843
+        Vertex 2 -22.000000 7.000000 88.000000 0.912535 0.686004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -20.000000 8.000000 89.000000 0.931924 0.675463
+        Vertex 1 -22.000000 7.000000 64.000000 0.912535 0.938967
+        Vertex 2 -20.000000 8.000000 63.000000 0.931924 0.949507
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 20.000000 8.000000 89.000000 0.952237 0.315463
+        Vertex 1 18.000000 7.000000 64.000000 0.932848 0.578967
+        Vertex 2 20.000000 8.000000 63.000000 0.952237 0.589507
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 20.000000 8.000000 89.000000 0.952237 0.315463
+        Vertex 1 18.000000 7.000000 88.000000 0.932848 0.326004
+        Vertex 2 18.000000 7.000000 64.000000 0.932848 0.578967
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -20.000000 8.000000 89.000000 0.931924 0.675463
+        Vertex 1 -22.000000 7.000000 88.000000 0.912535 0.686004
+        Vertex 2 -22.000000 7.000000 64.000000 0.912535 0.938967
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -20.000000 8.000000 89.000000 0.931924 0.675463
+        Vertex 1 -20.000000 2.000000 93.000000 0.931924 0.633303
+        Vertex 2 -22.000000 7.000000 88.000000 0.912535 0.686004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -2.000000 7.000000 64.000000 0.955192 0.938967
+        Vertex 1 -2.000000 1.000000 60.000000 0.955192 0.981128
+        Vertex 2 0.000000 2.000000 59.000000 0.974581 0.991668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 0.000000 8.000000 63.000000 0.974581 0.949507
+        Vertex 1 -2.000000 7.000000 64.000000 0.955192 0.938967
+        Vertex 2 0.000000 2.000000 59.000000 0.974581 0.991668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 2.000000 7.000000 64.000000 0.993970 0.938967
+        Vertex 1 0.000000 8.000000 89.000000 0.974581 0.675463
+        Vertex 2 0.000000 8.000000 63.000000 0.974581 0.949507
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 2.000000 7.000000 88.000000 0.993970 0.686004
+        Vertex 1 0.000000 8.000000 89.000000 0.974581 0.675463
+        Vertex 2 2.000000 7.000000 64.000000 0.993970 0.938967
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 0.000000 8.000000 89.000000 0.974581 0.675463
+        Vertex 1 -2.000000 7.000000 64.000000 0.955192 0.938967
+        Vertex 2 0.000000 8.000000 63.000000 0.974581 0.949507
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 0.000000 8.000000 89.000000 0.974581 0.675463
+        Vertex 1 -2.000000 7.000000 88.000000 0.955192 0.686004
+        Vertex 2 -2.000000 7.000000 64.000000 0.955192 0.938967
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 20.000000 8.000000 63.000000 0.952237 0.589507
+        Vertex 1 18.000000 7.000000 64.000000 0.932848 0.578967
+        Vertex 2 20.000000 2.000000 59.000000 0.952237 0.631668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 22.000000 1.000000 92.000000 0.971627 0.283843
+        Vertex 1 20.000000 2.000000 93.000000 0.952237 0.273303
+        Vertex 2 22.000000 7.000000 88.000000 0.971627 0.326004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 2.000000 1.000000 60.000000 0.993970 0.981128
+        Vertex 1 2.000000 7.000000 64.000000 0.993970 0.938967
+        Vertex 2 0.000000 2.000000 59.000000 0.974581 0.991668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 18.000000 7.000000 64.000000 0.932848 0.578967
+        Vertex 1 18.000000 1.000000 60.000000 0.932848 0.621128
+        Vertex 2 20.000000 2.000000 59.000000 0.952237 0.631668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 2.000000 1.000000 92.000000 0.993970 0.643843
+        Vertex 1 0.000000 2.000000 93.000000 0.974581 0.633303
+        Vertex 2 2.000000 7.000000 88.000000 0.993970 0.686004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 0.000000 2.000000 93.000000 0.974581 0.633303
+        Vertex 1 0.000000 8.000000 89.000000 0.974581 0.675463
+        Vertex 2 2.000000 7.000000 88.000000 0.993970 0.686004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 0.000000 8.000000 89.000000 0.974581 0.675463
+        Vertex 1 0.000000 2.000000 93.000000 0.974581 0.633303
+        Vertex 2 -2.000000 7.000000 88.000000 0.955192 0.686004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 0.000000 2.000000 93.000000 0.974581 0.633303
+        Vertex 1 -2.000000 1.000000 92.000000 0.955192 0.643843
+        Vertex 2 -2.000000 7.000000 88.000000 0.955192 0.686004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 22.000000 1.000000 60.000000 0.971627 0.621128
+        Vertex 1 22.000000 7.000000 64.000000 0.971627 0.578967
+        Vertex 2 20.000000 2.000000 59.000000 0.952237 0.631668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 22.000000 7.000000 64.000000 0.971627 0.578967
+        Vertex 1 20.000000 8.000000 63.000000 0.952237 0.589507
+        Vertex 2 20.000000 2.000000 59.000000 0.952237 0.631668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 2.000000 7.000000 64.000000 0.993970 0.938967
+        Vertex 1 0.000000 8.000000 63.000000 0.974581 0.949507
+        Vertex 2 0.000000 2.000000 59.000000 0.974581 0.991668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 20.000000 2.000000 93.000000 0.952237 0.273303
+        Vertex 1 18.000000 1.000000 92.000000 0.932848 0.283843
+        Vertex 2 18.000000 7.000000 88.000000 0.932848 0.326004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -20.000000 2.000000 93.000000 0.931924 0.633303
+        Vertex 1 -20.000000 8.000000 89.000000 0.931924 0.675463
+        Vertex 2 -18.000000 7.000000 88.000000 0.951314 0.686004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -18.000000 1.000000 92.000000 0.951314 0.643843
+        Vertex 1 -20.000000 2.000000 93.000000 0.931924 0.633303
+        Vertex 2 -18.000000 7.000000 88.000000 0.951314 0.686004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -18.000000 7.000000 88.000000 0.951314 0.686004
+        Vertex 1 -20.000000 8.000000 89.000000 0.931924 0.675463
+        Vertex 2 -18.000000 7.000000 64.000000 0.951314 0.938967
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -18.000000 7.000000 64.000000 0.951314 0.938967
+        Vertex 1 -20.000000 8.000000 89.000000 0.931924 0.675463
+        Vertex 2 -20.000000 8.000000 63.000000 0.931924 0.949507
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -20.000000 8.000000 63.000000 0.931924 0.949507
+        Vertex 1 -22.000000 7.000000 64.000000 0.912535 0.938967
+        Vertex 2 -20.000000 2.000000 59.000000 0.931924 0.991668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -22.000000 7.000000 64.000000 0.912535 0.938967
+        Vertex 1 -22.000000 1.000000 60.000000 0.912535 0.981128
+        Vertex 2 -20.000000 2.000000 59.000000 0.931924 0.991668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -18.000000 1.000000 60.000000 0.951314 0.981128
+        Vertex 1 -18.000000 7.000000 64.000000 0.951314 0.938967
+        Vertex 2 -20.000000 2.000000 59.000000 0.931924 0.991668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 -18.000000 7.000000 64.000000 0.951314 0.938967
+        Vertex 1 -20.000000 8.000000 63.000000 0.931924 0.949507
+        Vertex 2 -20.000000 2.000000 59.000000 0.931924 0.991668
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 20.000000 2.000000 93.000000 0.952237 0.273303
+        Vertex 1 20.000000 8.000000 89.000000 0.952237 0.315463
+        Vertex 2 22.000000 7.000000 88.000000 0.971627 0.326004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 20.000000 8.000000 89.000000 0.952237 0.315463
+        Vertex 1 20.000000 2.000000 93.000000 0.952237 0.273303
+        Vertex 2 18.000000 7.000000 88.000000 0.932848 0.326004
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 22.000000 7.000000 64.000000 0.971627 0.578967
+        Vertex 1 20.000000 8.000000 89.000000 0.952237 0.315463
+        Vertex 2 20.000000 8.000000 63.000000 0.952237 0.589507
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.panlightA
+        SmoothingMask 2
+        Vertex 0 22.000000 7.000000 88.000000 0.971627 0.326004
+        Vertex 1 20.000000 8.000000 89.000000 0.952237 0.315463
+        Vertex 2 22.000000 7.000000 64.000000 0.971627 0.578967
+    End Triangle
+End StaticMesh

@@ -1,0 +1,619 @@
+Begin StaticMesh Name=mSupportBlock01HA
+    Version=2.000000 BoundingBox.Min.X=-40.000000 BoundingBox.Min.Y=-32.000000 BoundingBox.Min.Z=-48.000000 BoundingBox.Max.X=42.000000 BoundingBox.Max.Y=36.000000 BoundingBox.Max.Z=50.000000
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -40.000000 36.000000 -48.000000 0.653592 0.646848
+        Vertex 1 -40.000000 -32.000000 -48.000000 0.352106 0.646848
+        Vertex 2 42.000000 36.000000 -48.000000 0.653592 0.982562
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 24.500000 0.000000 0.064524 0.768475
+        Vertex 1 35.500000 36.000000 10.000000 0.007419 0.722283
+        Vertex 2 42.000000 36.000000 -13.500000 0.007419 0.830834
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -4.000000 -32.000000 50.000000 0.351942 0.090846
+        Vertex 1 8.000000 -12.000000 50.000000 0.440614 0.040001
+        Vertex 2 15.000000 -32.000000 40.500000 0.351942 0.010341
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 8.000000 16.000000 50.000000 0.564755 0.040001
+        Vertex 1 -4.000000 36.000000 50.000000 0.653428 0.090846
+        Vertex 2 15.000000 36.000000 40.500000 0.653428 0.010341
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 -19.000000 -35.000000 0.280530 0.930146
+        Vertex 1 35.000000 -19.000000 -17.500000 0.280530 0.849310
+        Vertex 2 35.000000 23.000000 -35.000000 0.071973 0.930146
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 18.500000 -13.000000 0.094318 0.828524
+        Vertex 1 35.000000 23.000000 -18.500000 0.071973 0.853930
+        Vertex 2 35.000000 23.000000 -35.000000 0.071973 0.930146
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 -16.000000 -13.000000 0.265633 0.828524
+        Vertex 1 35.000000 18.500000 -13.000000 0.094318 0.828524
+        Vertex 2 35.000000 23.000000 -35.000000 0.071973 0.930146
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 -19.000000 -17.500000 0.280530 0.849310
+        Vertex 1 35.000000 -16.000000 -13.000000 0.265633 0.828524
+        Vertex 2 35.000000 23.000000 -35.000000 0.071973 0.930146
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 11.000000 11.500000 35.000000 0.779078 0.761804
+        Vertex 1 14.500000 21.500000 30.000000 0.729421 0.784900
+        Vertex 2 27.000000 21.500000 10.500000 0.729421 0.863774
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 11.000000 -7.500000 35.000000 0.873425 0.761804
+        Vertex 1 11.000000 11.500000 35.000000 0.779078 0.761804
+        Vertex 2 27.000000 21.500000 10.500000 0.729421 0.863774
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 14.000000 -17.500000 30.000000 0.923082 0.784900
+        Vertex 1 11.000000 -7.500000 35.000000 0.873425 0.761804
+        Vertex 2 27.500000 -17.500000 10.500000 0.923082 0.863774
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 11.000000 -7.500000 35.000000 0.873425 0.761804
+        Vertex 1 27.000000 21.500000 10.500000 0.729421 0.863774
+        Vertex 2 28.500000 20.000000 8.500000 0.736870 0.873012
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 27.500000 -17.500000 10.500000 0.923082 0.863774
+        Vertex 1 11.000000 -7.500000 35.000000 0.873425 0.761804
+        Vertex 2 28.500000 -16.000000 8.500000 0.915633 0.873012
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 11.000000 -7.500000 35.000000 0.873425 0.761804
+        Vertex 1 28.500000 20.000000 8.500000 0.736870 0.873012
+        Vertex 2 28.500000 -16.000000 8.500000 0.915633 0.873012
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -4.000000 -32.000000 50.000000 0.351942 0.090846
+        Vertex 1 -40.000000 -32.000000 50.000000 0.351942 0.243383
+        Vertex 2 8.000000 -12.000000 50.000000 0.440614 0.040001
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 8.000000 -12.000000 50.000000 0.440614 0.040001
+        Vertex 1 -40.000000 -32.000000 50.000000 0.351942 0.243383
+        Vertex 2 8.000000 16.000000 50.000000 0.564755 0.040001
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 8.000000 16.000000 50.000000 0.564755 0.040001
+        Vertex 1 -40.000000 -32.000000 50.000000 0.351942 0.243383
+        Vertex 2 -4.000000 36.000000 50.000000 0.653428 0.090846
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -40.000000 -32.000000 50.000000 0.351942 0.243383
+        Vertex 1 -40.000000 36.000000 50.000000 0.653428 0.243383
+        Vertex 2 -4.000000 36.000000 50.000000 0.653428 0.090846
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -32.000000 -48.000000 0.345084 0.990195
+        Vertex 1 42.000000 27.000000 -39.000000 0.052110 0.948623
+        Vertex 2 42.000000 36.000000 -48.000000 0.007419 0.990195
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -23.000000 -39.000000 0.300393 0.948623
+        Vertex 1 42.000000 27.000000 -39.000000 0.052110 0.948623
+        Vertex 2 42.000000 -32.000000 -48.000000 0.345084 0.990195
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 27.000000 -39.000000 0.052110 0.948623
+        Vertex 1 42.000000 36.000000 -13.500000 0.007419 0.830834
+        Vertex 2 42.000000 36.000000 -48.000000 0.007419 0.990195
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 27.000000 -17.000000 0.052110 0.847001
+        Vertex 1 42.000000 36.000000 -13.500000 0.007419 0.830834
+        Vertex 2 42.000000 27.000000 -39.000000 0.052110 0.948623
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 20.500000 -9.000000 0.084387 0.810047
+        Vertex 1 42.000000 36.000000 -13.500000 0.007419 0.830834
+        Vertex 2 42.000000 27.000000 -17.000000 0.052110 0.847001
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 20.500000 -9.000000 0.084387 0.810047
+        Vertex 1 42.000000 24.500000 0.000000 0.064524 0.768475
+        Vertex 2 42.000000 36.000000 -13.500000 0.007419 0.830834
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -18.000000 -9.000000 0.275565 0.810047
+        Vertex 1 42.000000 24.500000 0.000000 0.064524 0.768475
+        Vertex 2 42.000000 20.500000 -9.000000 0.084387 0.810047
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -23.000000 0.000000 0.300393 0.768475
+        Vertex 1 42.000000 24.500000 0.000000 0.064524 0.768475
+        Vertex 2 42.000000 -18.000000 -9.000000 0.275565 0.810047
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -32.000000 -13.500000 0.345084 0.830834
+        Vertex 1 42.000000 -18.000000 -9.000000 0.275565 0.810047
+        Vertex 2 42.000000 -23.000000 -16.000000 0.300393 0.842382
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -23.000000 0.000000 0.300393 0.768475
+        Vertex 1 42.000000 -18.000000 -9.000000 0.275565 0.810047
+        Vertex 2 42.000000 -32.000000 -13.500000 0.345084 0.830834
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -32.000000 -13.500000 0.345084 0.830834
+        Vertex 1 42.000000 -23.000000 -39.000000 0.300393 0.948623
+        Vertex 2 42.000000 -32.000000 -48.000000 0.345084 0.990195
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -32.000000 -13.500000 0.345084 0.830834
+        Vertex 1 42.000000 -23.000000 -16.000000 0.300393 0.842382
+        Vertex 2 42.000000 -23.000000 -39.000000 0.300393 0.948623
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -23.000000 -39.000000 0.300393 0.948623
+        Vertex 1 35.000000 23.000000 -35.000000 0.071973 0.930146
+        Vertex 2 42.000000 27.000000 -39.000000 0.052110 0.948623
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 -19.000000 -35.000000 0.280530 0.930146
+        Vertex 1 35.000000 23.000000 -35.000000 0.071973 0.930146
+        Vertex 2 42.000000 -23.000000 -39.000000 0.300393 0.948623
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 23.000000 -35.000000 0.071973 0.930146
+        Vertex 1 42.000000 27.000000 -17.000000 0.052110 0.847001
+        Vertex 2 42.000000 27.000000 -39.000000 0.052110 0.948623
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 23.000000 -18.500000 0.071973 0.853930
+        Vertex 1 42.000000 27.000000 -17.000000 0.052110 0.847001
+        Vertex 2 35.000000 23.000000 -35.000000 0.071973 0.930146
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 18.500000 -13.000000 0.094318 0.828524
+        Vertex 1 42.000000 27.000000 -17.000000 0.052110 0.847001
+        Vertex 2 35.000000 23.000000 -18.500000 0.071973 0.853930
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 18.500000 -13.000000 0.094318 0.828524
+        Vertex 1 42.000000 20.500000 -9.000000 0.084387 0.810047
+        Vertex 2 42.000000 27.000000 -17.000000 0.052110 0.847001
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.000000 -16.000000 -13.000000 0.265633 0.828524
+        Vertex 1 42.000000 20.500000 -9.000000 0.084387 0.810047
+        Vertex 2 35.000000 18.500000 -13.000000 0.094318 0.828524
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -18.000000 -9.000000 0.275565 0.810047
+        Vertex 1 42.000000 20.500000 -9.000000 0.084387 0.810047
+        Vertex 2 35.000000 -16.000000 -13.000000 0.265633 0.828524
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -23.000000 -16.000000 0.300393 0.842382
+        Vertex 1 35.000000 -16.000000 -13.000000 0.265633 0.828524
+        Vertex 2 35.000000 -19.000000 -17.500000 0.280530 0.849310
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -18.000000 -9.000000 0.275565 0.810047
+        Vertex 1 35.000000 -16.000000 -13.000000 0.265633 0.828524
+        Vertex 2 42.000000 -23.000000 -16.000000 0.300393 0.842382
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -23.000000 -16.000000 0.300393 0.842382
+        Vertex 1 35.000000 -19.000000 -35.000000 0.280530 0.930146
+        Vertex 2 42.000000 -23.000000 -39.000000 0.300393 0.948623
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -23.000000 -16.000000 0.300393 0.842382
+        Vertex 1 35.000000 -19.000000 -17.500000 0.280530 0.849310
+        Vertex 2 35.000000 -19.000000 -35.000000 0.280530 0.930146
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -40.000000 36.000000 50.000000 0.653455 0.243478
+        Vertex 1 -40.000000 -32.000000 -48.000000 0.351969 0.647656
+        Vertex 2 -40.000000 36.000000 -48.000000 0.653455 0.647656
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -40.000000 36.000000 50.000000 0.653455 0.243478
+        Vertex 1 -40.000000 -32.000000 50.000000 0.351969 0.243478
+        Vertex 2 -40.000000 -32.000000 -48.000000 0.351969 0.647656
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.500000 -32.000000 10.000000 0.345084 0.722283
+        Vertex 1 42.000000 -23.000000 0.000000 0.300393 0.768475
+        Vertex 2 42.000000 -32.000000 -13.500000 0.345084 0.830834
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -40.000000 -32.000000 -48.000000 0.352106 0.646848
+        Vertex 1 42.000000 -32.000000 -48.000000 0.352106 0.982562
+        Vertex 2 42.000000 36.000000 -48.000000 0.653592 0.982562
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -40.000000 -32.000000 -48.000000 0.351563 0.647656
+        Vertex 1 42.000000 -32.000000 -13.500000 0.015849 0.505369
+        Vertex 2 42.000000 -32.000000 -48.000000 0.015849 0.647656
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -40.000000 -32.000000 50.000000 0.351563 0.243478
+        Vertex 1 -4.000000 -32.000000 50.000000 0.204176 0.243478
+        Vertex 2 -40.000000 -32.000000 -48.000000 0.351563 0.647656
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.500000 -32.000000 10.000000 0.042460 0.408448
+        Vertex 1 42.000000 -32.000000 -13.500000 0.015849 0.505369
+        Vertex 2 -40.000000 -32.000000 -48.000000 0.351563 0.647656
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 15.000000 -32.000000 40.500000 0.126389 0.282658
+        Vertex 1 35.500000 -32.000000 10.000000 0.042460 0.408448
+        Vertex 2 -40.000000 -32.000000 -48.000000 0.351563 0.647656
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -4.000000 -32.000000 50.000000 0.204176 0.243478
+        Vertex 1 15.000000 -32.000000 40.500000 0.126389 0.282658
+        Vertex 2 -40.000000 -32.000000 -48.000000 0.351563 0.647656
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 36.000000 -13.500000 0.989302 0.504821
+        Vertex 1 -40.000000 36.000000 -48.000000 0.653588 0.647108
+        Vertex 2 42.000000 36.000000 -48.000000 0.989302 0.647108
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 -4.000000 36.000000 50.000000 0.800974 0.242930
+        Vertex 1 -40.000000 36.000000 50.000000 0.653588 0.242930
+        Vertex 2 -40.000000 36.000000 -48.000000 0.653588 0.647108
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 36.000000 -13.500000 0.989302 0.504821
+        Vertex 1 35.500000 36.000000 10.000000 0.962690 0.407901
+        Vertex 2 -40.000000 36.000000 -48.000000 0.653588 0.647108
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 15.000000 36.000000 40.500000 0.878762 0.282111
+        Vertex 1 -4.000000 36.000000 50.000000 0.800974 0.242930
+        Vertex 2 -40.000000 36.000000 -48.000000 0.653588 0.647108
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.500000 36.000000 10.000000 0.962690 0.407901
+        Vertex 1 15.000000 36.000000 40.500000 0.878762 0.282111
+        Vertex 2 -40.000000 36.000000 -48.000000 0.653588 0.647108
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 17.500000 28.500000 37.000000 0.694662 0.752565
+        Vertex 1 15.000000 36.000000 40.500000 0.657419 0.736398
+        Vertex 2 35.500000 36.000000 10.000000 0.657419 0.877283
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 34.000000 28.500000 12.500000 0.694662 0.865735
+        Vertex 1 17.500000 28.500000 37.000000 0.694662 0.752565
+        Vertex 2 35.500000 36.000000 10.000000 0.657419 0.877283
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 8.000000 16.000000 50.000000 0.756732 0.692516
+        Vertex 1 15.000000 36.000000 40.500000 0.657419 0.736398
+        Vertex 2 17.500000 28.500000 37.000000 0.694662 0.752565
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 12.500000 13.500000 44.500000 0.769147 0.717921
+        Vertex 1 8.000000 16.000000 50.000000 0.756732 0.692516
+        Vertex 2 17.500000 28.500000 37.000000 0.694662 0.752565
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 8.000000 -12.000000 50.000000 0.895771 0.692516
+        Vertex 1 12.500000 13.500000 44.500000 0.769147 0.717921
+        Vertex 2 12.500000 -9.500000 44.500000 0.883356 0.717921
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 8.000000 -12.000000 50.000000 0.895771 0.692516
+        Vertex 1 8.000000 16.000000 50.000000 0.756732 0.692516
+        Vertex 2 12.500000 13.500000 44.500000 0.769147 0.717921
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 8.000000 -12.000000 50.000000 0.895771 0.692516
+        Vertex 1 12.500000 -9.500000 44.500000 0.883356 0.717921
+        Vertex 2 17.500000 -24.500000 37.000000 0.957841 0.752565
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 15.000000 -32.000000 40.500000 0.995084 0.736398
+        Vertex 1 8.000000 -12.000000 50.000000 0.895771 0.692516
+        Vertex 2 17.500000 -24.500000 37.000000 0.957841 0.752565
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 17.500000 -24.500000 37.000000 0.957841 0.752565
+        Vertex 1 34.000000 -24.500000 12.000000 0.957841 0.868045
+        Vertex 2 35.500000 -32.000000 10.000000 0.995084 0.877283
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 15.000000 -32.000000 40.500000 0.995084 0.736398
+        Vertex 1 17.500000 -24.500000 37.000000 0.957841 0.752565
+        Vertex 2 35.500000 -32.000000 10.000000 0.995084 0.877283
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 34.000000 -24.500000 12.000000 0.957841 0.868045
+        Vertex 1 38.000000 -19.500000 6.000000 0.933013 0.895760
+        Vertex 2 42.000000 -23.000000 0.000000 0.950393 0.923475
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 35.500000 -32.000000 10.000000 0.995084 0.877283
+        Vertex 1 34.000000 -24.500000 12.000000 0.957841 0.868045
+        Vertex 2 42.000000 -23.000000 0.000000 0.950393 0.923475
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 38.000000 -19.500000 6.000000 0.933013 0.895760
+        Vertex 1 38.000000 21.500000 6.000000 0.729421 0.895760
+        Vertex 2 42.000000 24.500000 0.000000 0.714524 0.923475
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 42.000000 -23.000000 0.000000 0.950393 0.923475
+        Vertex 1 38.000000 -19.500000 6.000000 0.933013 0.895760
+        Vertex 2 42.000000 24.500000 0.000000 0.714524 0.923475
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 34.000000 28.500000 12.500000 0.694662 0.865735
+        Vertex 1 35.500000 36.000000 10.000000 0.657419 0.877283
+        Vertex 2 42.000000 24.500000 0.000000 0.714524 0.923475
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 38.000000 21.500000 6.000000 0.729421 0.895760
+        Vertex 1 34.000000 28.500000 12.500000 0.694662 0.865735
+        Vertex 2 42.000000 24.500000 0.000000 0.714524 0.923475
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 14.500000 21.500000 30.000000 0.729421 0.784900
+        Vertex 1 34.000000 28.500000 12.500000 0.694662 0.865735
+        Vertex 2 27.000000 21.500000 10.500000 0.729421 0.863774
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 14.500000 21.500000 30.000000 0.729421 0.784900
+        Vertex 1 17.500000 28.500000 37.000000 0.694662 0.752565
+        Vertex 2 34.000000 28.500000 12.500000 0.694662 0.865735
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 12.500000 13.500000 44.500000 0.769147 0.717921
+        Vertex 1 17.500000 28.500000 37.000000 0.694662 0.752565
+        Vertex 2 14.500000 21.500000 30.000000 0.729421 0.784900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 11.000000 11.500000 35.000000 0.779078 0.761804
+        Vertex 1 12.500000 13.500000 44.500000 0.769147 0.717921
+        Vertex 2 14.500000 21.500000 30.000000 0.729421 0.784900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 12.500000 -9.500000 44.500000 0.883356 0.717921
+        Vertex 1 11.000000 11.500000 35.000000 0.779078 0.761804
+        Vertex 2 11.000000 -7.500000 35.000000 0.873425 0.761804
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 12.500000 -9.500000 44.500000 0.883356 0.717921
+        Vertex 1 12.500000 13.500000 44.500000 0.769147 0.717921
+        Vertex 2 11.000000 11.500000 35.000000 0.779078 0.761804
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 12.500000 -9.500000 44.500000 0.883356 0.717921
+        Vertex 1 11.000000 -7.500000 35.000000 0.873425 0.761804
+        Vertex 2 14.000000 -17.500000 30.000000 0.923082 0.784900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 17.500000 -24.500000 37.000000 0.957841 0.752565
+        Vertex 1 12.500000 -9.500000 44.500000 0.883356 0.717921
+        Vertex 2 14.000000 -17.500000 30.000000 0.923082 0.784900
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 34.000000 -24.500000 12.000000 0.957841 0.868045
+        Vertex 1 14.000000 -17.500000 30.000000 0.923082 0.784900
+        Vertex 2 27.500000 -17.500000 10.500000 0.923082 0.863774
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 17.500000 -24.500000 37.000000 0.957841 0.752565
+        Vertex 1 14.000000 -17.500000 30.000000 0.923082 0.784900
+        Vertex 2 34.000000 -24.500000 12.000000 0.957841 0.868045
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 34.000000 -24.500000 12.000000 0.957841 0.868045
+        Vertex 1 28.500000 -16.000000 8.500000 0.915633 0.873012
+        Vertex 2 38.000000 -19.500000 6.000000 0.933013 0.895760
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 34.000000 -24.500000 12.000000 0.957841 0.868045
+        Vertex 1 27.500000 -17.500000 10.500000 0.923082 0.863774
+        Vertex 2 28.500000 -16.000000 8.500000 0.915633 0.873012
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 28.500000 -16.000000 8.500000 0.915633 0.873012
+        Vertex 1 38.000000 21.500000 6.000000 0.729421 0.895760
+        Vertex 2 38.000000 -19.500000 6.000000 0.933013 0.895760
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 28.500000 -16.000000 8.500000 0.915633 0.873012
+        Vertex 1 28.500000 20.000000 8.500000 0.736870 0.873012
+        Vertex 2 38.000000 21.500000 6.000000 0.729421 0.895760
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 27.000000 21.500000 10.500000 0.729421 0.863774
+        Vertex 1 34.000000 28.500000 12.500000 0.694662 0.865735
+        Vertex 2 38.000000 21.500000 6.000000 0.729421 0.895760
+    End Triangle
+    Begin Triangle
+        Texture HumanoidHardwareBrush.mSupportBlock01HA
+        SmoothingMask 2
+        Vertex 0 28.500000 20.000000 8.500000 0.736870 0.873012
+        Vertex 1 27.000000 21.500000 10.500000 0.729421 0.863774
+        Vertex 2 38.000000 21.500000 6.000000 0.729421 0.895760
+    End Triangle
+End StaticMesh

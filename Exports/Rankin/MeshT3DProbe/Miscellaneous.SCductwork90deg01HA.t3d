@@ -1,0 +1,297 @@
+Begin StaticMesh Name=SCductwork90deg01HA
+    Version=2.000000 BoundingBox.Min.X=-33.000000 BoundingBox.Min.Y=-35.000000 BoundingBox.Min.Z=-18.000000 BoundingBox.Max.X=33.000000 BoundingBox.Max.Y=33.000000 BoundingBox.Max.Z=18.000000
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -17.000000 -16.000000 0.000000 0.625000 0.500000
+        Vertex 1 3.000000 -33.000000 -16.000000 0.757813 0.625000
+        Vertex 2 -31.000000 3.000000 -16.000000 0.476563 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 25.000000 15.000000 16.000000 0.695313 0.617188
+        Vertex 1 3.000000 3.000000 18.000000 0.523438 0.523438
+        Vertex 2 17.000000 25.000000 16.000000 0.632813 0.695313
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 3.000000 3.000000 18.000000 0.523438 0.523438
+        Vertex 1 -31.000000 3.000000 16.000000 0.257813 0.523438
+        Vertex 2 17.000000 25.000000 16.000000 0.632813 0.695313
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 3.000000 -33.000000 16.000000 0.523438 0.242188
+        Vertex 1 3.000000 3.000000 18.000000 0.523438 0.523438
+        Vertex 2 25.000000 15.000000 16.000000 0.695313 0.617188
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -31.000000 3.000000 -16.000000 0.257813 0.523438
+        Vertex 1 3.000000 -33.000000 -16.000000 0.523438 0.242188
+        Vertex 2 3.000000 3.000000 -18.000000 0.523438 0.523438
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 25.000000 15.000000 -16.000000 0.695313 0.617188
+        Vertex 1 17.000000 25.000000 -16.000000 0.632813 0.695313
+        Vertex 2 3.000000 3.000000 -18.000000 0.523438 0.523438
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 17.000000 25.000000 -16.000000 0.632813 0.695313
+        Vertex 1 -31.000000 3.000000 -16.000000 0.257813 0.523438
+        Vertex 2 3.000000 3.000000 -18.000000 0.523438 0.523438
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 3.000000 -33.000000 -16.000000 0.523438 0.242188
+        Vertex 1 25.000000 15.000000 -16.000000 0.695313 0.617188
+        Vertex 2 3.000000 3.000000 -18.000000 0.523438 0.523438
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 17.000000 25.000000 -16.000000 0.304688 0.625000
+        Vertex 1 17.000000 33.000000 16.000000 0.242188 0.375000
+        Vertex 2 17.000000 33.000000 -16.000000 0.242188 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 17.000000 25.000000 16.000000 0.304688 0.375000
+        Vertex 1 17.000000 33.000000 16.000000 0.242188 0.375000
+        Vertex 2 17.000000 25.000000 -16.000000 0.304688 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 33.000000 15.000000 16.000000 0.757813 0.375000
+        Vertex 1 25.000000 15.000000 16.000000 0.695313 0.375000
+        Vertex 2 25.000000 15.000000 -16.000000 0.695313 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 33.000000 15.000000 -16.000000 0.757813 0.625000
+        Vertex 1 33.000000 15.000000 16.000000 0.757813 0.375000
+        Vertex 2 25.000000 15.000000 -16.000000 0.695313 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 25.000000 15.000000 -16.000000 0.382813 0.625000
+        Vertex 1 25.000000 15.000000 16.000000 0.382813 0.375000
+        Vertex 2 17.000000 25.000000 -16.000000 0.304688 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 25.000000 15.000000 16.000000 0.382813 0.375000
+        Vertex 1 17.000000 25.000000 16.000000 0.304688 0.375000
+        Vertex 2 17.000000 25.000000 -16.000000 0.304688 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 3.000000 -33.000000 16.000000 0.523438 0.375000
+        Vertex 1 33.000000 -33.000000 16.000000 0.757813 0.375000
+        Vertex 2 20.000000 -35.000000 0.000000 0.656250 0.500000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 20.000000 -35.000000 0.000000 0.656250 0.500000
+        Vertex 1 33.000000 -33.000000 -16.000000 0.757813 0.625000
+        Vertex 2 3.000000 -33.000000 -16.000000 0.523438 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 20.000000 -35.000000 0.000000 0.656250 0.500000
+        Vertex 1 33.000000 -33.000000 16.000000 0.757813 0.375000
+        Vertex 2 33.000000 -33.000000 -16.000000 0.757813 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 3.000000 -33.000000 16.000000 0.523438 0.375000
+        Vertex 1 20.000000 -35.000000 0.000000 0.656250 0.500000
+        Vertex 2 3.000000 -33.000000 -16.000000 0.523438 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -17.000000 -16.000000 0.000000 0.367188 0.500000
+        Vertex 1 3.000000 -33.000000 16.000000 0.523438 0.375000
+        Vertex 2 3.000000 -33.000000 -16.000000 0.523438 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -31.000000 3.000000 16.000000 0.476563 0.375000
+        Vertex 1 -17.000000 -16.000000 0.000000 0.625000 0.500000
+        Vertex 2 -31.000000 3.000000 -16.000000 0.476563 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -31.000000 3.000000 16.000000 0.476563 0.375000
+        Vertex 1 3.000000 -33.000000 16.000000 0.757813 0.375000
+        Vertex 2 -17.000000 -16.000000 0.000000 0.625000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 3.000000 3.000000 18.000000 0.523438 0.523438
+        Vertex 1 3.000000 -33.000000 16.000000 0.523438 0.242188
+        Vertex 2 -31.000000 3.000000 16.000000 0.257813 0.523438
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -33.000000 19.000000 0.000000 0.351563 0.500000
+        Vertex 1 -31.000000 3.000000 -16.000000 0.476563 0.625000
+        Vertex 2 -31.000000 33.000000 -16.000000 0.242188 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -33.000000 19.000000 0.000000 0.351563 0.500000
+        Vertex 1 -31.000000 3.000000 16.000000 0.476563 0.375000
+        Vertex 2 -31.000000 3.000000 -16.000000 0.476563 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -31.000000 33.000000 16.000000 0.242188 0.375000
+        Vertex 1 -31.000000 3.000000 16.000000 0.476563 0.375000
+        Vertex 2 -33.000000 19.000000 0.000000 0.351563 0.500000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -31.000000 33.000000 16.000000 0.242188 0.375000
+        Vertex 1 -33.000000 19.000000 0.000000 0.351563 0.500000
+        Vertex 2 -31.000000 33.000000 -16.000000 0.242188 0.625000
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 24.000000 -9.000000 18.000000 0.687500 0.429688
+        Vertex 1 33.000000 -33.000000 16.000000 0.757813 0.242188
+        Vertex 2 3.000000 -33.000000 16.000000 0.523438 0.242188
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 33.000000 15.000000 16.000000 0.757813 0.617188
+        Vertex 1 24.000000 -9.000000 18.000000 0.687500 0.429688
+        Vertex 2 25.000000 15.000000 16.000000 0.695313 0.617188
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 24.000000 -9.000000 18.000000 0.687500 0.429688
+        Vertex 1 3.000000 -33.000000 16.000000 0.523438 0.242188
+        Vertex 2 25.000000 15.000000 16.000000 0.695313 0.617188
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 33.000000 -33.000000 16.000000 0.757813 0.242188
+        Vertex 1 24.000000 -9.000000 18.000000 0.687500 0.429688
+        Vertex 2 33.000000 15.000000 16.000000 0.757813 0.617188
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 17.000000 25.000000 16.000000 0.632813 0.695313
+        Vertex 1 -7.000000 25.000000 18.000000 0.445313 0.695313
+        Vertex 2 17.000000 33.000000 16.000000 0.632813 0.757813
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -7.000000 25.000000 18.000000 0.445313 0.695313
+        Vertex 1 -31.000000 3.000000 16.000000 0.257813 0.523438
+        Vertex 2 -31.000000 33.000000 16.000000 0.257813 0.757813
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -31.000000 3.000000 16.000000 0.257813 0.523438
+        Vertex 1 -7.000000 25.000000 18.000000 0.445313 0.695313
+        Vertex 2 17.000000 25.000000 16.000000 0.632813 0.695313
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -7.000000 25.000000 18.000000 0.445313 0.695313
+        Vertex 1 -31.000000 33.000000 16.000000 0.257813 0.757813
+        Vertex 2 17.000000 33.000000 16.000000 0.632813 0.757813
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 3.000000 -33.000000 -16.000000 0.523438 0.242188
+        Vertex 1 33.000000 -33.000000 -16.000000 0.757813 0.242188
+        Vertex 2 24.000000 -9.000000 -18.000000 0.687500 0.429688
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 33.000000 15.000000 -16.000000 0.757813 0.617188
+        Vertex 1 25.000000 15.000000 -16.000000 0.695313 0.617188
+        Vertex 2 24.000000 -9.000000 -18.000000 0.687500 0.429688
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 25.000000 15.000000 -16.000000 0.695313 0.617188
+        Vertex 1 3.000000 -33.000000 -16.000000 0.523438 0.242188
+        Vertex 2 24.000000 -9.000000 -18.000000 0.687500 0.429688
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 33.000000 -33.000000 -16.000000 0.757813 0.242188
+        Vertex 1 33.000000 15.000000 -16.000000 0.757813 0.617188
+        Vertex 2 24.000000 -9.000000 -18.000000 0.687500 0.429688
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 17.000000 25.000000 -16.000000 0.632813 0.695313
+        Vertex 1 17.000000 33.000000 -16.000000 0.632813 0.757813
+        Vertex 2 -7.000000 25.000000 -18.000000 0.445313 0.695313
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -31.000000 33.000000 -16.000000 0.257813 0.757813
+        Vertex 1 -31.000000 3.000000 -16.000000 0.257813 0.523438
+        Vertex 2 -7.000000 25.000000 -18.000000 0.445313 0.695313
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 -31.000000 3.000000 -16.000000 0.257813 0.523438
+        Vertex 1 17.000000 25.000000 -16.000000 0.632813 0.695313
+        Vertex 2 -7.000000 25.000000 -18.000000 0.445313 0.695313
+    End Triangle
+    Begin Triangle
+        Texture Shiptech.Bases.bas11CS
+        SmoothingMask 1
+        Vertex 0 17.000000 33.000000 -16.000000 0.632813 0.757813
+        Vertex 1 -31.000000 33.000000 -16.000000 0.257813 0.757813
+        Vertex 2 -7.000000 25.000000 -18.000000 0.445313 0.695313
+    End Triangle
+End StaticMesh

@@ -1,0 +1,1963 @@
+Begin StaticMesh Name=hourerechtepijp
+    Version=2.000000 BoundingBox.Min.X=-64.000000 BoundingBox.Min.Y=-144.000000 BoundingBox.Min.Z=-45.650700 BoundingBox.Max.X=64.000000 BoundingBox.Max.Y=144.000000 BoundingBox.Max.Z=76.084503
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -48.000000 128.750900 15.216900 1.500000 0.889200
+        Vertex 1 -38.832802 -0.164900 43.430599 1.692500 0.001900
+        Vertex 2 -48.000000 -0.164900 15.216900 1.500000 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -48.000000 128.750900 15.216900 1.500000 0.889200
+        Vertex 1 -38.832802 128.751007 43.430599 1.692500 0.889200
+        Vertex 2 -38.832802 -0.164900 43.430599 1.692500 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -38.832802 128.751007 43.430599 1.692500 0.889200
+        Vertex 1 -14.832800 -0.164900 60.867599 1.895200 0.001900
+        Vertex 2 -38.832802 -0.164900 43.430599 1.692500 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -38.832802 128.751007 43.430599 1.692500 0.889200
+        Vertex 1 -14.832800 128.751007 60.867599 1.895200 0.889200
+        Vertex 2 -14.832800 -0.164900 60.867599 1.895200 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -14.832800 128.751007 60.867599 -0.104800 0.889200
+        Vertex 1 14.832800 -0.164900 60.867599 0.104800 0.001900
+        Vertex 2 -14.832800 -0.164900 60.867599 -0.104800 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -14.832800 128.751007 60.867599 -0.104800 0.889200
+        Vertex 1 14.832800 128.751007 60.867599 0.104800 0.889200
+        Vertex 2 14.832800 -0.164900 60.867599 0.104800 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 14.832800 128.751007 60.867599 0.104800 0.889200
+        Vertex 1 38.832802 -0.164900 43.430599 0.307500 0.001900
+        Vertex 2 14.832800 -0.164900 60.867599 0.104800 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 14.832800 128.751007 60.867599 0.104800 0.889200
+        Vertex 1 38.832802 128.751007 43.430599 0.307500 0.889200
+        Vertex 2 38.832802 -0.164900 43.430599 0.307500 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 38.832802 128.751007 43.430599 0.307500 0.889200
+        Vertex 1 48.000000 -0.164900 15.216900 0.500000 0.001900
+        Vertex 2 38.832802 -0.164900 43.430599 0.307500 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 38.832802 128.751007 43.430599 0.307500 0.889200
+        Vertex 1 48.000000 128.750900 15.216900 0.500000 0.889200
+        Vertex 2 48.000000 -0.164900 15.216900 0.500000 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 48.000000 128.750900 15.216900 0.500000 0.889200
+        Vertex 1 38.832802 -0.164900 -12.996800 0.692500 0.001900
+        Vertex 2 48.000000 -0.164900 15.216900 0.500000 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 48.000000 128.750900 15.216900 0.500000 0.889200
+        Vertex 1 38.832802 128.750900 -12.996800 0.692500 0.889200
+        Vertex 2 38.832802 -0.164900 -12.996800 0.692500 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 38.832802 128.750900 -12.996800 0.692500 0.889200
+        Vertex 1 14.832800 -0.164900 -30.433800 0.895200 0.001900
+        Vertex 2 38.832802 -0.164900 -12.996800 0.692500 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 38.832802 128.750900 -12.996800 0.692500 0.889200
+        Vertex 1 14.832800 128.750900 -30.433800 0.895200 0.889200
+        Vertex 2 14.832800 -0.164900 -30.433800 0.895200 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 14.832800 128.750900 -30.433800 0.895200 0.889200
+        Vertex 1 -14.832800 -0.164900 -30.433800 1.104800 0.001900
+        Vertex 2 14.832800 -0.164900 -30.433800 0.895200 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 14.832800 128.750900 -30.433800 0.895200 0.889200
+        Vertex 1 -14.832800 128.750900 -30.433800 1.104800 0.889200
+        Vertex 2 -14.832800 -0.164900 -30.433800 1.104800 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -14.832800 128.750900 -30.433800 1.104800 0.889200
+        Vertex 1 -38.832802 -0.164900 -12.996800 1.307500 0.001900
+        Vertex 2 -14.832800 -0.164900 -30.433800 1.104800 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -14.832800 128.750900 -30.433800 1.104800 0.889200
+        Vertex 1 -38.832802 128.750900 -12.996800 1.307500 0.889200
+        Vertex 2 -38.832802 -0.164900 -12.996800 1.307500 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -38.832802 128.750900 -12.996800 1.307500 0.889200
+        Vertex 1 -48.000000 -0.164900 15.216900 1.500000 0.001900
+        Vertex 2 -38.832802 -0.164900 -12.996800 1.307500 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -38.832802 128.750900 -12.996800 1.307500 0.889200
+        Vertex 1 -48.000000 128.750900 15.216900 1.500000 0.889200
+        Vertex 2 -48.000000 -0.164900 15.216900 1.500000 0.001900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -48.000000 -0.164900 15.216900 1.500000 0.001900
+        Vertex 1 -38.832802 -128.164902 43.430599 1.692500 -0.885400
+        Vertex 2 -48.000000 -128.164902 15.216900 1.500000 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -48.000000 -0.164900 15.216900 1.500000 0.001900
+        Vertex 1 -38.832802 -0.164900 43.430599 1.692500 0.001900
+        Vertex 2 -38.832802 -128.164902 43.430599 1.692500 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -38.832802 -0.164900 43.430599 1.692500 0.001900
+        Vertex 1 -14.832800 -128.164902 60.867599 1.895200 -0.885400
+        Vertex 2 -38.832802 -128.164902 43.430599 1.692500 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -38.832802 -0.164900 43.430599 1.692500 0.001900
+        Vertex 1 -14.832800 -0.164900 60.867599 1.895200 0.001900
+        Vertex 2 -14.832800 -128.164902 60.867599 1.895200 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -14.832800 -0.164900 60.867599 -0.104800 0.001900
+        Vertex 1 14.832800 -128.164902 60.867599 0.104800 -0.885400
+        Vertex 2 -14.832800 -128.164902 60.867599 -0.104800 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -14.832800 -0.164900 60.867599 -0.104800 0.001900
+        Vertex 1 14.832800 -0.164900 60.867599 0.104800 0.001900
+        Vertex 2 14.832800 -128.164902 60.867599 0.104800 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 14.832800 -0.164900 60.867599 0.104800 0.001900
+        Vertex 1 38.832802 -128.164902 43.430599 0.307500 -0.885400
+        Vertex 2 14.832800 -128.164902 60.867599 0.104800 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 14.832800 -0.164900 60.867599 0.104800 0.001900
+        Vertex 1 38.832802 -0.164900 43.430599 0.307500 0.001900
+        Vertex 2 38.832802 -128.164902 43.430599 0.307500 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 38.832802 -0.164900 43.430599 0.307500 0.001900
+        Vertex 1 48.000000 -128.164902 15.216900 0.500000 -0.885400
+        Vertex 2 38.832802 -128.164902 43.430599 0.307500 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 38.832802 -0.164900 43.430599 0.307500 0.001900
+        Vertex 1 48.000000 -0.164900 15.216900 0.500000 0.001900
+        Vertex 2 48.000000 -128.164902 15.216900 0.500000 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 48.000000 -0.164900 15.216900 0.500000 0.001900
+        Vertex 1 38.832802 -128.164902 -12.996800 0.692500 -0.885400
+        Vertex 2 48.000000 -128.164902 15.216900 0.500000 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 48.000000 -0.164900 15.216900 0.500000 0.001900
+        Vertex 1 38.832802 -0.164900 -12.996800 0.692500 0.001900
+        Vertex 2 38.832802 -128.164902 -12.996800 0.692500 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 38.832802 -0.164900 -12.996800 0.692500 0.001900
+        Vertex 1 14.832800 -128.164902 -30.433800 0.895200 -0.885400
+        Vertex 2 38.832802 -128.164902 -12.996800 0.692500 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 38.832802 -0.164900 -12.996800 0.692500 0.001900
+        Vertex 1 14.832800 -0.164900 -30.433800 0.895200 0.001900
+        Vertex 2 14.832800 -128.164902 -30.433800 0.895200 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 14.832800 -0.164900 -30.433800 0.895200 0.001900
+        Vertex 1 -14.832800 -128.164902 -30.433800 1.104800 -0.885400
+        Vertex 2 14.832800 -128.164902 -30.433800 0.895200 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 14.832800 -0.164900 -30.433800 0.895200 0.001900
+        Vertex 1 -14.832800 -0.164900 -30.433800 1.104800 0.001900
+        Vertex 2 -14.832800 -128.164902 -30.433800 1.104800 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -14.832800 -0.164900 -30.433800 1.104800 0.001900
+        Vertex 1 -38.832802 -128.164902 -12.996800 1.307500 -0.885400
+        Vertex 2 -14.832800 -128.164902 -30.433800 1.104800 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -14.832800 -0.164900 -30.433800 1.104800 0.001900
+        Vertex 1 -38.832802 -0.164900 -12.996800 1.307500 0.001900
+        Vertex 2 -38.832802 -128.164902 -12.996800 1.307500 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -38.832802 -0.164900 -12.996800 1.307500 0.001900
+        Vertex 1 -48.000000 -128.164902 15.216900 1.500000 -0.885400
+        Vertex 2 -38.832802 -128.164902 -12.996800 1.307500 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas13go
+        SmoothingMask 8
+        Vertex 0 -38.832802 -0.164900 -12.996800 1.307500 0.001900
+        Vertex 1 -48.000000 -0.164900 15.216900 1.500000 0.001900
+        Vertex 2 -48.000000 -128.164902 15.216900 1.500000 -0.885400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -49.848000 144.000000 51.433601 0.434700 -0.818100
+        Vertex 2 -61.615501 144.000000 15.216900 1.000000 -1.011300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -19.040199 144.000000 73.816704 0.085300 -0.312500
+        Vertex 2 -49.848000 144.000000 51.433601 0.434700 -0.818100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 19.040199 144.000000 73.816704 0.085300 0.312500
+        Vertex 2 -19.040199 144.000000 73.816704 0.085300 -0.312500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 49.848000 144.000000 51.433601 0.434700 0.818100
+        Vertex 2 19.040199 144.000000 73.816704 0.085300 0.312500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 61.615501 144.000000 15.216900 1.000000 1.011300
+        Vertex 2 49.848000 144.000000 51.433601 0.434700 0.818100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 49.848000 144.000000 -20.999800 1.565300 0.818100
+        Vertex 2 61.615501 144.000000 15.216900 1.000000 1.011300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 19.040199 144.000000 -43.382900 1.914700 0.312500
+        Vertex 2 49.848000 144.000000 -20.999800 1.565300 0.818100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -19.040199 144.000000 -43.382900 1.914700 -0.312500
+        Vertex 2 19.040199 144.000000 -43.382900 1.914700 0.312500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -49.848000 144.000000 -20.999800 1.565300 -0.818100
+        Vertex 2 -19.040199 144.000000 -43.382900 1.914700 -0.312500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -61.615501 144.000000 15.216900 1.000000 -1.011300
+        Vertex 2 -49.848000 144.000000 -20.999800 1.565300 -0.818100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -61.615501 144.000000 15.216900 1.500000 0.985800
+        Vertex 1 -51.777100 128.585999 52.835098 1.692500 0.888100
+        Vertex 2 -64.000000 128.585999 15.216900 1.500000 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -61.615501 144.000000 15.216900 1.500000 0.985800
+        Vertex 1 -49.848000 144.000000 51.433601 1.692500 0.985800
+        Vertex 2 -51.777100 128.585999 52.835098 1.692500 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -49.848000 144.000000 51.433601 1.692500 0.985800
+        Vertex 1 -19.777100 128.585999 76.084503 1.895200 0.888100
+        Vertex 2 -51.777100 128.585999 52.835098 1.692500 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -49.848000 144.000000 51.433601 1.692500 0.985800
+        Vertex 1 -19.040199 144.000000 73.816704 1.895200 0.985800
+        Vertex 2 -19.777100 128.585999 76.084503 1.895200 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -19.040199 144.000000 73.816704 -0.104800 0.985800
+        Vertex 1 19.777100 128.585999 76.084503 0.104800 0.888100
+        Vertex 2 -19.777100 128.585999 76.084503 -0.104800 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -19.040199 144.000000 73.816704 -0.104800 0.985800
+        Vertex 1 19.040199 144.000000 73.816704 0.104800 0.985800
+        Vertex 2 19.777100 128.585999 76.084503 0.104800 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 19.040199 144.000000 73.816704 0.104800 0.985800
+        Vertex 1 51.777100 128.585999 52.835098 0.307500 0.888100
+        Vertex 2 19.777100 128.585999 76.084503 0.104800 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 19.040199 144.000000 73.816704 0.104800 0.985800
+        Vertex 1 49.848000 144.000000 51.433601 0.307500 0.985800
+        Vertex 2 51.777100 128.585999 52.835098 0.307500 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 49.848000 144.000000 51.433601 0.307500 0.985800
+        Vertex 1 64.000000 128.585999 15.216900 0.500000 0.888100
+        Vertex 2 51.777100 128.585999 52.835098 0.307500 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 49.848000 144.000000 51.433601 0.307500 0.985800
+        Vertex 1 61.615501 144.000000 15.216900 0.500000 0.985800
+        Vertex 2 64.000000 128.585999 15.216900 0.500000 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 61.615501 144.000000 15.216900 0.500000 0.985800
+        Vertex 1 51.777100 128.585999 -22.401400 0.692500 0.888100
+        Vertex 2 64.000000 128.585999 15.216900 0.500000 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 61.615501 144.000000 15.216900 0.500000 0.985800
+        Vertex 1 49.848000 144.000000 -20.999800 0.692500 0.985800
+        Vertex 2 51.777100 128.585999 -22.401400 0.692500 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 49.848000 144.000000 -20.999800 0.692500 0.985800
+        Vertex 1 19.777100 128.585999 -45.650700 0.895200 0.888100
+        Vertex 2 51.777100 128.585999 -22.401400 0.692500 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 49.848000 144.000000 -20.999800 0.692500 0.985800
+        Vertex 1 19.040199 144.000000 -43.382900 0.895200 0.985800
+        Vertex 2 19.777100 128.585999 -45.650700 0.895200 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 19.040199 144.000000 -43.382900 0.895200 0.985800
+        Vertex 1 -19.777100 128.585999 -45.650700 1.104800 0.888100
+        Vertex 2 19.777100 128.585999 -45.650700 0.895200 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 19.040199 144.000000 -43.382900 0.895200 0.985800
+        Vertex 1 -19.040199 144.000000 -43.382900 1.104800 0.985800
+        Vertex 2 -19.777100 128.585999 -45.650700 1.104800 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -19.040199 144.000000 -43.382900 1.104800 0.985800
+        Vertex 1 -51.777100 128.585999 -22.401400 1.307500 0.888100
+        Vertex 2 -19.777100 128.585999 -45.650700 1.104800 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -19.040199 144.000000 -43.382900 1.104800 0.985800
+        Vertex 1 -49.848000 144.000000 -20.999800 1.307500 0.985800
+        Vertex 2 -51.777100 128.585999 -22.401400 1.307500 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -49.848000 144.000000 -20.999800 1.307500 0.985800
+        Vertex 1 -64.000000 128.585999 15.216900 1.500000 0.888100
+        Vertex 2 -51.777100 128.585999 -22.401400 1.307500 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -49.848000 144.000000 -20.999800 1.307500 0.985800
+        Vertex 1 -61.615501 144.000000 15.216900 1.500000 0.985800
+        Vertex 2 -64.000000 128.585999 15.216900 1.500000 0.888100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 -64.000000 128.585999 15.216900 1.000000 -1.050400
+        Vertex 2 -51.777100 128.585999 52.835098 0.412800 -0.849800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 -51.777100 128.585999 52.835098 0.412800 -0.849800
+        Vertex 2 -19.777100 128.585999 76.084503 0.049900 -0.324600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 -19.777100 128.585999 76.084503 0.049900 -0.324600
+        Vertex 2 19.777100 128.585999 76.084503 0.049900 0.324600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 19.777100 128.585999 76.084503 0.049900 0.324600
+        Vertex 2 51.777100 128.585999 52.835098 0.412800 0.849800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 51.777100 128.585999 52.835098 0.412800 0.849800
+        Vertex 2 64.000000 128.585999 15.216900 1.000000 1.050400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 64.000000 128.585999 15.216900 1.000000 1.050400
+        Vertex 2 51.777100 128.585999 -22.401400 1.587200 0.849800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 51.777100 128.585999 -22.401400 1.587200 0.849800
+        Vertex 2 19.777100 128.585999 -45.650700 1.950100 0.324600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 19.777100 128.585999 -45.650700 1.950100 0.324600
+        Vertex 2 -19.777100 128.585999 -45.650700 1.950100 -0.324600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 -19.777100 128.585999 -45.650700 1.950100 -0.324600
+        Vertex 2 -51.777100 128.585999 -22.401400 1.587200 -0.849800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 128.585999 15.216900 1.000000 0.000000
+        Vertex 1 -51.777100 128.585999 -22.401400 1.587200 -0.849800
+        Vertex 2 -64.000000 128.585999 15.216900 1.000000 -1.050400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 136.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -58.580200 136.657303 19.443300 0.934000 -0.961500
+        Vertex 2 -58.703300 136.657303 12.390900 1.044100 -0.963500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 136.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -51.834999 136.657303 21.505501 0.901800 -0.850800
+        Vertex 2 -58.580200 136.657303 19.443300 0.934000 -0.961500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 136.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -47.789299 136.657303 15.727700 0.992000 -0.784400
+        Vertex 2 -51.834999 136.657303 21.505501 0.901800 -0.850800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 136.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -52.034199 136.657303 10.094500 1.080000 -0.854000
+        Vertex 2 -47.789299 136.657303 15.727700 0.992000 -0.784400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 136.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -58.703300 136.657303 12.390900 1.044100 -0.963500
+        Vertex 2 -52.034199 136.657303 10.094500 1.080000 -0.854000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -58.703300 136.657303 12.390900 1.485400 0.944000
+        Vertex 1 -58.580200 112.657303 19.443300 1.521800 0.777700
+        Vertex 2 -58.703300 112.657303 12.390900 1.485400 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -58.703300 136.657303 12.390900 1.485400 0.944000
+        Vertex 1 -58.580200 136.657303 19.443300 1.521800 0.944000
+        Vertex 2 -58.580200 112.657303 19.443300 1.521800 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -58.580200 136.657303 19.443300 1.521800 0.944000
+        Vertex 1 -51.834999 112.657303 21.505501 1.536600 0.777700
+        Vertex 2 -58.580200 112.657303 19.443300 1.521800 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -58.580200 136.657303 19.443300 1.521800 0.944000
+        Vertex 1 -51.834999 136.657303 21.505501 1.536600 0.944000
+        Vertex 2 -51.834999 112.657303 21.505501 1.536600 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -51.834999 136.657303 21.505501 1.536600 0.944000
+        Vertex 1 -47.789299 112.657303 15.727700 1.503200 0.777700
+        Vertex 2 -51.834999 112.657303 21.505501 1.536600 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -51.834999 136.657303 21.505501 1.536600 0.944000
+        Vertex 1 -47.789299 136.657303 15.727700 1.503200 0.944000
+        Vertex 2 -47.789299 112.657303 15.727700 1.503200 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -47.789299 136.657303 15.727700 1.503200 0.944000
+        Vertex 1 -52.034199 112.657303 10.094500 1.470300 0.777700
+        Vertex 2 -47.789299 112.657303 15.727700 1.503200 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -47.789299 136.657303 15.727700 1.503200 0.944000
+        Vertex 1 -52.034199 136.657303 10.094500 1.470300 0.944000
+        Vertex 2 -52.034199 112.657303 10.094500 1.470300 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -52.034199 136.657303 10.094500 1.470300 0.944000
+        Vertex 1 -58.703300 112.657303 12.390900 1.485400 0.777700
+        Vertex 2 -52.034199 112.657303 10.094500 1.470300 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -52.034199 136.657303 10.094500 1.470300 0.944000
+        Vertex 1 -58.703300 136.657303 12.390900 1.485400 0.944000
+        Vertex 2 -58.703300 112.657303 12.390900 1.485400 0.777700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 112.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -58.703300 112.657303 12.390900 1.044100 -0.963500
+        Vertex 2 -58.580200 112.657303 19.443300 0.934000 -0.961500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 112.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -58.580200 112.657303 19.443300 0.934000 -0.961500
+        Vertex 2 -51.834999 112.657303 21.505501 0.901800 -0.850800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 112.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -51.834999 112.657303 21.505501 0.901800 -0.850800
+        Vertex 2 -47.789299 112.657303 15.727700 0.992000 -0.784400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 112.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -47.789299 112.657303 15.727700 0.992000 -0.784400
+        Vertex 2 -52.034199 112.657303 10.094500 1.080000 -0.854000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -53.788399 112.657303 15.832400 0.990400 -0.882800
+        Vertex 1 -52.034199 112.657303 10.094500 1.080000 -0.854000
+        Vertex 2 -58.703300 112.657303 12.390900 1.044100 -0.963500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 136.538696 -38.193699 1.833700 0.089400
+        Vertex 1 0.655700 136.538696 -34.582802 1.777300 0.010800
+        Vertex 2 0.532600 136.538696 -41.635101 1.887400 0.008700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 136.538696 -38.193699 1.833700 0.089400
+        Vertex 1 7.400900 136.538696 -32.520599 1.745200 0.121500
+        Vertex 2 0.655700 136.538696 -34.582802 1.777300 0.010800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 136.538696 -38.193699 1.833700 0.089400
+        Vertex 1 11.446600 136.538696 -38.298401 1.835300 0.187900
+        Vertex 2 7.400900 136.538696 -32.520599 1.745200 0.121500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 136.538696 -38.193699 1.833700 0.089400
+        Vertex 1 7.201700 136.538696 -43.931499 1.923300 0.118200
+        Vertex 2 11.446600 136.538696 -38.298401 1.835300 0.187900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 136.538696 -38.193699 1.833700 0.089400
+        Vertex 1 0.532600 136.538696 -41.635101 1.887400 0.008700
+        Vertex 2 7.201700 136.538696 -43.931499 1.923300 0.118200
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 0.532600 136.538696 -41.635101 0.996900 0.943200
+        Vertex 1 0.655700 112.538696 -34.582802 0.995600 0.776800
+        Vertex 2 0.532600 112.538696 -41.635101 0.996900 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 0.532600 136.538696 -41.635101 0.996900 0.943200
+        Vertex 1 0.655700 136.538696 -34.582802 0.995600 0.943200
+        Vertex 2 0.655700 112.538696 -34.582802 0.995600 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 0.655700 136.538696 -34.582802 0.995600 0.943200
+        Vertex 1 7.400900 112.538696 -32.520599 0.948600 0.776800
+        Vertex 2 0.655700 112.538696 -34.582802 0.995600 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 0.655700 136.538696 -34.582802 0.995600 0.943200
+        Vertex 1 7.400900 136.538696 -32.520599 0.948600 0.943200
+        Vertex 2 7.400900 112.538696 -32.520599 0.948600 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 7.400900 136.538696 -32.520599 0.948600 0.943200
+        Vertex 1 11.446600 112.538696 -38.298401 0.929600 0.776800
+        Vertex 2 7.400900 112.538696 -32.520599 0.948600 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 7.400900 136.538696 -32.520599 0.948600 0.943200
+        Vertex 1 11.446600 136.538696 -38.298401 0.929600 0.943200
+        Vertex 2 11.446600 112.538696 -38.298401 0.929600 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 11.446600 136.538696 -38.298401 0.929600 0.943200
+        Vertex 1 7.201700 112.538696 -43.931499 0.959500 0.776800
+        Vertex 2 11.446600 112.538696 -38.298401 0.929600 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 11.446600 136.538696 -38.298401 0.929600 0.943200
+        Vertex 1 7.201700 136.538696 -43.931499 0.959500 0.943200
+        Vertex 2 7.201700 112.538696 -43.931499 0.959500 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 7.201700 136.538696 -43.931499 0.959500 0.943200
+        Vertex 1 0.532600 112.538696 -41.635101 0.996900 0.776800
+        Vertex 2 7.201700 112.538696 -43.931499 0.959500 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 7.201700 136.538696 -43.931499 0.959500 0.943200
+        Vertex 1 0.532600 136.538696 -41.635101 0.996900 0.943200
+        Vertex 2 0.532600 112.538696 -41.635101 0.996900 0.776800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 112.538696 -38.193699 1.833700 0.089400
+        Vertex 1 0.532600 112.538696 -41.635101 1.887400 0.008700
+        Vertex 2 0.655700 112.538696 -34.582802 1.777300 0.010800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 112.538696 -38.193699 1.833700 0.089400
+        Vertex 1 0.655700 112.538696 -34.582802 1.777300 0.010800
+        Vertex 2 7.400900 112.538696 -32.520599 1.745200 0.121500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 112.538696 -38.193699 1.833700 0.089400
+        Vertex 1 7.400900 112.538696 -32.520599 1.745200 0.121500
+        Vertex 2 11.446600 112.538696 -38.298401 1.835300 0.187900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 112.538696 -38.193699 1.833700 0.089400
+        Vertex 1 11.446600 112.538696 -38.298401 1.835300 0.187900
+        Vertex 2 7.201700 112.538696 -43.931499 1.923300 0.118200
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 112.538696 -38.193699 1.833700 0.089400
+        Vertex 1 7.201700 112.538696 -43.931499 1.923300 0.118200
+        Vertex 2 0.532600 112.538696 -41.635101 1.887400 0.008700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 134.080994 15.832400 0.990400 0.893300
+        Vertex 1 48.721802 134.080994 13.978300 1.019300 0.799700
+        Vertex 2 54.428101 134.080994 9.832400 1.084000 0.893300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 134.080994 15.832400 0.990400 0.893300
+        Vertex 1 50.901402 134.080994 20.686501 0.914600 0.835400
+        Vertex 2 48.721802 134.080994 13.978300 1.019300 0.799700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 134.080994 15.832400 0.990400 0.893300
+        Vertex 1 57.954800 134.080994 20.686501 0.914600 0.951200
+        Vertex 2 50.901402 134.080994 20.686501 0.914600 0.835400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 134.080994 15.832400 0.990400 0.893300
+        Vertex 1 60.134499 134.080994 13.978300 1.019300 0.987000
+        Vertex 2 57.954800 134.080994 20.686501 0.914600 0.951200
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 134.080994 15.832400 0.990400 0.893300
+        Vertex 1 54.428101 134.080994 9.832400 1.084000 0.893300
+        Vertex 2 60.134499 134.080994 13.978300 1.019300 0.987000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 54.428101 134.080994 9.832400 0.529900 0.926200
+        Vertex 1 48.721802 110.081001 13.978300 0.507700 0.759800
+        Vertex 2 54.428101 110.081001 9.832400 0.529900 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 54.428101 134.080994 9.832400 0.529900 0.926200
+        Vertex 1 48.721802 134.080994 13.978300 0.507700 0.926200
+        Vertex 2 48.721802 110.081001 13.978300 0.507700 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 48.721802 134.080994 13.978300 0.507700 0.926200
+        Vertex 1 50.901402 110.081001 20.686501 0.467600 0.759800
+        Vertex 2 48.721802 110.081001 13.978300 0.507700 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 48.721802 134.080994 13.978300 0.507700 0.926200
+        Vertex 1 50.901402 134.080994 20.686501 0.467600 0.926200
+        Vertex 2 50.901402 110.081001 20.686501 0.467600 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 50.901402 134.080994 20.686501 0.467600 0.926200
+        Vertex 1 57.954800 110.081001 20.686501 0.471500 0.759800
+        Vertex 2 50.901402 110.081001 20.686501 0.467600 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 50.901402 134.080994 20.686501 0.467600 0.926200
+        Vertex 1 57.954800 134.080994 20.686501 0.471500 0.926200
+        Vertex 2 57.954800 110.081001 20.686501 0.471500 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 57.954800 134.080994 20.686501 0.471500 0.926200
+        Vertex 1 60.134499 110.081001 13.978300 0.506200 0.759800
+        Vertex 2 57.954800 110.081001 20.686501 0.471500 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 57.954800 134.080994 20.686501 0.471500 0.926200
+        Vertex 1 60.134499 134.080994 13.978300 0.506200 0.926200
+        Vertex 2 60.134499 110.081001 13.978300 0.506200 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 60.134499 134.080994 13.978300 0.506200 0.926200
+        Vertex 1 54.428101 110.081001 9.832400 0.529900 0.759800
+        Vertex 2 60.134499 110.081001 13.978300 0.506200 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 60.134499 134.080994 13.978300 0.506200 0.926200
+        Vertex 1 54.428101 134.080994 9.832400 0.529900 0.926200
+        Vertex 2 54.428101 110.081001 9.832400 0.529900 0.759800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 110.081001 15.832400 0.990400 0.893300
+        Vertex 1 54.428101 110.081001 9.832400 1.084000 0.893300
+        Vertex 2 48.721802 110.081001 13.978300 1.019300 0.799700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 110.081001 15.832400 0.990400 0.893300
+        Vertex 1 48.721802 110.081001 13.978300 1.019300 0.799700
+        Vertex 2 50.901402 110.081001 20.686501 0.914600 0.835400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 110.081001 15.832400 0.990400 0.893300
+        Vertex 1 50.901402 110.081001 20.686501 0.914600 0.835400
+        Vertex 2 57.954800 110.081001 20.686501 0.914600 0.951200
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 110.081001 15.832400 0.990400 0.893300
+        Vertex 1 57.954800 110.081001 20.686501 0.914600 0.951200
+        Vertex 2 60.134499 110.081001 13.978300 1.019300 0.987000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.428101 110.081001 15.832400 0.990400 0.893300
+        Vertex 1 60.134499 110.081001 13.978300 1.019300 0.987000
+        Vertex 2 54.428101 110.081001 9.832400 1.084000 0.893300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 136.719894 69.397102 0.154300 -0.080000
+        Vertex 1 -6.728100 136.719894 75.103401 0.065200 -0.110400
+        Vertex 2 -10.874000 136.719894 69.397102 0.154300 -0.178500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 136.719894 69.397102 0.154300 -0.080000
+        Vertex 1 -0.019900 136.719894 72.923798 0.099200 -0.000300
+        Vertex 2 -6.728100 136.719894 75.103401 0.065200 -0.110400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 136.719894 69.397102 0.154300 -0.080000
+        Vertex 1 -0.019900 136.719894 65.870399 0.209300 -0.000300
+        Vertex 2 -0.019900 136.719894 72.923798 0.099200 -0.000300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 136.719894 69.397102 0.154300 -0.080000
+        Vertex 1 -6.728100 136.719894 63.690701 0.243400 -0.110400
+        Vertex 2 -0.019900 136.719894 65.870399 0.209300 -0.000300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 136.719894 69.397102 0.154300 -0.080000
+        Vertex 1 -10.874000 136.719894 69.397102 0.154300 -0.178500
+        Vertex 2 -6.728100 136.719894 63.690701 0.243400 -0.110400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -10.874000 136.719894 69.397102 1.933800 0.944500
+        Vertex 1 -6.728100 112.719902 75.103401 1.962600 0.778100
+        Vertex 2 -10.874000 112.719902 69.397102 1.933800 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -10.874000 136.719894 69.397102 1.933800 0.944500
+        Vertex 1 -6.728100 136.719894 75.103401 1.962600 0.944500
+        Vertex 2 -6.728100 112.719902 75.103401 1.962600 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -6.728100 136.719894 75.103401 1.962600 0.944500
+        Vertex 1 -0.019900 112.719902 72.923798 1.999900 0.778100
+        Vertex 2 -6.728100 112.719902 75.103401 1.962600 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -6.728100 136.719894 75.103401 1.962600 0.944500
+        Vertex 1 -0.019900 136.719894 72.923798 1.999900 0.944500
+        Vertex 2 -0.019900 112.719902 72.923798 1.999900 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -0.019900 136.719894 72.923798 1.999900 0.944500
+        Vertex 1 -0.019900 112.719902 65.870399 1.999900 0.778100
+        Vertex 2 -0.019900 112.719902 72.923798 1.999900 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -0.019900 136.719894 72.923798 1.999900 0.944500
+        Vertex 1 -0.019900 136.719894 65.870399 1.999900 0.944500
+        Vertex 2 -0.019900 112.719902 65.870399 1.999900 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -0.019900 136.719894 65.870399 1.999900 0.944500
+        Vertex 1 -6.728100 112.719902 63.690701 1.953900 0.778100
+        Vertex 2 -0.019900 112.719902 65.870399 1.999900 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -0.019900 136.719894 65.870399 1.999900 0.944500
+        Vertex 1 -6.728100 136.719894 63.690701 1.953900 0.944500
+        Vertex 2 -6.728100 112.719902 63.690701 1.953900 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -6.728100 136.719894 63.690701 1.953900 0.944500
+        Vertex 1 -10.874000 112.719902 69.397102 1.933800 0.778100
+        Vertex 2 -6.728100 112.719902 63.690701 1.953900 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -6.728100 136.719894 63.690701 1.953900 0.944500
+        Vertex 1 -10.874000 136.719894 69.397102 1.933800 0.944500
+        Vertex 2 -10.874000 112.719902 69.397102 1.933800 0.778100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 112.719902 69.397102 0.154300 -0.080000
+        Vertex 1 -10.874000 112.719902 69.397102 0.154300 -0.178500
+        Vertex 2 -6.728100 112.719902 75.103401 0.065200 -0.110400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 112.719902 69.397102 0.154300 -0.080000
+        Vertex 1 -6.728100 112.719902 75.103401 0.065200 -0.110400
+        Vertex 2 -0.019900 112.719902 72.923798 0.099200 -0.000300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 112.719902 69.397102 0.154300 -0.080000
+        Vertex 1 -0.019900 112.719902 72.923798 0.099200 -0.000300
+        Vertex 2 -0.019900 112.719902 65.870399 0.209300 -0.000300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 112.719902 69.397102 0.154300 -0.080000
+        Vertex 1 -0.019900 112.719902 65.870399 0.209300 -0.000300
+        Vertex 2 -6.728100 112.719902 63.690701 0.243400 -0.110400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 112.719902 69.397102 0.154300 -0.080000
+        Vertex 1 -6.728100 112.719902 63.690701 0.243400 -0.110400
+        Vertex 2 -10.874000 112.719902 69.397102 0.154300 -0.178500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 -51.777100 -128.557907 52.835201 0.412800 -0.849800
+        Vertex 2 -64.000000 -128.557907 15.216900 1.000000 -1.050400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 -19.777100 -128.557907 76.084503 0.049900 -0.324600
+        Vertex 2 -51.777100 -128.557907 52.835201 0.412800 -0.849800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 19.777100 -128.557907 76.084503 0.049900 0.324600
+        Vertex 2 -19.777100 -128.557907 76.084503 0.049900 -0.324600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 51.777100 -128.557907 52.835201 0.412800 0.849800
+        Vertex 2 19.777100 -128.557907 76.084503 0.049900 0.324600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 64.000000 -128.557907 15.216900 1.000000 1.050400
+        Vertex 2 51.777100 -128.557907 52.835201 0.412800 0.849800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 51.777100 -128.557907 -22.401300 1.587200 0.849800
+        Vertex 2 64.000000 -128.557907 15.216900 1.000000 1.050400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 19.777100 -128.557907 -45.650700 1.950100 0.324600
+        Vertex 2 51.777100 -128.557907 -22.401300 1.587200 0.849800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 -19.777100 -128.557907 -45.650700 1.950100 -0.324600
+        Vertex 2 19.777100 -128.557907 -45.650700 1.950100 0.324600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 -51.777100 -128.557907 -22.401300 1.587200 -0.849800
+        Vertex 2 -19.777100 -128.557907 -45.650700 1.950100 -0.324600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -128.557907 15.216900 1.000000 0.000000
+        Vertex 1 -64.000000 -128.557907 15.216900 1.000000 -1.050400
+        Vertex 2 -51.777100 -128.557907 -22.401300 1.587200 -0.849800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -64.000000 -128.557907 15.216900 1.500000 -0.888100
+        Vertex 1 -49.848000 -144.000000 51.433601 1.692500 -0.996800
+        Vertex 2 -61.615501 -144.000000 15.216900 1.500000 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -64.000000 -128.557907 15.216900 1.500000 -0.888100
+        Vertex 1 -51.777100 -128.557907 52.835201 1.692500 -0.888100
+        Vertex 2 -49.848000 -144.000000 51.433601 1.692500 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -51.777100 -128.557907 52.835201 1.692500 -0.888100
+        Vertex 1 -19.040199 -144.000000 73.816704 1.895200 -0.996800
+        Vertex 2 -49.848000 -144.000000 51.433601 1.692500 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -51.777100 -128.557907 52.835201 1.692500 -0.888100
+        Vertex 1 -19.777100 -128.557907 76.084503 1.895200 -0.888100
+        Vertex 2 -19.040199 -144.000000 73.816704 1.895200 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -19.777100 -128.557907 76.084503 -0.104800 -0.888100
+        Vertex 1 19.040199 -144.000000 73.816704 0.104800 -0.996800
+        Vertex 2 -19.040199 -144.000000 73.816704 -0.104800 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -19.777100 -128.557907 76.084503 -0.104800 -0.888100
+        Vertex 1 19.777100 -128.557907 76.084503 0.104800 -0.888100
+        Vertex 2 19.040199 -144.000000 73.816704 0.104800 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 19.777100 -128.557907 76.084503 0.104800 -0.888100
+        Vertex 1 49.848000 -144.000000 51.433601 0.307500 -0.996800
+        Vertex 2 19.040199 -144.000000 73.816704 0.104800 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 19.777100 -128.557907 76.084503 0.104800 -0.888100
+        Vertex 1 51.777100 -128.557907 52.835201 0.307500 -0.888100
+        Vertex 2 49.848000 -144.000000 51.433601 0.307500 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 51.777100 -128.557907 52.835201 0.307500 -0.888100
+        Vertex 1 61.615501 -144.000000 15.216900 0.500000 -0.996800
+        Vertex 2 49.848000 -144.000000 51.433601 0.307500 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 51.777100 -128.557907 52.835201 0.307500 -0.888100
+        Vertex 1 64.000000 -128.557907 15.216900 0.500000 -0.888100
+        Vertex 2 61.615501 -144.000000 15.216900 0.500000 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 64.000000 -128.557907 15.216900 0.500000 -0.888100
+        Vertex 1 49.848000 -144.000000 -20.999800 0.692500 -0.996800
+        Vertex 2 61.615501 -144.000000 15.216900 0.500000 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 64.000000 -128.557907 15.216900 0.500000 -0.888100
+        Vertex 1 51.777100 -128.557907 -22.401300 0.692500 -0.888100
+        Vertex 2 49.848000 -144.000000 -20.999800 0.692500 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 51.777100 -128.557907 -22.401300 0.692500 -0.888100
+        Vertex 1 19.040199 -144.000000 -43.382900 0.895200 -0.996800
+        Vertex 2 49.848000 -144.000000 -20.999800 0.692500 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 51.777100 -128.557907 -22.401300 0.692500 -0.888100
+        Vertex 1 19.777100 -128.557907 -45.650700 0.895200 -0.888100
+        Vertex 2 19.040199 -144.000000 -43.382900 0.895200 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 19.777100 -128.557907 -45.650700 0.895200 -0.888100
+        Vertex 1 -19.040199 -144.000000 -43.382900 1.104800 -0.996800
+        Vertex 2 19.040199 -144.000000 -43.382900 0.895200 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 19.777100 -128.557907 -45.650700 0.895200 -0.888100
+        Vertex 1 -19.777100 -128.557907 -45.650700 1.104800 -0.888100
+        Vertex 2 -19.040199 -144.000000 -43.382900 1.104800 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -19.777100 -128.557907 -45.650700 1.104800 -0.888100
+        Vertex 1 -49.848000 -144.000000 -20.999800 1.307500 -0.996800
+        Vertex 2 -19.040199 -144.000000 -43.382900 1.104800 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -19.777100 -128.557907 -45.650700 1.104800 -0.888100
+        Vertex 1 -51.777100 -128.557907 -22.401300 1.307500 -0.888100
+        Vertex 2 -49.848000 -144.000000 -20.999800 1.307500 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -51.777100 -128.557907 -22.401300 1.307500 -0.888100
+        Vertex 1 -61.615501 -144.000000 15.216900 1.500000 -0.996800
+        Vertex 2 -49.848000 -144.000000 -20.999800 1.307500 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -51.777100 -128.557907 -22.401300 1.307500 -0.888100
+        Vertex 1 -64.000000 -128.557907 15.216900 1.500000 -0.888100
+        Vertex 2 -61.615501 -144.000000 15.216900 1.500000 -0.996800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -61.615501 -144.000000 15.216900 1.000000 -1.011300
+        Vertex 2 -49.848000 -144.000000 51.433601 0.434700 -0.818100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -49.848000 -144.000000 51.433601 0.434700 -0.818100
+        Vertex 2 -19.040199 -144.000000 73.816704 0.085300 -0.312500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -19.040199 -144.000000 73.816704 0.085300 -0.312500
+        Vertex 2 19.040199 -144.000000 73.816704 0.085300 0.312500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 19.040199 -144.000000 73.816704 0.085300 0.312500
+        Vertex 2 49.848000 -144.000000 51.433601 0.434700 0.818100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 49.848000 -144.000000 51.433601 0.434700 0.818100
+        Vertex 2 61.615501 -144.000000 15.216900 1.000000 1.011300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 61.615501 -144.000000 15.216900 1.000000 1.011300
+        Vertex 2 49.848000 -144.000000 -20.999800 1.565300 0.818100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 49.848000 -144.000000 -20.999800 1.565300 0.818100
+        Vertex 2 19.040199 -144.000000 -43.382900 1.914700 0.312500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 19.040199 -144.000000 -43.382900 1.914700 0.312500
+        Vertex 2 -19.040199 -144.000000 -43.382900 1.914700 -0.312500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -19.040199 -144.000000 -43.382900 1.914700 -0.312500
+        Vertex 2 -49.848000 -144.000000 -20.999800 1.565300 -0.818100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 0.000000 -144.000000 15.216900 1.000000 0.000000
+        Vertex 1 -49.848000 -144.000000 -20.999800 1.565300 -0.818100
+        Vertex 2 -61.615501 -144.000000 15.216900 1.000000 -1.011300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -108.230400 15.832400 0.990400 -0.854800
+        Vertex 1 -56.873600 -108.230400 19.443300 0.934000 -0.933400
+        Vertex 2 -56.996700 -108.230400 12.390900 1.044100 -0.935500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -108.230400 15.832400 0.990400 -0.854800
+        Vertex 1 -50.128399 -108.230400 21.505501 0.901800 -0.822700
+        Vertex 2 -56.873600 -108.230400 19.443300 0.934000 -0.933400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -108.230400 15.832400 0.990400 -0.854800
+        Vertex 1 -46.082699 -108.230400 15.727700 0.992000 -0.756300
+        Vertex 2 -50.128399 -108.230400 21.505501 0.901800 -0.822700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -108.230400 15.832400 0.990400 -0.854800
+        Vertex 1 -50.327499 -108.230400 10.094600 1.080000 -0.826000
+        Vertex 2 -46.082699 -108.230400 15.727700 0.992000 -0.756300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -108.230400 15.832400 0.990400 -0.854800
+        Vertex 1 -56.996700 -108.230400 12.390900 1.044100 -0.935500
+        Vertex 2 -50.327499 -108.230400 10.094600 1.080000 -0.826000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -56.996700 -108.230400 12.390900 1.485000 -0.747200
+        Vertex 1 -56.873600 -132.230392 19.443300 1.522500 -0.913500
+        Vertex 2 -56.996700 -132.230392 12.390900 1.485000 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -56.996700 -108.230400 12.390900 1.485000 -0.747200
+        Vertex 1 -56.873600 -108.230400 19.443300 1.522500 -0.747200
+        Vertex 2 -56.873600 -132.230392 19.443300 1.522500 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -56.873600 -108.230400 19.443300 1.522500 -0.747200
+        Vertex 1 -50.128399 -132.230392 21.505501 1.537800 -0.913500
+        Vertex 2 -56.873600 -132.230392 19.443300 1.522500 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -56.873600 -108.230400 19.443300 1.522500 -0.747200
+        Vertex 1 -50.128399 -108.230400 21.505501 1.537800 -0.747200
+        Vertex 2 -50.128399 -132.230392 21.505501 1.537800 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -50.128399 -108.230400 21.505501 1.537800 -0.747200
+        Vertex 1 -46.082699 -132.230392 15.727700 1.503400 -0.913500
+        Vertex 2 -50.128399 -132.230392 21.505501 1.537800 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -50.128399 -108.230400 21.505501 1.537800 -0.747200
+        Vertex 1 -46.082699 -108.230400 15.727700 1.503400 -0.747200
+        Vertex 2 -46.082699 -132.230392 15.727700 1.503400 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -46.082699 -108.230400 15.727700 1.503400 -0.747200
+        Vertex 1 -50.327499 -132.230392 10.094600 1.469300 -0.913500
+        Vertex 2 -46.082699 -132.230392 15.727700 1.503400 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -46.082699 -108.230400 15.727700 1.503400 -0.747200
+        Vertex 1 -50.327499 -108.230400 10.094600 1.469300 -0.747200
+        Vertex 2 -50.327499 -132.230392 10.094600 1.469300 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -50.327499 -108.230400 10.094600 1.469300 -0.747200
+        Vertex 1 -56.996700 -132.230392 12.390900 1.485000 -0.913500
+        Vertex 2 -50.327499 -132.230392 10.094600 1.469300 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -50.327499 -108.230400 10.094600 1.469300 -0.747200
+        Vertex 1 -56.996700 -108.230400 12.390900 1.485000 -0.747200
+        Vertex 2 -56.996700 -132.230392 12.390900 1.485000 -0.913500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -132.230392 15.832400 0.990400 -0.854800
+        Vertex 1 -56.996700 -132.230392 12.390900 1.044100 -0.935500
+        Vertex 2 -56.873600 -132.230392 19.443300 0.934000 -0.933400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -132.230392 15.832400 0.990400 -0.854800
+        Vertex 1 -56.873600 -132.230392 19.443300 0.934000 -0.933400
+        Vertex 2 -50.128399 -132.230392 21.505501 0.901800 -0.822700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -132.230392 15.832400 0.990400 -0.854800
+        Vertex 1 -50.128399 -132.230392 21.505501 0.901800 -0.822700
+        Vertex 2 -46.082699 -132.230392 15.727700 0.992000 -0.756300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -132.230392 15.832400 0.990400 -0.854800
+        Vertex 1 -46.082699 -132.230392 15.727700 0.992000 -0.756300
+        Vertex 2 -50.327499 -132.230392 10.094600 1.080000 -0.826000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -52.081799 -132.230392 15.832400 0.990400 -0.854800
+        Vertex 1 -50.327499 -132.230392 10.094600 1.080000 -0.826000
+        Vertex 2 -56.996700 -132.230392 12.390900 1.044100 -0.935500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -109.305801 -38.193699 1.833700 0.089400
+        Vertex 1 0.655700 -109.305801 -34.582802 1.777300 0.010800
+        Vertex 2 0.532600 -109.305801 -41.635101 1.887400 0.008700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -109.305801 -38.193699 1.833700 0.089400
+        Vertex 1 7.400900 -109.305801 -32.520599 1.745200 0.121500
+        Vertex 2 0.655700 -109.305801 -34.582802 1.777300 0.010800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -109.305801 -38.193699 1.833700 0.089400
+        Vertex 1 11.446600 -109.305801 -38.298401 1.835300 0.187900
+        Vertex 2 7.400900 -109.305801 -32.520599 1.745200 0.121500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -109.305801 -38.193699 1.833700 0.089400
+        Vertex 1 7.201700 -109.305801 -43.931499 1.923300 0.118200
+        Vertex 2 11.446600 -109.305801 -38.298401 1.835300 0.187900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -109.305801 -38.193699 1.833700 0.089400
+        Vertex 1 0.532600 -109.305801 -41.635101 1.887400 0.008700
+        Vertex 2 7.201700 -109.305801 -43.931499 1.923300 0.118200
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 0.532600 -109.305801 -41.635101 0.996900 -0.754600
+        Vertex 1 0.655700 -133.305801 -34.582802 0.995600 -0.921000
+        Vertex 2 0.532600 -133.305801 -41.635101 0.996900 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 0.532600 -109.305801 -41.635101 0.996900 -0.754600
+        Vertex 1 0.655700 -109.305801 -34.582802 0.995600 -0.754600
+        Vertex 2 0.655700 -133.305801 -34.582802 0.995600 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 0.655700 -109.305801 -34.582802 0.995600 -0.754600
+        Vertex 1 7.400900 -133.305801 -32.520599 0.948600 -0.921000
+        Vertex 2 0.655700 -133.305801 -34.582802 0.995600 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 0.655700 -109.305801 -34.582802 0.995600 -0.754600
+        Vertex 1 7.400900 -109.305801 -32.520599 0.948600 -0.754600
+        Vertex 2 7.400900 -133.305801 -32.520599 0.948600 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 7.400900 -109.305801 -32.520599 0.948600 -0.754600
+        Vertex 1 11.446600 -133.305801 -38.298401 0.929600 -0.921000
+        Vertex 2 7.400900 -133.305801 -32.520599 0.948600 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 7.400900 -109.305801 -32.520599 0.948600 -0.754600
+        Vertex 1 11.446600 -109.305801 -38.298401 0.929600 -0.754600
+        Vertex 2 11.446600 -133.305801 -38.298401 0.929600 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 11.446600 -109.305801 -38.298401 0.929600 -0.754600
+        Vertex 1 7.201700 -133.305801 -43.931499 0.959500 -0.921000
+        Vertex 2 11.446600 -133.305801 -38.298401 0.929600 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 11.446600 -109.305801 -38.298401 0.929600 -0.754600
+        Vertex 1 7.201700 -109.305801 -43.931499 0.959500 -0.754600
+        Vertex 2 7.201700 -133.305801 -43.931499 0.959500 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 7.201700 -109.305801 -43.931499 0.959500 -0.754600
+        Vertex 1 0.532600 -133.305801 -41.635101 0.996900 -0.921000
+        Vertex 2 7.201700 -133.305801 -43.931499 0.959500 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 7.201700 -109.305801 -43.931499 0.959500 -0.754600
+        Vertex 1 0.532600 -109.305801 -41.635101 0.996900 -0.754600
+        Vertex 2 0.532600 -133.305801 -41.635101 0.996900 -0.921000
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -133.305801 -38.193699 1.833700 0.089400
+        Vertex 1 0.532600 -133.305801 -41.635101 1.887400 0.008700
+        Vertex 2 0.655700 -133.305801 -34.582802 1.777300 0.010800
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -133.305801 -38.193699 1.833700 0.089400
+        Vertex 1 0.655700 -133.305801 -34.582802 1.777300 0.010800
+        Vertex 2 7.400900 -133.305801 -32.520599 1.745200 0.121500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -133.305801 -38.193699 1.833700 0.089400
+        Vertex 1 7.400900 -133.305801 -32.520599 1.745200 0.121500
+        Vertex 2 11.446600 -133.305801 -38.298401 1.835300 0.187900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -133.305801 -38.193699 1.833700 0.089400
+        Vertex 1 11.446600 -133.305801 -38.298401 1.835300 0.187900
+        Vertex 2 7.201700 -133.305801 -43.931499 1.923300 0.118200
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 5.447500 -133.305801 -38.193699 1.833700 0.089400
+        Vertex 1 7.201700 -133.305801 -43.931499 1.923300 0.118200
+        Vertex 2 0.532600 -133.305801 -41.635101 1.887400 0.008700
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -112.116501 15.832400 0.990400 0.893200
+        Vertex 1 48.717602 -112.116501 13.978300 1.019300 0.799600
+        Vertex 2 54.424000 -112.116501 9.832400 1.084000 0.893200
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -112.116501 15.832400 0.990400 0.893200
+        Vertex 1 50.897202 -112.116501 20.686501 0.914600 0.835400
+        Vertex 2 48.717602 -112.116501 13.978300 1.019300 0.799600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -112.116501 15.832400 0.990400 0.893200
+        Vertex 1 57.950699 -112.116501 20.686501 0.914600 0.951100
+        Vertex 2 50.897202 -112.116501 20.686501 0.914600 0.835400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -112.116501 15.832400 0.990400 0.893200
+        Vertex 1 60.130299 -112.116501 13.978300 1.019300 0.986900
+        Vertex 2 57.950699 -112.116501 20.686501 0.914600 0.951100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -112.116501 15.832400 0.990400 0.893200
+        Vertex 1 54.424000 -112.116501 9.832400 1.084000 0.893200
+        Vertex 2 60.130299 -112.116501 13.978300 1.019300 0.986900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 54.424000 -112.116501 9.832400 0.529900 -0.774100
+        Vertex 1 48.717602 -136.116501 13.978300 0.507700 -0.940500
+        Vertex 2 54.423901 -136.116501 9.832400 0.529900 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 54.424000 -112.116501 9.832400 0.529900 -0.774100
+        Vertex 1 48.717602 -112.116501 13.978300 0.507700 -0.774100
+        Vertex 2 48.717602 -136.116501 13.978300 0.507700 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 48.717602 -112.116501 13.978300 0.507700 -0.774100
+        Vertex 1 50.897202 -136.116501 20.686501 0.467600 -0.940500
+        Vertex 2 48.717602 -136.116501 13.978300 0.507700 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 48.717602 -112.116501 13.978300 0.507700 -0.774100
+        Vertex 1 50.897202 -112.116501 20.686501 0.467600 -0.774100
+        Vertex 2 50.897202 -136.116501 20.686501 0.467600 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 50.897202 -112.116501 20.686501 0.467600 -0.774100
+        Vertex 1 57.950699 -136.116501 20.686501 0.471500 -0.940500
+        Vertex 2 50.897202 -136.116501 20.686501 0.467600 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 50.897202 -112.116501 20.686501 0.467600 -0.774100
+        Vertex 1 57.950699 -112.116501 20.686501 0.471500 -0.774100
+        Vertex 2 57.950699 -136.116501 20.686501 0.471500 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 57.950699 -112.116501 20.686501 0.471500 -0.774100
+        Vertex 1 60.130299 -136.116501 13.978300 0.506200 -0.940500
+        Vertex 2 57.950699 -136.116501 20.686501 0.471500 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 57.950699 -112.116501 20.686501 0.471500 -0.774100
+        Vertex 1 60.130299 -112.116501 13.978300 0.506200 -0.774100
+        Vertex 2 60.130299 -136.116501 13.978300 0.506200 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 60.130299 -112.116501 13.978300 0.506200 -0.774100
+        Vertex 1 54.423901 -136.116501 9.832400 0.529900 -0.940500
+        Vertex 2 60.130299 -136.116501 13.978300 0.506200 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 60.130299 -112.116501 13.978300 0.506200 -0.774100
+        Vertex 1 54.424000 -112.116501 9.832400 0.529900 -0.774100
+        Vertex 2 54.423901 -136.116501 9.832400 0.529900 -0.940500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -136.116501 15.832400 0.990400 0.893200
+        Vertex 1 54.423901 -136.116501 9.832400 1.084000 0.893200
+        Vertex 2 48.717602 -136.116501 13.978300 1.019300 0.799600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -136.116501 15.832400 0.990400 0.893200
+        Vertex 1 48.717602 -136.116501 13.978300 1.019300 0.799600
+        Vertex 2 50.897202 -136.116501 20.686501 0.914600 0.835400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -136.116501 15.832400 0.990400 0.893200
+        Vertex 1 50.897202 -136.116501 20.686501 0.914600 0.835400
+        Vertex 2 57.950699 -136.116501 20.686501 0.914600 0.951100
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -136.116501 15.832400 0.990400 0.893200
+        Vertex 1 57.950699 -136.116501 20.686501 0.914600 0.951100
+        Vertex 2 60.130299 -136.116501 13.978300 1.019300 0.986900
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 54.424000 -136.116501 15.832400 0.990400 0.893200
+        Vertex 1 60.130299 -136.116501 13.978300 1.019300 0.986900
+        Vertex 2 54.423901 -136.116501 9.832400 1.084000 0.893200
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -109.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -6.728100 -109.675797 75.103401 0.065200 -0.110400
+        Vertex 2 -10.874000 -109.675797 69.397102 0.154300 -0.178500
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -109.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -0.019900 -109.675797 72.923798 0.099200 -0.000300
+        Vertex 2 -6.728100 -109.675797 75.103401 0.065200 -0.110400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -109.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -0.019900 -109.675797 65.870399 0.209300 -0.000300
+        Vertex 2 -0.019900 -109.675797 72.923798 0.099200 -0.000300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -109.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -6.728100 -109.675797 63.690800 0.243400 -0.110400
+        Vertex 2 -0.019900 -109.675797 65.870399 0.209300 -0.000300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -109.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -10.874000 -109.675797 69.397102 0.154300 -0.178500
+        Vertex 2 -6.728100 -109.675797 63.690800 0.243400 -0.110400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -10.874000 -109.675797 69.397102 1.933800 -0.757200
+        Vertex 1 -6.728100 -133.675797 75.103401 1.962600 -0.923600
+        Vertex 2 -10.874000 -133.675797 69.397102 1.933800 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -10.874000 -109.675797 69.397102 1.933800 -0.757200
+        Vertex 1 -6.728100 -109.675797 75.103401 1.962600 -0.757200
+        Vertex 2 -6.728100 -133.675797 75.103401 1.962600 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -6.728100 -109.675797 75.103401 1.962600 -0.757200
+        Vertex 1 -0.019900 -133.675797 72.923798 1.999900 -0.923600
+        Vertex 2 -6.728100 -133.675797 75.103401 1.962600 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -6.728100 -109.675797 75.103401 1.962600 -0.757200
+        Vertex 1 -0.019900 -109.675797 72.923798 1.999900 -0.757200
+        Vertex 2 -0.019900 -133.675797 72.923798 1.999900 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -0.019900 -109.675797 72.923798 1.999900 -0.757200
+        Vertex 1 -0.019900 -133.675797 65.870399 1.999900 -0.923600
+        Vertex 2 -0.019900 -133.675797 72.923798 1.999900 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -0.019900 -109.675797 72.923798 1.999900 -0.757200
+        Vertex 1 -0.019900 -109.675797 65.870399 1.999900 -0.757200
+        Vertex 2 -0.019900 -133.675797 65.870399 1.999900 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -0.019900 -109.675797 65.870399 1.999900 -0.757200
+        Vertex 1 -6.728100 -133.675797 63.690800 1.953900 -0.923600
+        Vertex 2 -0.019900 -133.675797 65.870399 1.999900 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -0.019900 -109.675797 65.870399 1.999900 -0.757200
+        Vertex 1 -6.728100 -109.675797 63.690800 1.953900 -0.757200
+        Vertex 2 -6.728100 -133.675797 63.690800 1.953900 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -6.728100 -109.675797 63.690800 1.953900 -0.757200
+        Vertex 1 -10.874000 -133.675797 69.397102 1.933800 -0.923600
+        Vertex 2 -6.728100 -133.675797 63.690800 1.953900 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 8
+        Vertex 0 -6.728100 -109.675797 63.690800 1.953900 -0.757200
+        Vertex 1 -10.874000 -109.675797 69.397102 1.933800 -0.757200
+        Vertex 2 -10.874000 -133.675797 69.397102 1.933800 -0.923600
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -133.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -10.874000 -133.675797 69.397102 0.154300 -0.178500
+        Vertex 2 -6.728100 -133.675797 75.103401 0.065200 -0.110400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -133.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -6.728100 -133.675797 75.103401 0.065200 -0.110400
+        Vertex 2 -0.019900 -133.675797 72.923798 0.099200 -0.000300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -133.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -0.019900 -133.675797 72.923798 0.099200 -0.000300
+        Vertex 2 -0.019900 -133.675797 65.870399 0.209300 -0.000300
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -133.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -0.019900 -133.675797 65.870399 0.209300 -0.000300
+        Vertex 2 -6.728100 -133.675797 63.690800 0.243400 -0.110400
+    End Triangle
+    Begin Triangle
+        Texture AbaddonArchitecture.Base.bas16go
+        SmoothingMask 1
+        Vertex 0 -4.874000 -133.675797 69.397102 0.154300 -0.080000
+        Vertex 1 -6.728100 -133.675797 63.690800 0.243400 -0.110400
+        Vertex 2 -10.874000 -133.675797 69.397102 0.154300 -0.178500
+    End Triangle
+End StaticMesh

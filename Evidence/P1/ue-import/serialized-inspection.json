@@ -1,0 +1,72 @@
+{
+  "RecordedAt": "2026-10-04T15:39:20.5712630-04:00",
+  "EngineVersion": "5.8.3",
+  "Changelist": 58210709,
+  "ProjectPath": "Prototype/UT2004UE5.uproject",
+  "Level": "/Game/RankinRecovery/L_FlakAtrium_Transport",
+  "Method": "Fresh interactive Unreal Editor process; loaded serialized inspection level; native Python readback; unlit viewport inspection",
+  "EditorProcessId": 40600,
+  "Log": "serialized-editor.log",
+  "Measurements": {
+    "asset": "/Game/RankinRecovery/SM_FlakAtrium_Transport.SM_FlakAtrium_Transport",
+    "bounds_min": [
+      445.5229187011719,
+      1375.4136962890625,
+      -552.0
+    ],
+    "bounds_max": [
+      1962.4521484375,
+      2776.062744140625,
+      1024.0
+    ],
+    "triangles": 9392,
+    "vertices": 20703,
+    "uv_channels": 1,
+    "sections": 66,
+    "material_slots": 66
+  },
+  "MatchesImportMeasurements": true,
+  "QualitativeResult": "Atrium floor, openings, braces and ledges visible in Unlit mode",
+  "Camera": {
+    "MatchedOriginalCapture": false,
+    "CaptureMethod": "Native HighResShot 1",
+    "ViewMode": "Unlit",
+    "LocationUECm": [
+      1740,
+      2460,
+      -420
+    ],
+    "RotationPitchYawRollDegrees": [
+      14.5,
+      -133.386,
+      0
+    ]
+  },
+  "NativeTemplateFilesChecked": 4,
+  "NativeTemplateFilesChanged": 0,
+  "Artifacts": [
+    {
+      "Path": "Prototype/Content/RankinRecovery/SM_FlakAtrium_Transport.uasset",
+      "Bytes": 313622,
+      "SHA256": "F2F1EF5A2FAAC1681A13D0F180E963AAA7807BF81BFB5EF13CE11329F79B58A7"
+    },
+    {
+      "Path": "Prototype/Content/RankinRecovery/L_FlakAtrium_Transport.umap",
+      "Bytes": 10940,
+      "SHA256": "FDC7D92C3484BC73FE611257BE935FCC9A5E827E9FC8BCE134AAE8AABC4CA274"
+    },
+    {
+      "Path": "Evidence/P1/ue-import/FlakAtrium-UE5-unlit.png",
+      "Bytes": 324032,
+      "SHA256": "71B03799D51BC33A7EB0AACE86F626824D12FF2F5F146CADB0A51957F91DF94C"
+    }
+  ],
+  "Limits": [
+    "Outer bounds do not establish per-vertex/landmark mapping or physical scale",
+    "One UV channel does not prove per-corner UV values or source texture alignment",
+    "All 66 slots use WorldGridMaterial; original appearance and normals remain unverified",
+    "Collision disabled; no room gameplay/traversal acceptance",
+    "No packaged execution or performance acceptance"
+  ],
+  "Result": "PASS: saved-asset transport inspection only"
+}

@@ -1,0 +1,18 @@
+{
+  "RecordedAt": "2026-10-04T16:25:04.9216481-04:00",
+  "Executable": "ReferenceGame/System/UT2004.exe",
+  "Attempts": [
+    {
+      "Arguments": "DM-Rankin?game=XGame.xDeathMatch?NumBots=0?MinPlayers=0?GameSpeed=1?Difficulty=4?TimeLimit=0?GoalScore=999 -windowed -log=../../Evidence/P0/reference-runtime.log",
+      "Result": "Process exited without engine log; no runtime result accepted"
+    },
+    {
+      "Arguments": "DM-Rankin?game=XGame.xDeathMatch?NumBots=0?MinPlayers=0?GameSpeed=1?Difficulty=4?TimeLimit=0?GoalScore=999 -windowed",
+      "Result": "Observed Steam Error: Application load error (0x02); acknowledged OK; no engine startup"
+    }
+  ],
+  "Capture": "reference-game-launch-error.png",
+  "CauseStatus": "Relocated Steam executable launch failure observed; exact Steam internal cause not established",
+  "RuntimeTrialsExecuted": false,
+  "Fallback": "reference-launch-fallback.json, prepared but not executed pending owner launch-boundary decision"
+}

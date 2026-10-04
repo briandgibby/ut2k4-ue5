@@ -1,0 +1,419 @@
+{
+  "recorded_at_utc": "2026-10-04T20:26:46.559807+00:00",
+  "method": "Existing interactive editor; native saved StaticMeshDescription LOD0 vertex readback; nearest measured point to each fixed source sample",
+  "engine_version": "5.8.3-58210709+++UE5+Release-5.8",
+  "source": "Exports\\Rankin\\EditorRankin.obj",
+  "source_sha256": "a6a342e67b700d95513767b2582787ae84f549fcb24836eba5544d6cf9162275",
+  "asset": "/Game/RankinRecovery/SM_FlakAtrium_Transport",
+  "asset_sha256_before": "f2f1ef5a2faac1681a13d0f180e963aaa7807bf81bfb5ef13ce11329f79b58a7",
+  "asset_sha256_after": "f2f1ef5a2faac1681a13d0f180e963aaa7807bf81bfb5ef13ce11329f79b58a7",
+  "asset_unchanged": true,
+  "mesh_description_vertex_count": 27956,
+  "valid_vertices_searched": 27956,
+  "mapping_tested": "UE XYZ = (source X, -source Y, source Z), numeric scale 1",
+  "numeric_probe_threshold": 0.001,
+  "threshold_status": "Readback precision check only; does not lock owner D-02 tolerances",
+  "samples": [
+    {
+      "sample": "BSP-floor-A",
+      "source_group": "BSP",
+      "obj_global_vertex_index_1_based": 4866,
+      "obj_vertex_line_1_based": 11595,
+      "raw_obj_xyz": [
+        1472.0,
+        -512.0,
+        -2048.0
+      ],
+      "source_xyz": [
+        1472.0,
+        -2048.0,
+        -512.0
+      ],
+      "expected_numeric_ue_xyz": [
+        1472.0,
+        2048.0,
+        -512.0
+      ],
+      "native_mesh_description_vertex_id": 276,
+      "measured_mesh_local_ue_xyz": [
+        1472.0,
+        2048.0,
+        -512.0
+      ],
+      "distance_error_numeric_ue_units": 0.0
+    },
+    {
+      "sample": "BSP-floor-B",
+      "source_group": "BSP",
+      "obj_global_vertex_index_1_based": 4867,
+      "obj_vertex_line_1_based": 11596,
+      "raw_obj_xyz": [
+        1472.0,
+        -512.0,
+        -1536.0
+      ],
+      "source_xyz": [
+        1472.0,
+        -1536.0,
+        -512.0
+      ],
+      "expected_numeric_ue_xyz": [
+        1472.0,
+        1536.0,
+        -512.0
+      ],
+      "native_mesh_description_vertex_id": 277,
+      "measured_mesh_local_ue_xyz": [
+        1472.0,
+        1536.0,
+        -512.0
+      ],
+      "distance_error_numeric_ue_units": 0.0
+    },
+    {
+      "sample": "BSP-floor-C",
+      "source_group": "BSP",
+      "obj_global_vertex_index_1_based": 5046,
+      "obj_vertex_line_1_based": 12028,
+      "raw_obj_xyz": [
+        1056.0,
+        -512.0,
+        -2336.0
+      ],
+      "source_xyz": [
+        1056.0,
+        -2336.0,
+        -512.0
+      ],
+      "expected_numeric_ue_xyz": [
+        1056.0,
+        2336.0,
+        -512.0
+      ],
+      "native_mesh_description_vertex_id": 373,
+      "measured_mesh_local_ue_xyz": [
+        1056.0,
+        2336.0,
+        -512.0
+      ],
+      "distance_error_numeric_ue_units": 0.0
+    },
+    {
+      "sample": "BSP-ceiling-D",
+      "source_group": "BSP",
+      "obj_global_vertex_index_1_based": 4809,
+      "obj_vertex_line_1_based": 11461,
+      "raw_obj_xyz": [
+        1344.0,
+        1024.0,
+        -2208.0
+      ],
+      "source_xyz": [
+        1344.0,
+        -2208.0,
+        1024.0
+      ],
+      "expected_numeric_ue_xyz": [
+        1344.0,
+        2208.0,
+        1024.0
+      ],
+      "native_mesh_description_vertex_id": 233,
+      "measured_mesh_local_ue_xyz": [
+        1344.0,
+        2208.0,
+        1024.0
+      ],
+      "distance_error_numeric_ue_units": 0.0
+    },
+    {
+      "sample": "Flak base",
+      "source_group": "xWeaponBase2",
+      "obj_global_vertex_index_1_based": 311217,
+      "obj_vertex_line_1_based": 826583,
+      "raw_obj_xyz": [
+        1172.63623,
+        -510.533142,
+        -1922.883911
+      ],
+      "source_xyz": [
+        1172.63623,
+        -1922.883911,
+        -510.533142
+      ],
+      "expected_numeric_ue_xyz": [
+        1172.63623,
+        1922.883911,
+        -510.533142
+      ],
+      "native_mesh_description_vertex_id": 26535,
+      "measured_mesh_local_ue_xyz": [
+        1172.63623046875,
+        1922.8839111328125,
+        -510.53314208984375
+      ],
+      "distance_error_numeric_ue_units": 4.954165773148249e-07
+    },
+    {
+      "sample": "Central brace",
+      "source_group": "StaticMeshActor426",
+      "obj_global_vertex_index_1_based": 256928,
+      "obj_vertex_line_1_based": 681721,
+      "raw_obj_xyz": [
+        1381.941528,
+        383.951996,
+        -1864.449951
+      ],
+      "source_xyz": [
+        1381.941528,
+        -1864.449951,
+        383.951996
+      ],
+      "expected_numeric_ue_xyz": [
+        1381.941528,
+        1864.449951,
+        383.951996
+      ],
+      "native_mesh_description_vertex_id": 21560,
+      "measured_mesh_local_ue_xyz": [
+        1381.9415283203125,
+        1864.449951171875,
+        383.9519958496094
+      ],
+      "distance_error_numeric_ue_units": 3.933934379254636e-07
+    },
+    {
+      "sample": "North brace",
+      "source_group": "StaticMeshActor425",
+      "obj_global_vertex_index_1_based": 257792,
+      "obj_vertex_line_1_based": 684026,
+      "raw_obj_xyz": [
+        1381.941528,
+        383.951996,
+        -1512.449951
+      ],
+      "source_xyz": [
+        1381.941528,
+        -1512.449951,
+        383.951996
+      ],
+      "expected_numeric_ue_xyz": [
+        1381.941528,
+        1512.449951,
+        383.951996
+      ],
+      "native_mesh_description_vertex_id": 20696,
+      "measured_mesh_local_ue_xyz": [
+        1381.9415283203125,
+        1512.449951171875,
+        383.9519958496094
+      ],
+      "distance_error_numeric_ue_units": 3.933934379254636e-07
+    },
+    {
+      "sample": "South brace",
+      "source_group": "StaticMeshActor419",
+      "obj_global_vertex_index_1_based": 258656,
+      "obj_vertex_line_1_based": 686331,
+      "raw_obj_xyz": [
+        1381.941528,
+        383.951996,
+        -2208.449951
+      ],
+      "source_xyz": [
+        1381.941528,
+        -2208.449951,
+        383.951996
+      ],
+      "expected_numeric_ue_xyz": [
+        1381.941528,
+        2208.449951,
+        383.951996
+      ],
+      "native_mesh_description_vertex_id": 19832,
+      "measured_mesh_local_ue_xyz": [
+        1381.9415283203125,
+        2208.449951171875,
+        383.9519958496094
+      ],
+      "distance_error_numeric_ue_units": 3.933934379254636e-07
+    },
+    {
+      "sample": "Lamp",
+      "source_group": "StaticMeshActor538",
+      "obj_global_vertex_index_1_based": 329901,
+      "obj_vertex_line_1_based": 876429,
+      "raw_obj_xyz": [
+        1154.487915,
+        341.966309,
+        -2546.487793
+      ],
+      "source_xyz": [
+        1154.487915,
+        -2546.487793,
+        341.966309
+      ],
+      "expected_numeric_ue_xyz": [
+        1154.487915,
+        2546.487793,
+        341.966309
+      ],
+      "native_mesh_description_vertex_id": 22545,
+      "measured_mesh_local_ue_xyz": [
+        1154.4879150390625,
+        2546.48779296875,
+        341.96630859375
+      ],
+      "distance_error_numeric_ue_units": 4.0931835434459023e-07
+    },
+    {
+      "sample": "Second lamp",
+      "source_group": "StaticMeshActor539",
+      "obj_global_vertex_index_1_based": 330435,
+      "obj_vertex_line_1_based": 877854,
+      "raw_obj_xyz": [
+        1714.487915,
+        341.966309,
+        -2546.487793
+      ],
+      "source_xyz": [
+        1714.487915,
+        -2546.487793,
+        341.966309
+      ],
+      "expected_numeric_ue_xyz": [
+        1714.487915,
+        2546.487793,
+        341.966309
+      ],
+      "native_mesh_description_vertex_id": 23079,
+      "measured_mesh_local_ue_xyz": [
+        1714.4879150390625,
+        2546.48779296875,
+        341.96630859375
+      ],
+      "distance_error_numeric_ue_units": 4.0931835434459023e-07
+    },
+    {
+      "sample": "Window 167",
+      "source_group": "StaticMeshActor167",
+      "obj_global_vertex_index_1_based": 45712,
+      "obj_vertex_line_1_based": 118239,
+      "raw_obj_xyz": [
+        1538.006958,
+        973.070129,
+        -1979.593872
+      ],
+      "source_xyz": [
+        1538.006958,
+        -1979.593872,
+        973.070129
+      ],
+      "expected_numeric_ue_xyz": [
+        1538.006958,
+        1979.593872,
+        973.070129
+      ],
+      "native_mesh_description_vertex_id": 8296,
+      "measured_mesh_local_ue_xyz": [
+        1538.0069580078125,
+        1979.5938720703125,
+        973.0701293945312
+      ],
+      "distance_error_numeric_ue_units": 4.0082395190346434e-07
+    },
+    {
+      "sample": "Window 168",
+      "source_group": "StaticMeshActor168",
+      "obj_global_vertex_index_1_based": 46720,
+      "obj_vertex_line_1_based": 120928,
+      "raw_obj_xyz": [
+        1538.006958,
+        973.070129,
+        -1691.593872
+      ],
+      "source_xyz": [
+        1538.006958,
+        -1691.593872,
+        973.070129
+      ],
+      "expected_numeric_ue_xyz": [
+        1538.006958,
+        1691.593872,
+        973.070129
+      ],
+      "native_mesh_description_vertex_id": 9304,
+      "measured_mesh_local_ue_xyz": [
+        1538.0069580078125,
+        1691.5938720703125,
+        973.0701293945312
+      ],
+      "distance_error_numeric_ue_units": 4.0082395190346434e-07
+    },
+    {
+      "sample": "Window 128",
+      "source_group": "StaticMeshActor128",
+      "obj_global_vertex_index_1_based": 57664,
+      "obj_vertex_line_1_based": 150122,
+      "raw_obj_xyz": [
+        1154.006958,
+        973.070129,
+        -1979.593872
+      ],
+      "source_xyz": [
+        1154.006958,
+        -1979.593872,
+        973.070129
+      ],
+      "expected_numeric_ue_xyz": [
+        1154.006958,
+        1979.593872,
+        973.070129
+      ],
+      "native_mesh_description_vertex_id": 4234,
+      "measured_mesh_local_ue_xyz": [
+        1154.0069580078125,
+        1979.5938720703125,
+        973.0701293945312
+      ],
+      "distance_error_numeric_ue_units": 4.0082395190346434e-07
+    },
+    {
+      "sample": "Window 129",
+      "source_group": "StaticMeshActor129",
+      "obj_global_vertex_index_1_based": 58672,
+      "obj_vertex_line_1_based": 152811,
+      "raw_obj_xyz": [
+        1154.006958,
+        973.070129,
+        -1691.593872
+      ],
+      "source_xyz": [
+        1154.006958,
+        -1691.593872,
+        973.070129
+      ],
+      "expected_numeric_ue_xyz": [
+        1154.006958,
+        1691.593872,
+        973.070129
+      ],
+      "native_mesh_description_vertex_id": 5242,
+      "measured_mesh_local_ue_xyz": [
+        1154.0069580078125,
+        1691.5938720703125,
+        973.0701293945312
+      ],
+      "distance_error_numeric_ue_units": 4.0082395190346434e-07
+    }
+  ],
+  "max_sample_error_numeric_ue_units": 4.954165773148249e-07,
+  "sample_correspondence_passed": true,
+  "limits": [
+    "Actual source mesh corners, not actor origins or pivots; combined UE mesh has no per-source-actor identity",
+    "Four noncoplanar BSP samples and ten landmark-group corners; not all vertices or full-map landmarks",
+    "MeshDescription source geometry readback; not render-buffer per-corner UV or normal validation",
+    "Physical centimeters per source unit remains an owner design/calibration decision",
+    "Collision, runtime gameplay, matched cameras, textures and P0/P1 acceptance remain open"
+  ]
+}

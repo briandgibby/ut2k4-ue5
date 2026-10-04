@@ -1,0 +1,59 @@
+Begin StaticMesh Name=hourewindowsheet1
+    Version=2.000000 BoundingBox.Min.X=-82.343102 BoundingBox.Min.Y=-114.343201 BoundingBox.Min.Z=7.999900 BoundingBox.Max.X=82.343102 BoundingBox.Max.Y=114.343201 BoundingBox.Max.Z=8.000000
+    Begin Triangle
+        Texture DM-Rankin.ihatethisproblemthatitrytofufjffb
+        SmoothingMask 1
+        Vertex 0 82.343102 -114.343201 8.000000 -0.001500 0.999500
+        Vertex 1 0.907300 -114.343201 8.000000 0.274400 0.999500
+        Vertex 2 0.907300 -0.985700 8.000000 0.274400 0.504300
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.ihatethisproblemthatitrytofufjffb
+        SmoothingMask 1
+        Vertex 0 0.907300 -0.985700 8.000000 0.274400 0.504300
+        Vertex 1 82.343102 -0.985700 7.999900 -0.001500 0.504300
+        Vertex 2 82.343102 -114.343201 8.000000 -0.001500 0.999500
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.ihatethisproblemthatitrytofufjffb
+        SmoothingMask 1
+        Vertex 0 0.907300 -114.343201 8.000000 0.274400 0.999500
+        Vertex 1 -82.343102 -114.343201 8.000000 0.556400 0.999500
+        Vertex 2 -82.343102 -0.985700 8.000000 0.556400 0.504300
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.ihatethisproblemthatitrytofufjffb
+        SmoothingMask 1
+        Vertex 0 -82.343102 -0.985700 8.000000 0.556400 0.504300
+        Vertex 1 0.907300 -0.985700 8.000000 0.274400 0.504300
+        Vertex 2 0.907300 -114.343201 8.000000 0.274400 0.999500
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.ihatethisproblemthatitrytofufjffb
+        SmoothingMask 1
+        Vertex 0 82.343102 -0.985700 7.999900 -0.001500 0.504300
+        Vertex 1 0.907300 -0.985700 8.000000 0.274400 0.504300
+        Vertex 2 0.907300 114.343201 8.000000 0.274400 0.000500
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.ihatethisproblemthatitrytofufjffb
+        SmoothingMask 1
+        Vertex 0 0.907300 114.343201 8.000000 0.274400 0.000500
+        Vertex 1 82.343102 114.343201 8.000000 -0.001500 0.000500
+        Vertex 2 82.343102 -0.985700 7.999900 -0.001500 0.504300
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.ihatethisproblemthatitrytofufjffb
+        SmoothingMask 1
+        Vertex 0 0.907300 -0.985700 8.000000 0.274400 0.504300
+        Vertex 1 -82.343102 -0.985700 8.000000 0.556400 0.504300
+        Vertex 2 -82.343102 114.343201 8.000000 0.556400 0.000500
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.ihatethisproblemthatitrytofufjffb
+        SmoothingMask 1
+        Vertex 0 -82.343102 114.343201 8.000000 0.556400 0.000500
+        Vertex 1 0.907300 114.343201 8.000000 0.274400 0.000500
+        Vertex 2 0.907300 -0.985700 8.000000 0.274400 0.504300
+    End Triangle
+End StaticMesh

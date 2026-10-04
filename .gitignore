@@ -1,0 +1,19 @@
+# Local installed reference game and packaged builds
+/ReferenceGame/
+/Builds/
+/Evidence/**/*.blend1
+__pycache__/
+
+# Private local credentials
+/env
+.env
+.env.*
+
+# Unreal-generated files
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# Local runtime/editor logs; retained result records and captures are tracked
+*.log

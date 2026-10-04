@@ -1,0 +1,507 @@
+Begin StaticMesh Name=Scpumpmachinescreen01HA
+    Version=2.000000 BoundingBox.Min.X=-107.000000 BoundingBox.Min.Y=-250.000000 BoundingBox.Min.Z=141.000000 BoundingBox.Max.X=107.000000 BoundingBox.Max.Y=107.000000 BoundingBox.Max.Z=170.000000
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 93.000000 -197.000000 170.000000 1.226563 -1.039063
+        Vertex 1 107.000000 -143.000000 170.000000 1.335938 -0.617188
+        Vertex 2 72.000000 -143.000000 156.000000 1.062500 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 13.000000 -165.000000 143.000000 0.601563 -0.789063
+        Vertex 1 22.000000 -156.000000 143.000000 0.671875 -0.718750
+        Vertex 2 0.000000 -143.000000 141.000000 0.500000 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 22.000000 -156.000000 143.000000 0.671875 -0.718750
+        Vertex 1 25.000000 -143.000000 143.000000 0.695313 -0.617188
+        Vertex 2 0.000000 -143.000000 141.000000 0.500000 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 25.000000 0.000000 143.000000 0.695313 0.500000
+        Vertex 1 22.000000 13.000000 143.000000 0.671875 0.601563
+        Vertex 2 0.000000 0.000000 141.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 22.000000 13.000000 143.000000 0.671875 0.601563
+        Vertex 1 13.000000 22.000000 143.000000 0.601563 0.671875
+        Vertex 2 0.000000 0.000000 141.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 13.000000 22.000000 143.000000 0.601563 0.671875
+        Vertex 1 0.000000 25.000000 143.000000 0.500000 0.695313
+        Vertex 2 0.000000 0.000000 141.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 25.000000 143.000000 0.500000 0.695313
+        Vertex 1 -13.000000 22.000000 143.000000 0.398438 0.671875
+        Vertex 2 0.000000 0.000000 141.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -13.000000 22.000000 143.000000 0.398438 0.671875
+        Vertex 1 -22.000000 13.000000 143.000000 0.328125 0.601563
+        Vertex 2 0.000000 0.000000 141.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -22.000000 13.000000 143.000000 0.328125 0.601563
+        Vertex 1 -25.000000 0.000000 143.000000 0.304688 0.500000
+        Vertex 2 0.000000 0.000000 141.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -25.000000 -143.000000 143.000000 0.304688 -0.617188
+        Vertex 1 -22.000000 -156.000000 143.000000 0.328125 -0.718750
+        Vertex 2 0.000000 -143.000000 141.000000 0.500000 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -22.000000 -156.000000 143.000000 0.328125 -0.718750
+        Vertex 1 -13.000000 -165.000000 143.000000 0.398438 -0.789063
+        Vertex 2 0.000000 -143.000000 141.000000 0.500000 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -13.000000 -165.000000 143.000000 0.398438 -0.789063
+        Vertex 1 0.000000 -168.000000 143.000000 0.500000 -0.812500
+        Vertex 2 0.000000 -143.000000 141.000000 0.500000 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 -215.000000 156.000000 0.500000 -1.179688
+        Vertex 1 36.000000 -205.000000 156.000000 0.781250 -1.101563
+        Vertex 2 13.000000 -165.000000 143.000000 0.601563 -0.789063
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 -168.000000 143.000000 0.500000 -0.812500
+        Vertex 1 0.000000 -215.000000 156.000000 0.500000 -1.179688
+        Vertex 2 13.000000 -165.000000 143.000000 0.601563 -0.789063
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 36.000000 -205.000000 156.000000 0.781250 -1.101563
+        Vertex 1 62.000000 -179.000000 156.000000 0.984375 -0.898438
+        Vertex 2 13.000000 -165.000000 143.000000 0.601563 -0.789063
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 13.000000 -165.000000 143.000000 0.601563 -0.789063
+        Vertex 1 62.000000 -179.000000 156.000000 0.984375 -0.898438
+        Vertex 2 22.000000 -156.000000 143.000000 0.671875 -0.718750
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 62.000000 -179.000000 156.000000 0.984375 -0.898438
+        Vertex 1 72.000000 -143.000000 156.000000 1.062500 -0.617188
+        Vertex 2 22.000000 -156.000000 143.000000 0.671875 -0.718750
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 22.000000 -156.000000 143.000000 0.671875 -0.718750
+        Vertex 1 72.000000 -143.000000 156.000000 1.062500 -0.617188
+        Vertex 2 25.000000 -143.000000 143.000000 0.695313 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 25.000000 0.000000 143.000000 0.695313 0.500000
+        Vertex 1 72.000000 0.000000 156.000000 1.062500 0.500000
+        Vertex 2 22.000000 13.000000 143.000000 0.671875 0.601563
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 72.000000 0.000000 156.000000 1.062500 0.500000
+        Vertex 1 62.000000 36.000000 156.000000 0.984375 0.781250
+        Vertex 2 22.000000 13.000000 143.000000 0.671875 0.601563
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 62.000000 36.000000 156.000000 0.984375 0.781250
+        Vertex 1 36.000000 62.000000 156.000000 0.781250 0.984375
+        Vertex 2 13.000000 22.000000 143.000000 0.601563 0.671875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 22.000000 13.000000 143.000000 0.671875 0.601563
+        Vertex 1 62.000000 36.000000 156.000000 0.984375 0.781250
+        Vertex 2 13.000000 22.000000 143.000000 0.601563 0.671875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 36.000000 62.000000 156.000000 0.781250 0.984375
+        Vertex 1 0.000000 72.000000 156.000000 0.500000 1.062500
+        Vertex 2 13.000000 22.000000 143.000000 0.601563 0.671875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 13.000000 22.000000 143.000000 0.601563 0.671875
+        Vertex 1 0.000000 72.000000 156.000000 0.500000 1.062500
+        Vertex 2 0.000000 25.000000 143.000000 0.500000 0.695313
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 72.000000 156.000000 0.500000 1.062500
+        Vertex 1 -13.000000 22.000000 143.000000 0.398438 0.671875
+        Vertex 2 0.000000 25.000000 143.000000 0.500000 0.695313
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 72.000000 156.000000 0.500000 1.062500
+        Vertex 1 -36.000000 62.000000 156.000000 0.218750 0.984375
+        Vertex 2 -13.000000 22.000000 143.000000 0.398438 0.671875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -36.000000 62.000000 156.000000 0.218750 0.984375
+        Vertex 1 -62.000000 36.000000 156.000000 0.015625 0.781250
+        Vertex 2 -22.000000 13.000000 143.000000 0.328125 0.601563
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -36.000000 62.000000 156.000000 0.218750 0.984375
+        Vertex 1 -22.000000 13.000000 143.000000 0.328125 0.601563
+        Vertex 2 -13.000000 22.000000 143.000000 0.398438 0.671875
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -62.000000 -179.000000 156.000000 0.015625 -0.898438
+        Vertex 1 -36.000000 -205.000000 156.000000 0.218750 -1.101563
+        Vertex 2 -13.000000 -165.000000 143.000000 0.398438 -0.789063
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -62.000000 -179.000000 156.000000 0.015625 -0.898438
+        Vertex 1 -13.000000 -165.000000 143.000000 0.398438 -0.789063
+        Vertex 2 -22.000000 -156.000000 143.000000 0.328125 -0.718750
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -36.000000 -205.000000 156.000000 0.218750 -1.101563
+        Vertex 1 0.000000 -215.000000 156.000000 0.500000 -1.179688
+        Vertex 2 -13.000000 -165.000000 143.000000 0.398438 -0.789063
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 -215.000000 156.000000 0.500000 -1.179688
+        Vertex 1 0.000000 -168.000000 143.000000 0.500000 -0.812500
+        Vertex 2 -13.000000 -165.000000 143.000000 0.398438 -0.789063
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -62.000000 36.000000 156.000000 0.015625 0.781250
+        Vertex 1 -72.000000 0.000000 156.000000 -0.062500 0.500000
+        Vertex 2 -22.000000 13.000000 143.000000 0.328125 0.601563
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -72.000000 0.000000 156.000000 -0.062500 0.500000
+        Vertex 1 -25.000000 0.000000 143.000000 0.304688 0.500000
+        Vertex 2 -22.000000 13.000000 143.000000 0.328125 0.601563
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -72.000000 -143.000000 156.000000 -0.062500 -0.617188
+        Vertex 1 -22.000000 -156.000000 143.000000 0.328125 -0.718750
+        Vertex 2 -25.000000 -143.000000 143.000000 0.304688 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -72.000000 -143.000000 156.000000 -0.062500 -0.617188
+        Vertex 1 -62.000000 -179.000000 156.000000 0.015625 -0.898438
+        Vertex 2 -22.000000 -156.000000 143.000000 0.328125 -0.718750
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 -168.000000 143.000000 0.500000 -0.812500
+        Vertex 1 13.000000 -165.000000 143.000000 0.601563 -0.789063
+        Vertex 2 0.000000 -143.000000 141.000000 0.500000 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 62.000000 -179.000000 156.000000 0.984375 -0.898438
+        Vertex 1 93.000000 -197.000000 170.000000 1.226563 -1.039063
+        Vertex 2 72.000000 -143.000000 156.000000 1.062500 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 107.000000 0.000000 170.000000 1.335938 0.500000
+        Vertex 1 93.000000 54.000000 170.000000 1.226563 0.921875
+        Vertex 2 72.000000 0.000000 156.000000 1.062500 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 72.000000 0.000000 156.000000 1.062500 0.500000
+        Vertex 1 93.000000 54.000000 170.000000 1.226563 0.921875
+        Vertex 2 62.000000 36.000000 156.000000 0.984375 0.781250
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 93.000000 54.000000 170.000000 1.226563 0.921875
+        Vertex 1 54.000000 93.000000 170.000000 0.921875 1.226563
+        Vertex 2 36.000000 62.000000 156.000000 0.781250 0.984375
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 62.000000 36.000000 156.000000 0.984375 0.781250
+        Vertex 1 93.000000 54.000000 170.000000 1.226563 0.921875
+        Vertex 2 36.000000 62.000000 156.000000 0.781250 0.984375
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 54.000000 93.000000 170.000000 0.921875 1.226563
+        Vertex 1 0.000000 107.000000 170.000000 0.500000 1.335938
+        Vertex 2 0.000000 72.000000 156.000000 0.500000 1.062500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 36.000000 62.000000 156.000000 0.781250 0.984375
+        Vertex 1 54.000000 93.000000 170.000000 0.921875 1.226563
+        Vertex 2 0.000000 72.000000 156.000000 0.500000 1.062500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 107.000000 170.000000 0.500000 1.335938
+        Vertex 1 -54.000000 93.000000 170.000000 0.078125 1.226563
+        Vertex 2 0.000000 72.000000 156.000000 0.500000 1.062500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -54.000000 93.000000 170.000000 0.078125 1.226563
+        Vertex 1 -36.000000 62.000000 156.000000 0.218750 0.984375
+        Vertex 2 0.000000 72.000000 156.000000 0.500000 1.062500
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -54.000000 93.000000 170.000000 0.078125 1.226563
+        Vertex 1 -93.000000 54.000000 170.000000 -0.226563 0.921875
+        Vertex 2 -62.000000 36.000000 156.000000 0.015625 0.781250
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -54.000000 93.000000 170.000000 0.078125 1.226563
+        Vertex 1 -62.000000 36.000000 156.000000 0.015625 0.781250
+        Vertex 2 -36.000000 62.000000 156.000000 0.218750 0.984375
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -93.000000 54.000000 170.000000 -0.226563 0.921875
+        Vertex 1 -107.000000 0.000000 170.000000 -0.335938 0.500000
+        Vertex 2 -72.000000 0.000000 156.000000 -0.062500 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -93.000000 54.000000 170.000000 -0.226563 0.921875
+        Vertex 1 -72.000000 0.000000 156.000000 -0.062500 0.500000
+        Vertex 2 -62.000000 36.000000 156.000000 0.015625 0.781250
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 -250.000000 170.000000 0.500000 -1.453125
+        Vertex 1 54.000000 -236.000000 170.000000 0.921875 -1.343750
+        Vertex 2 0.000000 -215.000000 156.000000 0.500000 -1.179688
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 -215.000000 156.000000 0.500000 -1.179688
+        Vertex 1 54.000000 -236.000000 170.000000 0.921875 -1.343750
+        Vertex 2 36.000000 -205.000000 156.000000 0.781250 -1.101563
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 54.000000 -236.000000 170.000000 0.921875 -1.343750
+        Vertex 1 93.000000 -197.000000 170.000000 1.226563 -1.039063
+        Vertex 2 36.000000 -205.000000 156.000000 0.781250 -1.101563
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 36.000000 -205.000000 156.000000 0.781250 -1.101563
+        Vertex 1 93.000000 -197.000000 170.000000 1.226563 -1.039063
+        Vertex 2 62.000000 -179.000000 156.000000 0.984375 -0.898438
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -107.000000 -143.000000 170.000000 -0.335938 -0.617188
+        Vertex 1 -93.000000 -197.000000 170.000000 -0.226563 -1.039063
+        Vertex 2 -72.000000 -143.000000 156.000000 -0.062500 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -93.000000 -197.000000 170.000000 -0.226563 -1.039063
+        Vertex 1 -62.000000 -179.000000 156.000000 0.015625 -0.898438
+        Vertex 2 -72.000000 -143.000000 156.000000 -0.062500 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -93.000000 -197.000000 170.000000 -0.226563 -1.039063
+        Vertex 1 -54.000000 -236.000000 170.000000 0.078125 -1.343750
+        Vertex 2 -36.000000 -205.000000 156.000000 0.218750 -1.101563
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -93.000000 -197.000000 170.000000 -0.226563 -1.039063
+        Vertex 1 -36.000000 -205.000000 156.000000 0.218750 -1.101563
+        Vertex 2 -62.000000 -179.000000 156.000000 0.015625 -0.898438
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -54.000000 -236.000000 170.000000 0.078125 -1.343750
+        Vertex 1 0.000000 -250.000000 170.000000 0.500000 -1.453125
+        Vertex 2 0.000000 -215.000000 156.000000 0.500000 -1.179688
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -54.000000 -236.000000 170.000000 0.078125 -1.343750
+        Vertex 1 0.000000 -215.000000 156.000000 0.500000 -1.179688
+        Vertex 2 -36.000000 -205.000000 156.000000 0.218750 -1.101563
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 72.000000 -143.000000 156.000000 1.062500 -0.617188
+        Vertex 1 107.000000 0.000000 170.000000 1.335938 0.500000
+        Vertex 2 72.000000 0.000000 156.000000 1.062500 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 107.000000 -143.000000 170.000000 1.335938 -0.617188
+        Vertex 1 107.000000 0.000000 170.000000 1.335938 0.500000
+        Vertex 2 72.000000 -143.000000 156.000000 1.062500 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 25.000000 -143.000000 143.000000 0.695313 -0.617188
+        Vertex 1 72.000000 0.000000 156.000000 1.062500 0.500000
+        Vertex 2 25.000000 0.000000 143.000000 0.695313 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 72.000000 -143.000000 156.000000 1.062500 -0.617188
+        Vertex 1 72.000000 0.000000 156.000000 1.062500 0.500000
+        Vertex 2 25.000000 -143.000000 143.000000 0.695313 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 25.000000 -143.000000 143.000000 0.695313 -0.617188
+        Vertex 1 25.000000 0.000000 143.000000 0.695313 0.500000
+        Vertex 2 0.000000 -143.000000 141.000000 0.500000 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 0.000000 -143.000000 141.000000 0.500000 -0.617188
+        Vertex 1 25.000000 0.000000 143.000000 0.695313 0.500000
+        Vertex 2 0.000000 0.000000 141.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -25.000000 -143.000000 143.000000 0.304688 -0.617188
+        Vertex 1 0.000000 -143.000000 141.000000 0.500000 -0.617188
+        Vertex 2 0.000000 0.000000 141.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -25.000000 0.000000 143.000000 0.304688 0.500000
+        Vertex 1 -25.000000 -143.000000 143.000000 0.304688 -0.617188
+        Vertex 2 0.000000 0.000000 141.000000 0.500000 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -72.000000 0.000000 156.000000 -0.062500 0.500000
+        Vertex 1 -25.000000 -143.000000 143.000000 0.304688 -0.617188
+        Vertex 2 -25.000000 0.000000 143.000000 0.304688 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -72.000000 0.000000 156.000000 -0.062500 0.500000
+        Vertex 1 -72.000000 -143.000000 156.000000 -0.062500 -0.617188
+        Vertex 2 -25.000000 -143.000000 143.000000 0.304688 -0.617188
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -107.000000 0.000000 170.000000 -0.335938 0.500000
+        Vertex 1 -107.000000 -143.000000 170.000000 -0.335938 -0.617188
+        Vertex 2 -72.000000 0.000000 156.000000 -0.062500 0.500000
+    End Triangle
+    Begin Triangle
+        Texture HumanoidArchitecture.Grates.grt04HA_Alpha
+        SmoothingMask 1
+        Vertex 0 -107.000000 -143.000000 170.000000 -0.335938 -0.617188
+        Vertex 1 -72.000000 -143.000000 156.000000 -0.062500 -0.617188
+        Vertex 2 -72.000000 0.000000 156.000000 -0.062500 0.500000
+    End Triangle
+End StaticMesh

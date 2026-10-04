@@ -1,0 +1,199 @@
+Begin StaticMesh Name=hourehouteplank
+    Version=2.000000 BoundingBox.Min.X=-192.000000 BoundingBox.Min.Y=-16.000000 BoundingBox.Min.Z=0.000000 BoundingBox.Max.X=192.000000 BoundingBox.Max.Y=16.000000 BoundingBox.Max.Z=4.000000
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 2
+        Vertex 0 192.000000 -16.000000 0.000000 0.369100 3.167400
+        Vertex 1 192.000000 16.000000 0.000000 0.630900 3.167400
+        Vertex 2 64.000000 16.000000 0.000000 0.630900 1.389100
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 2
+        Vertex 0 64.000000 16.000000 0.000000 0.630900 1.389100
+        Vertex 1 64.000000 -16.000000 0.000000 0.369100 1.389100
+        Vertex 2 192.000000 -16.000000 0.000000 0.369100 3.167400
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 2
+        Vertex 0 64.000000 -16.000000 0.000000 0.369100 1.389100
+        Vertex 1 64.000000 16.000000 0.000000 0.630900 1.389100
+        Vertex 2 -64.000000 16.000000 0.000000 0.630900 -0.389100
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 2
+        Vertex 0 -64.000000 16.000000 0.000000 0.630900 -0.389100
+        Vertex 1 -64.000000 -16.000000 0.000000 0.369100 -0.389100
+        Vertex 2 64.000000 -16.000000 0.000000 0.369100 1.389100
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 2
+        Vertex 0 -64.000000 -16.000000 0.000000 0.369100 -0.389100
+        Vertex 1 -64.000000 16.000000 0.000000 0.630900 -0.389100
+        Vertex 2 -192.000000 16.000000 0.000000 0.630900 -2.167400
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 2
+        Vertex 0 -192.000000 16.000000 0.000000 0.630900 -2.167400
+        Vertex 1 -192.000000 -16.000000 0.000000 0.369100 -2.167400
+        Vertex 2 -64.000000 -16.000000 0.000000 0.369100 -0.389100
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 4
+        Vertex 0 192.000000 -16.000000 4.000000 0.630900 3.167400
+        Vertex 1 64.000000 -16.000000 4.000000 0.630900 1.389100
+        Vertex 2 64.000000 16.000000 4.000000 0.369100 1.389100
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 4
+        Vertex 0 64.000000 16.000000 4.000000 0.369100 1.389100
+        Vertex 1 192.000000 16.000000 4.000000 0.369100 3.167400
+        Vertex 2 192.000000 -16.000000 4.000000 0.630900 3.167400
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 4
+        Vertex 0 64.000000 -16.000000 4.000000 0.630900 1.389100
+        Vertex 1 -64.000000 -16.000000 4.000000 0.630900 -0.389100
+        Vertex 2 -64.000000 16.000000 4.000000 0.369100 -0.389100
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 4
+        Vertex 0 -64.000000 16.000000 4.000000 0.369100 -0.389100
+        Vertex 1 64.000000 16.000000 4.000000 0.369100 1.389100
+        Vertex 2 64.000000 -16.000000 4.000000 0.630900 1.389100
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 4
+        Vertex 0 -64.000000 -16.000000 4.000000 0.630900 -0.389100
+        Vertex 1 -192.000000 -16.000000 4.000000 0.630900 -2.167400
+        Vertex 2 -192.000000 16.000000 4.000000 0.369100 -2.167400
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 4
+        Vertex 0 -192.000000 16.000000 4.000000 0.369100 -2.167400
+        Vertex 1 -64.000000 16.000000 4.000000 0.369100 -0.389100
+        Vertex 2 -64.000000 -16.000000 4.000000 0.630900 -0.389100
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 8
+        Vertex 0 192.000000 -16.000000 0.000000 0.484400 -1.000000
+        Vertex 1 64.000000 -16.000000 0.000000 0.484400 0.000000
+        Vertex 2 64.000000 -16.000000 4.000000 0.515600 0.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 8
+        Vertex 0 64.000000 -16.000000 4.000000 0.515600 0.000000
+        Vertex 1 192.000000 -16.000000 4.000000 0.515600 -1.000000
+        Vertex 2 192.000000 -16.000000 0.000000 0.484400 -1.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 8
+        Vertex 0 64.000000 -16.000000 0.000000 0.484400 0.000000
+        Vertex 1 -64.000000 -16.000000 0.000000 0.484400 1.000000
+        Vertex 2 -64.000000 -16.000000 4.000000 0.515600 1.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 8
+        Vertex 0 -64.000000 -16.000000 4.000000 0.515600 1.000000
+        Vertex 1 64.000000 -16.000000 4.000000 0.515600 0.000000
+        Vertex 2 64.000000 -16.000000 0.000000 0.484400 0.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 8
+        Vertex 0 -64.000000 -16.000000 0.000000 0.484400 1.000000
+        Vertex 1 -192.000000 -16.000000 0.000000 0.484400 2.000000
+        Vertex 2 -192.000000 -16.000000 4.000000 0.515600 2.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 8
+        Vertex 0 -192.000000 -16.000000 4.000000 0.515600 2.000000
+        Vertex 1 -64.000000 -16.000000 4.000000 0.515600 1.000000
+        Vertex 2 -64.000000 -16.000000 0.000000 0.484400 1.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 16
+        Vertex 0 -192.000000 -16.000000 0.000000 0.515600 0.625000
+        Vertex 1 -192.000000 16.000000 0.000000 0.515600 0.375000
+        Vertex 2 -192.000000 16.000000 4.000000 0.484400 0.375000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 16
+        Vertex 0 -192.000000 16.000000 4.000000 0.484400 0.375000
+        Vertex 1 -192.000000 -16.000000 4.000000 0.484400 0.625000
+        Vertex 2 -192.000000 -16.000000 0.000000 0.515600 0.625000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 32
+        Vertex 0 -192.000000 16.000000 0.000000 0.515600 2.000000
+        Vertex 1 -64.000000 16.000000 0.000000 0.515600 1.000000
+        Vertex 2 -64.000000 16.000000 4.000000 0.484400 1.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 32
+        Vertex 0 -64.000000 16.000000 4.000000 0.484400 1.000000
+        Vertex 1 -192.000000 16.000000 4.000000 0.484400 2.000000
+        Vertex 2 -192.000000 16.000000 0.000000 0.515600 2.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 32
+        Vertex 0 -64.000000 16.000000 0.000000 0.515600 1.000000
+        Vertex 1 64.000000 16.000000 0.000000 0.515600 0.000000
+        Vertex 2 64.000000 16.000000 4.000000 0.484400 0.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 32
+        Vertex 0 64.000000 16.000000 4.000000 0.484400 0.000000
+        Vertex 1 -64.000000 16.000000 4.000000 0.484400 1.000000
+        Vertex 2 -64.000000 16.000000 0.000000 0.515600 1.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 32
+        Vertex 0 64.000000 16.000000 0.000000 0.515600 0.000000
+        Vertex 1 192.000000 16.000000 0.000000 0.515600 -1.000000
+        Vertex 2 192.000000 16.000000 4.000000 0.484400 -1.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 32
+        Vertex 0 192.000000 16.000000 4.000000 0.484400 -1.000000
+        Vertex 1 64.000000 16.000000 4.000000 0.484400 0.000000
+        Vertex 2 64.000000 16.000000 0.000000 0.515600 0.000000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 64
+        Vertex 0 192.000000 16.000000 0.000000 0.484400 0.375000
+        Vertex 1 192.000000 -16.000000 0.000000 0.484400 0.625000
+        Vertex 2 192.000000 -16.000000 4.000000 0.515600 0.625000
+    End Triangle
+    Begin Triangle
+        Texture DM-Rankin.hourewooood
+        SmoothingMask 64
+        Vertex 0 192.000000 -16.000000 4.000000 0.515600 0.625000
+        Vertex 1 192.000000 16.000000 4.000000 0.515600 0.375000
+        Vertex 2 192.000000 16.000000 0.000000 0.484400 0.375000
+    End Triangle
+End StaticMesh

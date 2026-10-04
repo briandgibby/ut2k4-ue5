@@ -1,0 +1,59 @@
+Begin StaticMesh Name=sepsky1
+    Version=2.000000 BoundingBox.Min.X=-3487.244141 BoundingBox.Min.Y=4619.421875 BoundingBox.Min.Z=-91.599976 BoundingBox.Max.X=-3364.755859 BoundingBox.Max.Y=4656.578125 BoundingBox.Max.Z=-40.400024
+    Begin Triangle
+        Texture XceptOne.SeppukuA.SepSkyFrontA
+        SmoothingMask 0
+        Vertex 0 -3426.000000 4638.000000 -91.599976 0.250015 0.046916
+        Vertex 1 -3426.000000 4638.000000 -66.000000 0.250011 -0.453092
+        Vertex 2 -3487.244141 4619.421875 -91.599976 0.000012 0.046910
+    End Triangle
+    Begin Triangle
+        Texture XceptOne.SeppukuA.SepSkyFrontA
+        SmoothingMask 0
+        Vertex 0 -3426.000000 4638.000000 -66.000000 0.249995 -0.453121
+        Vertex 1 -3426.000000 4638.000000 -91.599976 0.250000 0.046887
+        Vertex 2 -3364.755859 4656.578125 -66.000000 0.499998 -0.453114
+    End Triangle
+    Begin Triangle
+        Texture XceptOne.SeppukuA.SepSkyFrontA
+        SmoothingMask 0
+        Vertex 0 -3364.755859 4656.578125 -91.599976 0.500018 0.046922
+        Vertex 1 -3364.755859 4656.578125 -66.000000 0.500014 -0.453086
+        Vertex 2 -3426.000000 4638.000000 -91.599976 0.250015 0.046916
+    End Triangle
+    Begin Triangle
+        Texture XceptOne.SeppukuA.SepSkyFrontA
+        SmoothingMask 0
+        Vertex 0 -3487.244141 4619.421875 -40.400024 -0.000011 -0.953134
+        Vertex 1 -3487.244141 4619.421875 -66.000000 -0.000007 -0.453127
+        Vertex 2 -3426.000000 4638.000000 -40.400024 0.249991 -0.953128
+    End Triangle
+    Begin Triangle
+        Texture XceptOne.SeppukuA.SepSkyFrontA
+        SmoothingMask 0
+        Vertex 0 -3426.000000 4638.000000 -66.000000 0.250011 -0.453092
+        Vertex 1 -3426.000000 4638.000000 -40.400024 0.250007 -0.953100
+        Vertex 2 -3487.244141 4619.421875 -66.000000 0.000008 -0.453098
+    End Triangle
+    Begin Triangle
+        Texture XceptOne.SeppukuA.SepSkyFrontA
+        SmoothingMask 0
+        Vertex 0 -3426.000000 4638.000000 -40.400024 0.249991 -0.953128
+        Vertex 1 -3426.000000 4638.000000 -66.000000 0.249995 -0.453121
+        Vertex 2 -3364.755859 4656.578125 -40.400024 0.499994 -0.953122
+    End Triangle
+    Begin Triangle
+        Texture XceptOne.SeppukuA.SepSkyFrontA
+        SmoothingMask 0
+        Vertex 0 -3364.755859 4656.578125 -66.000000 0.500014 -0.453086
+        Vertex 1 -3364.755859 4656.578125 -40.400024 0.500010 -0.953093
+        Vertex 2 -3426.000000 4638.000000 -66.000000 0.250011 -0.453092
+    End Triangle
+    Begin Triangle
+        Texture XceptOne.SeppukuA.SepSkyFrontA
+        SmoothingMask 0
+        Vertex 0 -3487.244141 4619.421875 -66.000000 -0.000007 -0.453127
+        Vertex 1 -3487.244141 4619.421875 -91.599976 -0.000003 0.046881
+        Vertex 2 -3426.000000 4638.000000 -66.000000 0.249995 -0.453121
+    End Triangle
+End StaticMesh
