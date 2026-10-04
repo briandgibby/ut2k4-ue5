@@ -63,6 +63,8 @@ The saved atrium inspection level has also passed a bounded UE5 numeric import a
 
 Continuation on 2026-10-04: the original main-menu launch passed; original configuration hashes, four template assets and two saved atrium assets remain unchanged. [Fourteen individual surface samples](../Evidence/P0/ue-landmark-samples.json) verify the provisional numeric transform. The copied executable fails before engine startup with Steam load error `0x02`. [Prepared fallback](../Evidence/P0/reference-launch-fallback.json) is unexecuted pending the owner's launch-boundary decision. D-02 tolerances and physical scale are also pending; complete the controlled runtime baseline before moving to P1 collision/material/traversal work.
 
+The owner-authorized private snapshot was pushed as `28892c6`. Post-push decision work recommends isolated installed-executable launch verification, a 176 cm standing-cylinder correspondence (`s=2`), and fixed 2-source-unit geometry tolerances while retaining movement/performance proposals. These remain owner review items; no dependent runtime, scale or phase acceptance is recorded. [D-02 review notes](PRD-UT2004-UE5.md).
+
 Record the original settings and actual frame rate used for each comparison.
 Movement tests require matched frame-rate conditions, not an assumption that an INI limit controls every game mode.
 Record source class references and inherited behavior alongside the observed trials.

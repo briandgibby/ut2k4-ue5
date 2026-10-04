@@ -213,6 +213,8 @@ The following tolerances are proposed and become gate criteria when P0 resolves 
 
 Observed bounded readback: [fourteen source/UE samples](../Evidence/P0/ue-landmark-samples.json) match `(X,-Y,Z)` at numeric scale 1, maximum error `0.0000004955`. This is a mesh-source precision check, not a locked D-02 tolerance or physical calibration. Physical scale remains an owner-selected reference correspondence; no rescale is applied.
 
+Post-push review alternative, still proposed: choose `s=176/88=2 cm/source unit` from standing collision height, and use fixed `<=2 source units` for sampled position/dimension errors. This would permit 4 cm of error, compared with the current atrium percentage positional allowance of 46.873174 cm at that scale. Keep the existing numeric transport assets intact; an accepted design scale is applied and verified during bounded P1 work. Do not replace the formulas below or claim physical acceptance before the owner's decision.
+
 Calibrate one source-to-UE5 transform using a fixed anchor, axis mapping, and scale factor `s`.
 Convert UE5 landmark coordinates back to the source frame before comparing them.
 For each sampled room, let `L` be the source room's diagonal length.

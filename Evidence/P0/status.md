@@ -69,3 +69,17 @@ P1 room acceptance and P2 visual work remain pending. Continue with the single F
 - [Gameplay reference](../../References/gameplay-reference.md) now records the map's default-volume setup, four atrium blocking volumes, `MAXSTEPHEIGHT=35`, `MINFLOORZ=0.7`, and source-derived `TimeDilation=1.1` at `GameSpeed=1`. No effective native acceleration, runtime clearance, or trajectory result is inferred from these facts.
 
 Owner questions remain pending: lock or revise the existing D-02 targets; select a physical scale reference (176 cm standing height would imply 2 cm/source unit, while existing numeric transport implies 88 cm at 1 cm/unit); and permit or reject the prepared isolated installed-executable launch. No selection is inferred from silence. P0/P1 gates remain open; collision, source textures/UVs, traversal, P2 art and P3 gameplay have not advanced.
+
+## Repository snapshot and decision review — 2026-10-04
+
+Initial snapshot [28892c6](https://github.com/briandgibby/ut2k4-ue5/commit/28892c6d7854a97e160ae700702b8bdc1cc08441) was pushed to the private repository's `main` branch. Git remote ref and GitHub API matched local HEAD. All 488 staged files matched their working bytes; the four protected template hashes and three retained transport artifact hashes matched. The five existing tests passed. Installed game/runtime configuration, credentials, logs, caches and backups remain local as described in [README](../../README.md).
+
+The proposed owner review package is:
+
+| Decision | Recommendation | Status / remaining evidence |
+|---|---|---|
+| Runtime boundary | Installed executable with project-only INIs, absolute ReferenceGame content/save/cache/music paths and project log | Prepared, unexecuted; owner permission and effective override/content-path verification required |
+| Physical scale | Choose 176 cm for the 88-source-unit standing collision height, `s=2 cm/unit` | Design correspondence, not measured SI height; owner selection required; no geometry rescale |
+| D-02 | Fixed <=2 source units for sampled geometry position/dimension error; five movement trials at <=5%; three warmed native-1080p runs with P95 <=16.67 ms | Proposal only; source build 3369, DM-Rankin and Flak atrium retained; required route/collision/weapon checks remain mandatory |
+
+The percentage formula permits 23.436587 units of atrium position error, or 46.873174 cm at scale 2. Fixed 2 units would permit 4 cm. The fourteen measured points support sampled transport precision, not full-room dimensions/collision, and do not justify accepting unmeasured behavior. Eleven prepared runtime paths are inside the reference copy; native Core.dll exposes `INI=`/`USERINI=` tokens. Actual runtime isolation, FPS, inputs, effective acceleration/collision and fixture state still need verification after an approved launch.

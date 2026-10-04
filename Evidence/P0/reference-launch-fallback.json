@@ -12,5 +12,22 @@
   ],
   "ContentPaths": "Absolute ReferenceGame package/save/cache/music paths in P0Runtime.ini",
   "RequiresVerification": "Native overrides must be confirmed from startup log and loaded package origins; original protected hashes rechecked afterwards",
-  "NoNewDependencies": true
+  "NoNewDependencies": true,
+  "OwnerDecision": "Pending explicit selection of the post-push P0 review package",
+  "PreparedPathChecks": {
+    "AbsoluteReferencePaths": 11,
+    "PathsOutsideReferenceCopy": 0,
+    "RuntimeIniSHA256": "13580015BFF698DBD9683D90D4D07AB33233ACD6BE9ADAF25308EF4AB10A5BE3",
+    "UserIniSHA256": "2926F1B1A8C3CC8FB3A86E42D66D3ADAE737A90B545DCE21C28D093FEA22AC53",
+    "NativeIniUserIniArgumentTokensPresent": true,
+    "EffectiveOverridesVerified": false
+  },
+  "VerificationPlan": [
+    "Recheck all protected original hashes immediately before launch; record original INI hashes",
+    "Launch only after owner approval, using the prepared isolated INIs and project log",
+    "Observe engine startup, build 3369, DM-Rankin, and effective Core.System content paths; confirm log/output locations",
+    "Read back effective game class, bots/modifiers, GameSpeed/TimeDilation, pawn collision and active PhysicsVolume before accepting any trial",
+    "Exit normally; record project runtime INI changes separately and compare all protected original hashes",
+    "Stop dependent work if overrides or original preservation fail; no gameplay/rescale acceptance follows from a menu or source table"
+  ]
 }

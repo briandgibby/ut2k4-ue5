@@ -138,6 +138,10 @@ The owner records each result here and mirrors its technical effect in the PRS a
 | D-05 | Evaluation and distribution audience | Local owner evaluation | Resolve external distribution conditions before any external package release. |
 | D-06 | Expansion scope | No later features selected | Decide after P5 using measured conversion, gameplay, and performance results. |
 
+Post-push D-02 review package (2026-10-04, **not accepted**): select a 176 cm standing collision-cylinder height for the original 88-unit height (`2 cm/source unit`), and use fixed `<=2 source units` for sampled landmark positions and reference dimensions. Retain the five-trial/5% movement and native-1080p/P95<=16.67 ms packaged performance proposals. The current atrium percentage position allowance is 23.436587 units (46.873174 cm at scale 2); fixed 2 units is 4 cm. Owner selection updates §6, PRS §7 and the Phase Plan before dependent comparison acceptance.
+
+The runtime-boundary recommendation is the prepared installed-executable launch with isolated ReferenceGame content and project-only runtime INIs/outputs. The owner must approve that changed boundary; effective overrides and original preservation must then be verified. Commit/push permission did not accept this launch or the scale/target package. [Decision preparation](../Evidence/P0/status.md).
+
 There is no calendar commitment or staffing estimate. P1–P3 measurements support the first credible estimate for the remaining map work.
 
 ## 9. Out of scope
