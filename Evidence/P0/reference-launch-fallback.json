@@ -1,5 +1,5 @@
 {
-  "Status": "Prepared fallback, not executed",
+  "Status": "PASS: direct installed-executable isolated reference route verified after ABSLOG and CacheRecordPath correction; P0 gameplay evidence remains incomplete",
   "Reason": "Copied UT2004.exe reaches Steam load error (0x02) before engine startup",
   "Executable": "F:\\Program Files\\steamapps\\common\\Unreal Tournament 2004\\System\\UT2004.exe",
   "WorkingDirectory": "C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\System",
@@ -8,26 +8,27 @@
     "-windowed",
     "ini=C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\System\\P0Runtime.ini",
     "userini=C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\System\\P0User.ini",
-    "log=C:\\Users\\brian\\git-projects\\ut2k4-ue5\\Evidence\\P0\\reference-runtime.log"
+    "abslog=C:\\Users\\brian\\git-projects\\ut2k4-ue5\\Evidence\\P0\\reference-runtime.log"
   ],
-  "ContentPaths": "Absolute ReferenceGame package/save/cache/music paths in P0Runtime.ini",
+  "ContentPaths": "Absolute ReferenceGame package/save/cache/music/CacheRecordPath paths in P0Runtime.ini",
   "RequiresVerification": "Native overrides must be confirmed from startup log and loaded package origins; original protected hashes rechecked afterwards",
   "NoNewDependencies": true,
-  "OwnerDecision": "Pending explicit selection of the post-push P0 review package",
+  "OwnerDecision": "Authorized on 2026-10-05: isolated direct installed-executable launch; decision-parameter checks before any A/B test",
   "PreparedPathChecks": {
-    "AbsoluteReferencePaths": 11,
+    "AbsoluteReferencePaths": 12,
     "PathsOutsideReferenceCopy": 0,
-    "RuntimeIniSHA256": "13580015BFF698DBD9683D90D4D07AB33233ACD6BE9ADAF25308EF4AB10A5BE3",
+    "RuntimeIniSHA256": "7921869BC5A53DACA62D45C5954D3B2C57D65835193E4675240F88A9BE6231E7",
     "UserIniSHA256": "2926F1B1A8C3CC8FB3A86E42D66D3ADAE737A90B545DCE21C28D093FEA22AC53",
     "NativeIniUserIniArgumentTokensPresent": true,
-    "EffectiveOverridesVerified": false
+    "EffectiveOverridesVerified": true
   },
   "VerificationPlan": [
     "Recheck all protected original hashes immediately before launch; record original INI hashes",
-    "Launch only after owner approval, using the prepared isolated INIs and project log",
+    "Use the owner-authorized direct executable route only after protected precheck; retain private isolated INIs and native ABSLOG",
     "Observe engine startup, build 3369, DM-Rankin, and effective Core.System content paths; confirm log/output locations",
     "Read back effective game class, bots/modifiers, GameSpeed/TimeDilation, pawn collision and active PhysicsVolume before accepting any trial",
     "Exit normally; record project runtime INI changes separately and compare all protected original hashes",
     "Stop dependent work if overrides or original preservation fail; no gameplay/rescale acceptance follows from a menu or source table"
-  ]
+  ],
+  "VerificationEvidence": "Evidence/P0/runtime-boundary-verification.json"
 }

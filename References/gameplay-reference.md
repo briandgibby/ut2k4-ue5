@@ -1,8 +1,8 @@
 # UT2004 build 3369 gameplay reference
 
-Recorded: 2026-10-04. Coverage: PRS C-04 and C-05; P0 source inspection.
+Recorded: 2026-10-04; runtime update: 2026-10-05. Coverage: PRS C-04 and C-05; P0 source inspection and bounded native runtime readback.
 
-**Status: source contract recorded; gameplay measurements not executed.** The copied `ReferenceGame/System/UT2004.exe` launch failed with Steam load error `0x02` before the engine started. The native installed game's menu smoke passed; this is not a Rankin gameplay trial. Controlled runtime trials remain unexecuted pending the approved isolation fallback. No trial results, scale conversion, runtime frame rate, or accepted tolerance are claimed here; source values remain unaccepted.
+**Status: native parameters observed; repeated gameplay comparisons remain pending.** The owner-authorized installed-executable fallback loaded DM-Rankin and produced the [runtime parameter baseline](../Evidence/P0/runtime-parameter-baseline.json) and [one jump viability record](../Evidence/P0/runtime-jump-viability.json). The copied executable's earlier Steam load error `0x02` remains historical evidence. The owner locked D-02 and a 2 cm/source-unit design scale on 2026-10-05; parameter agreement and one pause-sampled jump do not accept controlled movement, weapon, scaled UE5 geometry, or collision behavior.
 
 ## Evidence and scope
 
@@ -21,7 +21,7 @@ The mirror supplies archive evidence, not legal clearance. Its filename identifi
 
 [SourceScripts/SHA256SUMS.csv](SourceScripts/SHA256SUMS.csv) records each extracted path, byte count, and SHA-256. Extraction preserves archive paths and bytes. [SourceScripts/README.md](SourceScripts/README.md) explains the subset. Source references below use these paths and one-based line numbers; they refer to the retained files rather than an unpinned web copy.
 
-Lengths and velocities below use UT2004 source world units and source units per second. Times use game seconds unless the input rule explicitly accounts for time dilation. `GameInfo.SetGameSpeed` sets `Level.TimeDilation = 1.1 * GameSpeed`, so `GameSpeed=1` gives source-derived `TimeDilation=1.1` (`Engine/Classes/GameInfo.uc:585–599`). This has not been measured: record actual time dilation, game timestamps, and wall-clock time separately rather than assuming equal durations. Momentum values are engine parameters, not a claim of SI units. No source-unit-to-UE5-centimeter factor has been calibrated.
+Lengths below use UT2004 source world units; velocities retain native field units. Record `LevelInfo.TimeSeconds` as the native game clock; its correspondence to physics elapsed time during pause/step sampling is not established. `GameInfo.SetGameSpeed` sets `Level.TimeDilation = 1.1 * GameSpeed` (`Engine/Classes/GameInfo.uc:585–599`); the live Rankin readback confirms `GameSpeed=1` and `TimeDilation=1.1`. Game-time versus wall-time rate remains unmeasured; record native timestamps, pauses, frame conditions, and wall time separately. Momentum values are engine parameters, not a claim of SI units. The owner-selected `s=2 cm/source unit` is a design correspondence; applying and empirically validating it in UE5 remains pending.
 
 ## Safe local configuration observations
 
@@ -39,7 +39,7 @@ Read from `F:\Program Files\steamapps\common\Unreal Tournament 2004\System\User.
 | User.ini / Engine.Pawn | Bob / bWeaponBob | 0.006000 / True | Camera/weapon bob settings |
 | User.ini / Engine.PlayerInput | MouseSensitivity | 0.750000 | Input setting; not a physical mouse-motion calibration |
 | UT2004.ini / Engine.Engine | DefaultGame | XGame.XDeathmatch | Configured default game class |
-| UT2004.ini / Engine.GameInfo | GameSpeed / GameDifficulty | 1.000000 / 4.000000 | Match options still need recording for actual trials |
+| UT2004.ini / Engine.GameInfo | GameSpeed / GameDifficulty | 1.000000 / 4.000000 | Both confirmed on the live Rankin game in the runtime baseline |
 | UT2004.ini / Engine.LevelInfo | MaxClientFrameRate | 90.000000 | Configured value only; actual offline trial frame rate unknown |
 | UT2004.ini / WinDrv.WindowsClient | MinDesiredFrameRate | 35.000000 | Configured value; not an actual frame-rate measurement |
 | UT2004.ini / XGame.xDeathMatch | SpawnProtectionTime | 2.000000 | Avoid fresh protected targets when measuring damage |
@@ -54,6 +54,8 @@ These hashes identify the inspected inputs. The project preservation baseline is
 ## Movement defaults and inheritance
 
 Relevant chain: `XGame.xPawn → UnrealGame.UnrealPawn → Engine.Pawn → Engine.Actor → Core.Object`. Human controller chain: `XGame.xPlayer → UnrealGame.UnrealPlayer → Engine.PlayerController → Engine.Controller → Engine.Actor`. Values on `xPawn` override the larger `UnrealPawn` defaults.
+
+The [native parameter block](../Evidence/P0/runtime-parameter-baseline.json) (runtime log lines 766–875) identifies build 3369, Rankin, `XGame.xDeathMatch`, zero reported bots, the native `DMMutator` with no next mutator, and no GameRules modifier. The live pawn matches the source standing radius/half-height `25/44`, BaseEyeHeight `38`, GroundSpeed `440`, JumpZ `340`, AccelRate `2048`, and AirControl `0.35`; current EyeHeight is `37.999939`. Its active `DM-Rankin.DefaultPhysicsVolume0` reports gravity `(0,0,-950)`, ground friction `8`, fluid friction `0.3`, and terminal velocity `2500`. These are runtime parameter observations; the table below still identifies source defaults and rules, including fields not yet probed.
 
 | Parameter / rule | Source-derived value | Units / meaning | Retained source |
 |---|---:|---|---|
@@ -78,7 +80,7 @@ Relevant chain: `XGame.xPawn → UnrealGame.UnrealPawn → Engine.Pawn → Engin
 | GroundFriction / TerminalVelocity | 8 / 2500 | Physics volume parameters, not calibrated UE5 equivalents | PhysicsVolume.uc:312; PhysicsVolume.uc:309 |
 | MAXSTEPHEIGHT / MINFLOORZ | 35 / 0.7 | Script walking constants: maximum step height / minimum floor-normal Z; runtime limits unmeasured | Engine/Classes/Actor.uc:523; Actor.uc:524 |
 
-`DefaultPhysicsVolume` covers areas without a specified volume and inherits `PhysicsVolume` (`Engine/Classes/DefaultPhysicsVolume.uc:5`). The script supplies numeric step/floor constants, but not the native walking integrator. Effective gravity, actual clearance/step/slope limits, and braking remain unmeasured. Do not substitute a familiar UE5 default or infer jump height with an unverified gravity formula.
+`DefaultPhysicsVolume` covers areas without a specified volume and inherits `PhysicsVolume` (`Engine/Classes/DefaultPhysicsVolume.uc:5`). Its active gravity field is now observed; effective trajectory acceleration, actual clearance/step/slope limits, and braking remain unaccepted. The script supplies numeric step/floor constants, but not the native walking integrator. Do not substitute a familiar UE5 default or infer jump height with an unverified gravity formula.
 
 ### Rankin map volumes and collision
 
@@ -119,6 +121,8 @@ The extra-jump count resets to `MaxMultiJump` on `PostNetBeginPlay` and `Landed`
 If `bCanDodgeDoubleJump` is false the dodge clears extra-jump count; the default is true. Successful dodge sets `CurrentDir` and falling physics. A subsequent dodge jump uses the same remaining-count, crouch-impulse guard, and strict apex window as double jump. A falling dodge does not itself replenish jump count.
 
 ### Camera
+
+The live `DM-Rankin.xPlayer` reports FovAngle and DesiredFOV `90`. The `Class XGame.xPlayer` FovAngle row is `85`, inherited from `UnrealGame/Classes/UnrealPlayer.uc:811`; it is separate from the runtime camera. FovAngle is not a config property (`Engine/Classes/Controller.uc:27`), whereas DefaultFOV and DesiredFOV are user globalconfig properties (`PlayerController.uc:148–149`). The final standing sample also reports live DefaultFOV `90` (runtime log line 1146). No additional normalization was needed for this snapshot.
 
 `Pawn.EyePosition` returns `EyeHeight*(0,0,1) + WalkBob` (`Engine/Classes/Pawn.uc:1884`). `CalcFirstPersonView` adds that, another `Pawn.WalkBob`, view shake, and ambient shake to the supplied camera position; camera rotation adds shake to controller rotation (`PlayerController.uc:3955`). `UpdateEyeHeight` smooths vertical position and uses head-clearance traces (`Pawn.uc:1801`). A fixed camera offset of 38 alone does not reproduce the moving first-person view. Capture camera transforms, FOV, bob, and firing shake separately from pawn trajectories.
 
@@ -186,7 +190,7 @@ The inherited `LastTouched` fallback applies to an authoritative touched actor n
 
 `Pawn.TakeDamage` accepts integer damage, then adjusts momentum before health reduction: walking victims with the damage type's default `bExtraMomentumZ=true` receive Z at least `0.4*length(momentum)`; self-inflicted momentum is multiplied by 0.6; momentum is divided by Mass. Surviving pawns receive `AddVelocity`; death uses its death path (`Engine/Classes/Pawn.uc:2029`, `Engine/Classes/DamageType.uc:198`). The base momentum table alone does not predict measured displacement.
 
-Applied health damage can change through UDamage, game rules, armor/shield, immunity, and DamageScaling. The configured chain is `xDeathMatch → DeathMatch → UnrealMPGameInfo → GameInfo`; `UnrealMPGameInfo` does not override ReduceDamage. `DeathMatch.ReduceDamage` makes fresh other-instigator weapon damage zero during spawn protection; in standalone games at difficulty <=3, player self damage is halved; final damage is scaled by instigator DamageScaling (`UnrealGame/Classes/DeathMatch.uc:1506`). Local configured difficulty is 4, so the <=3 condition would not apply **if that setting is used by the actual trial**. `GameInfo.ReduceDamage` also handles neutral zones, god mode, armor, and game-rule modifiers (`Engine/Classes/GameInfo.uc:1768`). Use unarmored, unmodified, unprotected fixtures and record match options; the prototype need not add these wider systems.
+Applied health damage can change through UDamage, game rules, armor/shield, immunity, and DamageScaling. The configured chain is `xDeathMatch → DeathMatch → UnrealMPGameInfo → GameInfo`; `UnrealMPGameInfo` does not override ReduceDamage. `DeathMatch.ReduceDamage` makes fresh other-instigator weapon damage zero during spawn protection; in standalone games at difficulty <=3, player self damage is halved; final damage is scaled by instigator DamageScaling (`UnrealGame/Classes/DeathMatch.uc:1506`). Live Rankin difficulty is 4, so the <=3 condition does not apply to this recorded match; weapon outcomes remain untested. `GameInfo.ReduceDamage` also handles neutral zones, god mode, armor, and game-rule modifiers (`Engine/Classes/GameInfo.uc:1768`). Use unarmored, unmodified, unprotected fixtures and record match options; the prototype need not add these wider systems.
 
 ### Complete ammo sequence and low ammo
 
@@ -212,9 +216,13 @@ The `true` argument caps the extra charge to available ammo (`Weapon.uc:283`; ol
 
 Shooting an existing core omits the shooter's secondary cost: beam costs 1 plus up to 3 remaining rounds. The original core shooter does not receive the combo charge in this code. Verify attribution and depletion before asserting the complete observed cost. Weapon switching after depletion is an original-game UI consequence to record; it is not an added prototype requirement.
 
-## Unexecuted P0 measurements and comparison method
+## P0 runtime observations and remaining comparisons
 
-All captured-behavior fields currently read **not measured**. PRS §7.2 proposes five successful controlled trials per required movement action and <=5% error per nonzero measured quantity. Those are proposed comparison targets; this reference does not lock D-02 or mark the P0/P3 gates passed.
+Native parameters and one jump's paused states are now captured. The owner locked PRS §7.2's five successful controlled trials per required movement action and <=5% error per nonzero measured quantity as D-02 targets. The [jump viability record](../Evidence/P0/runtime-jump-viability.json) contains one pause-sampled jump, not five controlled trials. Timestamp/velocity correspondence shows an anomaly; pause/step sampling bias is a plausible explanation with its cause unproven. No effective-gravity fit or apex/duration result is accepted from that run.
+
+The floor-resting pawn center was `(4724.301758,448,-366.149994)`, outside the Flak atrium selection, with zero velocity, `PHYS_Walking`, and standing radius/half-height `25/44` (runtime log lines 886–906). The F10 toggle control did not produce a crouched-state witness: the final readback remained `bIsCrouched=False` and `bWantsToCrouch=False` (lines 1132–1134). Crouched dimensions remain source-only. This run establishes paused state-readback viability; atrium route and clearance acceptance remain pending.
+
+Startup metadata anomalies remain open: 102 missing `LevelSummary` warnings, four empty-TeamSymbols array errors, and two team-symbol warnings. Their causes are unproven. The failed LevelSummary objects do not establish missing Rankin mesh geometry; `CacheManager.uc:125–126` identifies team-symbol discovery as an `.int` search outside its cache. Counts and source references are retained in the runtime baseline.
 
 | Required reference trial | Conditions to record | Measurements / outcomes still missing |
 |---|---|---|
@@ -230,6 +238,6 @@ All captured-behavior fields currently read **not measured**. PRS §7.2 proposes
 | Combo | Self core plus beam; existing other core when available | One combo event/removal, shooter attribution, nominal five-round sequence, damage/momentum |
 | Radius and low ammo | Fixed target centers/radii, clear and world-blocked lines; starting ammo 0–5 | Native radius membership, falloff/rounding, obstruction, self effect, depletion outcomes in table |
 
-Record each trial's map/build, match options, active modifiers, start/end pawn transforms and velocity, input schedule, frame-rate evidence, target collision size/health, ammo at each event, camera settings, and capture/result filenames. Run on the separate reference copy. Express movement and geometry results in source units until scale calibration exists. Forbidden-action comparisons should assert the observed absence of the action rather than divide by zero displacement.
+Record each trial's map/build, match options, active modifiers, start/end pawn transforms and velocity, input schedule, frame-rate evidence, target collision size/health, ammo at each event, camera settings, and capture/result filenames. Use the owner-authorized installed executable with isolated reference content, INIs, and outputs; retain preservation evidence separately. Express reference movement and geometry in source units, and convert UE5 results using the locked design scale after it is applied and checked. Forbidden-action comparisons should assert the observed absence of the action rather than divide by zero displacement.
 
-P0 still needs runtime confirmation of Rankin gravity/volume and collision behavior, controlled gameplay captures through the approved isolation fallback, source-to-UE5 scale calibration, a locked acceptance decision, and matched frame-rate conditions. No UE5 gameplay implementation is implied by this record.
+P0 still needs a controlled sampling protocol, repeated gameplay/weapon trials, matched frame-rate conditions, effective acceleration and collision checks, and empirical application of the locked source-to-UE5 design scale. Runtime volume parameters and D-02 decisions are recorded; gameplay equivalence and P0/P3 gates remain open. No UE5 gameplay implementation is implied by this record.

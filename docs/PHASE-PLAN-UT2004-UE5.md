@@ -44,7 +44,7 @@ If scope or targets change, update all three documents before dependent work con
 **Work packages**
 
 - [x] Resolve PRD D-01: begin the planned playable prototype after its visual proof, per the owner's execution request.
-- [ ] Resolve D-02: confirm build 3369, DM-Rankin, selected room, fidelity tolerances, and performance target.
+- [x] Resolve D-02: owner locked build 3369, DM-Rankin, the Flak atrium, 2 cm/source-unit design scale, geometry error <=2 source units (4 cm), five movement trials per action at <=5% error, and three warmed native-1080p packaged runs each at P95 <=16.67 ms on 2026-10-05. Runtime and phase acceptance remain open.
 - [x] Confirm a separate development root: `C:\Users\brian\git-projects\ut2k4-ue5`.
 - [x] Record hashes of original assets, binaries, and configuration before creating the development reference copy.
 - [x] Create and hash-verify the reference copy. Use it for editor runs and baseline recordings.
@@ -59,11 +59,13 @@ If scope or targets change, update all three documents before dependent work con
 
 Execution evidence lives in [P0 status](../Evidence/P0/status.md). The initial Rankin Level T3D export proves source inspection only; it does not pass P0's runtime gate or P1's room-import acceptance.
 
-The saved atrium inspection level has also passed a bounded UE5 numeric import and fresh-editor reload. [P1 import evidence](../Evidence/P1/ue-import/serialized-inspection.json) records the result. Physical calibration, collision, material/UV fidelity, and traversal checks remain open; the P1 work packages below are not yet accepted.
+The saved atrium inspection level has also passed a bounded UE5 numeric import and fresh-editor reload. [P1 import evidence](../Evidence/P1/ue-import/serialized-inspection.json) records the result. Applied-scale/landmark validation, collision, material/UV fidelity, and traversal checks remain open; the P1 work packages below are not yet accepted.
 
-Continuation on 2026-10-04: the original main-menu launch passed; original configuration hashes, four template assets and two saved atrium assets remain unchanged. [Fourteen individual surface samples](../Evidence/P0/ue-landmark-samples.json) verify the provisional numeric transform. The copied executable fails before engine startup with Steam load error `0x02`. [Prepared fallback](../Evidence/P0/reference-launch-fallback.json) is unexecuted pending the owner's launch-boundary decision. D-02 tolerances and physical scale are also pending; complete the controlled runtime baseline before moving to P1 collision/material/traversal work.
+At the 2026-10-04 handoff, the original main-menu launch had passed with unchanged original configuration hashes, four template assets and two saved atrium assets. [Fourteen individual surface samples](../Evidence/P0/ue-landmark-samples.json) verify `(X,-Y,Z)` at numeric scale 1; preserve that proof. The copied executable failed before engine startup with Steam load error `0x02`; the fallback and D-02 choices were then pending. On 2026-10-05, the authorized direct installed-executable route verified native INI/output/cache isolation and 299 absolute ReferenceGame package paths, then exited normally. [Boundary evidence](../Evidence/P0/runtime-boundary-verification.json) confirms all protected originals, stock template assets and transport artifacts match baseline after exact restoration of two first-probe UCL side effects. One unqualified Packages.md5 origin and startup metadata warnings remain noted.
 
-The owner-authorized private snapshot was pushed as `28892c6`. Post-push decision work recommends isolated installed-executable launch verification, a 176 cm standing-cylinder correspondence (`s=2`), and fixed 2-source-unit geometry tolerances while retaining movement/performance proposals. These remain owner review items; no dependent runtime, scale or phase acceptance is recorded. [D-02 review notes](PRD-UT2004-UE5.md).
+[Native parameters](../Evidence/P0/runtime-parameter-baseline.json) agree with the source baseline. [One jump viability probe](../Evidence/P0/runtime-jump-viability.json) shows a paused-time/physics-boundary discrepancy and lacks accepted apex/duration or five-trial outcomes. The crouch toggle did not produce a valid crouched witness. Resolve input/timing instrumentation before controlled comparisons; the walkthrough and full reference trials remain open.
+
+The owner-authorized private snapshot was pushed as `28892c6`. On 2026-10-05 the owner approved the 176 cm standing-cylinder correspondence (`s=2 cm/source unit`) and locked the D-02 geometry, movement and performance criteria in PRS §7. These are decisions, not empirical acceptance. Test scale 2 before considering scale 1; reconsider parameters only for a recorded anomaly and owner-approved revision. Complete the controlled runtime baseline and bounded scale/clearance checks; P0 and P1 gates remain open. [D-02 decision](PRD-UT2004-UE5.md).
 
 Record the original settings and actual frame rate used for each comparison.
 Movement tests require matched frame-rate conditions, not an assumption that an INI limit controls every game mode.
@@ -72,7 +74,7 @@ Record source class references and inherited behavior alongside the observed tri
 **Exit evidence**
 
 - Decisions D-01 through D-03 have the results required for P1 recorded.
-- Every proposed acceptance comparison has a source, method, units, and target.
+- Every acceptance comparison has a source, method, units, and target.
 - The protected-file hashes, development boundary, and reference-copy location exist.
 - The selected UE5 template runs, and the original game still launches.
 - P1's room and representative content list are fixed.
@@ -96,10 +98,12 @@ Keep unresolved public distribution outside this local prototype. It is not a re
 - [ ] Import one representative prop through the chosen interchange path. Compare pivot, axes, scale, normals, and material slots.
 - [ ] Reconstruct or transfer the room geometry. Rebuild UE5 collision and preserve source layout and openings.
 - [ ] Recreate texture alignment for the selected surfaces and retain the asset/source mapping.
-- [ ] Apply the calibrated transform and verify the selected room's dimensions and landmarks.
+- [ ] Apply the approved 2 cm/source-unit transform in bounded room work, preserve the scale-1 transport proof, and verify the selected room's dimensions and landmarks.
 - [ ] Traverse the room with the basic character. Check walls, floors, stairs, openings, and the selected representative prop.
 - [ ] Repeat the recovery procedure into a clean test level to expose hidden manual steps.
 - [ ] Record actual conversion time and repairs per asset and surface category.
+
+At scale 2, expected room dimensions are 2304 × 2688 × 3072 cm; standing source-cylinder radius/half-height are 50/88 cm and crouched values are 50/58 cm. A UE capsule with those outer dimensions has different end geometry, so test required-route clearance and step behavior. The unchanged stock template capsule is not a calibrated substitute. These expectations do not pass the geometry, collision or traversal gate.
 
 **Exit evidence**
 

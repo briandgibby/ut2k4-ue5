@@ -1,0 +1,20 @@
+WriteToLog P0_NATIVE_STATE_SAMPLE_BEGIN
+getall LevelInfo TimeSeconds
+getall LevelInfo TimeDilation
+getall xPawn Location
+getall xPawn Velocity
+getall xPawn Physics
+getall xPawn Base
+getall xPawn PhysicsVolume
+getall xPawn CollisionRadius
+getall xPawn CollisionHeight
+getall xPawn BaseEyeHeight
+getall xPawn EyeHeight
+getall xPawn bIsCrouched
+getall xPawn bWantsToCrouch
+getall PlayerController FOVAngle
+getall PlayerController DefaultFOV
+getall PlayerController DesiredFOV
+getall LevelInfo Pauser
+getall LevelInfo TimeSeconds
+WriteToLog P0_NATIVE_STATE_SAMPLE_END

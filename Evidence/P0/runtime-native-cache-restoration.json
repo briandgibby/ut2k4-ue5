@@ -1,0 +1,25 @@
+{
+  "RecordedAt": "2026-10-05T01:54:15.634611-04:00",
+  "Cause": "Observed after direct native Rankin launch; cache initialization side effects. No manual UCL edits.",
+  "Files": [
+    {
+      "Path": "System\\CacheRecords.ucl",
+      "NativePostLaunchBytes": 108096,
+      "NativePostLaunchSHA256": "ED52DD40EE48DE6CA874BE454DC5CD70EFE049E1C1BD90935DE577490F1CF5E4",
+      "RestoredFrom": "ReferenceGame/System/CacheRecords.ucl",
+      "BaselineSHA256": "00D7C8DF582EF3EA7498DAD6965512D7D21F1E025609584268105CD7A204BEE4",
+      "RestoredSHA256": "00D7C8DF582EF3EA7498DAD6965512D7D21F1E025609584268105CD7A204BEE4",
+      "ExactRestoration": true
+    },
+    {
+      "Path": "System\\OnslaughtBP.ucl",
+      "NativePostLaunchBytes": null,
+      "NativePostLaunchSHA256": null,
+      "RestoredFrom": "ReferenceGame/System/OnslaughtBP.ucl",
+      "BaselineSHA256": "BFB30A8009C20411202326571EC4F526858789AB617844E5DE011F1096157E94",
+      "RestoredSHA256": "BFB30A8009C20411202326571EC4F526858789AB617844E5DE011F1096157E94",
+      "ExactRestoration": true
+    }
+  ],
+  "OriginalIniHashesUnchanged": true
+}

@@ -5,9 +5,9 @@ Status: Working draft v0.2 — P0 execution underway | Created: 2026-10-04
 Companion documents: [PRD](PRD-UT2004-UE5.md) and [Phase Plan](PHASE-PLAN-UT2004-UE5.md).
 
 At handoff, this specification must describe the implementation and identify remaining deviations.
-The isolated UT2004 reference copy and source geometry exports exist. UE5 5.8.3 is installed; the native First Person project passed a qualitative Play in Editor smoke. The Flak atrium imported and reopened as a saved geometry inspection level. Physical calibration, a converted playable room, and UT gameplay implementation remain pending.
+The isolated UT2004 reference copy and source geometry exports exist. UE5 5.8.3 is installed; the native First Person project passed a qualitative Play in Editor smoke. The Flak atrium imported and reopened as a saved geometry inspection level. The owner selected a 2 cm/source-unit design scale and locked D-02 targets on 2026-10-05. Applying and empirically validating that scale, a converted playable room, and UT gameplay implementation remain pending.
 
-The original main-menu smoke now passes with unchanged protected hashes. Four noncoplanar BSP samples and ten landmark-group surface corners pass numeric saved-mesh correspondence; this does not accept actor pivots, physical scale or collision. Reference runtime trials are blocked by Steam load error `0x02` in the copied executable. A prepared installed-executable launch with isolated project INIs/paths awaits the owner's boundary decision. [Evidence/status](../Evidence/P0/status.md).
+The original main-menu smoke passed with unchanged protected hashes. Four noncoplanar BSP samples and ten landmark-group surface corners pass numeric saved-mesh correspondence at scale 1; this does not accept actor pivots, applied design scale or collision. The 2026-10-04 copied-runtime attempts failed with Steam load error `0x02`. Effective isolation and controlled trials through the installed-executable fallback require separate evidence. [Evidence/status](../Evidence/P0/status.md).
 
 ## 1. Introduction & scope
 
@@ -28,9 +28,10 @@ Sections below state intended behavior unless they explicitly label an observati
 | Observed | Reference PC: Windows 11, i5-12400F, 32 GB RAM, RTX 4060 Ti 16 GB. |
 | Observed | UE5 5.8.3 is installed at `F:\Program Files\Epic Games\UE_5.8`; build changelist 58210709. |
 | Proposed | Separate UE5 project, one recovered room first, full Rankin later, offline practice release. |
-| Measured | Source exports and fixed Blender/FBX probes succeeded. The atrium's UE5 numeric bounds import and saved-asset reload succeeded; physical scale and per-corner UE UV fidelity remain unverified. |
+| Measured | Source exports and fixed Blender/FBX probes succeeded. The atrium's UE5 numeric bounds import and saved-asset reload succeeded at scale 1; applied design scale and per-corner UE UV fidelity remain unverified. |
 | Installed | UE5 5.8.3, source tools build 3369, and Blender 5.2.2 LTS. Native Blueprint First Person template passed a qualitative Play in Editor smoke. |
-| Deferred | Physical scale/landmark calibration, final numeric tolerances, UT implementation language split, and external distribution scope. |
+| Approved | D-02: build 3369, DM-Rankin, Flak atrium, 2 cm/source-unit design scale, and the geometry/movement/performance criteria in §7; locked by the owner on 2026-10-05. |
+| Deferred | Applied-scale/landmark and collision validation, UT implementation language split, and external distribution scope. |
 
 ### 1.3 Exclusions
 
@@ -39,7 +40,7 @@ It will not modify the original renderer or provide a general conversion framewo
 
 ### 1.4 Conventions and integrity
 
-- Record a value with its source, units, and status: observed, source-derived, proposed, or measured. [C-01, C-07]
+- Record a value with its source, units, and status: observed, source-derived, proposed, approved, or measured. [C-01, C-07]
 - Source code values are comparison references. They are not proof that identical UE5 values produce identical behavior. [C-04, C-05]
 - Source units mean build-3369 world units. UE5 lengths use centimeters after P0 calibration. [C-02, C-04]
 - A phase gate passes only after its evidence exists. A document or screenshot alone does not prove gameplay or runtime performance. [C-07, C-10]
@@ -133,6 +134,8 @@ Verified `xPawn` defaults and local configuration provide the following starting
 The source-derived values come from `XGame/Classes/xPawn.uc` in the inspected 3369 archive and the corresponding [script reference](https://github.com/Deaod/UT2004/blob/master/XGame/xPawn.uc).
 Record gravity, collision dimensions, floor rules, camera behavior, and inherited settings in P0 before implementing the comparison trials. [C-02, C-04]
 
+The 2026-10-05 [native parameter baseline](../Evidence/P0/runtime-parameter-baseline.json) confirms standing radius/half-height 25/44, base eye 38, the listed movement values, live FOV 90, active default-volume gravity -950, normal GameSpeed 1/TimeDilation 1.1 and no optional gameplay modifier. Difficulty 4 is the prepared match control rather than raw source default 1. [One-jump viability evidence](../Evidence/P0/runtime-jump-viability.json) records stable paused readbacks but a timing discrepancy; correct measurement/input instrumentation before accepting five-trial comparisons. Effective crouch clearance and step/floor behavior remain unmeasured.
+
 ### 4.3 Shock Rifle contract
 
 Primary fire traces a beam. Secondary fire creates a moving core. A qualifying beam hit on a core triggers the combo explosion. [C-05]
@@ -207,19 +210,21 @@ Store developer measurements outside the player-facing HUD. [C-07]
 
 ## 7. Calculation specifications
 
-The following tolerances are proposed and become gate criteria when P0 resolves D-02.
+The owner locked D-02 on 2026-10-05. The geometry, movement, and performance criteria below are approved targets; empirical acceptance and P0/P1 gates remain open. A recorded anomaly may justify reconsideration with an owner-approved revision.
 
 ### 7.1 Geometry and scale [C-02]
 
-Observed bounded readback: [fourteen source/UE samples](../Evidence/P0/ue-landmark-samples.json) match `(X,-Y,Z)` at numeric scale 1, maximum error `0.0000004955`. This is a mesh-source precision check, not a locked D-02 tolerance or physical calibration. Physical scale remains an owner-selected reference correspondence; no rescale is applied.
+Observed bounded readback: [fourteen source/UE samples](../Evidence/P0/ue-landmark-samples.json) match `(X,-Y,Z)` at numeric scale 1, maximum error `0.0000004955`. Preserve that saved numeric transport proof. It is representative surface precision evidence, not actor-pivot, applied-scale, collision or traversal acceptance.
 
-Post-push review alternative, still proposed: choose `s=176/88=2 cm/source unit` from standing collision height, and use fixed `<=2 source units` for sampled position/dimension errors. This would permit 4 cm of error, compared with the current atrium percentage positional allowance of 46.873174 cm at that scale. Keep the existing numeric transport assets intact; an accepted design scale is applied and verified during bounded P1 work. Do not replace the formulas below or claim physical acceptance before the owner's decision.
+Approved design correspondence: the source standing collision cylinder's full height of 88 units corresponds to 176 cm, giving `s=176/88=2 cm/source unit`. This is an owner-selected design reference, not a measurement of historical physical scale. Apply and verify it in bounded P1 work without overwriting the scale-1 proof. Evaluate scale 2 first; only recorded contrary evidence warrants reconsidering scale 1.
 
-Calibrate one source-to-UE5 transform using a fixed anchor, axis mapping, and scale factor `s`.
+Use a fixed anchor, the verified axis mapping, and `s=2`. Retaining the current origin gives `UE_cm = 2 × (source X, -source Y, source Z)`. The source floor-center anchor `(1344,-2048,-512)` then maps to `(2688,4096,-1024)` cm; expected atrium dimensions are `2304 × 2688 × 3072` cm. These are calculated expectations, not measured scale-2 results.
+
+At this scale, source standing radius/half-height are 50/88 cm and crouched radius/half-height are 50/58 cm. The source cylinder and UE capsule have different end shapes; matching their outer dimensions does not prove clearance or step behavior. The stock template's approximately 34/96 cm capsule is not the source-equivalent test pawn. Verify the selected room's required routes and matched camera with the intended collision envelope.
+
 Convert UE5 landmark coordinates back to the source frame before comparing them.
-For each sampled room, let `L` be the source room's diagonal length.
-Proposed positional tolerance: `max(2 source units, 0.01 × L)`.
-Proposed dimensional tolerance: `max(2 source units, 0.01 × reference dimension)`.
+Locked sampled positional error: `<=2 source units` (4 cm at scale 2).
+Locked dimensional error: `<=2 source units` (4 cm at scale 2).
 Measure at least 10 fixed landmarks across the full-map release. Check every required route for collision and clearance.
 An unmeasured landmark or blocked required route fails acceptance.
 
@@ -227,7 +232,7 @@ An unmeasured landmark or blocked required route fails acceptance.
 
 Use five successful controlled reference trials per action, with the same input schedule and matched frame-rate conditions.
 For a nonzero reference quantity, error is `abs(prototype − reference) / abs(reference)`.
-Compare distance, apex height, and action duration where each applies. Proposed maximum error is 5% per measured quantity.
+Compare distance, apex height, and action duration where each applies. Locked maximum error is 5% per measured quantity.
 Convert UE5 distances and velocities into the calibrated source units first.
 Forbidden reference actions must remain forbidden. A zero reference displacement uses the locked positional tolerance, not division by zero.
 
@@ -246,7 +251,7 @@ Disable dynamic resolution, frame generation, VSync, and frame caps for the acce
 Record the exact preset and Lumen mode. Use a fixed 90-second route after a 30-second warm-up.
 Run the route three times and record frame-time data for every run.
 Compute P95 using the nearest-rank method: sort frame times and select rank `ceil(0.95 × frame count)`.
-Proposed acceptance: each run has P95 frame time ≤16.67 ms.
+Locked acceptance: each of the three runs has P95 frame time ≤16.67 ms.
 Also report median frame time, maximum frame time, and counts above 33.33 ms and 50 ms.
 Cold-start shader/asset preparation is reported separately and must not be hidden inside the warm-run result.
 
@@ -258,9 +263,10 @@ Gate records distinguish passing tests, failed tests, and unexecuted tests.
 
 ## 8. Configuration & console
 
-| Setting | Proposed default / reference | Authority | Capabilities |
+| Setting | Default / reference and status | Authority | Capabilities |
 |---|---|---|---|
-| Map | DM-Rankin recreation | PRD D-02 and project map asset | C-02, C-06 |
+| Map | DM-Rankin recreation; Flak atrium first | PRD D-02 and project map asset | C-02, C-06 |
+| Design scale | Approved 2 cm/source unit from the 176 cm standing-cylinder correspondence | PRD D-02 and §7.1 | C-02, C-04 |
 | Camera comparison | Observed original FOV 90, with matching capture transform | Reference capture record | C-02, C-03 |
 | Dodge input window | 0.25 seconds | Observed local configuration; runtime trials pending | C-04 |
 | Practice state | Player/target health 100, ammo 20, defined spawn | Practice fixture record | C-05, C-06 |

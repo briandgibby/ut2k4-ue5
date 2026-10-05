@@ -1,0 +1,23 @@
+{
+  "ProcessId": 6716,
+  "Executable": "F:\\Program Files\\steamapps\\common\\Unreal Tournament 2004\\System\\UT2004.exe",
+  "WorkingDirectory": "C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\System",
+  "Log": "Evidence/P0/reference-runtime.log",
+  "LaunchMethod": "Direct executable; isolated native INI/userINI arguments",
+  "Outcome": "Rankin visually loaded, then process failed after GET Core.System Paths; requested LOG=absolute output absent",
+  "WindowsEvents": [
+    {
+      "RecordedAt": "2026-10-05T01:50:11.651930-04:00",
+      "Id": 1000,
+      "FaultModule": "Core.dll",
+      "ExceptionCode": "0xc0000409"
+    },
+    {
+      "RecordedAt": "2026-10-05T01:50:13.850395-04:00",
+      "Id": 1000,
+      "FaultModule": "unknown",
+      "ExceptionCode": "0xc0000005"
+    }
+  ],
+  "Cause": "Unproven; avoid repeating the dynamic Paths-array GET; use scalar and linker probes"
+}

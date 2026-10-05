@@ -1,0 +1,32 @@
+WriteToLog P0_EXEC_PARAMETER_PROBE_BEGIN
+get Core.System CacheRecordPath
+get Core.System SavePath
+get Core.System CachePath
+get Core.System MusicPath
+getall LevelInfo EngineVersion
+getall LevelInfo Title
+getall LevelInfo Game
+getall GameInfo GameSpeed
+getall LevelInfo TimeDilation
+getall GameInfo GameDifficulty
+getall GameInfo NumBots
+getall GameInfo BaseMutator
+getall Mutator NextMutator
+getall GameInfo GameRulesModifiers
+getall xPawn CollisionRadius
+getall xPawn CollisionHeight
+getall xPawn BaseEyeHeight
+getall xPawn EyeHeight
+getall xPawn GroundSpeed
+getall xPawn JumpZ
+getall xPawn AccelRate
+getall xPawn AirControl
+getall xPawn PhysicsVolume
+getall PhysicsVolume Gravity
+getall PhysicsVolume GroundFriction
+getall PhysicsVolume FluidFriction
+getall PhysicsVolume TerminalVelocity
+getall PlayerController FOVAngle
+getall PlayerController DesiredFOV
+getall PlayerInput DoubleClickTime
+WriteToLog P0_EXEC_PARAMETER_PROBE_END

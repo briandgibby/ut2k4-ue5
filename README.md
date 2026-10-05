@@ -1,10 +1,12 @@
 # UT2004 UE5 prototype
 
-Current scope: local Rankin Visual Proof followed by a Rankin Combat Prototype. P0 reference decisions/trials and P1 recovered-room acceptance remain open.
+Current scope: local Rankin Visual Proof followed by a Rankin Combat Prototype. P0 owner decisions are locked; reference trials and P1 recovered-room acceptance remain open.
 
 Start with [SESSION_CONTINUITY.md](SESSION_CONTINUITY.md) and [P0 status](Evidence/P0/status.md). Requirements and gates are in [docs/](docs/); source and measurement references are in [References/](References/).
 
 The native project is `Prototype/UT2004UE5.uproject` for Unreal Engine 5.8.3. The saved Flak atrium is `/Game/RankinRecovery/L_FlakAtrium_Transport`. It currently has grid materials and collision disabled. Its transport measurements do not accept physical scale, original appearance or traversal.
+
+The owner selected 2 cm/source unit via a 176 cm standing collision-cylinder design reference. Existing transport assets retain numeric scale 1. The authorized direct installed-executable reference route uses private project INIs, native `ABSLOG` and an absolute `Core.System.CacheRecordPath`; see [runtime boundary evidence](Evidence/P0/runtime-boundary-verification.json). Native parameter readbacks and one jump viability probe exist; sampling timing, held-input/crouch evidence and full controlled trials remain incomplete.
 
 This private repository contains the project, tooling, tests, planning records, measured JSON/CSV evidence, captures, retained script references, native geometry exports and checked Blender/FBX handoffs. Files preserve their recorded bytes through `.gitattributes`.
 

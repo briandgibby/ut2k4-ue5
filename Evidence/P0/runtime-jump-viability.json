@@ -1,0 +1,734 @@
+{
+  "recorded_at_utc": "2026-10-05T06:22:35.841129+00:00",
+  "result": "One native jump staged state-readback viability witness; no controlled movement acceptance",
+  "log": {
+    "path": "Evidence/P0/reference-runtime.log",
+    "bytes": 108562,
+    "sha256": "61962B5311A2DE9DD9A469B9D3B2CC13803AD91012130D047C4F1C4DE7BA9DEF",
+    "finalized": true,
+    "line_count": 1192,
+    "normal_exit_request_lines_1_based": [
+      1161
+    ],
+    "log_closed_markers": [
+      {
+        "log_line_1_based": 1192,
+        "text": "Uninitialized: Log file closed, 10/05/26 02:17:17"
+      }
+    ]
+  },
+  "method": "Parse all complete P0_NATIVE_STATE_SAMPLE_BEGIN/END blocks. Select actual DM-Rankin LevelInfo/xPawn/controller objects; exclude Class defaults and Entry-level objects.",
+  "units": {
+    "positions_and_collision_dimensions": "UT2004 source units",
+    "velocity": "Native source velocity field units per second",
+    "time": "DM-Rankin.LevelInfo0.TimeSeconds; TimeDilation observed 1.1; alignment with physics elapsed time is not established",
+    "acceleration_estimates": "Source-unit acceleration estimates under constant vertical acceleration; timestamp/velocity correspondence limitations apply"
+  },
+  "input_provenance": {
+    "jump_sequence": "One staged jump, as reported by the root agent observing native controls",
+    "freeze_requests": "0.05, 0.05, 0.05, 0.15 and 0.30 seconds reported by root; requests are not independently logged per snapshot",
+    "crouch_control": "Root-observed F10 Toggle bDuck attempt; final block is the state witness, not a logged key-event trace"
+  },
+  "complete_sample_blocks": 7,
+  "incomplete_sample_blocks": 0,
+  "samples": [
+    {
+      "sample_index_1_based": 1,
+      "phase": "standing_before_jump",
+      "log_block_lines_1_based": {
+        "begin": 878,
+        "end": 913
+      },
+      "reported_freeze_frame_request_before_sample_seconds": null,
+      "level_time_bracket": [
+        {
+          "value": 288.028015,
+          "log_line_1_based": 881
+        },
+        {
+          "value": 288.028015,
+          "log_line_1_based": 912
+        }
+      ],
+      "level_time_bracket_stable": true,
+      "time_dilation": {
+        "value": 1.1,
+        "log_line_1_based": 884
+      },
+      "pauser": {
+        "value": "xPlayerReplicationInfo'DM-Rankin.xPlayerReplicationInfo'",
+        "log_line_1_based": 909
+      },
+      "paused_witness": true,
+      "pawn": {
+        "object": "DM-Rankin.xPawn",
+        "location_source_xyz": [
+          4724.301758,
+          448.0,
+          -366.149994
+        ],
+        "velocity_source_xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "physics": "PHYS_Walking",
+        "base": "LevelInfo'DM-Rankin.LevelInfo0'",
+        "physics_volume": "DefaultPhysicsVolume'DM-Rankin.DefaultPhysicsVolume0'",
+        "collision_radius_source_units": 25.0,
+        "collision_half_height_source_units": 44.0,
+        "base_eye_height_source_units": 38.0,
+        "eye_height_source_units": 37.999939,
+        "is_crouched": false,
+        "wants_to_crouch": false,
+        "field_log_lines_1_based": {
+          "Location": 886,
+          "Velocity": 888,
+          "Physics": 890,
+          "Base": 892,
+          "PhysicsVolume": 894,
+          "CollisionRadius": 896,
+          "CollisionHeight": 898,
+          "BaseEyeHeight": 900,
+          "EyeHeight": 902,
+          "bIsCrouched": 904,
+          "bWantsToCrouch": 906
+        }
+      }
+    },
+    {
+      "sample_index_1_based": 2,
+      "phase": "airborne_1",
+      "log_block_lines_1_based": {
+        "begin": 916,
+        "end": 951
+      },
+      "reported_freeze_frame_request_before_sample_seconds": 0.05,
+      "level_time_bracket": [
+        {
+          "value": 288.080811,
+          "log_line_1_based": 919
+        },
+        {
+          "value": 288.080811,
+          "log_line_1_based": 950
+        }
+      ],
+      "level_time_bracket_stable": true,
+      "time_dilation": {
+        "value": 1.1,
+        "log_line_1_based": 922
+      },
+      "pauser": {
+        "value": "xPlayerReplicationInfo'DM-Rankin.xPlayerReplicationInfo'",
+        "log_line_1_based": 947
+      },
+      "paused_witness": true,
+      "pawn": {
+        "object": "DM-Rankin.xPawn",
+        "location_source_xyz": [
+          4724.301758,
+          448.0,
+          -352.767456
+        ],
+        "velocity_source_xyz": [
+          0.0,
+          0.0,
+          300.323669
+        ],
+        "physics": "PHYS_Falling",
+        "base": "None",
+        "physics_volume": "DefaultPhysicsVolume'DM-Rankin.DefaultPhysicsVolume0'",
+        "collision_radius_source_units": 25.0,
+        "collision_half_height_source_units": 44.0,
+        "base_eye_height_source_units": 38.0,
+        "eye_height_source_units": 37.999954,
+        "is_crouched": false,
+        "wants_to_crouch": false,
+        "field_log_lines_1_based": {
+          "Location": 924,
+          "Velocity": 926,
+          "Physics": 928,
+          "Base": 930,
+          "PhysicsVolume": 932,
+          "CollisionRadius": 934,
+          "CollisionHeight": 936,
+          "BaseEyeHeight": 938,
+          "EyeHeight": 940,
+          "bIsCrouched": 942,
+          "bWantsToCrouch": 944
+        }
+      }
+    },
+    {
+      "sample_index_1_based": 3,
+      "phase": "airborne_2",
+      "log_block_lines_1_based": {
+        "begin": 954,
+        "end": 989
+      },
+      "reported_freeze_frame_request_before_sample_seconds": 0.05,
+      "level_time_bracket": [
+        {
+          "value": 288.132538,
+          "log_line_1_based": 957
+        },
+        {
+          "value": 288.132538,
+          "log_line_1_based": 988
+        }
+      ],
+      "level_time_bracket_stable": true,
+      "time_dilation": {
+        "value": 1.1,
+        "log_line_1_based": 960
+      },
+      "pauser": {
+        "value": "xPlayerReplicationInfo'DM-Rankin.xPlayerReplicationInfo'",
+        "log_line_1_based": 985
+      },
+      "paused_witness": true,
+      "pawn": {
+        "object": "DM-Rankin.xPawn",
+        "location_source_xyz": [
+          4724.301758,
+          448.0,
+          -339.625183
+        ],
+        "velocity_source_xyz": [
+          0.0,
+          0.0,
+          255.376648
+        ],
+        "physics": "PHYS_Falling",
+        "base": "None",
+        "physics_volume": "DefaultPhysicsVolume'DM-Rankin.DefaultPhysicsVolume0'",
+        "collision_radius_source_units": 25.0,
+        "collision_half_height_source_units": 44.0,
+        "base_eye_height_source_units": 38.0,
+        "eye_height_source_units": 37.999966,
+        "is_crouched": false,
+        "wants_to_crouch": false,
+        "field_log_lines_1_based": {
+          "Location": 962,
+          "Velocity": 964,
+          "Physics": 966,
+          "Base": 968,
+          "PhysicsVolume": 970,
+          "CollisionRadius": 972,
+          "CollisionHeight": 974,
+          "BaseEyeHeight": 976,
+          "EyeHeight": 978,
+          "bIsCrouched": 980,
+          "bWantsToCrouch": 982
+        }
+      }
+    },
+    {
+      "sample_index_1_based": 4,
+      "phase": "airborne_3",
+      "log_block_lines_1_based": {
+        "begin": 992,
+        "end": 1027
+      },
+      "reported_freeze_frame_request_before_sample_seconds": 0.05,
+      "level_time_bracket": [
+        {
+          "value": 288.183136,
+          "log_line_1_based": 995
+        },
+        {
+          "value": 288.183136,
+          "log_line_1_based": 1026
+        }
+      ],
+      "level_time_bracket_stable": true,
+      "time_dilation": {
+        "value": 1.1,
+        "log_line_1_based": 998
+      },
+      "pauser": {
+        "value": "xPlayerReplicationInfo'DM-Rankin.xPlayerReplicationInfo'",
+        "log_line_1_based": 1023
+      },
+      "paused_witness": true,
+      "pawn": {
+        "object": "DM-Rankin.xPawn",
+        "location_source_xyz": [
+          4724.301758,
+          448.0,
+          -328.376556
+        ],
+        "velocity_source_xyz": [
+          0.0,
+          0.0,
+          209.426819
+        ],
+        "physics": "PHYS_Falling",
+        "base": "None",
+        "physics_volume": "DefaultPhysicsVolume'DM-Rankin.DefaultPhysicsVolume0'",
+        "collision_radius_source_units": 25.0,
+        "collision_half_height_source_units": 44.0,
+        "base_eye_height_source_units": 38.0,
+        "eye_height_source_units": 37.999969,
+        "is_crouched": false,
+        "wants_to_crouch": false,
+        "field_log_lines_1_based": {
+          "Location": 1000,
+          "Velocity": 1002,
+          "Physics": 1004,
+          "Base": 1006,
+          "PhysicsVolume": 1008,
+          "CollisionRadius": 1010,
+          "CollisionHeight": 1012,
+          "BaseEyeHeight": 1014,
+          "EyeHeight": 1016,
+          "bIsCrouched": 1018,
+          "bWantsToCrouch": 1020
+        }
+      }
+    },
+    {
+      "sample_index_1_based": 5,
+      "phase": "airborne_4",
+      "log_block_lines_1_based": {
+        "begin": 1030,
+        "end": 1065
+      },
+      "reported_freeze_frame_request_before_sample_seconds": 0.15,
+      "level_time_bracket": [
+        {
+          "value": 288.33493,
+          "log_line_1_based": 1033
+        },
+        {
+          "value": 288.33493,
+          "log_line_1_based": 1064
+        }
+      ],
+      "level_time_bracket_stable": true,
+      "time_dilation": {
+        "value": 1.1,
+        "log_line_1_based": 1036
+      },
+      "pauser": {
+        "value": "xPlayerReplicationInfo'DM-Rankin.xPlayerReplicationInfo'",
+        "log_line_1_based": 1061
+      },
+      "paused_witness": true,
+      "pawn": {
+        "object": "DM-Rankin.xPawn",
+        "location_source_xyz": [
+          4724.301758,
+          448.0,
+          -307.752808
+        ],
+        "velocity_source_xyz": [
+          0.0,
+          0.0,
+          68.295837
+        ],
+        "physics": "PHYS_Falling",
+        "base": "None",
+        "physics_volume": "DefaultPhysicsVolume'DM-Rankin.DefaultPhysicsVolume0'",
+        "collision_radius_source_units": 25.0,
+        "collision_half_height_source_units": 44.0,
+        "base_eye_height_source_units": 38.0,
+        "eye_height_source_units": 37.999977,
+        "is_crouched": false,
+        "wants_to_crouch": false,
+        "field_log_lines_1_based": {
+          "Location": 1038,
+          "Velocity": 1040,
+          "Physics": 1042,
+          "Base": 1044,
+          "PhysicsVolume": 1046,
+          "CollisionRadius": 1048,
+          "CollisionHeight": 1050,
+          "BaseEyeHeight": 1052,
+          "EyeHeight": 1054,
+          "bIsCrouched": 1056,
+          "bWantsToCrouch": 1058
+        }
+      }
+    },
+    {
+      "sample_index_1_based": 6,
+      "phase": "airborne_5",
+      "log_block_lines_1_based": {
+        "begin": 1068,
+        "end": 1103
+      },
+      "reported_freeze_frame_request_before_sample_seconds": 0.3,
+      "level_time_bracket": [
+        {
+          "value": 288.635223,
+          "log_line_1_based": 1071
+        },
+        {
+          "value": 288.635223,
+          "log_line_1_based": 1102
+        }
+      ],
+      "level_time_bracket_stable": true,
+      "time_dilation": {
+        "value": 1.1,
+        "log_line_1_based": 1074
+      },
+      "pauser": {
+        "value": "xPlayerReplicationInfo'DM-Rankin.xPlayerReplicationInfo'",
+        "log_line_1_based": 1099
+      },
+      "paused_witness": true,
+      "pawn": {
+        "object": "DM-Rankin.xPawn",
+        "location_source_xyz": [
+          4724.301758,
+          448.0,
+          -329.321045
+        ],
+        "velocity_source_xyz": [
+          0.0,
+          0.0,
+          -213.310028
+        ],
+        "physics": "PHYS_Falling",
+        "base": "None",
+        "physics_volume": "DefaultPhysicsVolume'DM-Rankin.DefaultPhysicsVolume0'",
+        "collision_radius_source_units": 25.0,
+        "collision_half_height_source_units": 44.0,
+        "base_eye_height_source_units": 38.0,
+        "eye_height_source_units": 37.999985,
+        "is_crouched": false,
+        "wants_to_crouch": false,
+        "field_log_lines_1_based": {
+          "Location": 1076,
+          "Velocity": 1078,
+          "Physics": 1080,
+          "Base": 1082,
+          "PhysicsVolume": 1084,
+          "CollisionRadius": 1086,
+          "CollisionHeight": 1088,
+          "BaseEyeHeight": 1090,
+          "EyeHeight": 1092,
+          "bIsCrouched": 1094,
+          "bWantsToCrouch": 1096
+        }
+      }
+    },
+    {
+      "sample_index_1_based": 7,
+      "phase": "walking_after_jump_and_crouch_control_attempt",
+      "log_block_lines_1_based": {
+        "begin": 1106,
+        "end": 1159
+      },
+      "reported_freeze_frame_request_before_sample_seconds": null,
+      "level_time_bracket": [
+        {
+          "value": 425.746429,
+          "log_line_1_based": 1109
+        },
+        {
+          "value": 425.746429,
+          "log_line_1_based": 1158
+        }
+      ],
+      "level_time_bracket_stable": true,
+      "time_dilation": {
+        "value": 1.1,
+        "log_line_1_based": 1112
+      },
+      "pauser": {
+        "value": "xPlayerReplicationInfo'DM-Rankin.xPlayerReplicationInfo'",
+        "log_line_1_based": 1155
+      },
+      "paused_witness": true,
+      "pawn": {
+        "object": "DM-Rankin.xPawn",
+        "location_source_xyz": [
+          4724.301758,
+          448.0,
+          -366.149994
+        ],
+        "velocity_source_xyz": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "physics": "PHYS_Walking",
+        "base": "LevelInfo'DM-Rankin.LevelInfo0'",
+        "physics_volume": "DefaultPhysicsVolume'DM-Rankin.DefaultPhysicsVolume0'",
+        "collision_radius_source_units": 25.0,
+        "collision_half_height_source_units": 44.0,
+        "base_eye_height_source_units": 38.0,
+        "eye_height_source_units": 37.999908,
+        "is_crouched": false,
+        "wants_to_crouch": false,
+        "field_log_lines_1_based": {
+          "Location": 1114,
+          "Velocity": 1116,
+          "Physics": 1118,
+          "Base": 1120,
+          "PhysicsVolume": 1122,
+          "CollisionRadius": 1124,
+          "CollisionHeight": 1126,
+          "BaseEyeHeight": 1128,
+          "EyeHeight": 1130,
+          "bIsCrouched": 1132,
+          "bWantsToCrouch": 1134
+        }
+      },
+      "controller_fov_degrees": {
+        "values": {
+          "FovAngle": 90.0,
+          "DefaultFOV": 90.0,
+          "DesiredFOV": 90.0
+        },
+        "field_log_lines_1_based": {
+          "FovAngle": 1140,
+          "DefaultFOV": 1146,
+          "DesiredFOV": 1152
+        }
+      }
+    }
+  ],
+  "native_gravity_setting": {
+    "object": "DM-Rankin.DefaultPhysicsVolume0",
+    "readbacks": [
+      {
+        "value_source_xyz": [
+          0.0,
+          0.0,
+          -950.0
+        ],
+        "log_line_1_based": 737
+      },
+      {
+        "value_source_xyz": [
+          0.0,
+          0.0,
+          -950.0
+        ],
+        "log_line_1_based": 844
+      }
+    ]
+  },
+  "consecutive_airborne_intervals": [
+    {
+      "from_sample_index_1_based": 2,
+      "to_sample_index_1_based": 3,
+      "reported_freeze_frame_request_seconds": 0.05,
+      "source_log_block_lines_1_based": [
+        [
+          916,
+          951
+        ],
+        [
+          954,
+          989
+        ]
+      ],
+      "delta_level_time_seconds": 0.051727000000028056,
+      "delta_z_source_units": 13.142272999999989,
+      "delta_vz_source_units_per_second": -44.94702100000001,
+      "acceleration_from_delta_velocity_over_delta_level_time": -868.9276586690825,
+      "acceleration_from_velocity_squared_over_height_change": -950.2569996037092,
+      "relative_difference_from_gravity_setting_percent": {
+        "time_based": 8.533930666412372,
+        "height_based": 0.02705258986412972
+      },
+      "conditional_motion_duration_from_velocity_and_gravity_seconds": 0.04731265368421053,
+      "conditional_motion_duration_from_displacement_and_mean_velocity_seconds": 0.04729985784766068,
+      "level_time_minus_conditional_motion_duration_milliseconds": {
+        "velocity_based": 4.414346315817524,
+        "height_based": 4.427142152367377
+      },
+      "crosses_vz_sign_between_snapshots": false,
+      "conditions_unchanged_at_endpoints": {
+        "xy": true,
+        "default_volume": true,
+        "collision_radius_and_half_height": true
+      }
+    },
+    {
+      "from_sample_index_1_based": 3,
+      "to_sample_index_1_based": 4,
+      "reported_freeze_frame_request_seconds": 0.05,
+      "source_log_block_lines_1_based": [
+        [
+          954,
+          989
+        ],
+        [
+          992,
+          1027
+        ]
+      ],
+      "delta_level_time_seconds": 0.05059799999997949,
+      "delta_z_source_units": 11.248626999999999,
+      "delta_vz_source_units_per_second": -45.949828999999994,
+      "acceleration_from_delta_velocity_over_delta_level_time": -908.1352820273255,
+      "acceleration_from_velocity_squared_over_height_change": -949.3442989645376,
+      "relative_difference_from_gravity_setting_percent": {
+        "time_based": 4.406812418176263,
+        "height_based": 0.06902116162761654
+      },
+      "conditional_motion_duration_from_velocity_and_gravity_seconds": 0.04836824105263157,
+      "conditional_motion_duration_from_displacement_and_mean_velocity_seconds": 0.04840164843262669,
+      "level_time_minus_conditional_motion_duration_milliseconds": {
+        "velocity_based": 2.2297589473479205,
+        "height_based": 2.196351567352803
+      },
+      "crosses_vz_sign_between_snapshots": false,
+      "conditions_unchanged_at_endpoints": {
+        "xy": true,
+        "default_volume": true,
+        "collision_radius_and_half_height": true
+      }
+    },
+    {
+      "from_sample_index_1_based": 4,
+      "to_sample_index_1_based": 5,
+      "reported_freeze_frame_request_seconds": 0.15,
+      "source_log_block_lines_1_based": [
+        [
+          992,
+          1027
+        ],
+        [
+          1030,
+          1065
+        ]
+      ],
+      "delta_level_time_seconds": 0.15179399999999532,
+      "delta_z_source_units": 20.623747999999978,
+      "delta_vz_source_units_per_second": -141.130982,
+      "acceleration_from_delta_velocity_over_delta_level_time": -929.7533631105599,
+      "acceleration_from_velocity_squared_over_height_change": -950.2460746933156,
+      "relative_difference_from_gravity_setting_percent": {
+        "time_based": 2.131224935730535,
+        "height_based": 0.025902599296375086
+      },
+      "conditional_motion_duration_from_velocity_and_gravity_seconds": 0.14855892842105262,
+      "conditional_motion_duration_from_displacement_and_mean_velocity_seconds": 0.1485204577620054,
+      "level_time_minus_conditional_motion_duration_milliseconds": {
+        "velocity_based": 3.2350715789427054,
+        "height_based": 3.2735422379899237
+      },
+      "crosses_vz_sign_between_snapshots": false,
+      "conditions_unchanged_at_endpoints": {
+        "xy": true,
+        "default_volume": true,
+        "collision_radius_and_half_height": true
+      }
+    },
+    {
+      "from_sample_index_1_based": 5,
+      "to_sample_index_1_based": 6,
+      "reported_freeze_frame_request_seconds": 0.3,
+      "source_log_block_lines_1_based": [
+        [
+          1030,
+          1065
+        ],
+        [
+          1068,
+          1103
+        ]
+      ],
+      "delta_level_time_seconds": 0.3002930000000106,
+      "delta_z_source_units": -21.56823700000001,
+      "delta_vz_source_units_per_second": -281.605865,
+      "acceleration_from_delta_velocity_over_delta_level_time": -937.770327646632,
+      "acceleration_from_velocity_squared_over_height_change": -946.6894928368552,
+      "relative_difference_from_gravity_setting_percent": {
+        "time_based": 1.2873339319334693,
+        "height_based": 0.3484744382257735
+      },
+      "conditional_motion_duration_from_velocity_and_gravity_seconds": 0.2964272263157895,
+      "conditional_motion_duration_from_displacement_and_mean_velocity_seconds": 0.297463811662405,
+      "level_time_minus_conditional_motion_duration_milliseconds": {
+        "velocity_based": 3.8657736842210855,
+        "height_based": 2.8291883376055926
+      },
+      "crosses_vz_sign_between_snapshots": true,
+      "conditions_unchanged_at_endpoints": {
+        "xy": true,
+        "default_volume": true,
+        "collision_radius_and_half_height": true
+      }
+    }
+  ],
+  "calculation_formulas": {
+    "time_acceleration": "(Vz_after - Vz_before) / (LevelTime_after - LevelTime_before)",
+    "height_acceleration": "(Vz_after^2 - Vz_before^2) / (2 * (Z_after - Z_before))",
+    "conditional_velocity_duration": "(Vz_after - Vz_before) / gravity_Z",
+    "conditional_height_duration": "2 * (Z_after - Z_before) / (Vz_before + Vz_after)"
+  },
+  "summary": {
+    "standing_samples": 2,
+    "airborne_samples": 5,
+    "staged_jump_count_reported": 1,
+    "all_rankin_time_brackets_stable": true,
+    "all_pauser_witnesses_non_none": true,
+    "all_sample_xy_fixed": true,
+    "first_and_last_same_location_and_zero_velocity": true,
+    "standing_world_base_witness": {
+      "first": "LevelInfo'DM-Rankin.LevelInfo0'",
+      "last": "LevelInfo'DM-Rankin.LevelInfo0'",
+      "interpretation": "PHYS_Walking and LevelInfo base witness world-geometry grounding, not a mover or a measured floor surface"
+    },
+    "standing_collision_envelope_bottom_z_source_units": -410.149994,
+    "standing_collision_envelope_bottom_status": "Calculated envelope bottom, not a measured floor contact plane",
+    "flak_atrium_bounds_source_xyz": {
+      "min": [
+        768,
+        -2720,
+        -512
+      ],
+      "max": [
+        1920,
+        -1376,
+        1024
+      ]
+    },
+    "all_samples_outside_flak_atrium": true,
+    "maximum_sampled_center_rise_source_units": 58.39718599999998,
+    "maximum_sampled_center_rise_status": "Observed sampled lower bound; apex was not directly captured",
+    "landing_witness_status": "Delayed final walking sample returns to the initial pose; actual landing event/time was not recorded"
+  },
+  "timing_interpretation": {
+    "status": "Inference; cause unproven",
+    "observation": "Height/velocity acceleration estimates remain close to the native -950 gravity setting. Time-based estimates differ more, and their relative differences shrink for the 0.15/0.30 requested advances.",
+    "inference": "Pause/input/tick ordering or equivalent timestamp-versus-physics interval bias is plausible; no native ordering mechanism has been demonstrated.",
+    "paused_bracket_limit": "Stable paused reads do not establish that TimeSeconds and pawn state share identical completed-physics boundaries.",
+    "standing_pair_exclusion": "Standing-to-first-airborne pair includes the jump impulse; delayed airborne-to-walking pair includes landing and unbounded elapsed time. Neither is used as a gravity interval.",
+    "decision_effect": "No scale or D-02 target change is supported by this witness."
+  },
+  "crouch_control_witness": {
+    "sample_index_1_based": 7,
+    "reported_attempt": "Native F10 Toggle bDuck",
+    "observed_is_crouched": false,
+    "observed_wants_to_crouch": false,
+    "observed_collision_half_height_source_units": 44.0,
+    "result": "Attempt did not produce a crouched-state witness",
+    "interpretation": "Failed control witness; does not establish a game crouch failure or crouched collision/camera behavior"
+  },
+  "acceptance": {
+    "five_controlled_trials_per_action_complete": false,
+    "movement_fidelity_accepted": false,
+    "jump_duration_accepted": false,
+    "jump_apex_accepted": false,
+    "crouch_clearance_or_camera_accepted": false,
+    "ue5_counterpart_compared_in_this_record": false,
+    "scale2_room_viability_accepted": false,
+    "p0_gate_passed_by_this_record": false
+  },
+  "remaining_checks": [
+    "Establish controlled input timing, actual frame-rate evidence and physics-clock/snapshot correspondence before trajectory-duration comparisons.",
+    "Obtain an actual native crouched-state witness with the expected changed dimensions and settled camera.",
+    "Measure required movement actions with five successful controlled reference trials and the locked comparison method.",
+    "Perform separate bounded scale-2 UE geometry, intended-envelope clearance and camera checks in the selected atrium."
+  ]
+}

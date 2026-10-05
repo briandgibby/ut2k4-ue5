@@ -1,0 +1,102 @@
+{
+  "RecordedAt": "2026-10-05T02:20:19.473237-04:00",
+  "Status": "PASS: native INI/output/cache isolation and 299 absolute reference-package paths; one unqualified baseline-identical integrity metadata file noted",
+  "ProtectedFilesChecked": 1607,
+  "ChangedOriginalPaths": [],
+  "OriginalConfigurationAfter": [
+    {
+      "Path": "System/UT2004.ini",
+      "SHA256": "10D3E44A89F322315A08E00FA23B2AE30AC5373ED11E31F26246E63A91E65567"
+    },
+    {
+      "Path": "System/User.ini",
+      "SHA256": "2926F1B1A8C3CC8FB3A86E42D66D3ADAE737A90B545DCE21C28D093FEA22AC53"
+    }
+  ],
+  "ProtectedTemplateFilesChecked": 4,
+  "RetainedTransportArtifactsChecked": 3,
+  "ArtifactChecks": [
+    {
+      "Path": "Prototype/Content/FirstPerson/Lvl_FirstPerson.umap",
+      "ExpectedSHA256": "3D476154BF4CAC39A59EC91B88F5ED6889AF113A1ECF9690A01C89D8BC32D258",
+      "ActualSHA256": "3D476154BF4CAC39A59EC91B88F5ED6889AF113A1ECF9690A01C89D8BC32D258",
+      "Match": true
+    },
+    {
+      "Path": "Prototype/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+      "ExpectedSHA256": "32D47177B176A430ADB28897153E9BF5D2A3807BFCA232815AA60AD58B6AE6A3",
+      "ActualSHA256": "32D47177B176A430ADB28897153E9BF5D2A3807BFCA232815AA60AD58B6AE6A3",
+      "Match": true
+    },
+    {
+      "Path": "Prototype/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+      "ExpectedSHA256": "B23709651A847A05A85C9E258D60D98F6A9BAD15BCAD798CD7C0B02C1729696E",
+      "ActualSHA256": "B23709651A847A05A85C9E258D60D98F6A9BAD15BCAD798CD7C0B02C1729696E",
+      "Match": true
+    },
+    {
+      "Path": "Prototype/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+      "ExpectedSHA256": "0AD6C2154837E1AAFBBD6DA30C9F49697C031D8AE2221D481956F08E827EDC14",
+      "ActualSHA256": "0AD6C2154837E1AAFBBD6DA30C9F49697C031D8AE2221D481956F08E827EDC14",
+      "Match": true
+    },
+    {
+      "Path": "Prototype/Content/RankinRecovery/SM_FlakAtrium_Transport.uasset",
+      "ExpectedSHA256": "F2F1EF5A2FAAC1681A13D0F180E963AAA7807BF81BFB5EF13CE11329F79B58A7",
+      "ActualSHA256": "F2F1EF5A2FAAC1681A13D0F180E963AAA7807BF81BFB5EF13CE11329F79B58A7",
+      "Match": true
+    },
+    {
+      "Path": "Prototype/Content/RankinRecovery/L_FlakAtrium_Transport.umap",
+      "ExpectedSHA256": "FDC7D92C3484BC73FE611257BE935FCC9A5E827E9FC8BCE134AAE8AABC4CA274",
+      "ActualSHA256": "FDC7D92C3484BC73FE611257BE935FCC9A5E827E9FC8BCE134AAE8AABC4CA274",
+      "Match": true
+    },
+    {
+      "Path": "Evidence/P1/ue-import/FlakAtrium-UE5-unlit.png",
+      "ExpectedSHA256": "71B03799D51BC33A7EB0AACE86F626824D12FF2F5F146CADB0A51957F91DF94C",
+      "ActualSHA256": "71B03799D51BC33A7EB0AACE86F626824D12FF2F5F146CADB0A51957F91DF94C",
+      "Match": true
+    }
+  ],
+  "RuntimeLogSHA256": "61962B5311A2DE9DD9A469B9D3B2CC13803AD91012130D047C4F1C4DE7BA9DEF",
+  "NormalExit": true,
+  "EffectiveUserIniWitness": "Active keybinding F11 is the isolated unique WriteToLog marker; two marker executions recorded in project log",
+  "UserWitnessLogLines": [
+    366,
+    368
+  ],
+  "EffectiveNativeCacheRecordPath": "Scalar GET and observed project-only UCL updates; original UCL files unchanged on retry",
+  "LoadedPackageCount": 300,
+  "LoadedPackagePathsInsideReferenceGame": "299 absolute paths inside ReferenceGame; Packages.md5 is unqualified and baseline-identical in both locations",
+  "RankinPackageOrigin": [
+    "C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\Maps\\DM-Rankin.ut2"
+  ],
+  "LogRedirection": "Native ABSLOG= absolute path verified",
+  "TemporaryInputKeysRestored": [
+    "F8",
+    "F9",
+    "F10",
+    "F11"
+  ],
+  "FirstLaunchFailure": "GET Core.System Paths was followed by Core.dll 0xc0000409 and unknown-module 0xc0000005; causal diagnosis not proven. LOG=absolute did not create requested log. Two native UCL side effects exactly restored before retry.",
+  "Unresolved": [
+    "Startup LevelSummary/team-symbol discovery warnings",
+    "Paused-sampling time/physics-boundary discrepancy",
+    "Crouch Toggle bDuck probe did not produce accepted crouched state",
+    "No five controlled trials or A/B comparison",
+    "No applied UE scale-2, collision/UV/appearance/traversal acceptance",
+    "Packages.md5 linker filename has no absolute origin; identical protected baseline in both possible locations"
+  ],
+  "Passed": true,
+  "AbsoluteLoadedPackagePathsChecked": 299,
+  "AbsoluteLoadedPackagePathsInsideReferenceGame": true,
+  "UnqualifiedIntegrityMetadata": {
+    "Filename": "Packages.md5",
+    "LogLine": 377,
+    "OriginalSHA256": "26866FDB77D2446384D16D2D2BED064A35A859A0B03217109F077F9B093A00B8",
+    "ReferenceSHA256": "26866FDB77D2446384D16D2D2BED064A35A859A0B03217109F077F9B093A00B8",
+    "BaselineSHA256": "26866FDB77D2446384D16D2D2BED064A35A859A0B03217109F077F9B093A00B8",
+    "Origin": "Unqualified linker filename; absolute loaded origin not established. Both possible copies match the protected source baseline."
+  }
+}

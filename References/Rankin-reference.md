@@ -1,6 +1,6 @@
 # Rankin room source reference
 
-Measured on 2026-10-04 from the installed UT2004 build 3369 map and the protected-copy UCC exports. This records a proposed room for the first geometry pilot. UE5 scale calibration, a rendered comparison, and owner acceptance are still pending.
+Measured on 2026-10-04 from the installed UT2004 build 3369 map and the protected-copy UCC exports; runtime update: 2026-10-05. The owner locked DM-Rankin, the Flak atrium pilot, D-02 comparison targets, and a 2 cm/source-unit design scale. Applied UE5 scale, rendered comparison, collision/traversal, and phase acceptance remain pending.
 
 ## Source evidence
 
@@ -12,11 +12,13 @@ Measured on 2026-10-04 from the installed UT2004 build 3369 map and the protecte
 
 The level export identifies the title as Rankin and the author as Sjoerd De Jong. The project coordinator ran the exports from `ReferenceGame/System` and reported exit code 0, zero warnings, and zero errors. Analysis here reads the exported files; it does not establish a successful UE5 import.
 
-## Proposed pilot: the Flak atrium
+The authorized installed-executable fallback now supplies a [native runtime parameter baseline](../Evidence/P0/runtime-parameter-baseline.json): build 3369, Rankin, `XGame.xDeathMatch`, GameSpeed `1`, TimeDilation `1.1`, zero reported bots, and the active default volume's gravity `(0,0,-950)` and friction values. Live camera FOV is `90`; the inherited xPlayer class default `85` is a separate row. Startup metadata warnings remain open with causes unproven. [Gameplay reference](gameplay-reference.md) separates these observations from unaccepted trajectory and collision behavior.
+
+## Selected pilot: the Flak atrium
 
 Use the tall room containing `xWeaponBase2` (`XWeapons.FlakCannon`) and `ZoneInfo7`. Its enclosing subtractive brush is `Brush42`, referring to `DM-Rankin.Model43` (level export line 1612).
 
-All coordinates below are UT2004 source units. The nominal boundary is rounded to the source grid; exported vertex noise is below 0.001 unit. These dimensions are not yet calibrated to UE5 centimeters.
+All coordinates below are UT2004 source units. The nominal boundary is rounded to the source grid; exported vertex noise is below 0.001 unit. At the locked design scale, the calculated room dimensions are `2304 × 2688 × 3072` cm. This is an arithmetic expectation, not an applied-scale UE5 measurement.
 
 | Measurement | Source value |
 |---|---|
@@ -32,6 +34,8 @@ All coordinates below are UT2004 source units. The nominal boundary is rounded t
 Brush42 has no exported rotation or non-unit scale. Its local vertex ranges are X -256 to 896, Y -672 to 672, Z -256 to 1280. The bounds above follow `world = vertex - PrePivot + Location`. Its four walls reference `DM-Rankin.shaiBricks1b`; the ceiling references `HumanoidArchitecture.Ceilings.cel03HA`; the floor references `HumanoidArchitecture.Floors.flr02HA`. Preserve polygon texture origins and TextureU/TextureV vectors when reconstructing its UVs.
 
 The enclosing box is a selection boundary, not the final playable solid. Additional brushes form openings, ledges, and details. Preserve the source CSG order and inspect geometry intersecting the box. Brush42's actor location lies on the Y boundary and is included by an inclusive origin selection. However, actor locations do not define brush or mesh extents; origin selection alone cannot establish the complete room set. Filtering only `ZoneInfo7` also misses relevant geometry and props.
+
+The [one-jump viability run](../Evidence/P0/runtime-jump-viability.json) began with a floor-resting pawn center at `(4724.301758,448,-366.149994)`, outside this box. It does not test atrium routes or clearance; apparent pause/step sampling bias has an unproven cause. The F10 toggle did not produce a crouched-state witness; crouched dimensions are still source-only. Five controlled movement trials per action remain required by the locked D-02 target.
 
 Adjacent subtractive geometry to inspect includes `Brush52` and `Brush53` at the west lower opening, `Brush63` at the adjoining west corridor, and `Brush113` beyond that opening. `Brush337` and `Brush397` lie within the room boundary. Their inclusion requires checking the final CSG result; do not automatically merge the adjoining rooms into the pilot.
 
@@ -58,7 +62,7 @@ Inclusive actor-origin selection in the box finds 142 actors: 55 brushes, 34 sta
 
 ## First fixed mesh sample
 
-Use `HumanoidHardware.Beams.Brace01HA`, already exported by the installed UCC tool. `StaticMeshActor426` is an actual instance in the proposed room (level export line 33580):
+Use `HumanoidHardware.Beams.Brace01HA`, already exported by the installed UCC tool. `StaticMeshActor426` is an actual instance in the selected room (level export line 33580):
 
 ```text
 Location=(X=1376.000000,Y=-1864.000000,Z=440.000000)
@@ -137,7 +141,7 @@ Whole crossing props extend beyond the room box; their names and bounds are reco
 
 The [fixed UE import script](../Tools/import_rankin_room_ue.py) uses UE5 5.8.3's built-in Editor Python plugin and legacy `FbxFactory`. It combines the verified 46-node FBX into `/Game/RankinRecovery/SM_FlakAtrium_Transport`. The separate `/Game/RankinRecovery/L_FlakAtrium_Transport` level contains one mesh actor at the origin, zero rotation, scale 1, with collision disabled. Native template assets are preserved.
 
-The [import report](../Evidence/P1/ue-import/validation.json) records exact outer bounds under `UE XYZ = (source X, -source Y, source Z)`: min `(445.5229187,1375.4136963,-552)`, max `(1962.4521484,2776.0627441,1024)`. Dimension ratios are `(1,1,1)` with scene-unit conversion disabled. Bounds are consistent with the Y reflection; individual landmark/vertex mapping and physical scale remain uncalibrated.
+The [import report](../Evidence/P1/ue-import/validation.json) records exact outer bounds under `UE XYZ = (source X, -source Y, source Z)`: min `(445.5229187,1375.4136963,-552)`, max `(1962.4521484,2776.0627441,1024)`. Dimension ratios are `(1,1,1)` with scene-unit conversion disabled. Bounds are consistent with the Y reflection; individual representative surface samples are checked below. Applying and verifying the locked scale 2 remains pending.
 
 UE reports 20,703 render vertices, 9,392 triangles, one UV channel, and 66 material slots. All slots use `WorldGridMaterial`. Source triangulation has 9,400 candidates; the difference of eight is consistent with the known zero-area triangles, but the omitted triangles have not been individually traced. Per-corner UE UV values, original normals and materials, collision, and traversal remain unverified. The commandlet exited 0 with two near-zero tangent/binormal warnings.
 
@@ -157,4 +161,4 @@ The [native readback](../Evidence/P0/ue-landmark-samples.json) checks four nonco
 
 The four BSP source points are `(1472,-2048,-512)`, `(1472,-1536,-512)`, `(1056,-2336,-512)`, and `(1344,-2208,1024)`. Their measured UE points match `(X,-Y,Z)` exactly. Across all fourteen samples, maximum Euclidean position error is `0.0000004955` numeric UE units. The ten source mesh samples also survive the crop. The original mesh and level hashes remain unchanged.
 
-This extends outer-bounds evidence to individual representative surface points. Actor origins/pivots are not sampled: the combined mesh has no per-source-actor identity. It does not prove every vertex, render-buffer UV/normal fidelity, collision, camera matching, or full-map landmark coverage. Physical scale remains open; 1:1 numerical transport cannot establish an absolute centimeters/source-unit correspondence. A proposed 176 cm standing cylinder would imply `s=176/88=2 cm/source unit`, but that is an owner design choice, not a measured original physical height. No rescale has been applied.
+This extends outer-bounds evidence to individual representative surface points. Actor origins/pivots are not sampled: the combined mesh has no per-source-actor identity. It does not prove every vertex, render-buffer UV/normal fidelity, collision, camera matching, or full-map landmark coverage. The owner selected the 176 cm standing-cylinder correspondence, `s=176/88=2 cm/source unit`, and locked D-02 on 2026-10-05. This is a design choice, not a measured historical physical height. Preserve the scale-1 transport proof; no scale-2 rescale or collision proof has been applied. At scale 2, the calculated standing cylinder radius/half-height are `50/88` cm and source crouched values are `50/58` cm; the UE capsule's different end shape still requires route/clearance checks.

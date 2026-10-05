@@ -1,0 +1,14 @@
+{
+  "RecordedAt": "2026-10-05T01:55:12.902487-04:00",
+  "ProtectedFilesChecked": 1607,
+  "ChangedPaths": [],
+  "Passed": true,
+  "PrivateUserWitness": {
+    "Key": "F11",
+    "Command": "WriteToLog P0_ISOLATED_USERINI_PROBE",
+    "OriginalBinding": "MusicMenu",
+    "BeforeSHA256": "2926F1B1A8C3CC8FB3A86E42D66D3ADAE737A90B545DCE21C28D093FEA22AC53",
+    "ProbeSHA256": "7E8A8C10DC2D0204441E3BBE1EC65E072C1D8724EBAE611458FA739FB030BE63"
+  },
+  "RetryChange": "Native ABSLOG=; absolute Core.System CacheRecordPath; avoid dynamic Paths array GET"
+}

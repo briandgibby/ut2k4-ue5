@@ -1,0 +1,20 @@
+{
+  "RecordedAt": "2026-10-05T01:45:52.0192688-04:00",
+  "OwnerAuthorization": "2026-10-05: isolated direct installed-executable runtime boundary; test decision parameters before A/B",
+  "OriginalRoot": "F:\\Program Files\\steamapps\\common\\Unreal Tournament 2004",
+  "ProtectedFilesChecked": 1607,
+  "ChangedPaths": [],
+  "ConfigurationBefore": [
+    {
+      "Path": "System/UT2004.ini",
+      "Bytes": 27336,
+      "SHA256": "10D3E44A89F322315A08E00FA23B2AE30AC5373ED11E31F26246E63A91E65567"
+    },
+    {
+      "Path": "System/User.ini",
+      "Bytes": 47382,
+      "SHA256": "2926F1B1A8C3CC8FB3A86E42D66D3ADAE737A90B545DCE21C28D093FEA22AC53"
+    }
+  ],
+  "Passed": true
+}

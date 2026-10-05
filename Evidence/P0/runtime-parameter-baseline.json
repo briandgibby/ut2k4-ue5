@@ -1,0 +1,457 @@
+{
+  "status": "runtime_parameter_readback_only",
+  "provenance": {
+    "log": "Evidence/P0/reference-runtime.log",
+    "command_file": "Evidence/P0/reference-parameter-probe.txt",
+    "selection": "Last complete P0_EXEC_PARAMETER_PROBE_BEGIN/END block at read time",
+    "begin_line": 766,
+    "end_line": 875,
+    "begin_marker": "P0_EXEC_PARAMETER_PROBE_BEGIN",
+    "end_marker": "P0_EXEC_PARAMETER_PROBE_END",
+    "complete_parameter_blocks_at_read": 2,
+    "log_status": "Normal exit; final log closed",
+    "sha256": "61962B5311A2DE9DD9A469B9D3B2CC13803AD91012130D047C4F1C4DE7BA9DEF",
+    "hash_status": "Final runtime log hash recorded after normal exit",
+    "source_archive": "References/Downloads/ut2004scripts3369.zip"
+  },
+  "path_scalar_queries": {
+    "CacheRecordPath": {
+      "value": [
+        "C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\System\\*.ucl"
+      ],
+      "log_line": 767
+    },
+    "SavePath": {
+      "value": "C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\Save",
+      "log_line": 768
+    },
+    "CachePath": {
+      "value": "C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\Cache",
+      "log_line": 769
+    },
+    "MusicPath": {
+      "value": [
+        "C:\\Users\\brian\\git-projects\\ut2k4-ue5\\ReferenceGame\\Music"
+      ],
+      "log_line": 770
+    },
+    "scope": "These property readbacks point inside ReferenceGame. This block does not independently prove every loaded package path or original-file preservation."
+  },
+  "active_rankin": {
+    "level": {
+      "object": "DM-Rankin.LevelInfo0",
+      "EngineVersion": {
+        "value": "3369",
+        "log_line": 773
+      },
+      "Title": {
+        "value": "Rankin",
+        "log_line": 776
+      },
+      "Game": {
+        "value": "xDeathMatch'DM-Rankin.xDeathMatch'",
+        "log_line": 779
+      },
+      "TimeDilation": {
+        "value": 1.1,
+        "log_line": 789
+      }
+    },
+    "game": {
+      "object": "DM-Rankin.xDeathMatch",
+      "GameSpeed": {
+        "value": 1.0,
+        "log_line": 786
+      },
+      "GameDifficulty": {
+        "value": 4.0,
+        "log_line": 796
+      },
+      "NumBots": {
+        "value": 0,
+        "log_line": 803
+      },
+      "BaseMutator": {
+        "value": "DMMutator'DM-Rankin.DMMutator'",
+        "log_line": 810
+      },
+      "GameRulesModifiers": {
+        "value": "None",
+        "log_line": 821
+      },
+      "mutator_chain": [
+        {
+          "object": "DM-Rankin.DMMutator",
+          "class": "UnrealGame.DMMutator",
+          "NextMutator": {
+            "value": "None",
+            "log_line": 814
+          }
+        }
+      ],
+      "mutator_scope": "One reported native DMMutator; its NextMutator is None. No additional chained mutator or GameRules modifier is reported."
+    },
+    "pawn": {
+      "object": "DM-Rankin.xPawn",
+      "CollisionRadius": {
+        "value": 25.0,
+        "log_line": 823
+      },
+      "CollisionHeight": {
+        "value": 44.0,
+        "log_line": 825,
+        "meaning": "Cylinder half-height"
+      },
+      "BaseEyeHeight": {
+        "value": 38.0,
+        "log_line": 827
+      },
+      "EyeHeight": {
+        "value": 37.999939,
+        "log_line": 829
+      },
+      "GroundSpeed": {
+        "value": 440.0,
+        "log_line": 831
+      },
+      "JumpZ": {
+        "value": 340.0,
+        "log_line": 833
+      },
+      "AccelRate": {
+        "value": 2048.0,
+        "log_line": 835
+      },
+      "AirControl": {
+        "value": 0.35,
+        "log_line": 837
+      },
+      "PhysicsVolume": {
+        "value": "DefaultPhysicsVolume'DM-Rankin.DefaultPhysicsVolume0'",
+        "log_line": 839
+      },
+      "dimension_scope": "The readback matches the source standing cylinder dimensions. Crouch state was not queried in this parameter block."
+    },
+    "active_physics_volume": {
+      "object": "DM-Rankin.DefaultPhysicsVolume0",
+      "Gravity": {
+        "value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": -950.0
+        },
+        "log_line": 844
+      },
+      "GroundFriction": {
+        "value": 8.0,
+        "log_line": 849
+      },
+      "FluidFriction": {
+        "value": 0.3,
+        "log_line": 854
+      },
+      "TerminalVelocity": {
+        "value": 2500.0,
+        "log_line": 859
+      },
+      "scope": "Observed active-volume properties, not a measured falling acceleration, stopping curve, or terminal-speed trial."
+    },
+    "player": {
+      "object": "DM-Rankin.xPlayer",
+      "FovAngle": {
+        "value": 90.0,
+        "log_line": 865
+      },
+      "DesiredFOV": {
+        "value": 90.0,
+        "log_line": 871
+      },
+      "input_object": "DM-Rankin.xPlayer.PlayerInput0",
+      "DoubleClickTime": {
+        "value": 0.25,
+        "log_line": 874
+      }
+    }
+  },
+  "queried_class_defaults": {
+    "note": "GETALL also emits Class rows. These are separate from the live DM-Rankin object rows above; config loading or runtime updates may affect them.",
+    "Engine.LevelInfo": {
+      "EngineVersion": {
+        "value": "",
+        "log_line": 771
+      },
+      "Title": {
+        "value": "Untitled",
+        "log_line": 774
+      },
+      "Game": {
+        "value": "None",
+        "log_line": 777
+      },
+      "TimeDilation": {
+        "value": 1.1,
+        "log_line": 787
+      }
+    },
+    "XGame.xDeathMatch": {
+      "GameSpeed": {
+        "value": 1.0,
+        "log_line": 785
+      },
+      "GameDifficulty": {
+        "value": 4.0,
+        "log_line": 795
+      },
+      "NumBots": {
+        "value": 0,
+        "log_line": 802
+      },
+      "BaseMutator": {
+        "value": "None",
+        "log_line": 809
+      },
+      "GameRulesModifiers": {
+        "value": "None",
+        "log_line": 820
+      }
+    },
+    "UnrealGame.DMMutator": {
+      "NextMutator": {
+        "value": "None",
+        "log_line": 813
+      }
+    },
+    "XGame.xPawn": {
+      "CollisionRadius": {
+        "value": 25.0,
+        "log_line": 822
+      },
+      "CollisionHeight": {
+        "value": 44.0,
+        "log_line": 824
+      },
+      "BaseEyeHeight": {
+        "value": 38.0,
+        "log_line": 826
+      },
+      "EyeHeight": {
+        "value": 38.0,
+        "log_line": 828
+      },
+      "GroundSpeed": {
+        "value": 440.0,
+        "log_line": 830
+      },
+      "JumpZ": {
+        "value": 340.0,
+        "log_line": 832
+      },
+      "AccelRate": {
+        "value": 2048.0,
+        "log_line": 834
+      },
+      "AirControl": {
+        "value": 0.35,
+        "log_line": 836
+      },
+      "PhysicsVolume": {
+        "value": "None",
+        "log_line": 838
+      }
+    },
+    "Engine.DefaultPhysicsVolume": {
+      "Gravity": {
+        "value": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": -950.0
+        },
+        "log_line": 842
+      },
+      "GroundFriction": {
+        "value": 8.0,
+        "log_line": 847
+      },
+      "FluidFriction": {
+        "value": 0.3,
+        "log_line": 852
+      },
+      "TerminalVelocity": {
+        "value": 2500.0,
+        "log_line": 857
+      }
+    },
+    "Engine.PlayerController": {
+      "FovAngle": {
+        "value": 90.0,
+        "log_line": 860
+      },
+      "DesiredFOV": {
+        "value": 90.0,
+        "log_line": 866
+      }
+    },
+    "XGame.xPlayer": {
+      "FovAngle": {
+        "value": 85.0,
+        "log_line": 864
+      },
+      "DesiredFOV": {
+        "value": 90.0,
+        "log_line": 870
+      }
+    },
+    "Engine.PlayerInput": {
+      "DoubleClickTime": {
+        "value": 0.25,
+        "log_line": 872
+      }
+    }
+  },
+  "source_comparison": {
+    "pawn_static_parameters": {
+      "result": "Exact matches for CollisionRadius, CollisionHeight, BaseEyeHeight, GroundSpeed, JumpZ, AccelRate, and AirControl",
+      "source": "XGame/Classes/xPawn.uc",
+      "source_lines": {
+        "AirControl": 2447,
+        "BaseEyeHeight": 2455,
+        "CollisionRadius": 2457,
+        "CollisionHeight": 2458,
+        "GroundSpeed": 2459,
+        "AccelRate": 2464,
+        "JumpZ": 2465
+      }
+    },
+    "EyeHeight": {
+      "source_default": 38.0,
+      "observed": 37.999939,
+      "difference": -6.1e-05,
+      "exact_match": false,
+      "source": "XGame/Classes/xPawn.uc:2456",
+      "interpretation": "Current EyeHeight is a dynamic camera state; retain the observed value rather than replacing it with the default."
+    },
+    "physics_volume_parameters": {
+      "result": "Exact matches for Gravity, GroundFriction, FluidFriction, and TerminalVelocity",
+      "source": "Engine/Classes/PhysicsVolume.uc",
+      "source_lines": {
+        "Gravity": 307,
+        "FluidFriction": 308,
+        "TerminalVelocity": 309,
+        "GroundFriction": 312
+      },
+      "inheritance": "Engine/Classes/DefaultPhysicsVolume.uc:5 extends PhysicsVolume without these overrides"
+    },
+    "GameSpeed": {
+      "source_default": 1.0,
+      "observed": 1.0,
+      "exact_match": true,
+      "source": "Engine/Classes/GameInfo.uc:2647"
+    },
+    "GameDifficulty": {
+      "source_default": 1.0,
+      "observed": 4.0,
+      "exact_match": false,
+      "source": "Engine/Classes/GameInfo.uc:2640",
+      "interpretation": "Matches the requested Difficulty=4 test setting rather than the raw GameInfo source default."
+    },
+    "mutator": {
+      "result": "Reported native DMMutator matches the DeathMatch MutatorClass default",
+      "source": "UnrealGame/Classes/DeathMatch.uc:1849"
+    },
+    "FOV": {
+      "live": 90.0,
+      "inherited_xPlayer_class_default": 85.0,
+      "matches_comparison_baseline": true,
+      "sources": [
+        "UnrealGame/Classes/UnrealPlayer.uc:811",
+        "XGame/Classes/xPlayer.uc:1",
+        "Engine/Classes/PlayerController.uc:148-149",
+        "docs/PRS-UT2004-UE5.md:132",
+        "docs/PRS-UT2004-UE5.md:268"
+      ],
+      "interpretation": "The class default 85 is not the live camera value. DesiredFOV and DefaultFOV are user globalconfig properties; FovAngle is not a config property (Engine/Classes/Controller.uc:27). No additional FOV normalization is required for this snapshot."
+    },
+    "DoubleClickTime": {
+      "source_default": 0.25,
+      "observed": 0.25,
+      "exact_match": true,
+      "source": "Engine/Classes/PlayerInput.uc:352"
+    }
+  },
+  "game_time": {
+    "GameSpeed": 1.0,
+    "TimeDilation": 1.1,
+    "result": "Normal requested GameSpeed=1 has native TimeDilation=1.1",
+    "source": "Engine/Classes/GameInfo.uc:585-599; Engine/Classes/LevelInfo.uc:500",
+    "trial_time_basis": "Use differences in native LevelInfo.TimeSeconds for controlled trajectories",
+    "wall_time_status": "No measured game-time versus wall-time rate in this block. Pause intervals, native timestep limits, and frame conditions must be handled separately; do not equate a game-second with a wall-second."
+  },
+  "startup_anomalies": {
+    "missing_LevelSummary": {
+      "count": 102,
+      "first_log_line": 43,
+      "last_log_line": 350,
+      "classification": "Startup package metadata discovery warnings; failed object is LevelSummary",
+      "missing_StaticMesh_object_warning_count_in_snapshot": 0,
+      "cause": "Unproven; these warnings do not establish missing Rankin mesh geometry"
+    },
+    "TeamSymbols": {
+      "array_bounds_error_count": 4,
+      "array_bounds_error_log_lines": [
+        28,
+        31,
+        35,
+        38
+      ],
+      "warning_count": 2,
+      "warning_log_lines": [
+        34,
+        41
+      ],
+      "classification": "Startup team-symbol metadata discovery returned an empty list",
+      "sources": [
+        "UnrealGame/Classes/UnrealMPGameInfo.uc:288-308",
+        "Engine/Classes/CacheManager.uc:125-126"
+      ],
+      "source_note": "GetTeamSymbolList uses .int discovery and is explicitly not hooked to the cache",
+      "cause": "Unproven; do not attribute this to UCL cache records without further evidence"
+    }
+  },
+  "owner_design_decisions": {
+    "status": "Owner-selected design decisions; no empirical gameplay or geometry acceptance",
+    "D02_locked_date": "2026-10-05",
+    "centimeters_per_source_unit": 2.0,
+    "standing_full_height_cm": 176.0,
+    "standing_radius_cm": 50.0,
+    "standing_half_height_cm": 88.0,
+    "standing_BaseEyeHeight_offset_cm": 76.0,
+    "crouched_radius_cm": 50.0,
+    "crouched_half_height_cm": 58.0,
+    "crouched_dimension_basis": "Source defaults xPawn.uc:2466-2467; not a crouched runtime measurement",
+    "sampled_position_and_dimension_tolerance_source_units": 2.0,
+    "calculated_geometry_tolerance_cm": 4.0,
+    "successful_movement_trials_per_action": 5,
+    "movement_maximum_error_percent": 5.0,
+    "warmed_packaged_performance_runs": 3,
+    "performance_native_resolution": [
+      1920,
+      1080
+    ],
+    "performance_P95_frame_time_limit_ms": 16.67,
+    "sources": [
+      "docs/PRS-UT2004-UE5.md:217-225",
+      "docs/PRS-UT2004-UE5.md:231-233",
+      "docs/PHASE-PLAN-UT2004-UE5.md:47"
+    ],
+    "calculation_scope": "Centimeter values are arithmetic at the owner-selected scale, not measured historical SI dimensions or applied UE5 scale results."
+  },
+  "missing_probes_and_limits": [
+    "Live DefaultFOV was not queried in this block; live FovAngle and DesiredFOV were queried.",
+    "CrouchHeight, CrouchRadius, bIsCrouched, and bWantsToCrouch were not queried in this parameter block.",
+    "TimeSeconds, Pauser, Location, Velocity, Physics, Base, and camera transform are outside this parameter block; separate state samples must be evaluated independently.",
+    "No controlled native acceleration, jump/apex/duration, dodge, double-jump, stopping, terminal-speed, or weapon trial is accepted by these parameter readbacks.",
+    "Step/floor thresholds and collision clearance remain source-derived or untested; this parameter block does not measure them.",
+    "Loaded-package path provenance, final log hash, and original protected-file preservation require separate evidence after process exit.",
+    "Source-value agreement establishes parameter agreement for this snapshot, not complete gameplay equivalence or phase acceptance."
+  ]
+}

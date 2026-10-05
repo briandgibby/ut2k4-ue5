@@ -77,13 +77,12 @@ These options are not requirements for the Rankin Combat Prototype.
 
 ## 6. Success metrics
 
-All numeric targets below are **proposals**, not measurements or approved commitments. P0 locks them before implementation comparisons begin.
-The owner may revise them using baseline evidence. A revision updates all three planning documents.
+The owner locked D-02 on 2026-10-05: build 3369, DM-Rankin, the Flak atrium, a 176 cm standing collision-cylinder design reference at **2 cm/source unit**, sampled geometry error **<=2 source units (4 cm)**, five movement trials per action within **5%**, and three warmed native-1080p packaged runs each with **P95 <=16.67 ms**. These are acceptance targets, not passing measurements. Test the baseline parameters before any A/B comparison; revise a target only when measured anomalies justify reconsideration. A revision updates all three planning documents.
 
-| Metric | Proposed target | Baseline and evidence |
+| Metric | Target | Baseline and evidence |
 |---|---|---|
 | Delivered asset traceability | 100% of asset dependencies have manifest records | Rankin's Level T3D export exists. Check the actual UE5 delivery dependency list when a build exists. |
-| Spatial fidelity | At least 10 landmarks and every required traversal route pass PRS §7.1 | Original coordinates and calibrated scale are not measured yet. |
+| Spatial fidelity | At least 10 landmarks and every required traversal route pass PRS §7.1, with sampled position/dimension error <=2 source units | Four BSP points and ten mesh-group corners match the retained numeric scale-1 transport. The approved scale-2 physical design has not yet been applied or accepted in UE. |
 | Movement fidelity | Each required action passes five controlled trials within 5% of reference distance, height, and duration | Source defaults exist. Observable trajectories remain unmeasured. |
 | Weapon contract | Every C-05 trial passes the source-backed contract and recorded ammo accounting | Weapon scripts exist. In-game reference trials remain unrecorded. |
 | Practice reset | 10 consecutive resets restore the documented starting state | No prototype exists yet. |
@@ -132,15 +131,15 @@ The owner records each result here and mirrors its technical effect in the PRS a
 | ID | Decision | Current proposal | Due / disposition |
 |---|---|---|---|
 | D-01 | First product scope | Rankin Combat Prototype after the one-room Visual Proof | Initial execution authorized by the owner on 2026-10-04. Later phase acceptance remains evidence-based. |
-| D-02 | Reference version, map, and targets | Build 3369, DM-Rankin, Flak atrium pilot, and the proposed metrics in §6 | Pending owner target/physical-scale decision in P0; runtime baseline blocked by copied-game launch error. No proposed value is accepted yet. |
+| D-02 | Reference version, map, and targets | Build 3369, DM-Rankin, Flak atrium, 2 cm/source unit; geometry <=2 source units; five movement trials <=5%; three warmed native-1080p/P95<=16.67 ms runs | Locked by the owner on 2026-10-05, subject to measured anomalies. Decisions are resolved; P0/P1 empirical gates remain open. |
 | D-03 | UE5 version and gameplay implementation | UE5 5.8.3, native framework, no third-party gameplay framework | Installed version verified; native Blueprint First Person template passed a qualitative Play in Editor smoke. Select UT gameplay Blueprint/C++ boundaries before P3. |
 | D-04 | Visual direction | Preserve UT2004's colors, silhouettes, and layout while rebuilding light and surface response | Review the room in P2 before full-map art work. |
 | D-05 | Evaluation and distribution audience | Local owner evaluation | Resolve external distribution conditions before any external package release. |
 | D-06 | Expansion scope | No later features selected | Decide after P5 using measured conversion, gameplay, and performance results. |
 
-Post-push D-02 review package (2026-10-04, **not accepted**): select a 176 cm standing collision-cylinder height for the original 88-unit height (`2 cm/source unit`), and use fixed `<=2 source units` for sampled landmark positions and reference dimensions. Retain the five-trial/5% movement and native-1080p/P95<=16.67 ms packaged performance proposals. The current atrium percentage position allowance is 23.436587 units (46.873174 cm at scale 2); fixed 2 units is 4 cm. Owner selection updates §6, PRS §7 and the Phase Plan before dependent comparison acceptance.
+The 2026-10-04 review package was accepted on 2026-10-05. Fixed 2-unit geometry tolerance replaces the percentage allowance of 23.436587 units for this atrium. At the selected scale this reduces the position allowance from 46.873174 cm to 4 cm. The standing reference is a design correspondence, not a historical SI measurement. No current evidence favors 1 cm/unit; uniform scale preserves source geometry/body/movement ratios, while the UE capsule and UT cylinder still need separate clearance checks.
 
-The runtime-boundary recommendation is the prepared installed-executable launch with isolated ReferenceGame content and project-only runtime INIs/outputs. The owner must approve that changed boundary; effective overrides and original preservation must then be verified. Commit/push permission did not accept this launch or the scale/target package. [Decision preparation](../Evidence/P0/status.md).
+The owner also authorized direct installed-executable launch with isolated project runtime state. The corrected native `ABSLOG` and `Core.System.CacheRecordPath` route loaded Rankin and verified reference content/configuration paths. The first probe failed after a dynamic Paths-array query and altered two native UCL cache files; both were restored exactly before the corrected retry. Final verification matches all 1,607 protected originals, four template assets and three transport artifacts. Default pawn/volume readbacks and one jump viability probe are recorded; paused sampling has a timing discrepancy, startup metadata warnings remain unresolved, and no controlled five-trial or A/B acceptance follows. [Current P0 evidence](../Evidence/P0/status.md).
 
 There is no calendar commitment or staffing estimate. P1–P3 measurements support the first credible estimate for the remaining map work.
 

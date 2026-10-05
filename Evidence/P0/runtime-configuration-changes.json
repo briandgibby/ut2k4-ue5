@@ -1,0 +1,56 @@
+{
+  "RecordedAt": "2026-10-05T02:20:10.226258-04:00",
+  "Boundary": "Runtime INIs remain private under ignored ReferenceGame; values omitted from this record",
+  "UserINI": {
+    "BeforeSHA256": "2926F1B1A8C3CC8FB3A86E42D66D3ADAE737A90B545DCE21C28D093FEA22AC53",
+    "NativeAfterSHA256": "EDE76500F352373BA4A8FF41B0373B12D12E51A3B7A01F50360D0E968ED831B9",
+    "BindingRestoredSHA256": "2926F1B1A8C3CC8FB3A86E42D66D3ADAE737A90B545DCE21C28D093FEA22AC53",
+    "TemporaryKeysRestored": [
+      "F8",
+      "F9",
+      "F10",
+      "F11"
+    ],
+    "ChangedSettingNamesBeforeRestoration": [
+      {
+        "Section": "[Engine.Input]",
+        "Key": "F10",
+        "BeforeValueCount": 1,
+        "AfterValueCount": 1
+      },
+      {
+        "Section": "[Engine.Input]",
+        "Key": "F11",
+        "BeforeValueCount": 1,
+        "AfterValueCount": 1
+      },
+      {
+        "Section": "[Engine.Input]",
+        "Key": "F8",
+        "BeforeValueCount": 1,
+        "AfterValueCount": 1
+      },
+      {
+        "Section": "[Engine.Input]",
+        "Key": "F9",
+        "BeforeValueCount": 1,
+        "AfterValueCount": 1
+      }
+    ],
+    "RemainingNativeChanges": []
+  },
+  "RuntimeINI": {
+    "PreparedBeforeRetrySHA256": "2F97077AA6FAA000C7D341E2579881E7E2BBB13267DCC7D29F36059521690F03",
+    "AfterSHA256": "7921869BC5A53DACA62D45C5954D3B2C57D65835193E4675240F88A9BE6231E7",
+    "ChangedSettingNames": [
+      {
+        "Section": "[Core.System]",
+        "Key": "CacheRecordPath",
+        "BeforeValueCount": 1,
+        "AfterValueCount": 1
+      }
+    ]
+  },
+  "OriginalRuntimeMetadata": "First launch UCL side effects and exact restoration recorded separately in runtime-native-cache-restoration.json; retry CacheRecordPath redirects UCL files to ReferenceGame",
+  "TransientOriginalRunningIniPresent": false
+}
